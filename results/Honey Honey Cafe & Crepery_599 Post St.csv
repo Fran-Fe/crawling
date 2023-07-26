@@ -1,1024 +1,3474 @@
 keyword,weight
-food,135.9742
-breakfast,121.2861
-delicious,50.6653
-good,32.5869
-menu,31.5626
-great,29.3979
-coffee,25.7101
-tasty,23.9701
-pancakes,20.7187
-fast,18.1486
-potatoes,16.4737
-juice,14.8522
-friendly,13.6055
-cafe,13.506499999999999
-savory,13.2224
-nice,12.8542
-busy,12.5253
-restaurant,12.154
-worth,12.0181
-service,11.6342
-eggs,11.5093
-amazing,10.6803
-crab,10.639899999999999
-sandwich,10.1869
-morning,10.1119
-brunch,9.4941
-salmon,9.468399999999999
-long,8.8505
-lunch,8.7933
-crepes,8.5215
-nutella,7.8033
-excellent,7.6951
-chicken,7.5626
-early,7.4399
-cake,7.3998
-eat,7.2759
-dessert,6.9461
-strawberry,6.7341999999999995
-banana,6.6345
-loved,6.46
-love,6.3948
-chocolate,6.1998
-strawberries,5.9968
-meal,5.9796
-cooked,5.9302
-quick,5.9247
-huge,5.9062
-waffle,5.6664
-place,5.4891
-fresh,5.3504000000000005
-sandwiches,5.2989
-pretty,5.2775
-tea,5.1828
-orange,4.9582
-salad,4.7761
-bacon,4.7344
-cashier,4.4139
-enjoyed,4.3445
-taste,4.3069
-vegetarian,4.2004
-reasonable,4.1895
-fantastic,4.1231
-cheese,4.0893
-quickly,4.0755
-cream,3.9229
-efficient,3.9158999999999997
-cozy,3.8822
-staff,3.8771
-wonderful,3.8387
-favorite,3.7721999999999998
-popular,3.6887
-flavor,3.5632
-crepe,3.5624
-table,3.5148
-francisco,3.4111000000000002
-diner,3.41
-meals,3.3628
-dishes,3.3327
-crowded,3.3256
-toast,3.3247999999999998
-cakes,3.3005999999999998
-breakfasts,3.2428
-helpful,3.2084
-dinner,3.2067
-benedict,3.1677999999999997
-sweet,3.1491
-sunday,3.1409000000000002
-honey,3.0442
-happy,2.9558999999999997
-waffles,2.9363
-miami,2.8619
-big,2.8615
-waiting,2.8188
-glad,2.8137999999999996
-lovely,2.8117
-awesome,2.8018
-recommend,2.7817
-decent,2.7713
-weekend,2.7403
-tables,2.7296
-hungry,2.6475999999999997
-omelette,2.6252
-yummy,2.5905
-loud,2.5844
-packed,2.5501
-clean,2.5455
-burger,2.4853
-pricey,2.4626
-burgers,2.3818
-mediocre,2.3637
-weekends,2.3563
-eating,2.3383000000000003
-warm,2.3129999999999997
-variety,2.2693
-slow,2.2435
-line,2.23
-lemon,2.2145
-fries,2.205
-fun,2.164
-cold,2.1512
-better,2.1294
-fruit,2.1141
-thanks,2.1035
-french,2.0855
-prices,2.0765000000000002
-avocado,2.053
-sf,2.0199
-definitely,2.017
-burrito,1.9969000000000001
-open,1.9707
-disappointed,1.9635
-dirty,1.9549
-highly,1.9379
-eggplant,1.9369
-atmosphere,1.927
-high,1.9228
-disgusting,1.8891
-expensive,1.8826
-wait,1.8701999999999999
-relaxed,1.8483
-steak,1.8377999999999999
-hotel,1.782
-hot,1.7666
-tasted,1.7592
-spot,1.7519
-hour,1.7399
-saturday,1.7165
-waiter,1.7164
-rancheros,1.7156
-salads,1.7064
-small,1.7055
-croissant,1.6711
-overpriced,1.6575
-door,1.6522999999999999
-freshly,1.6474
-perfect,1.6301999999999999
-flavorful,1.6217000000000001
-super,1.6194
-people,1.6153
-hope,1.6039999999999999
-mornings,1.5963
-minutes,1.5859
-kitchen,1.5768
-bad,1.5316
-priced,1.5109
-easy,1.509
-seated,1.5045
-options,1.5045
-party,1.4672
-tourists,1.4625
-soup,1.4584
-trash,1.4391
-butter,1.4373
-ordering,1.4351
-pancake,1.4003999999999999
-menus,1.3816
-ingredients,1.3713
-dry,1.3585
-best,1.3519
-mimosa,1.3321
-affordable,1.33
-customer,1.3041
-beans,1.2951
-large,1.2845
-san,1.2767
-hotels,1.2764
-tasteless,1.2635
-terrible,1.2605
-price,1.2561
-average,1.2447
-vanilla,1.2438
-homey,1.2419
-rude,1.2356
-tourist,1.2201
-come,1.2173
-messy,1.2141
-cinnamon,1.2064
-apple,1.201
-inexpensive,1.1913
-fabulous,1.1843
-eatery,1.1842000000000001
-mimosas,1.1808
-bananas,1.1562000000000001
-organized,1.1514
-cappuccino,1.1386
-inside,1.1367
-ate,1.1276
-quality,1.1236000000000002
-lots,1.1166
-american,1.1111
-music,1.0956
-wifi,1.0713
-onions,1.0609
-coffees,1.0495
-outstanding,1.0417
-like,1.0369
-prepared,1.0233
-beer,1.013
-polite,1.0128
-hearty,1.0032
-bland,0.9996
-30,0.9984
-latte,0.9983
-sauce,0.9969999999999999
-belgian,0.9957
-overrated,0.9948
-vegan,0.991
-pesto,0.9884
-fair,0.9808
-hard,0.9768
-customers,0.9741
-bit,0.9661
-order,0.966
-counter,0.9654
-served,0.9532
-accommodating,0.9528000000000001
-espresso,0.952
-expect,0.9378
-totally,0.9335
-sized,0.9245
-impressed,0.9211
-enjoy,0.9193
-savoury,0.9177
-feel,0.9134
-birthday,0.8943000000000001
-drinks,0.8909
-cheap,0.8753
-vacation,0.8699
-burnt,0.8685
-foods,0.8607
-oily,0.8492999999999999
-healthy,0.8375
-union,0.8251999999999999
-wife,0.8249
-friday,0.8239
-liked,0.8239
-vibe,0.8222
-soda,0.8191999999999999
-massive,0.8176
-juices,0.8122
-smart,0.8110999999999999
-heat,0.8107
-cook,0.8083
-locals,0.8071
-little,0.8057
-extensive,0.7994
-blunch,0.7959
-syrup,0.7871999999999999
-courteous,0.7779
-mushrooms,0.7775000000000001
-cider,0.7608
-cool,0.7594000000000001
-worst,0.7574
-point,0.755
-ambiance,0.755
-mediterranean,0.7549
-poor,0.7518
-kind,0.7497
-10,0.7418
-plates,0.7404
-ready,0.7385
-star,0.7374
-beautiful,0.7296
-8am,0.7277
-phenomenal,0.7172999999999999
-ambience,0.7167
-different,0.7167
-city,0.7165
-restruants,0.7085
-street,0.708
-sausage,0.7067
-waiters,0.7061999999999999
-buckwheat,0.7059
-appetite,0.7059
-welcome,0.7034
-serving,0.7011000000000001
-ok,0.6961999999999999
-outside,0.6955
-salsa,0.6952
-soups,0.6936
-greasy,0.6934
-crispy,0.6867
-experience,0.6799000000000001
-square,0.6757
-plain,0.664
-omelettes,0.6637
-soon,0.6607
-incredible,0.6597000000000001
-noisy,0.658
-stove,0.6543
-weekday,0.6531
-drink,0.6507000000000001
-flavors,0.6439
-spanish,0.6423000000000001
-milan,0.6379
-buttermilk,0.6354
-conversation,0.6275999999999999
-going,0.6249
-pleasant,0.6201
-tummy,0.6187
-used,0.6176
-tomato,0.6159
-lemony,0.6158
-sunrise,0.6138
-starbucks,0.6102000000000001
-wrong,0.6053999999999999
-cute,0.6021
-ecstatic,0.6012
-desert,0.5999
-arrived,0.5942000000000001
-salt,0.5936
-efficiently,0.5893999999999999
-carrot,0.585
-walnuts,0.583
-afternoon,0.5816
-waitress,0.5811
-dining,0.5798
-abundant,0.5754
-seat,0.5742
-try,0.5737
-plate,0.5733999999999999
-bomb,0.5723
-hospitality,0.5722
-really,0.5699
-everyday,0.5697
-solid,0.5689
-milk,0.567
-free,0.5664
-sloppy,0.5589
-mushroom,0.5539
-wasn,0.5535
-cucumber,0.5533
-garlic,0.5492
-live,0.5468999999999999
-30pm,0.5467
-building,0.5417
-favourite,0.5403
-california,0.5357999999999999
-flavorless,0.5337
-superb,0.5311
-lacking,0.5239
-special,0.5214
-intense,0.5204
-avoid,0.519
-warrants,0.519
-onion,0.5175
-crazy,0.5166
-stuffed,0.514
-crêpe,0.5134
-serve,0.513
-town,0.5123
-forgettable,0.5113
-café,0.5066999999999999
-late,0.5057
-oiled,0.5042
-30am,0.4958
-tough,0.4956
-tasting,0.4955
-restaurants,0.4932
-updated,0.4891
-spoon,0.48750000000000004
-appealing,0.4872
-thanksgiving,0.487
-tuna,0.4862
-teaspoon,0.48429999999999995
-mexican,0.4837
-memorable,0.4832
-cleaning,0.48
-constant,0.4799
-45,0.4762
-don,0.4762
-lot,0.476
-40,0.4732
-everytime,0.4727
-crabcake,0.4726
-comfy,0.4722
-bagel,0.4714
-3pm,0.46940000000000004
-overhyped,0.4686
-wish,0.46830000000000005
-corner,0.4681
-needs,0.4672
-abrupt,0.4649
-waited,0.46399999999999997
-goes,0.4639
-downtown,0.4617
-detracts,0.4571
-tastes,0.45690000000000003
-fishy,0.4568
-meat,0.4552
-tired,0.4547
-vibes,0.4526
-hustle,0.45199999999999996
-week,0.4507
-inconvenience,0.4482
-suzzette,0.4445
-arrive,0.4432
-left,0.44289999999999996
-bread,0.44220000000000004
-wide,0.4416
-day,0.4394
-wonder,0.4389
-makeover,0.4385
-pleased,0.43710000000000004
-staffed,0.4344
-brilliant,0.4339
-ideal,0.4324
-strongly,0.4304
-swift,0.4295
-surprisingly,0.4292
-money,0.42910000000000004
-dietary,0.4267
-tight,0.4266
-professionalism,0.4265
-florentine,0.4261
-yelling,0.4246
-post,0.4242
-confusing,0.424
-favorites,0.4198
-15min,0.4191
-sidewalk,0.4188
-generous,0.4177
-consistently,0.4171
-kiosk,0.4166
-seating,0.4164
-sizeable,0.4153
-pastas,0.4152
-cheapest,0.4151
-days,0.4134
-said,0.4125
-casual,0.4124
-crowd,0.4113
-crepevine,0.4061
-plentiful,0.4055
-bagels,0.4053
-snobbish,0.4052
-pineapple,0.4036
-yogurt,0.4034
-catering,0.4027
-cups,0.4009
-belgium,0.398
-wine,0.3955
-delectable,0.3951
-choices,0.395
-completely,0.3939
-selection,0.3913
-parking,0.3911
-acapulco,0.3904
-fruity,0.3895
-certainly,0.3894
-sizes,0.3893
-flavored,0.3875
-iced,0.3874
-forever,0.385
-work,0.3847
-lipstick,0.3831
-queue,0.3827
-prompt,0.3819
-easily,0.3817
-wednesday,0.3811
-undercooked,0.37929999999999997
-safe,0.3792
-moderate,0.3785
-lines,0.3773
-hype,0.3756
-short,0.3754
-possible,0.374
-scrumptious,0.3733
-teas,0.3728
-establishments,0.3712
-20,0.37
-dulce,0.369
-vegetables,0.3687
-dairy,0.36869999999999997
-restrooms,0.3685
-visitors,0.3672
-comfortable,0.3657
-bite,0.3654
-moving,0.3651
-hazelnut,0.3641
-flavourful,0.3637
-lackluster,0.363
-stumbled,0.3628
-disappointing,0.3617
-effortlessly,0.3604
-holiday,0.35960000000000003
-weren,0.3585
-aren,0.3578
-savories,0.3574
-omelet,0.35729999999999995
-weird,0.3571
-oatmeal,0.3535
-recommended,0.352
-winter,0.3511
-surprised,0.3509
-skills,0.3466
-tirelessly,0.3459
-toasts,0.34550000000000003
-neighborhoods,0.3453
-usually,0.3451
-eclectic,0.34440000000000004
-noon,0.3443
-warmth,0.344
-athens,0.3418
-lack,0.3409
-muffin,0.3407
-crabmeat,0.3399
-fran,0.3399
-boiled,0.3387
-dish,0.3379
-frustrated,0.3373
-hash,0.3372
-pastry,0.337
-gf,0.3357
-alright,0.3341
-online,0.334
-patient,0.331
-bitter,0.3305
-throwaway,0.3299
-dine,0.3285
-expecting,0.3281
-soupy,0.3261
-knowledgeable,0.3259
-basil,0.325
-honeymoon,0.3249
-monday,0.3234
-homemade,0.3226
-knowing,0.3183
-owner,0.3175
-came,0.3171
-plenty,0.3168
-welcoming,0.3155
-stale,0.3155
-unreasonable,0.3153
-specials,0.3146
-bustling,0.3145
-cleanliness,0.3132
-soymilk,0.3132
-worked,0.3101
-funky,0.3097
-1pm,0.3088
-lattes,0.3065
-annoyed,0.3064
-trying,0.3051
-grew,0.3039
-popularity,0.3033
-christmas,0.3016
-hours,0.30110000000000003
-shareable,0.2982
-seafood,0.2981
-helps,0.2968
-grimy,0.2955
-servers,0.295
-sex,0.2949
-browns,0.2946
-baked,0.2943
-random,0.2942
-bustle,0.2938
-usd24,0.2932
-tomorrow,0.2923
-consistent,0.2922
-bathrooms,0.292
-uncomfortable,0.2919
-unpretentious,0.2915
-trip,0.29050000000000004
-granola,0.2905
-light,0.2893
-dinning,0.2878
-proper,0.2874
-leave,0.2854
-hostess,0.2853
-arrogant,0.2814
-ample,0.2811
-25,0.2808
-expected,0.2808
-spaghetti,0.2805
-herbal,0.2803
-space,0.2799
-italian,0.2793
-times,0.2789
-accommodate,0.2783
-absolutely,0.2782
-simple,0.2777
-spicy,0.2775
-shell,0.2769
-zesty,0.2761
-dreamforce,0.2759
-scooter,0.2755
-curbside,0.2753
-standard,0.2716
-touristy,0.2707
-reward,0.27
-seasoning,0.26970000000000005
-unsatisfied,0.2694
-delightful,0.2682
-beverages,0.2681
-nicest,0.2677
-considerate,0.2675
-guest,0.267
-shrimp,0.2659
-11am,0.2655
-bloody,0.2653
-decently,0.2652
-sweeter,0.2651
-local,0.2632
-forward,0.2624
-tbh,0.2609
-spend,0.2608
-guests,0.25980000000000003
-cafè,0.2593
-gluten,0.2588
-lights,0.2579
-vegetarians,0.2576
-lemonade,0.257
-pleasantly,0.2567
-hopelessly,0.2558
-doughy,0.2549
-fridge,0.2547
-loves,0.2541
-start,0.2534
-cubs,0.253
-thank,0.2528
-fruits,0.25179999999999997
-appetizing,0.2516
-creamy,0.25070000000000003
-okay,0.2502
-min,0.2496
-randomly,0.2483
-acceptable,0.2477
-charm,0.2456
-creative,0.2447
-crammed,0.2444
-attentive,0.2441
-chewy,0.2441
-regular,0.24280000000000002
-server,0.2426
-taxes,0.2421
-suzette,0.2421
-pepsi,0.241
-dingy,0.2392
-memphis,0.2378
-improve,0.2375
-help,0.2368
-time,0.2365
-australia,0.235
-location,0.2343
-ruins,0.2338
-sister,0.2325
-smell,0.2317
-spectacular,0.2316
-chef,0.2314
-stodgy,0.2308
-porridge,0.2304
-filling,0.2267
-eden,0.2239
-expectations,0.2236
-nervous,0.2234
-google,0.2227
-ice,0.2225
-inefficient,0.2217
-ketchup,0.22
-recomended,0.2199
-cooks,0.2195
-cheeseburger,0.2194
-oj,0.219
-kindness,0.2182
-pain,0.2165
-talking,0.2163
-killer,0.2155
-pregnancy,0.215
-tenderloin,0.2148
-caramel,0.2147
-fans,0.2143
-egg,0.2143
-alcohol,0.2142
-husband,0.21400000000000002
-deli,0.2134
-sugary,0.2133
-olives,0.212
-dollars,0.211
-beach,0.211
-tray,0.2108
-dreadful,0.2075
-wind,0.2062
-lettuce,0.2057
-impressive,0.2056
-longer,0.205
-buttery,0.2046
-magic,0.204
-value,0.2039
-thief,0.2034
-north,0.2033
-punched,0.2024
-chorizo,0.2021
-tuesday,0.2019
-brother,0.2018
-obnoxious,0.2016
-bigger,0.2007
-avoided,0.2003
-pm,0.2
-threw,0.2
-lightning,0.1994
-rewarded,0.1991
-evening,0.1979
-thankful,0.1979
-years,0.19770000000000001
-cigarettes,0.1977
-walked,0.1975
-washed,0.1958
-staying,0.1955
-want,0.1948
-burritos,0.194
-fluffy,0.1936
-10pm,0.1933
-eaten,0.1931
-suffer,0.1928
-unreal,0.1925
-visit,0.1924
-bears,0.1913
-cheaper,0.1911
-store,0.1902
-constantly,0.19
-relaxing,0.1896
-forgot,0.18919999999999998
-sanfran,0.1886
-night,0.1873
-eats,0.1873
-delish,0.1868
-reliable,0.1866
-mobbed,0.1854
-overcooked,0.1853
-desired,0.185
-ll,0.1849
-hate,0.1845
-edible,0.1838
-host,0.1834
-sundays,0.1832
-buns,0.1832
-gorgeous,0.1828
-backwards,0.1827
-mug,0.182
-financial,0.1818
-wished,0.1814
-treasure,0.1805
-potato,0.1804
-smoothly,0.1801
-perfectly,0.1799
-gracious,0.1781
-classic,0.1754
-bucket,0.1754
-cleaned,0.1751
-seasoned,0.1742
-pepper,0.1729
-picky,0.1727
-burned,0.1705
-usc,0.1696
-decor,0.1696
-unlimited,0.1691
-tried,0.1684
-seasonal,0.1676
-presentation,0.1675
-cup,0.1673
-refreshing,0.1667
-magical,0.1664
-thirty,0.16599999999999998
-rare,0.1653
-stealing,0.1651
-unfriendly,0.1647
-flour,0.1646
-faster,0.1628
-bathroom,0.1627
-pot,0.1618
-manager,0.1615
-moves,0.1614
-cookie,0.1612
-disorganised,0.1612
-takes,0.1605
-satisfied,0.1601
-fillings,0.1597
-cuban,0.1581
-jelly,0.1559
-eaters,0.1547
-glass,0.1543
-desserts,0.1543
-outdoors,0.1538
-frazzled,0.1532
-enjoyable,0.1529
-teapot,0.1525
-crossaint,0.1524
-zoo,0.1524
-frying,0.1517
-grandmothers,0.151
-rocksbox,0.1507
-blazing,0.1506
-hollydays,0.15
-milano,0.1494
-homeless,0.1491
-10am,0.1486
-card,0.1479
-mozzarella,0.1478
-flavoring,0.1467
-resteraunt,0.1466
-friendliest,0.1454
-frothy,0.144
-tomatoes,0.1429
-cucumbers,0.1428
-complained,0.1428
-helped,0.1423
-55,0.1417
-indoor,0.1414
-higher,0.1413
-bean,0.141
-rave,0.1402
-businesses,0.1393
-30min,0.1392
-spacious,0.1374
-holidays,0.1368
-benedicts,0.1358
-maple,0.1357
-deliciously,0.1354
-especially,0.1353
-cottage,0.1352
-single,0.1344
-effective,0.1343
-ceiling,0.134
-insane,0.13219999999999998
-adequate,0.1321
-seinfeld,0.1306
-dined,0.1301
-licking,0.1294
-credit,0.1293
-waste,0.129
-ridiculous,0.1284
-opens,0.1281
-portions,0.1278
-intolerant,0.1273
-50,0.1242
-complemented,0.1239
-walking,0.1237
-creperie,0.1233
-exceptional,0.1229
-batter,0.1229
-reviews,0.1216
-jerk,0.1214
-kill,0.1211
-dump,0.1184
-plainest,0.1181
-mocha,0.1168
-stains,0.1161
-cost,0.1148
-unrelaxed,0.1146
-job,0.1145
-veggie,0.1139
-stressed,0.1136
-discount,0.1129
-fried,0.1112
-lamps,0.1046
-house,0.1045
-praise,0.1043
-saddest,0.1032
-rotten,0.1031
-pregnant,0.1027
-napkins,0.1017
-inappropriate,0.1009
-tofu,0.1009
-7am,0.1008
-fear,0.0999
-daily,0.0995
-platters,0.097
-daughter,0.0962
-skip,0.0962
-flustered,0.096
-grandmother,0.096
-madhouse,0.0958
-apologies,0.0949
-abandoned,0.0947
-tremendously,0.0946
-adventurous,0.0937
-friend,0.0929
-disorganization,0.0921
-finish,0.0913
-breaksfasts,0.0906
-typing,0.0905
-swedish,0.0898
-smoothies,0.089
-girl,0.0886
-pecan,0.0885
-year,0.0883
-spinach,0.0879
-daisy,0.0874
-walk,0.0864
-anxious,0.0849
-grub,0.0846
-mess,0.0845
-coconut,0.0844
-recipe,0.0838
-35,0.0838
-confused,0.0827
-horrible,0.0807
-black,0.0803
-woke,0.0788
-lady,0.0786
-chase,0.0769
-apologetic,0.0761
-frisco,0.075
-ruined,0.074
-enter,0.0725
-joke,0.072
-joy,0.0716
-echoeing,0.0705
-lean,0.0698
-scramble,0.0693
-pay,0.0688
-santa,0.0677
-gold,0.066
-hunt,0.0651
-omlete,0.0619
-15am,0.0616
-issue,0.0608
-sinaloa,0.0607
-fragments,0.0606
-toddler,0.0596
-annoying,0.0594
-polish,0.0589
-sausages,0.0585
-peppers,0.0561
-rush,0.0543
-advance,0.0526
-soy,0.0507
-tortillas,0.0487
-servings,0.0479
-florence,0.0466
-sit,0.0455
-fed,0.0455
-dispenser,0.0451
-bowl,0.0442
-energized,0.0435
-girlfriend,0.0418
-lovers,0.041
-turkish,0.0391
-knock,0.039
-didn,0.0373
-home,0.037
-family,0.0362
-refund,0.0355
-busting,0.0349
-reduced,0.0342
-flavours,0.0334
-justify,0.0331
-candle,0.0328
-gladly,0.0327
-removed,0.0321
-ukrainian,0.0318
-muggy,0.0314
-crapes,0.0274
-mask,0.0264
-freshest,0.0241
-floor,0.022
-future,0.0214
-shopping,0.0211
-baklava,0.0202
-east,0.0199
-apartment,0.0177
-intimidating,0.0169
-swiped,0.0143
-citrus,0.0137
-minuets,0.0119
-extra,0.0117
-smelled,0.0084
-spots,0.007
-twice,0.0063
-chaos,0.006
-takeout,0.0053
-ordered,0.005299999999999999
-bum,0.0033
-raw,0.001
-impatient,-0.0005
-elena,-0.0019
-lost,-0.0025
-weak,-0.0055
-living,-0.0057
-military,-0.0065
-stop,-0.007
-rain,-0.0079
-fish,-0.0091
-green,-0.0113
-greek,-0.0143
-sour,-0.0157
-charged,-0.0158
-giant,-0.0217
-stars,-0.026999999999999996
-hr,-0.028
-seven,-0.0411
-hurry,-0.0417
-fully,-0.05
-promise,-0.0518
-thankfully,-0.0526
-overcharge,-0.0539
-14,-0.0721
-choice,-0.0933
-fault,-0.0975
-second,-0.1065
-remade,-0.1069
+breakfast,83.0617
+food,57.0681
+good food,36.0029
+great food,36.0019
+food good,24.3824
+delicious,21.1408
+orange juice,20.4907
+great breakfast,19.535
+crab cake,18.9421
+food delicious,14.8938
+food great,14.5485
+coffee,13.9978
+menu,13.47
+tasty,12.4142
+good breakfast,11.7933
+breakfast crepe,11.7859
+amazing food,10.91
+delicious food,10.518
+breakfast brunch,10.1882
+place breakfast,9.8431
+pancake,9.6201
+eggs benedict,8.314
+salmon benedict,7.7886999999999995
+breakfast lunch,7.7455
+breakfast place,7.7389
+egg benedict,7.2065
+sandwich,7.0248
+delicious breakfast,6.8149999999999995
+strawberry nutella,6.725
+strawberry,6.5838
+breakfast spot,6.429
+best breakfast,6.3522
+excellent food,6.3441
+crepe delicious,6.1509
+belgian waffle,6.1187
+cafe,5.9539
+good menu,5.564
+extensive menu,5.467499999999999
+breakfast food,5.3487
+restaurant,5.1778
+savory crepe,5.141
+french toast,5.1082
+croissant sandwich,5.0552
+fast,5.0349
+fast service,5.0153
+food excellent,4.897
+burger,4.8604
+chicken pesto,4.8119
+food worth,4.7707999999999995
+food amazing,4.6323
+good coffee,4.5054
+nice food,4.48
+variety breakfast,4.4689
+crab,4.3938
+tasty food,4.3896999999999995
+food friendly,4.3857
+eat,4.3386
+juice,4.3198
+great coffee,4.3106
+salmon,4.2847
+vegetarian,4.2813
+savory,4.2562
+banana crepe,4.1311
+breakfast burrito,4.1054
+crepe breakfast,3.9839
+fast food,3.9223999999999997
+food service,3.9163
+dessert crepe,3.9138
+order food,3.912
+honey cafe,3.8749
+good price,3.8628
+decent food,3.837
+vegetarian option,3.8052
+coffee good,3.797
+friendly staff,3.7602
+morning,3.7576
+staff friendly,3.7424
+nice breakfast,3.7286
+brunch,3.7183
+nutella banana,3.7144000000000004
+quality food,3.6073
+excellent breakfast,3.5842
+banana,3.5728
+chicken,3.479
+chocolate,3.4542
+honey glad,3.382
+breakfast option,3.3498
+food busy,3.3378
+lunch,3.3277
+menu good,3.3242
+service food,3.287
+breakfast amazing,3.2593
+meal,3.2481
+friendly,3.2458
+breakfast line,3.1947
+stopping honey,3.15
+seeing thanks,3.1340000000000003
+thanks stopping,3.1095
+food wonderful,3.0994
+glad everything,3.0925000000000002
+tasty breakfast,3.0878
+savory sweet,3.0654
+nice place,3.0063
+strawberry banana,2.9997
+banana nutella,2.9915
+lemon crepe,2.9462
+favorite breakfast,2.9372
+spot breakfast,2.8483
+chocolate waffle,2.8419
+cake benedict,2.8305000000000002
+dessert,2.8199
+food ok,2.7809
+worth,2.7566
+nice staff,2.7284
+fantastic food,2.7269
+hot chocolate,2.7096
+miami heat,2.6406
+waffle,2.6354
+fresh orange,2.6246
+got breakfast,2.6063
+pancake good,2.6021
+ice cream,2.5749
+sunrise burrito,2.5513
+huge menu,2.5163
+service good,2.5161
+diner,2.4996
+honey cake,2.451
+good service,2.423
+great,2.415
+good vegetarian,2.4142
+breakfast menu,2.4103000000000003
+sweet crepe,2.39
+bacon,2.3796
+food coffee,2.3559
+really good,2.3556
+good place,2.35
+love,2.3388999999999998
+good,2.3371
+food long,2.3277
+breakfast good,2.2856
+busy,2.2709
+delicious pancake,2.2482
+potato delicious,2.2418
+great place,2.2394
+pesto chicken,2.2255
+love breakfast,2.1955999999999998
+delicious good,2.1795
+disappointed,2.1741
+tea,2.168
+eggplant crepe,2.1649000000000003
+savory breakfast,2.1513999999999998
+food loved,2.1486
+breakfast potato,2.1201
+busy worth,2.1182999999999996
+great customer,2.1007000000000002
+san francisco,2.0892
+salmon egg,2.0556
+large menu,2.0515
+breakfast sandwich,2.0405
+breakfast san,2.0365
+fresh juice,2.0343
+quick service,2.032
+delicious great,2.0319000000000003
+delicious crepe,2.028
+nutella strawberry,2.0241
+worth wait,2.0145999999999997
+breakfast tasty,2.0114
+birthday breakfast,2.0094
+great crepe,2.0002
+enjoyed food,1.9998
+breakfast great,1.9994999999999998
+sweet savory,1.9978
+food reasonable,1.9949
+brunch breakfast,1.9875
+eat breakfast,1.9852999999999998
+food lovely,1.9804
+food really,1.972
+amazing service,1.9648
+tasty crepe,1.9468
+line food,1.9384000000000001
+menu huge,1.9137
+food quick,1.9133
+excellent service,1.9123999999999999
+amazing breakfast,1.9091
+reasonable price,1.8982999999999999
+food big,1.8877000000000002
+dinner,1.8807
+juice delicious,1.8796
+every morning,1.8761999999999999
+cake florentine,1.8704
+enjoyed meal,1.8664
+friendly service,1.8584999999999998
+breakfast joint,1.8529
+california sandwich,1.8454
+big menu,1.8428
+prices reasonable,1.8388
+great menu,1.8276000000000001
+philly steak,1.803
+little cafe,1.8026
+salad,1.7970000000000002
+place food,1.7777
+cake,1.7761
+breakfast get,1.7489
+perfectly cooked,1.7425000000000002
+order breakfast,1.7412
+coffee service,1.7396
+fruit salad,1.7338
+food fantastic,1.7046000000000001
+american breakfast,1.6982
+food even,1.6899000000000002
+everything delicious,1.6829
+staff great,1.6728
+waiter,1.6722000000000001
+miami,1.6650999999999998
+cashier,1.6632
+food atmosphere,1.6568999999999998
+great brunch,1.6534
+love food,1.6528
+food get,1.6406
+highly recommended,1.6322
+honey honey,1.629
+service fast,1.6242
+disappointed food,1.6105999999999998
+crepe coffee,1.6072000000000002
+food crepe,1.6065
+line weekend,1.5993
+crab benedict,1.5893000000000002
+lunch dinner,1.5723
+hour food,1.5669
+wait food,1.5662
+loved food,1.5635
+fried potato,1.5565
+chicken sausage,1.5509
+egg cooked,1.5507
+great service,1.5375
+breakfast really,1.5363
+get early,1.5330000000000001
+breakfast item,1.5305
+menu option,1.5269000000000001
+nice menu,1.5261
+crepe dessert,1.5133
+chicken sandwich,1.4986000000000002
+good customer,1.4883
+food came,1.4842
+place brunch,1.4822
+crepe tasty,1.4806
+food option,1.4748999999999999
+totally worth,1.4732
+place delicious,1.4729
+great tasty,1.4679
+went breakfast,1.4515
+good sized,1.4482
+whipped cream,1.447
+love place,1.4447
+disgusting,1.4433
+variety menu,1.4405000000000001
+fantastic breakfast,1.4363000000000001
+good people,1.436
+eggs,1.433
+francisco,1.4323000000000001
+time food,1.4323000000000001
+juice freshly,1.4104999999999999
+cold,1.4028
+food fun,1.4026
+saturday,1.4012
+got crab,1.399
+delicious meal,1.3935
+food pretty,1.3829
+amazing cafe,1.3786
+restaurant good,1.3755000000000002
+favourite breakfast,1.3753
+fantastic staff,1.3746
+nice people,1.3735
+great pancake,1.3706
+good music,1.3692
+messy,1.367
+good taste,1.3666999999999998
+pricey,1.3639000000000001
+crab cakes,1.3629
+cozy,1.3613
+potato bacon,1.3555
+staff nice,1.3546
+coffee yummy,1.3498
+highly recommend,1.3367
+great flavor,1.3366
+breakfast lots,1.3319999999999999
+delicious staff,1.3296000000000001
+menu breakfast,1.3272
+pancake great,1.3248
+tea selection,1.3171
+lacking flavor,1.3171
+cafe friendly,1.3153000000000001
+breakfast big,1.315
+fast delicious,1.3122
+ordered food,1.3115
+service fantastic,1.3079
+lovely place,1.305
+strawberry crepe,1.3014000000000001
+meal great,1.2962
+pesto crepe,1.2956
+eat plain,1.2947
+delicious coffee,1.2932000000000001
+crepe good,1.2905
+coffee really,1.2867
+loved crepe,1.2867
+pan cake,1.2838
+cooked,1.2818
+cake egg,1.2776
+carrot juice,1.2764
+menu reasonable,1.2745
+efficient service,1.2651
+loved breakfast,1.2645
+belgium waffle,1.2597999999999998
+delicious egg,1.2578
+breakfast crab,1.2574
+vanilla latte,1.2573
+waffle strawberry,1.256
+weekend morning,1.2522
+super tasty,1.2505000000000002
+food bit,1.2494999999999998
+trash,1.2469
+sunday brunch,1.2443
+good eggs,1.2415
+great cafe,1.2414999999999998
+breakfast coffee,1.2391
+scramble breakfast,1.2386
+hotel food,1.2382
+delicious crab,1.2376
+salad favorite,1.2374
+cappuccino good,1.2342
+delicious iced,1.2339
+sandwich omelette,1.2338
+potato salad,1.2309
+coffee delicious,1.2285
+food tasty,1.226
+fluffy pancake,1.224
+coffee long,1.2141000000000002
+breakfast union,1.2128
+best pancake,1.2124
+pricey breakfast,1.2118
+breakfast bit,1.2105
+counter food,1.2065
+great atmosphere,1.2061
+food overpriced,1.2054
+weekend,1.2053
+excellent,1.2039
+nutella,1.2022
+many breakfast,1.2019000000000002
+tasty tasty,1.2016
+breakfast fresh,1.2012
+loved,1.1983
+enjoy food,1.1939
+definitely recommend,1.1918
+service friendly,1.1917
+breakfast choice,1.1916
+eat every,1.189
+menu item,1.1888
+salmon scramble,1.186
+great nutella,1.1856
+egg delicious,1.1842
+food mediocre,1.1824
+menu tasty,1.1799
+sandwich salad,1.1796
+great staff,1.1782
+menu food,1.1771
+benedict,1.1736
+nice,1.173
+get food,1.1722000000000001
+potato yummy,1.1720000000000002
+breakfast little,1.1702
+sandwich delicious,1.1673
+super nice,1.1657
+super fast,1.1608
+nutella crepe,1.1593
+choice breakfast,1.1585
+coffee taste,1.1559
+breakfast croissant,1.1533
+place eat,1.1532
+smoked salmon,1.1482
+meal salmon,1.1475
+small cafe,1.1442
+lovely,1.1433
+extensive breakfast,1.1417000000000002
+efficient wait,1.1417000000000002
+really fast,1.1414
+great price,1.1409
+food bad,1.1409
+tea good,1.1404
+food table,1.1383
+efficient,1.1271
+sandwich pretty,1.1267
+decent price,1.1265999999999998
+crepe strawberry,1.125
+ordering food,1.1245
+happy chicken,1.1240999999999999
+bagel sandwich,1.1237
+flavor,1.1233
+steak,1.1218
+sunday,1.1205
+union square,1.1197
+nice vibe,1.1181
+service breakfast,1.1137
+service delicious,1.1135
+savory dessert,1.1078
+diverse menu,1.1052
+food crowded,1.101
+burrito delicious,1.0988
+coffee juice,1.0971
+long line,1.0955
+quickly,1.0952
+crepe potato,1.0945
+good fast,1.0926
+coffee amazing,1.0924999999999998
+well oiled,1.0892
+sandwich soup,1.0868
+includes sandwich,1.0868
+delicious filling,1.0862
+quick breakfast,1.0861
+service decent,1.0755
+option breakfast,1.0744
+loud,1.0727
+breakfast sf,1.0701999999999998
+crepe pancake,1.0688
+italian soda,1.0676999999999999
+best crepe,1.0661
+freshly squeezed,1.066
+cooked perfectly,1.0649
+food hype,1.0615999999999999
+crepe savory,1.056
+tasteless,1.0542
+food taste,1.054
+banana strawberry,1.0526
+taste food,1.0519
+juice good,1.0497
+delicious price,1.0483
+pancakes,1.0438
+lunch menu,1.0436
+early,1.0429
+fresh ingredient,1.0403
+potato,1.0387
+busy location,1.0351
+juice amazing,1.034
+cream ice,1.0338
+waiting table,1.0324
+first breakfast,1.0276999999999998
+quick delicious,1.0272000000000001
+side bacon,1.0245
+quality dish,1.0231
+quickly food,1.0215
+coffee drink,1.0193
+definitely eat,1.018
+staff helpful,1.0165
+eating,1.016
+food price,1.0129000000000001
+food belgian,1.0112
+breakfast ever,1.0105
+cheddar cheese,1.0084
+minute food,1.0047
+egg breakfast,1.0003
+good blunch,1.0
+great meal,0.9998
+service amazing,0.999
+serve breakfast,0.9969
+great variety,0.9945999999999999
+ordered chicken,0.9941
+waffle potato,0.9914000000000001
+butter crepe,0.9891000000000001
+mediocre,0.9889
+food everything,0.9887
+weekend breakfast,0.9871
+long queue,0.9868000000000001
+special menu,0.9848
+crepes good,0.9804999999999999
+always,0.9793000000000001
+food food,0.9783
+coffee beverage,0.9774
+like breakfast,0.977
+benedict coffee,0.9718
+lemon,0.9704999999999999
+delicious many,0.9701
+food staff,0.97
+food affordable,0.9684
+got chicken,0.9675
+place good,0.9661
+food come,0.9621
+egg bacon,0.9594
+slow,0.9582999999999999
+fast table,0.9581
+incredibly delicious,0.9575
+amazing crepe,0.957
+ordered salmon,0.9561
+food outstanding,0.9561
+juice coffee,0.9541
+cheese,0.9537
+cafe many,0.9528
+hungry,0.952
+plain trash,0.9495
+potato tasty,0.9485
+table clean,0.9484
+ordered crab,0.9474
+vanilla,0.9473
+loved much,0.9465
+breakfast delicious,0.9458
+food eat,0.9427000000000001
+menu extensive,0.9392
+breakfast honey,0.9389000000000001
+place love,0.9385
+hot tea,0.9359
+used better,0.9337
+lemony,0.9332
+absolutely delicious,0.9279
+hour weekend,0.9219999999999999
+good crepe,0.9204
+service pretty,0.9201999999999999
+table food,0.9186000000000001
+fabulous food,0.9161
+never,0.9137
+clean place,0.9126
+food point,0.9116
+good restaurant,0.9104
+soup,0.9100999999999999
+great burrito,0.9099
+busy restaurant,0.9097
+enjoyed eating,0.9092
+vibe food,0.9071
+late breakfast,0.9045000000000001
+staff excellent,0.9032
+cup coffee,0.9017
+price food,0.9005000000000001
+yummy food,0.8992
+crepe miami,0.8991
+get coffee,0.8986999999999999
+music good,0.8982
+early morning,0.8954
+restaurant warm,0.8945
+much buckwheat,0.8941
+lunch excellent,0.8912
+brunch city,0.8904
+clean,0.89
+recommend breakfast,0.8895
+perfect breakfast,0.8882
+expensive,0.8872
+mimosa amazing,0.8861999999999999
+pancake egg,0.8845000000000001
+better,0.884
+buckwheat crepe,0.8838
+crowded tasty,0.8823
+wonderful food,0.8818
+healthy food,0.8816
+lovely food,0.8798
+expensive meal,0.8772
+bit dry,0.8768
+busy menu,0.8757
+reasonably priced,0.8756
+eating good,0.8755
+amazing orange,0.8752
+wait line,0.8737
+yummy pancake,0.8723
+menu selection,0.8714999999999999
+coffee delightful,0.8709
+delicious crowded,0.8702
+decent coffee,0.8699
+little breakfast,0.8698
+top breakfast,0.8693
+menu meal,0.8652
+french cafe,0.864
+burger tasty,0.862
+food super,0.8615
+happy tummy,0.8611
+got salmon,0.8581
+strawberries banana,0.8573
+food minute,0.8568
+service efficient,0.8568
+amazing buttermilk,0.8562
+food incredible,0.8559
+loved pesto,0.8528
+huge food,0.8489
+coffee pretty,0.8489
+greek salad,0.8488
+friendly helpful,0.8475999999999999
+savory miami,0.8466
+egg sausage,0.8442
+food smart,0.8432
+toast,0.8426
+delicious banana,0.8412
+done eating,0.8401000000000001
+organized friendly,0.8386
+tasty huge,0.8383
+tasty lot,0.8379
+menu beautiful,0.8378
+portion tasty,0.8373
+chocolate good,0.8361000000000001
+friendly happy,0.8354
+buckwheat,0.8353
+delicious definitely,0.8342
+delicious abundant,0.833
+cooked egg,0.8327
+loved nutella,0.8306
+delicious wait,0.8287
+fast first,0.8273
+starbucks,0.8257
+tasty cappuccino,0.8243
+vegan vegetarian,0.8235
+thick tasteless,0.8228
+long wait,0.8227
+dry,0.8207
+tourist strongly,0.8206
+enjoyed lunch,0.8203
+food cozy,0.8202
+afternoon inexpensive,0.8199
+service terrible,0.8198
+full coffee,0.8191999999999999
+avoid serving,0.8182
+food creative,0.8178
+rancheros tasty,0.8172
+wait,0.8155
+potato nice,0.8138
+service reasonable,0.8089
+excellent brunch,0.8073
+delicious ordered,0.8069
+fun breakfast,0.8069
+classic diner,0.8069
+pricey cashier,0.8067
+burrito well,0.8066
+busy breakfast,0.8047
+good dessert,0.8045
+food lot,0.8044
+breakfast stumbled,0.804
+clean restaurant,0.8039
+grilled chicken,0.8037000000000001
+plain,0.8033
+fun restaurant,0.8032
+breakfast worth,0.8032
+kind restaurant,0.8012
+place clean,0.801
+delicious vanilla,0.8007
+diner great,0.8001
+coffee popular,0.7999
+delectable brunch,0.7998
+breakfast egg,0.7996
+portion delicious,0.7965
+delivered meal,0.796
+good sandwich,0.7953
+wonderful happy,0.7951
+breakfast salmon,0.7949
+presentation salmon,0.7943
+lunch glad,0.7939
+omelette perfect,0.7939
+breakfast make,0.7937
+buttermilk pancake,0.7929
+nutella chocolate,0.7926
+clean organized,0.791
+breakfast waffle,0.7908
+good acapulco,0.7907
+food constant,0.7906
+food plenty,0.79
+value breakfast,0.79
+worst brunch,0.7895
+go dessert,0.7892
+cooked fresh,0.7874
+cafe open,0.786
+tasting amazing,0.7859
+food queue,0.7859
+go delectable,0.7858
+bland chicken,0.7843
+ate twice,0.7837000000000001
+traditional burger,0.7834
+delicious chicken,0.7828
+tuna sandwich,0.7827
+spanish style,0.781
+pancake beautiful,0.7791
+professionalism food,0.7779
+crowd hungry,0.7775
+loved banana,0.7774
+pancake quick,0.777
+food disgusting,0.7763
+bit overrated,0.7763
+excellent customer,0.7758
+every taste,0.7753
+benedict great,0.7747
+taste certainly,0.7746
+food love,0.7741
+vegetarian sandwich,0.774
+restaurant charm,0.774
+blunch,0.7728
+amazingly flavorful,0.7727
+chicken dry,0.772
+long busy,0.7708
+fresh fruit,0.7706999999999999
+day lunch,0.7705
+tasty coffee,0.7704
+cake affordable,0.7703
+especially weekend,0.7687
+milan omelette,0.7684
+place used,0.7681
+crepe tea,0.7678
+absolutely cozy,0.7675
+food tasted,0.7674000000000001
+special breakfast,0.767
+food quality,0.767
+meal food,0.7668
+enjoyed breakfast,0.7666
+table enjoy,0.7665
+food always,0.7664
+sandwich hot,0.7658
+meal excellent,0.7647
+cold fries,0.7643
+noisy messy,0.7643
+overrated,0.7639
+outstanding breakfast,0.7635
+breakfast full,0.7634
+overrated great,0.7632
+lemon flavor,0.7631
+crepe lunch,0.7629
+happy,0.7623
+restaurant best,0.7617
+good vegan,0.7616
+brunch near,0.7615
+breakfast go,0.7609
+lunch today,0.7607
+delicious omelet,0.7607
+food restruants,0.7601
+going crepe,0.7599
+lot option,0.7597
+enough service,0.7596
+pasta burger,0.7577
+watch crab,0.7565
+food savory,0.7564
+highly priced,0.7564
+cozy homey,0.7551
+stuffed food,0.7551
+forward breakfast,0.7547
+amazing meal,0.754
+pretty pricey,0.7539
+bagel delicious,0.7525
+definitely warrant,0.7523
+hot coffee,0.7523
+service large,0.752
+feel like,0.7506
+meal huge,0.7504
+open morning,0.7497
+like place,0.7494
+cafe amazing,0.7488
+yummy tomato,0.7474
+option everyone,0.7463
+kitchen,0.7444999999999999
+choice friendly,0.7443
+huge variety,0.7441
+delicious pineapple,0.744
+great hospitality,0.744
+pancake banana,0.7436
+disgusting staff,0.743
+pricey tbh,0.7429
+delicious everyone,0.7423
+full morning,0.7419
+hospitality loved,0.7411
+noon saturday,0.7409
+kind messy,0.74
+coffee try,0.7395
+spot go,0.7394
+tasty pancakes,0.7391
+people friendly,0.739
+seated totally,0.7389
+first serve,0.7384
+value meal,0.7378
+waffle awesome,0.7377
+average diner,0.7376
+popular food,0.7374
+meal disgusting,0.7373
+amazing coffee,0.7372
+loved everything,0.7368
+suzzette choice,0.7363
+breakfast fast,0.7355
+pancake strawberry,0.7341
+morning full,0.7341
+always delicious,0.7339
+line bad,0.7333
+salmon sandwich,0.732
+breakfast prepared,0.7319
+cafe extensive,0.7305
+selection menu,0.73
+food bring,0.73
+breakfast dinner,0.7298
+food value,0.7277
+coffee tasty,0.7269
+pancake waffle,0.7261
+packed breakfast,0.7257
+fast enough,0.7254
+clean environment,0.7249
+intense kiosk,0.7241
+coffee friendly,0.724
+potato bitter,0.7239
+atmosphere loved,0.7237
+liked pancake,0.7236
+food helpful,0.7236
+liked latte,0.7233
+onion,0.7231000000000001
+explore breakfast,0.7226
+tourist,0.7216
+worth going,0.7214
+dinner food,0.721
+style breakfast,0.7209
+meal tasting,0.7201
+yummy french,0.7194
+waffle crepe,0.719
+spanish,0.7186
+everyone enjoyed,0.7185
+food huge,0.7183
+fresh coffee,0.7182
+helpful food,0.7182
+wonderful omelet,0.718
+savoury sweet,0.7175
+croissant breakfast,0.7169
+good cashier,0.7168
+easy breakfast,0.7167
+want eat,0.7166
+awesome customer,0.7164
+omelette breakfast,0.7162
+eat highly,0.716
+dinner lunch,0.7158
+cozy little,0.7155
+menu fresh,0.7153
+line,0.7147
+kiwi apple,0.7146
+bit noisy,0.714
+delicious strawberry,0.7137
+waffle chorizo,0.7133
+nice selection,0.7131
+crab shell,0.7127
+breakfast classic,0.7121
+serve delicious,0.7121
+cozy ambiance,0.712
+omelette happy,0.712
+amazing cashier,0.7119
+fresh food,0.7117
+service pleasant,0.7111
+delicious chocolate,0.7111
+move quickly,0.7111
+bomb breakfast,0.7107
+breakfast super,0.7107
+food surprisingly,0.7105
+waffle latte,0.7101
+hefty breakfast,0.7101
+good would,0.7097
+restruants need,0.7096
+delicious fresh,0.7094
+brunch delicious,0.708
+breakfast exceptionally,0.7075
+cake sandwich,0.7075
+fun menu,0.7073
+food extremely,0.7068
+vegan,0.7063
+noisy,0.7062
+breakfast experience,0.706
+line long,0.706
+overpriced food,0.7059
+great experience,0.7055
+food decently,0.7052
+best birthday,0.705
+crepe gf,0.7042
+cold winter,0.7036
+crepe disappointed,0.7036
+cooked benedict,0.7035
+coffee complimentary,0.7034
+receive meal,0.7032
+milan,0.7027
+breakfast strawberry,0.7025
+next hotel,0.7021
+fuss cafe,0.702
+free dairy,0.702
+eat expect,0.7015
+ordered salsa,0.7007
+prepared relaxed,0.7006
+management clean,0.7005
+strongly recommend,0.7002
+perfect cinnamon,0.6998
+amazing restaurant,0.6998
+banana chocolate,0.6996
+dairy free,0.6996
+fantastic restaurant,0.6995
+pankaces tasty,0.6992
+cheese steak,0.6991
+flavorful huge,0.6983
+phenomenal spot,0.6981
+strawberry lemon,0.698
+buttermilk,0.6978
+breakfast diner,0.6976
+amazing potatoes,0.6969
+crepe fast,0.6966
+everyone,0.6965
+diversity menu,0.6964
+breakfast warm,0.6962
+omelette good,0.6958
+bacon delicious,0.6958
+food warm,0.6953
+menu quality,0.6951
+toast flavourful,0.6951
+fast efficient,0.695
+come early,0.6948
+table restaurant,0.694
+menu liked,0.694
+hungry people,0.6932
+enjoyed eggplant,0.6931
+restaurant packed,0.6929
+price huge,0.6927
+breakfast long,0.6913
+cute cafe,0.6913
+warm courteous,0.6911
+banana kiwi,0.69
+delicious even,0.6899
+food star,0.6898
+chicken delicious,0.6897
+potato amazing,0.689
+organized either,0.6888
+terrible food,0.6887
+crowded fast,0.6887
+pancake breakfast,0.6884
+favorite,0.6881999999999999
+disappointed thick,0.6879
+bad,0.6859
+like crepe,0.6857
+omelette table,0.6842
+relaxed atmosphere,0.6842
+bacon also,0.684
+apple slice,0.6832
+potatoes,0.6828000000000001
+spot definitely,0.6825
+recommend place,0.6823
+ordered burger,0.6823
+delicious pancakes,0.6823
+food restaurant,0.6816
+breakfast savory,0.6809
+sandwich simple,0.6804
+average food,0.6803
+breakfast plenty,0.68
+affordable breakfast,0.68
+phenomenal,0.6796
+friendly wonder,0.6791
+service people,0.6787
+potatoes fresh,0.6777
+taste good,0.6776
+honey breakfast,0.6776
+breakfast awesome,0.6775
+warm cozy,0.6774
+chicken soup,0.6771
+huge tasty,0.6768
+liked sauce,0.6765
+online friendly,0.6756
+tomato basil,0.6756
+service banana,0.6754
+female cashier,0.6754
+choice pleased,0.6752
+huge selection,0.6752
+suzette tasty,0.6746
+rancheros tasteless,0.6746
+banana pancake,0.6743
+served meal,0.6741
+freshly prepared,0.6741
+price dessert,0.6739
+table eat,0.6738
+smart management,0.6736
+lipstick disgusting,0.6727
+pancake omelette,0.6726
+cashier friendly,0.6724
+fast price,0.6718
+chai strawberries,0.6701
+seating tight,0.6697
+come breakfast,0.6692
+burrito,0.6691
+people waited,0.6686
+banana potato,0.6684
+incredibly slow,0.6681
+long saturday,0.6677
+busy come,0.6673
+better breakfast,0.6673
+casual food,0.6673
+good option,0.6672
+morning dessert,0.6668
+liked pesto,0.6668
+basil soup,0.6667
+bit dirty,0.6667
+early open,0.6666
+bring appetite,0.6666
+plentiful tasty,0.6658
+restaurant perfect,0.6656
+breakfast made,0.6652
+made fresh,0.6644
+wonderful breakfast,0.6643
+fry delicious,0.664
+wife breakfast,0.6639
+breakfast eggs,0.6637
+morning busy,0.6632
+priced good,0.6628
+area fast,0.6626
+appetite,0.6624
+eating apology,0.6619
+mimosa delicious,0.6617
+experience food,0.6616
+waffle fast,0.6616
+juice latte,0.6612
+best coffee,0.6611
+overwhelmed menu,0.661
+tasty sandwich,0.6609
+breakfast think,0.6609
+location dinner,0.6606
+fresh banana,0.6602
+got eggplant,0.66
+lunch snack,0.6598
+sausage egg,0.6597
+salad sweet,0.6596
+crossaint sandwich,0.6596
+inexpensive,0.6583
+good latte,0.6581
+dessert menu,0.658
+steak crepe,0.658
+eden suzzette,0.6578
+awesome service,0.6577
+great tourists,0.6574
+delightful juice,0.6572
+sandwich amazing,0.6572
+cafe quick,0.657
+decent casual,0.6563
+breakfast seems,0.6562
+lunch huge,0.6553
+cashier helpful,0.6553
+cold breakfast,0.655
+breakfast center,0.655
+inexpensive whole,0.6549
+soup best,0.6549
+quickly definitely,0.6547
+strawberry french,0.6546
+food take,0.6536
+coffee swift,0.6532
+food cheapest,0.6527
+fun character,0.6523
+reliable breakfast,0.6523
+eh avoid,0.6521
+green menu,0.6517
+cottage cheese,0.6513
+worth trying,0.6512
+slow service,0.6509
+line noon,0.6509
+belgian waffles,0.6508
+tummy,0.6508
+oj delicious,0.6504
+service,0.6501
+pancakes sandwiches,0.65
+line totally,0.6497
+worth good,0.6488
+somewhat pricey,0.6486
+enter cafe,0.6484
+food made,0.6483
+recommend,0.6482
+ice vegetarian,0.6474
+huevos rancheros,0.6471
+good meal,0.6471
+bad lack,0.6468
+good many,0.6468
+awesome lunch,0.6465
+good review,0.6465
+diner atmosphere,0.6462
+packed well,0.646
+herbal tea,0.6457
+option every,0.6457
+city disappointed,0.6457
+cinnamon french,0.6455
+potato chorizo,0.6454
+food plentiful,0.645
+popular good,0.6449
+sandwich made,0.6449
+nice mimosa,0.6447
+serving slow,0.6447
+recommend like,0.6446
+potato favorite,0.6444
+crepe lemony,0.6439
+pancakes coffee,0.6438
+effortlessly food,0.6434
+character enjoyed,0.6433
+diced sandwich,0.6432
+people nice,0.6432
+restaurant beautiful,0.6428
+place forgettable,0.6426
+burger fry,0.6423
+place organized,0.6422
+relaxed,0.642
+dirty,0.642
+big thank,0.6418
+iced chai,0.6417
+tasty portion,0.6416
+fast mimosa,0.6416
+cleaning coffee,0.6411
+granola nice,0.6409
+reality burger,0.6408
+pregnancy gracious,0.6406
+good banana,0.6406
+getting salmon,0.6406
+burger really,0.6402
+salad tasty,0.6401
+breakfast decor,0.64
+food delish,0.6398
+menu fantastic,0.6395
+menu shareable,0.6394
+steak omelet,0.6393
+crammed restaurant,0.6388
+downtown salmon,0.6385
+first come,0.6376
+francisco expected,0.6373
+rude inside,0.6369
+nothing pancakes,0.6368
+cake coffee,0.6367
+nice attentive,0.6365
+friendly efficient,0.6364
+ate egg,0.6362
+average breakfast,0.6359
+juice option,0.6356
+avoid,0.6356
+brunch menu,0.6354
+busy food,0.6351
+tried strawberry,0.6351
+chocolate one,0.635
+ambiance service,0.635
+hotel easy,0.6345
+variety wonderful,0.6343
+fresh pancake,0.6342
+creapes delicious,0.6336
+worth price,0.6335
+forgettable,0.6332
+morning stayed,0.6331
+unbelievable breakfast,0.633
+still nice,0.6322
+unpretentious diner,0.6321
+taste quality,0.6319
+tasteless egg,0.6318
+eating breakfast,0.6317
+awesome orange,0.6315
+lovely service,0.6314
+friendly food,0.6314
+pancake pretty,0.6311
+good pesto,0.631
+many people,0.6307
+nice homey,0.6307
+food many,0.6303
+accommodating friendly,0.6302
+soup salad,0.6299
+food terrible,0.6298
+perfect,0.6298
+like healthy,0.6296
+morning day,0.6295
+decent service,0.6295
+menu outside,0.6292
+lots good,0.629
+breakfast every,0.6289
+waited,0.6288
+sausage burger,0.6288
+front,0.6287
+happy cafe,0.6285
+excellent menu,0.6285
+burger attention,0.6284
+restaurant though,0.6282
+omelet superb,0.6281
+squeezed juice,0.6281
+delicious visually,0.628
+price moderate,0.6273
+delicious option,0.6272
+diner huge,0.6271
+amazing waffle,0.627
+effective cafe,0.6268
+breakfast nice,0.6268
+local food,0.6267
+fully cooked,0.6265
+cream delicious,0.6261
+delicious pastry,0.6261
+taste pancake,0.626
+always full,0.6256
+popular,0.6253
+high restaurant,0.6253
+apple cinnamon,0.6252
+price ok,0.6251
+suzzette,0.625
+mexican vegetarian,0.6248
+fresh stove,0.6245
+spaghetti shrimp,0.6245
+ambience tasted,0.6245
+free wifi,0.6242
+boiled egg,0.6242
+salt food,0.6242
+fuss meal,0.6238
+pineapple red,0.6237
+food spot,0.6237
+food heck,0.6237
+strawberry soggy,0.6235
+knowledgeable menu,0.6233
+tasteless sauce,0.6231
+wonderful place,0.623
+menu curbside,0.6229
+outstanding great,0.6229
+presentation lacking,0.6229
+brown strawberry,0.6223
+average brunch,0.6223
+efficient needed,0.6222
+best potato,0.6217
+relaxing eggplant,0.6216
+salad mediocre,0.6216
+really busy,0.6212
+staffed food,0.6211
+service even,0.6208
+breakfast pankaces,0.6208
+desert awesome,0.6206
+close hotel,0.6204
+restaurant quiet,0.6203
+morning sanfran,0.6203
+loved mind,0.62
+line worth,0.6193
+food easy,0.6192
+benedict menu,0.6191
+many choice,0.619
+single morning,0.619
+great chicken,0.619
+priced long,0.6188
+party cafe,0.6187
+french,0.6185
+wonderful bloody,0.6184
+sandwich pancake,0.6183
+fresh,0.6182
+cream chocolate,0.6181
+chorizo tasty,0.618
+loud music,0.6179
+quiet breakfast,0.6174
+enjoyed egg,0.6174
+chicken potato,0.6173
+price awesome,0.617
+service busy,0.617
+accommodate quickly,0.6168
+food definitely,0.6166
+relax nutella,0.6164
+early get,0.6159
+helpful staff,0.6155
+lack good,0.6153
+blan crab,0.6152
+fresh crab,0.6151
+crepe popular,0.615
+burger sandwich,0.6149
+great cr,0.6144
+priced tasty,0.6143
+food conversation,0.6142
+meal tea,0.6141
+healthy,0.6141
+go early,0.614
+worked tirelessly,0.6139
+breakfast anywhere,0.6137
+unlimited coffee,0.6136
+cider cinnamon,0.613
+price reasonable,0.6127
+lovely menu,0.6127
+great cup,0.6124
+salted salmon,0.6124
+cafe full,0.612
+pancake sure,0.612
+pancake burger,0.6116
+suggested loved,0.6116
+early time,0.6115
+short staffed,0.6111
+waffle tasted,0.611
+fruit fresh,0.6104
+breakfast huge,0.6102
+packed sunday,0.6102
+waiter wait,0.61
+table outside,0.6099
+everything chicken,0.6099
+breakfast vibe,0.6098
+good experience,0.6098
+service quick,0.6097
+enjoyed first,0.6097
+crepes flavor,0.6092
+food try,0.6091
+cashier rather,0.6082
+range coffee,0.6082
+brother loved,0.6074
+cheapest food,0.6072
+next day,0.6072
+variety meal,0.6072
+never recommend,0.6071
+steak cheese,0.6071
+food average,0.607
+food cooked,0.6069
+like french,0.6067
+awesome coffee,0.6065
+excellent meal,0.6065
+restaurant great,0.6063
+food okay,0.6062
+pleasantly surprised,0.6061
+sandwich meat,0.6061
+love restaurant,0.6061
+crepe savoury,0.6051
+food faster,0.6051
+business fantastic,0.6049
+pecan pancake,0.6045
+cool place,0.604
+good egg,0.6036
+winter,0.6035
+gluten free,0.6034
+god crab,0.6033
+cheese addition,0.6031
+music loud,0.6028
+work well,0.6025
+dish great,0.6024
+good lunch,0.6023
+good dinner,0.6021
+tight peak,0.6021
+swedish pancake,0.6021
+amazing dessert,0.602
+breakfast let,0.6014
+bacon favorite,0.6009
+eggs stove,0.6009
+small restaurant,0.6009
+big hotel,0.6008
+breakfast omelette,0.6008
+potato undercooked,0.6005
+incredible ingredient,0.5997
+efficient food,0.5996
+orange carrot,0.5992
+morning brunch,0.599
+breakfast loved,0.5989
+selection sweet,0.5989
+best meal,0.5988
+kiosk seem,0.5984
+food kind,0.5979
+nutella tasty,0.5979
+sex food,0.5978
+yummy orange,0.5978
+good worth,0.5977
+service restaurant,0.5975
+baklava sweet,0.5974
+pancakes bit,0.5973
+wish juice,0.597
+lunch selection,0.5967
+french baked,0.5966
+breakfast staying,0.5965
+simple food,0.5964
+salt potato,0.5961
+kindness staff,0.5959
+amazing savory,0.5958
+get crab,0.5958
+waffle bacon,0.5957
+cafe breakfast,0.5957
+surprisingly oily,0.5956
+fresh tea,0.5954
+huge amazing,0.5949
+salmon fresh,0.5948
+wow food,0.5947
+delicious despite,0.5947
+ate french,0.5946
+restaurant staff,0.5939
+quite fast,0.5939
+great salad,0.5938
+cheese avocado,0.5937
+expectation high,0.5937
+depends hungry,0.5935
+good seating,0.5934
+especially cold,0.5929
+need updated,0.5928
+crispy potato,0.5927
+weekday morning,0.5927
+food decent,0.5925
+fresh salad,0.5925
+enjoyed fruit,0.5925
+maybe savory,0.5924
+long enough,0.5924
+great organizational,0.5922
+lovely atmosphere,0.5921
+exceptionally tasty,0.5921
+great savory,0.592
+choice huge,0.592
+many delicious,0.5918
+came breakfast,0.5916
+wonderful selection,0.5915
+early suffer,0.5915
+also mimosa,0.5913
+throwaway trash,0.5912
+eggplant,0.5912
+chicken crepe,0.5911
+friendly place,0.5909
+funny waiter,0.5908
+quickly delicious,0.5906
+food tasteless,0.5905
+open,0.5905
+party comfortably,0.5904
+good pancake,0.5903
+food got,0.5903
+bread tasty,0.5901
+benedict enough,0.5897
+chorizo sandwich,0.5896
+tasty line,0.5895
+tray coffee,0.5894
+definitely worth,0.5894
+great omelette,0.5893
+selection salad,0.5892
+tasty hashbrowns,0.589
+noon,0.5884
+ordered banana,0.5884
+service nice,0.5883
+staff quality,0.5877
+food choice,0.5877
+lunch nice,0.5872
+pancakes hot,0.5872
+long fast,0.5866
+taste pretty,0.5866
+delicious size,0.5865
+pancake fruit,0.5864
+ordering bacon,0.5863
+excellent counter,0.5863
+thought strawberry,0.5862
+lunch lots,0.5857
+disappointed ecstatic,0.5856
+vibe corner,0.5854
+cooked rancheros,0.5851
+cooked disappointing,0.5849
+egg fully,0.5848
+cup cappuccino,0.5846
+favourite egg,0.5841
+onion delicious,0.584
+plenty burger,0.584
+awesome expensive,0.5839
+food unsatisfied,0.5838
+loud talk,0.5837
+menu available,0.5835
+quality breakfast,0.5831
+potatoes favorite,0.583
+crepe crab,0.583
+croissant perfect,0.5829
+food place,0.5828
+pleasant overall,0.5826
+chocolate syrup,0.5824
+atmosphere good,0.5823
+waffle apple,0.5821
+omelette saturday,0.582
+arrogant host,0.5818
+food live,0.5817
+serving garlic,0.5814
+potato perfect,0.5814
+welcome spend,0.5813
+chocolate waffles,0.5813
+slow cold,0.5813
+raw onion,0.5812
+staff dietary,0.581
+filling french,0.581
+menu salmon,0.5808
+memphis still,0.5807
+hot cider,0.5805
+bland food,0.5803
+serving great,0.5799
+pot tea,0.5798
+place tourist,0.5798
+town breakfast,0.5797
+disgusting vegetarian,0.5797
+tasted fresh,0.5797
+sf financial,0.5796
+morning coffee,0.5793
+constant queue,0.5793
+liked crab,0.5793
+breakfast course,0.579
+food sometimes,0.5788
+loved belgian,0.5788
+comfortable serve,0.5786
+cream option,0.5784
+strawberries cooked,0.578
+place waiter,0.578
+espresso coffee,0.578
+frothy easy,0.5779
+cake burnt,0.5777
+strawberry good,0.5774
+busy spot,0.5772
+delicious seems,0.5771
+latte chocolate,0.5767
+salad salad,0.5767
+walnut taste,0.5767
+egg toast,0.5764
+excellently cooked,0.5764
+food little,0.576
+totally delicious,0.576
+never went,0.576
+recommend potatoes,0.5759
+outstanding,0.5755
+salad side,0.5754
+worth food,0.5752
+pancake fresh,0.5745
+bad food,0.5745
+varied menu,0.5742
+fine breakfast,0.5739
+yelling kitchen,0.5738
+joke tea,0.5734
+everytime lemon,0.5731
+food best,0.573
+food waiter,0.5728
+benedicts pancake,0.5727
+cozy restaurant,0.5726
+dish tasty,0.5724
+waiter preparing,0.5718
+thankful kindness,0.5717
+busy cleanliness,0.5716
+nice ambience,0.5714
+sandwich two,0.5713
+savoury crepe,0.5706
+mimosa savory,0.5706
+undercooked chewy,0.5706
+cuban spicy,0.5705
+higher egg,0.5703
+square burger,0.5703
+restruants,0.5701
+vibe cafe,0.57
+place efficient,0.5698
+plus sandwich,0.5698
+worth early,0.5698
+caramel latte,0.5697
+rated food,0.5696
+hearty,0.5694
+fast yummy,0.5694
+guest pretty,0.5693
+burrito flavorful,0.5693
+juice lemon,0.5691
+fast good,0.5684
+sandwich favorite,0.568
+ordering cashier,0.5678
+saturday early,0.5675
+pancake pasty,0.5673
+small prepared,0.5672
+coffee wonderful,0.567
+crabcake florentine,0.5669
+extremely fast,0.5666
+baked goody,0.5665
+busy sunday,0.5662
+delicious oj,0.566
+goto breakfast,0.5659
+breakfast friendly,0.5657
+cup throwaway,0.5657
+burger huge,0.5657
+juice available,0.5656
+scramble vegetarian,0.5656
+town day,0.565
+fries,0.565
+vanilla italian,0.565
+heaven food,0.5648
+amazing would,0.5646
+strawberry offer,0.5646
+waffle great,0.5644
+fishy latte,0.5644
+food let,0.5644
+tasted amazing,0.5642
+space group,0.5637
+strawberry thankfully,0.5636
+pecan chocolate,0.5634
+coffee reasonable,0.5631
+friendly considerate,0.5631
+food menu,0.5628
+chocolate flavored,0.5627
+crepe excellent,0.5626
+breakfast huevos,0.5626
+potatoes great,0.5622
+massive plan,0.5622
+cinnamon crepe,0.5621
+higher priced,0.5621
+everything breakfast,0.5619
+complimentary cucumber,0.5619
+food compensated,0.5616
+everyday breakfast,0.5615
+place always,0.5613
+line move,0.5612
+baked good,0.5612
+burger even,0.561
+door open,0.5609
+cheap option,0.5608
+recommend food,0.5607
+oriented restaurant,0.5607
+croissant must,0.5606
+menu great,0.5605
+quality egg,0.5605
+overall breakfast,0.5604
+yummy order,0.5604
+banana pecan,0.5603
+potoatoes delicious,0.5602
+waiting tasty,0.56
+breakfast ok,0.5599
+consistently awesome,0.5597
+popular night,0.5595
+delicious yummy,0.5594
+burger salad,0.5592
+husband enjoyed,0.5591
+pancake definitely,0.5591
+also staff,0.559
+intense breakfast,0.5585
+accommodating people,0.5584
+easy finish,0.5582
+strawberry sauce,0.5581
+great find,0.5579
+meal friendly,0.5575
+heat great,0.5574
+loved fresh,0.5571
+quickly formed,0.5569
+sweet breakfast,0.5567
+con bathroom,0.5567
+kiosk,0.5567
+everyone disappointed,0.5566
+table ready,0.5566
+juice excellent,0.5563
+easy drink,0.5561
+door always,0.5561
+breakfast enjoy,0.5559
+peak hour,0.5558
+burger add,0.5558
+waffle fruity,0.5554
+menu offering,0.5554
+oily,0.5554
+lady cleaning,0.5552
+bacon potato,0.5552
+ordered pancake,0.5547
+skill good,0.5545
+food nutella,0.5545
+egg correct,0.5544
+table full,0.5542
+waffle plainest,0.554
+hungry server,0.5539
+chocolate crepe,0.5539
+fun place,0.5538
+nice location,0.5535
+crepe food,0.5534
+meal delicious,0.5534
+breakfast look,0.5533
+fluffy bread,0.5533
+homemade plenty,0.5533
+bacon latte,0.5531
+wednesday morning,0.5526
+breakfast everything,0.5523
+plate eggs,0.5519
+overpowering chocolate,0.5513
+priced,0.5512
+waffle really,0.5511
+amazing crab,0.5509
+cheese tomato,0.5509
+good crab,0.5508
+quick bite,0.5507
+lots different,0.5504
+brunch nothing,0.5501
+mediocre bland,0.5497
+well tasted,0.5496
+quickly cash,0.5495
+polite staff,0.5495
+restaurant service,0.5493
+chair clean,0.5491
+morning worth,0.549
+thing try,0.5489
+really delicious,0.5488
+sandwich experience,0.5484
+recommend banana,0.5483
+like lemon,0.5482
+move fast,0.5481
+waffles chai,0.5481
+early breakfast,0.548
+loved milano,0.5477
+espresso fast,0.5476
+lineup everyday,0.5476
+selection savory,0.5476
+waited thirty,0.5472
+rocksbox terrible,0.5469
+star coffee,0.5467
+chai sweet,0.5465
+chocolate strawberry,0.5464
+garlic bread,0.5463
+sandwich coffee,0.5461
+good pot,0.5461
+sandwich almond,0.546
+price delivered,0.5459
+stove best,0.5458
+toddler strawberry,0.5457
+selection tea,0.5457
+crepe loved,0.5456
+tuesday lunch,0.5455
+anlittle sweeter,0.5455
+pancake course,0.5454
+anything nutella,0.5453
+international credit,0.545
+sunday morning,0.5449
+breakfast area,0.5447
+almost minute,0.5447
+easily ordering,0.5446
+place nice,0.5445
+dinner mediterranean,0.5445
+pancake sausage,0.5444
+delicious highly,0.5443
+food awesome,0.544
+nutella awesome,0.5437
+coffee would,0.5437
+loud breakfast,0.5435
+better pepper,0.5434
+ingredient good,0.5432
+choice food,0.5432
+bottomless coffee,0.5431
+morning meal,0.5429
+standard cappuccino,0.5427
+tuna,0.5426
+starbucks spacious,0.5426
+breakfast rush,0.5422
+tomato onion,0.5422
+cozy nice,0.5421
+sf enjoyed,0.5421
+dinner pretty,0.5419
+savory mediterranean,0.5418
+food right,0.5416
+enjoyed cappuccino,0.5416
+toast pancake,0.5415
+juice excellently,0.5413
+worth hour,0.5412
+service slow,0.5412
+savoury carrot,0.5411
+chicken mushroom,0.541
+credit card,0.5409
+strawberry fresh,0.5407
+arrive soon,0.5406
+toast waffle,0.5405
+heat breakfast,0.5404
+pay eat,0.5402
+crape banana,0.5401
+table dine,0.54
+lacking,0.54
+military discount,0.5399
+traditional breakfast,0.5399
+portion breakfast,0.5397
+menu full,0.5396
+street food,0.5395
+cream cheese,0.5393
+crepe strawberries,0.5393
+pleasant,0.539
+appetizing potato,0.539
+aggressive pancake,0.5387
+service perfect,0.5384
+restaurant homey,0.5379
+live music,0.5376
+coffee every,0.5373
+potatoes perfectly,0.5373
+street expensive,0.5372
+poor service,0.5371
+waiting time,0.537
+lovely crepe,0.5369
+oatmeal soymilk,0.5368
+crepe fabulous,0.5368
+price good,0.5366
+huge salad,0.5365
+unpretentious good,0.5364
+breakfast city,0.5359
+amazing music,0.5359
+twice mimosa,0.5358
+menu pretty,0.5358
+better egg,0.5358
+chai tea,0.5352
+food sf,0.5351
+nobody greeted,0.535
+florentine potatoes,0.5348
+delicious plate,0.5348
+crowd kitchen,0.5346
+waiting weekend,0.5344
+menu enjoyed,0.5341
+price hot,0.534
+space efficient,0.5338
+food must,0.5338
+time breakfast,0.5334
+breakfast benedicts,0.5333
+tirelessly manage,0.5333
+flavor daily,0.5332
+saturday order,0.5331
+weekend heard,0.5329
+came cold,0.5328
+enjoyed herbal,0.5327
+sandwich sorry,0.5327
+fresh fresh,0.5327
+pancake miami,0.5325
+potato crepe,0.5322
+top chocolate,0.5322
+amazing,0.5321
+good variety,0.532
+food ate,0.5318
+moderate high,0.5316
+crepe bland,0.5315
+canned salsa,0.5315
+breakfast standard,0.5312
+overhyped pancake,0.5309
+burrito hot,0.5308
+spot food,0.5305
+deliciously spicy,0.5305
+dish prices,0.5305
+usually crowd,0.5304
+tasted scrumptious,0.5301
+cheese sauce,0.53
+restroom gross,0.5298
+one served,0.5294
+find parking,0.5293
+dinner style,0.5291
+eating morning,0.5291
+waiter lost,0.5291
+one pancake,0.5289
+sandwich serve,0.5288
+food better,0.5286
+place price,0.5286
+people food,0.5286
+breakfast selection,0.5284
+wonderful server,0.5282
+greasy pancake,0.5282
+item menu,0.5281
+restaurant year,0.528
+husband breakfast,0.528
+breakfast start,0.528
+breakfast thankfully,0.5279
+big small,0.5276
+decently priced,0.5274
+mediocre waffle,0.5274
+come vegetarian,0.5273
+everyday best,0.5272
+cake amazing,0.5271
+tourists locals,0.527
+mediocre egg,0.5269
+cake tasty,0.5268
+crepe crabcake,0.5268
+savory option,0.5268
+yummy crepe,0.5267
+fabulous ready,0.5266
+friendly menu,0.5264
+came food,0.5262
+really rude,0.5262
+everyone taste,0.526
+sinaloa morning,0.5257
+burrito bean,0.5257
+turns waiter,0.5255
+chocolate nutella,0.5253
+coffee solid,0.5253
+chocolate yummy,0.5252
+dessert sandwich,0.5252
+crepe burger,0.5251
+pancake sandiwiches,0.525
+best nutella,0.525
+takeout breakfast,0.5249
+food potatoes,0.5249
+outside cafe,0.5247
+enjoyed salad,0.5246
+menu refreshing,0.5245
+juice fresh,0.5245
+bacon well,0.5244
+welcome warmth,0.5243
+brunch spot,0.5241
+memphis,0.5241
+family loved,0.524
+peanut butter,0.524
+potato ketchup,0.5239
+full brunch,0.5238
+uncomfortable table,0.5236
+specialty menu,0.5236
+pretty,0.5235
+cooked everything,0.5233
+seated lemon,0.5233
+turn morning,0.5232
+pm sunday,0.5232
+superb,0.523
+amazing customer,0.5229
+relatively quickly,0.5229
+waiting seated,0.5225
+sandwich good,0.5225
+coffee enjoyed,0.5224
+loved loved,0.5223
+worst,0.5223
+crab fresh,0.522
+sauce dipper,0.5217
+gorgeous love,0.5217
+moving great,0.5216
+avocado scallion,0.5215
+incredible breakfast,0.5214
+diner style,0.5214
+overcooked latte,0.5213
+salmon bene,0.5213
+warmth mobility,0.5212
+benedict potatoes,0.5211
+grimy reliable,0.521
+huge pancakes,0.5209
+veggie breakfast,0.5208
+task effortlessly,0.5207
+space great,0.5207
+food considering,0.5207
+benedict cool,0.5205
+onion cooked,0.5204
+omelette,0.5204
+cake delicious,0.5202
+full customer,0.5201
+breakfast crowd,0.52
+weekday,0.5198
+found restaurant,0.5198
+wall eatery,0.5198
+great espresso,0.5197
+nutella yummy,0.5195
+right fruit,0.5193
+awesome crepe,0.5193
+cafe people,0.5188
+spiced apple,0.5188
+cheaper sausage,0.5187
+cheap diner,0.5184
+hungry potato,0.5184
+fast amazing,0.5181
+line breakfast,0.518
+breakfast completely,0.5179
+choice croissant,0.5178
+tea latte,0.5174
+hotel pretty,0.5173
+hotel sunday,0.5173
+banana really,0.5173
+basil chicken,0.5172
+onion artichoke,0.517
+huge chalkboard,0.5169
+dry sandwich,0.5164
+went dinner,0.5163
+experience sf,0.5163
+cafe coffee,0.5163
+town menu,0.5162
+food unfortunately,0.5162
+menu hard,0.5161
+plus delicious,0.516
+salmon crab,0.5159
+hazelnut crepes,0.5159
+peppered hash,0.5156
+selection breakfast,0.5156
+good juice,0.5156
+breakfast craving,0.5155
+proper cup,0.5155
+tasty egg,0.5154
+party claim,0.5154
+satisfied mimosa,0.5154
+crepe iced,0.5153
+dietary preference,0.5152
+big coffee,0.5149
+pancake french,0.5149
+breakfast reduced,0.5146
+australia coming,0.5145
+salad breakfast,0.5145
+quickly need,0.5144
+full cafe,0.5142
+nothing special,0.5142
+early avoid,0.5142
+pepper onion,0.5141
+cool breakfast,0.5141
+star food,0.5141
+turkish coffee,0.514
+organized waiter,0.5139
+pancake crepe,0.5139
+fries amazing,0.5137
+could improve,0.5136
+crispy bacon,0.5135
+sandwich eat,0.5134
+pancake actually,0.5131
+breakfast pancake,0.5129
+olive onion,0.5126
+lunch dozens,0.5124
+bathroom little,0.5124
+price friendly,0.5124
+restaurant cute,0.5123
+crepe banana,0.5122
+tasty orange,0.5122
+ordering lunch,0.5121
+lunch hour,0.5121
+quickly crepe,0.5119
+coffee food,0.5118
+juice huge,0.5118
+plenty option,0.5118
+quick family,0.5117
+street omelette,0.5117
+selection good,0.5116
+mozzarella cheese,0.5116
+butter jam,0.5115
+bland waffle,0.5114
+busy fast,0.5114
+breakfast waited,0.5114
+good little,0.5114
+way soup,0.5112
+bit loud,0.5111
+food recommend,0.5111
+breakfast fam,0.5107
+spacious dining,0.5104
+breakfast always,0.5103
+bustling lively,0.5102
+eat relax,0.5101
+milk substitute,0.5101
+meal glass,0.51
+brunch sf,0.51
+coffee fresh,0.5097
+pricey brunch,0.509
+bacon ok,0.5088
+tomato avocado,0.5085
+point,0.5084
+bit,0.5083
+chorizo crab,0.5082
+food potato,0.508
+platter delicious,0.5078
+best food,0.5077
+present delicious,0.5075
+day coffee,0.5075
+toast salmon,0.5074
+service great,0.5069
+starting day,0.5069
+fries coffee,0.5069
+pineapple,0.5068
+food unpretentious,0.5068
+ate morning,0.5067
+dish favourite,0.5067
+affordable price,0.5066
+fruit nutella,0.5066
+get breakfast,0.5065
+crepes fresh,0.5064
+cheap,0.5062
+delicious amazing,0.506
+well bacon,0.506
+crape sandwich,0.5059
+fresh baked,0.5058
+morning moved,0.5058
+favorite food,0.5054
+flavourful would,0.5053
+florentine breakfast,0.5052
+pesto favorite,0.5051
+kitchen noise,0.505
+juice san,0.5049
+morning stop,0.5048
+chorizo delicious,0.5045
+burnt potato,0.5044
+urban menu,0.504
+breakfast heaven,0.5039
+food fast,0.5039
+salad impressive,0.5033
+pancake right,0.5033
+particularly breakfast,0.5032
+kill food,0.5032
+pancake comically,0.5031
+coffee love,0.5031
+original savory,0.503
+flavourful,0.5026
+cafe cold,0.5026
+soup like,0.5024
+crepe sandwich,0.5023
+daisy recipe,0.5022
+scramble cooked,0.502
+addition strawberry,0.5019
+plus burger,0.5018
+toast lacked,0.5017
+dowtown breakfast,0.5016
+ordering counter,0.5014
+potato better,0.5014
+burger location,0.5014
+ingredient tasty,0.5013
+average burger,0.5013
+ordered delicious,0.5013
+waffle gorgeous,0.5012
+staff clean,0.5012
+lot breakfast,0.5012
+early orange,0.5012
+delicious forgot,0.5011
+salad soup,0.501
+pretty welcome,0.501
+tomato garlic,0.5009
+dish delicious,0.5008
+great fruit,0.5006
+time unreasonable,0.5006
+delicious dish,0.5005
+snobbish arrogant,0.5004
+pour cheese,0.5003
+quick organize,0.5003
+item breakfast,0.5002
+star miami,0.5001
+delicious dulce,0.5001
+menu coffee,0.5
+trying dessert,0.4998
+popular place,0.4997
+le busy,0.4997
+pancake also,0.4995
+water waiter,0.4995
+table service,0.4995
+food fresh,0.4994
+sandwich got,0.4993
+pepper potato,0.4992
+soda good,0.4991
+breakfast dessert,0.499
+handle efficiently,0.499
+food arrives,0.4989
+recommend california,0.4989
+queu breakfast,0.4988
+reward delicious,0.4988
+tea strong,0.4988
+clean restroom,0.4987
+bit bacon,0.4987
+almost hour,0.4986
+serving time,0.4985
+cobb salad,0.4984
+sweet food,0.4984
+friendly cashier,0.4984
+apple cider,0.4982
+service memorable,0.4981
+local restaurant,0.498
+crepe tofu,0.4979
+hungry got,0.4978
+benedict omelet,0.4978
+apple sauce,0.4977
+home fries,0.4977
+food knock,0.4975
+seasoning enjoyed,0.4972
+due meal,0.4971
+cheese bottomless,0.497
+simple breakfast,0.4969
+restaurant seems,0.4965
+doughy oily,0.4965
+home fry,0.4964
+terrific nutella,0.4963
+lovely owner,0.4962
+chill fun,0.4961
+ordering next,0.4957
+little restaurant,0.4956
+cheese omelet,0.4956
+looking breakfast,0.4955
+table seat,0.4955
+trip sf,0.4954
+spicy sauce,0.4953
+got hazelnut,0.4953
+cheese crepe,0.4953
+delicious service,0.4952
+quick efficiently,0.4951
+server frazzled,0.495
+brunch decent,0.495
+surprised,0.495
+egg carton,0.4949
+benedict delicious,0.4948
+flavor plate,0.4947
+food sweet,0.4947
+banana brown,0.4946
+sit staff,0.4946
+juice husband,0.4943
+pancake average,0.4942
+restaurant food,0.4942
+service waffle,0.494
+bean bun,0.494
+cafe downtown,0.4937
+everything tasted,0.4933
+flavorless,0.4931
+rancheros peanut,0.493
+fresh cooked,0.4929
+tasted fishy,0.4928
+making coffee,0.4927
+cafe thoroughly,0.4927
+north beach,0.4926
+want random,0.4922
+waffle fruit,0.492
+bowl fruit,0.492
+omlette strawberry,0.4919
+minute ordered,0.4918
+love vibe,0.4918
+acquire food,0.4916
+away australia,0.4915
+sandwich recommend,0.4913
+menu spinach,0.4913
+salad though,0.4911
+flavor sweet,0.4911
+francisco always,0.491
+star breakfast,0.4909
+food eggs,0.4909
+ever salmon,0.4909
+helpful,0.4909
+brunch saturday,0.4907
+waiting hour,0.4905
+unreal food,0.4903
+area delicious,0.4902
+array breakfast,0.4901
+yummy croissant,0.4901
+tomato sloppily,0.49
+love coffee,0.4899
+cheap price,0.4899
+bit weekday,0.4896
+pesto strawberry,0.4896
+busy morning,0.4896
+food dollar,0.4895
+eatery walking,0.4895
+latte taste,0.4895
+sweet eat,0.4894
+hungry ordered,0.4891
+chocolate replaced,0.4889
+impressed tasty,0.4888
+sf fresh,0.4887
+iced latte,0.4884
+crepe vanilla,0.4884
+potato outstanding,0.4884
+delicious spot,0.4883
+tomato fresh,0.4882
+replaced pancake,0.4881
+staff busy,0.488
+cold wind,0.4879
+everyone meal,0.4876
+shredded carrot,0.4876
+find restaurant,0.4876
+yogurt everything,0.4875
+breakfast within,0.487
+juice great,0.487
+need breakfast,0.487
+le popular,0.4868
+food wait,0.4867
+glad miami,0.4867
+slow crepe,0.4865
+helpful party,0.4864
+finish food,0.4864
+busy hour,0.4863
+crepe belgium,0.4863
+coffee refill,0.4861
+served food,0.4861
+eating coffee,0.486
+oj nutella,0.4859
+pancake cafe,0.4857
+home coffee,0.4856
+entire menu,0.4852
+salad sandwich,0.4851
+food impressed,0.4848
+rest flavorless,0.4848
+music fire,0.4848
+cappuccino tasted,0.4847
+lemon pancake,0.4846
+salad potato,0.4845
+florence potato,0.4845
+expected breakfast,0.4845
+recommend salmon,0.4844
+coffee adequate,0.4843
+breakfast vacation,0.4842
+chewy soupy,0.4842
+extensive strawberry,0.4841
+wait bad,0.4839
+strawberries,0.4838
+always massive,0.4838
+tourist sf,0.4838
+menu every,0.4838
+delicious nutella,0.4833
+crepe suzette,0.4832
+good nothing,0.4831
+space,0.4831
+option perfect,0.483
+walked breakfast,0.483
+lunch sure,0.4827
+salmon omelette,0.4825
+everyone love,0.4825
+used memphis,0.4824
+seating tuna,0.4823
+menu choice,0.4823
+crepe,0.4823
+corner breakfast,0.4823
+vast menu,0.4821
+tea fruit,0.4821
+decent pancake,0.482
+waffle perfect,0.4818
+job burger,0.4818
+friendly people,0.4816
+nice filling,0.4815
+toasted egg,0.4812
+saturday brunch,0.4811
+loved place,0.4811
+breakfast closing,0.481
+restaurant giving,0.481
+time wait,0.4809
+nice bike,0.4809
+licking good,0.4809
+coffee nice,0.4808
+breakfast love,0.4807
+enjoyed coffee,0.4804
+liked meal,0.4804
+menu large,0.4803
+side sandwich,0.4801
+latte sausage,0.48
+breakfast breakfast,0.4796
+would never,0.4795
+juice ever,0.4792
+crepe waffle,0.479
+good savory,0.479
+snapchatters instagrammers,0.4789
+walk long,0.4789
+philly cheese,0.4788
+food counter,0.4788
+mimosa excellent,0.4786
+taste everything,0.4786
+claim seat,0.4785
+breakfast combination,0.4784
+service already,0.4781
+excellent savory,0.4778
+outside breakfast,0.4778
+swiss tomato,0.4776
+efficient server,0.4776
+jam restaurant,0.4775
+turn food,0.4772
+inconvenience,0.477
+eges pancakes,0.477
+friendly stopping,0.477
+good mimosa,0.4769
+undercooked pancake,0.4768
+ordered salad,0.4767
+randomly impressed,0.4766
+bowl yogurt,0.4766
+scramble chocolate,0.4764
+brunch snapchatters,0.4764
+cherry tomato,0.4764
+menu lot,0.4763
+felt chicken,0.4763
+cafe excellent,0.4762
+squeezd orange,0.4762
+cleaning menu,0.4759
+ham onion,0.4758
+pancake ever,0.4757
+juice anything,0.4756
+cheap hotel,0.4752
+compensated good,0.4752
+warm potato,0.4748
+white salmon,0.4747
+crabcake,0.4746
+considerate despite,0.4745
+mimosa coffee,0.4745
+dish vegetarian,0.4745
+great walking,0.4743
+friendly clean,0.4742
+sandiwiches sweet,0.4742
+menu wall,0.4742
+better crab,0.4742
+happy avocado,0.4741
+beer wine,0.474
+well organized,0.4739
+city eggs,0.4739
+seating inside,0.4737
+favorite place,0.4737
+suffer queue,0.4736
+kitchen overall,0.4734
+hard find,0.4733
+disgusting since,0.473
+hot bean,0.473
+ambiance food,0.4727
+well food,0.4723
+avocado bagel,0.4722
+eat everyday,0.4721
+love delicious,0.4721
+staffed well,0.4721
+get frustrated,0.4721
+decent breakfast,0.472
+funky delicious,0.472
+clean customer,0.4716
+amazing fruit,0.4714
+eatery place,0.4714
+staff super,0.4714
+chase thief,0.4713
+soda food,0.4712
+benedict crab,0.4712
+breakfast meat,0.4711
+wait wednesday,0.4709
+enjoyed atmosphere,0.4709
+food customer,0.4706
+fantastic service,0.4706
+flavor hollandaise,0.4705
+better ordered,0.4702
+fantastic quality,0.4701
+night waiter,0.4697
+went brunch,0.4693
+potato toast,0.4692
+waffle french,0.4692
+ordering others,0.4691
+owner lovely,0.4691
+selectoon menu,0.469
+enjoyed salmon,0.469
+morning vegan,0.4689
+cream friendly,0.4689
+preview menu,0.4687
+restaurant kinda,0.4687
+lonesome strawberry,0.4686
+menu prepared,0.4686
+potato excellent,0.4685
+cafe cozy,0.4684
+tax charge,0.4683
+coffee mug,0.4681
+helpful starbucks,0.468
+breakfast might,0.4679
+easy food,0.4679
+bagel freshly,0.4678
+bit small,0.4676
+delicious potato,0.4674
+find seat,0.4673
+weekend menu,0.4672
+wednesday,0.4671
+favorite crepes,0.467
+food quite,0.467
+pancake burrito,0.467
+got delicious,0.4669
+cake good,0.4667
+salted frying,0.4667
+eat bad,0.4665
+update hour,0.4664
+meal love,0.4659
+preparing table,0.4655
+food well,0.4654
+overfried salmon,0.4652
+service impressed,0.4651
+food general,0.465
+staff food,0.4648
+yumminess seafood,0.4648
+service cafe,0.4647
+crepe well,0.4646
+delicious smoked,0.4646
+efficient cleaning,0.4646
+friendliest rude,0.4645
+banana come,0.4645
+breakfast back,0.4639
+staff terrific,0.4638
+avacodo toast,0.4637
+big fan,0.4636
+bacon waffle,0.4635
+slow resulting,0.4632
+weekend brunch,0.4629
+got nutella,0.4628
+freshly squeezd,0.4628
+breakfast walked,0.4627
+good inside,0.4626
+excellent price,0.4626
+porridge fruit,0.4624
+crepes delicious,0.4624
+thirty minute,0.4622
+beverage great,0.4619
+cashier also,0.4617
+pretty quick,0.4614
+alright pancake,0.4612
+soon wrap,0.4612
+juice cheddar,0.4611
+egg dish,0.461
+breakfast seriously,0.461
+waitress hurry,0.4608
+burnt bacon,0.4608
+busy cafe,0.4607
+menu everything,0.4607
+since delicious,0.4606
+noisy dining,0.4605
+totally ruin,0.4604
+coffee stand,0.4604
+cheese blintz,0.4603
+dinner walking,0.4601
+care breakfast,0.4601
+cashier noticed,0.46
+really slow,0.46
+found savory,0.4599
+rancheros seasoned,0.4598
+staff efficiently,0.4597
+muffin dry,0.4596
+soymilk fruit,0.4596
+best savory,0.4595
+open pm,0.4595
+queue counter,0.4594
+food adequate,0.4594
+thinking nutella,0.4593
+totally cooked,0.4592
+waffle bottom,0.4588
+dripping ceiling,0.4587
+random item,0.4586
+eating sidewalk,0.4584
+francisco love,0.458
+chocolate fan,0.458
+eat grab,0.4579
+tasty blintz,0.4578
+breakfast saturday,0.4578
+food sandwich,0.4577
+bitter whole,0.4577
+benedict chicken,0.4577
+dessert savory,0.4576
+drip coffee,0.4575
+frustrated line,0.4575
+cake dry,0.4574
+egg taste,0.4574
+amazing went,0.4573
+oj amazing,0.457
+fresh bread,0.4568
+serve beer,0.4567
+soup granola,0.4567
+good diner,0.4567
+orange drink,0.4565
+love freshly,0.4564
+coffee breakfast,0.4561
+early otherwise,0.456
+best breaksfasts,0.4558
+wife pancake,0.4556
+waffle inside,0.4555
+cream whipped,0.4554
+fire staff,0.4549
+bathroom clean,0.4547
+time favorite,0.4547
+seasoned dining,0.4544
+muffin toasted,0.4543
+benedict mediterranean,0.4543
+sandwich crepe,0.4543
+sunday walked,0.454
+good overall,0.4539
+carrot,0.4535
+spot eat,0.4532
+chorizo scramble,0.4532
+worth love,0.4531
+hearty american,0.4531
+brunch restaurant,0.4531
+downtown san,0.453
+order hopelessly,0.453
+steak ok,0.4528
+serving,0.4528
+coffee grind,0.4527
+door dash,0.4524
+hash brown,0.4523
+menu orange,0.4521
+order waitress,0.4519
+coconut nutella,0.4519
+ok flavor,0.4516
+menu reasonably,0.4516
+bacon fresh,0.4515
+unimpressed food,0.4513
+crepe great,0.4513
+spicy wait,0.4512
+awesome food,0.4512
+kitchen dinning,0.4512
+cream served,0.451
+cheese omelettes,0.4509
+wifi coffee,0.4509
+vegetarian worth,0.4505
+food standard,0.4504
+assorted breakfast,0.45
+creamy sweet,0.4499
+cooked fruit,0.4498
+order,0.4497
+incredibly quick,0.4497
+breakfast flying,0.4496
+really liked,0.4493
+really quick,0.4489
+special mimosa,0.4489
+scrumptious friday,0.4486
+breakfast owner,0.4484
+variety food,0.4483
+drink table,0.4482
+bowl soup,0.448
+honey used,0.448
+came nobody,0.448
+love crepe,0.4478
+ordered bacon,0.4476
+blue cheeseburger,0.4475
+confusing hard,0.4474
+must chicken,0.4474
+full breakfast,0.4474
+salmon tomato,0.4474
+coffee okay,0.4471
+miss food,0.4471
+diner coffee,0.4471
+food bus,0.447
+line awesome,0.447
+type restaurant,0.447
+live,0.4469
+salad would,0.4469
+mediocre serving,0.4466
+taste crab,0.4464
+starbucks around,0.4464
+table indoor,0.4461
+door crab,0.4461
+satisfied breakfast,0.446
+pancake entire,0.446
+kiss chocolate,0.4457
+food meh,0.4457
+savoury breakfast,0.4456
+breakfast last,0.4456
+recommend coffee,0.4455
+delicious creamy,0.4453
+frustrated,0.4448
+coffee watery,0.4445
+worst dining,0.4445
+florentine mimosa,0.4445
+pancakes thick,0.4444
+ruin whole,0.4444
+order chocolate,0.4443
+cream crepe,0.4442
+night dinner,0.4442
+potato spicier,0.444
+best service,0.4439
+crepe amazing,0.4438
+crab want,0.4438
+customer plenty,0.4438
+omelette potato,0.4437
+brunch food,0.4436
+breakfast type,0.4433
+ample filling,0.4433
+red bean,0.4433
+mean teaspoon,0.4433
+cafe restaurant,0.4431
+table mediocre,0.4429
+would eat,0.4429
+coffee free,0.4427
+tasted great,0.4424
+lots food,0.4424
+salmon eater,0.4423
+well inside,0.4422
+food without,0.4421
+pastry table,0.442
+thought sit,0.4419
+cafe plenty,0.4418
+precooked egg,0.4409
+pressed orange,0.4409
+food hungry,0.4407
+square christmas,0.4406
+toast egg,0.4406
+everytime visit,0.4405
+coffee tea,0.4404
+food takeout,0.4402
+everything wonderful,0.44
+favorite potato,0.4399
+worth beer,0.4399
+morning abed,0.4395
+table lemon,0.4392
+mimosa,0.4392
+local hot,0.4392
+crumbled walnut,0.4391
+milk,0.4387
+egg greasy,0.4385
+sandwich menu,0.4384
+table eggs,0.4383
+delicious portion,0.4381
+bit patient,0.4379
+inside table,0.4379
+like inconvenience,0.4379
+life everytime,0.4379
+meal eggs,0.4378
+vegetarian group,0.4377
+busy talking,0.4377
+oj excellent,0.4376
+quickly miami,0.4371
+teaspoon,0.437
+usc beat,0.4368
+tried pesto,0.4368
+location tax,0.4367
+stopped breakfast,0.4367
+wait find,0.4365
+thymian potato,0.4365
+delicious pecan,0.4365
+restaurant deliver,0.4362
+worst greek,0.436
+pay card,0.4358
+fixture cashier,0.4357
+hour menu,0.4354
+else go,0.4352
+breakfast le,0.4352
+unheathly breakfast,0.4352
+best avoided,0.4351
+chicken parmesan,0.435
+decent crepe,0.4349
+salmon oversalted,0.4347
+best crepery,0.4345
+favorite location,0.4344
+weekend hollydays,0.4344
+cake ha,0.4343
+egg undercooked,0.4343
+thoroughly enjoyed,0.4342
+dessert night,0.434
+amazingly delicious,0.4338
+crepes pancake,0.4334
+dish breakfast,0.4334
+open restaurant,0.4334
+pancake heaven,0.4333
+weekend prepared,0.4332
+breakfast oriented,0.4331
+restaurant helped,0.433
+breakfast specials,0.4329
+benedict dessert,0.4328
+sit fear,0.4327
+pancake came,0.4326
+orange,0.4324
+christmas morning,0.4323
+bad restaurant,0.4323
+menu boot,0.4322
+filling tasty,0.4321
+oil disgusting,0.4321
+little crowded,0.4319
+catering order,0.4319
+meneu food,0.4318
+sure eat,0.4317
+cashier want,0.4316
+flavor alcohol,0.4315
+good stuffing,0.4313
+cake cook,0.4311
+sf honeymoon,0.4309
+food night,0.4308
+milk delicious,0.4304
+good strawberry,0.4304
+waffle sausage,0.4304
+breakfast aware,0.4303
+coffee paid,0.4301
+side breakfast,0.43
+left open,0.4299
+saturday waited,0.4295
+enjoying coffee,0.4294
+bitter,0.4291
+loved croissant,0.4291
+vanilla ice,0.4289
+eats business,0.4288
+delicious selection,0.4287
+latte average,0.4287
+restaurant quick,0.4285
+tomato,0.4285
+whole restaurant,0.4283
+heat delicious,0.4282
+cheapest,0.4281
+suggested restaurant,0.4281
+love menu,0.4277
+prices bit,0.4276
+enough said,0.4273
+strawberry orange,0.4272
+brunch queue,0.4271
+omelet,0.427
+bit lemonade,0.427
+ordered toast,0.4269
+cafe line,0.4269
+omelette bad,0.4268
+strong breakfast,0.4268
+friendly courteous,0.4266
+food left,0.4265
+saturday therefore,0.4263
+light candle,0.4262
+plate strawberry,0.4261
+door sidewalk,0.4261
+table arrangement,0.4261
+area breakfast,0.426
+fresh oj,0.4259
+server get,0.4258
+cup amazing,0.4257
+twice breakfast,0.4256
+cut bacon,0.4255
+three pancake,0.4253
+filling good,0.4253
+open cold,0.4253
+meal really,0.4251
+packed might,0.4246
+salt breakfast,0.4243
+strenuous shopping,0.4242
+food could,0.4241
+honey,0.4237
+many walnut,0.4234
+nice oatmeal,0.4231
+onion crepe,0.423
+thick doughy,0.4226
+proper coffee,0.4226
+sf breakfast,0.4225
+street,0.4221
+accept international,0.422
+speaker espresso,0.4219
+ham tomato,0.4214
+bacon orange,0.4213
+nicest staff,0.4209
+cleaning water,0.4208
+better job,0.4206
+place amazing,0.4206
+sandwich word,0.4201
+hour brunch,0.42
+served table,0.4199
+take plate,0.4198
+dropped honey,0.4198
+breaksfasts wife,0.4194
+morning great,0.419
+delicious orange,0.4188
+first time,0.4187
+get dinner,0.4186
+delicious sf,0.4184
+cashier server,0.4182
+terrible totally,0.4181
+try dessert,0.418
+guest seated,0.4179
+unrelaxed zoo,0.4179
+menu look,0.4178
+took longer,0.4177
+noisy helped,0.4176
+tax,0.4176
+tea coffee,0.4173
+table dirty,0.4172
+fruit amazing,0.4171
+buttery flavor,0.4171
+favorite bounty,0.4169
+priced alternate,0.4168
+eat disappointment,0.4167
+morning already,0.4166
+potato crep,0.4164
+juice always,0.4163
+salad ever,0.4163
+toast food,0.4162
+pancake buck,0.4161
+serving tray,0.4161
+table morning,0.4161
+started dessert,0.4159
+unique omelette,0.4158
+hopelessly wrong,0.4156
+staff awesome,0.4155
+chicken burrito,0.4154
+coffee offered,0.4152
+benedict salmon,0.4152
+killer food,0.4151
+ate amazing,0.4151
+dine sure,0.415
+food top,0.415
+wrong minute,0.4149
+decision miami,0.4147
+food alittle,0.4147
+town woke,0.4147
+honey expect,0.4146
+delicious served,0.4146
+sister got,0.4145
+prompt friendly,0.4143
+cashier aggressive,0.4138
+breakfast lot,0.4137
+hotel,0.4136
+table definitely,0.4134
+cafe popularity,0.4131
+breakfast downtown,0.4131
+variety,0.413
+cafe great,0.413
+noticed food,0.4129
+overcooked egg,0.4129
+wine available,0.4128
+delicious small,0.4126
+scramble favorite,0.4125
+delicious serve,0.4124
+coffee overpowering,0.4124
+fast server,0.4122
+food bland,0.4121
+busy monday,0.4118
+blintz dessert,0.4115
+food hot,0.4113
+taste basil,0.4113
+vegetable diced,0.4112
+drink slows,0.4111
+crepe potatoes,0.411
+potatoes well,0.4109
+dry stale,0.4106
+wait breakfast,0.4104
+australia,0.4104
+table big,0.4097
+fruit inside,0.4096
+squeezed orange,0.4096
+breakfast portion,0.4095
+served location,0.4095
+still hungry,0.4094
+high get,0.409
+dirty food,0.4089
+said sandwich,0.4089
+breakfast expensive,0.4089
+breakfast juice,0.4088
+savoury dish,0.4088
+bag coffee,0.4087
+satisfied food,0.4085
+crowded inside,0.4085
+particularly nutella,0.4082
+fast party,0.4082
+tourists,0.4081
+really help,0.4078
+faster expected,0.4078
+belgam waffle,0.4077
+delicious pure,0.4076
+food location,0.4073
+country potato,0.4071
+staff complained,0.4069
+better higher,0.4067
+strawberry kiwi,0.4066
+chicken breaded,0.4065
+recommended breakfast,0.4065
+breakfast outing,0.4065
+go sunday,0.4065
+breakfast even,0.4062
+cheeseburger french,0.4062
+sweet maple,0.4061
+friend sandwich,0.4061
+kid loud,0.406
+hit chocolate,0.4054
+ecstatic great,0.4053
+blintz food,0.4052
+delicious home,0.4052
+scramble strawberry,0.4051
+last visit,0.4049
+seductive delicious,0.4048
+cashier elena,0.4041
+great local,0.404
+wanted caramel,0.4039
+popular crowded,0.4038
+stuffed mushroom,0.4036
+cafe pleasant,0.4036
+greasy good,0.4034
+sandwiches portions,0.4033
+check food,0.4033
+order pancake,0.4032
+like starbucks,0.4029
+burger ok,0.4028
+menu design,0.4025
+restaurant selling,0.4025
+recipe everything,0.4024
+burrito perfect,0.4022
+crabmeat stuffed,0.4019
+completely cooked,0.4018
+everyone table,0.4016
+bowl fresh,0.4013
+cream inside,0.4012
+tasty place,0.4011
+breakfast cafe,0.401
+savoury salsa,0.401
+salad probably,0.4006
+got wrong,0.4004
+cooked raw,0.4002
+food pancake,0.4001
+french fry,0.4001
+staff friendliest,0.3997
+customer ordering,0.3997
+fresh made,0.3996
+went saturday,0.3995
+sandwich chai,0.3994
+sweet strawberry,0.3994
+butter,0.3993
+swooping table,0.3989
+toast butter,0.3989
+came butter,0.3988
+table home,0.3985
+sf chicken,0.3981
+got food,0.3978
+francisco holiday,0.3974
+flavor offering,0.3972
+breakfast lady,0.3972
+breakfast stop,0.3972
+boxed mimosa,0.3971
+restaurant make,0.3971
+dairy,0.3967
+terrible system,0.3966
+needed salt,0.3963
+bacon blue,0.3963
+variety flavor,0.3955
+really tasty,0.3955
+flavor latte,0.3954
+town food,0.3953
+table cleaned,0.3953
+cream fresh,0.3951
+morning quiet,0.395
+spoon diner,0.395
+eat either,0.3948
+tea kettle,0.3946
+fry potato,0.3942
+steam beer,0.3942
+lot table,0.3941
+expensive like,0.394
+love cable,0.3939
+kind tea,0.3937
+waiter anticipate,0.3937
+enough food,0.3935
+owner great,0.3935
+terrible atmosphere,0.3934
+miami something,0.3934
+favorite whip,0.3933
+busy weekend,0.3933
+hungry heading,0.393
+delish strawberry,0.393
+also cashier,0.3928
+good teaspoon,0.3927
+greasy spoon,0.3921
+along slow,0.3921
+order hungry,0.392
+soft fluffy,0.3919
+every week,0.3919
+stopped eggplant,0.3919
+delicious long,0.3918
+scramble nutella,0.3916
+flavoring potato,0.3913
+hot spot,0.3912
+plate buttery,0.3911
+store crepe,0.391
+ricotta cheese,0.3908
+regular menu,0.3908
+coffee ok,0.3904
+minute ordering,0.3903
+staff good,0.3901
+dispenser cucumber,0.3901
+mushroom crepe,0.3897
+super hungry,0.3896
+great mimosa,0.3894
+soggy sugary,0.3894
+strawberry cr,0.3893
+tourist trap,0.3891
+crepe bagel,0.3891
+understanding salad,0.3886
+cake florentino,0.3885
+expect line,0.3884
+american food,0.3884
+well cooked,0.3883
+chaos food,0.3883
+cake mistake,0.388
+hot served,0.3878
+late avoid,0.3875
+treasure tucked,0.3873
+breakfast mini,0.3873
+excellently cheese,0.3871
+good potato,0.3871
+dreamforce worth,0.3868
+saturday staff,0.3867
+paid mediocre,0.3867
+food italian,0.3866
+one seasonal,0.3864
+worth burrito,0.3863
+cheaper cafe,0.386
+restaurant demise,0.386
+staff pleasant,0.3859
+type food,0.3857
+good waffle,0.3853
+waiter kind,0.3851
+italian mexican,0.3849
+list food,0.3847
+monday glad,0.3846
+two pancake,0.3845
+maple syrup,0.3844
+discount place,0.3844
+bagel winner,0.3843
+cook bag,0.3838
+minute potato,0.3836
+mediocre best,0.3835
+wifi football,0.3832
+ask coffee,0.3832
+restaurant quite,0.3832
+fast eggs,0.3831
+lovely grandmother,0.3831
+burrito decent,0.3821
+juice seating,0.3819
+job cleaning,0.3818
+rock star,0.3814
+breakfast late,0.3814
+every day,0.3813
+heavy cheese,0.3813
+cake crepe,0.3811
+amount cashier,0.381
+tea chart,0.3807
+cafe able,0.3807
+pick food,0.3805
+lovely people,0.3803
+coffee extra,0.3801
+take forever,0.3794
+restaurant always,0.3791
+breakfast absolutely,0.3791
+fast fix,0.3791
+food arrived,0.3789
+prices decent,0.3787
+far big,0.3783
+wife liked,0.3779
+regular brunch,0.3778
+cup lipstick,0.3775
+one dessert,0.3774
+long long,0.3773
+drowning freshly,0.3773
+rolled sunday,0.3772
+salsa crepe,0.377
+selection vegetarian,0.3761
+tomato sauce,0.3756
+freshest orange,0.3754
+sister,0.3753
+cooked dish,0.3753
+best egg,0.3752
+honeymoon recommend,0.3751
+espresso thankfully,0.3751
+fear find,0.3751
+madhouse brunch,0.3748
+super friendly,0.3748
+restaurant easy,0.3746
+waitress polite,0.3744
+expensive table,0.3742
+restaurant restaurant,0.3742
+interior unlimited,0.3739
+shared nutella,0.3737
+food turns,0.3736
+go fast,0.3733
+used french,0.3732
+recommended cafe,0.3731
+something desired,0.3729
+tasted,0.3729
+drink dairy,0.3726
+cold finally,0.3725
+food local,0.3725
+busy staff,0.3722
+comfort breakfast,0.3721
+menu massive,0.3721
+melted beans,0.3717
+complemented well,0.3715
+tea teapot,0.3711
+worked quickly,0.3707
+coffee boiling,0.3704
+carrot orange,0.3703
+food breakfast,0.3701
+homeless lady,0.3698
+freshness food,0.3695
+potato cooked,0.3695
+picky eater,0.3692
+cakes,0.3689
+soymilk,0.3687
+incredible food,0.3684
+husband salmon,0.3684
+waffle instead,0.3684
+abandoned meal,0.3683
+coffee gave,0.3683
+waiter kicked,0.368
+waffle amazing,0.368
+right morning,0.3676
+sunday quick,0.3675
+discount,0.3674
+cappuccino,0.3673
+rotten tofu,0.3671
+enjoy brunch,0.367
+nice seating,0.3662
+town cashier,0.3662
+uncooked onion,0.366
+di live,0.366
+happy food,0.366
+end year,0.366
+rancheros cooked,0.3656
+food either,0.3654
+salsa poorly,0.3651
+empty table,0.3648
+egg crab,0.3647
+helpful worked,0.3647
+vegetarian think,0.3646
+kind menu,0.3646
+food showed,0.3646
+cooked butter,0.3642
+huge cooked,0.3642
+food think,0.3639
+long easily,0.3639
+really nice,0.3638
+menu impressive,0.3634
+teaspoon sour,0.3633
+huge delicious,0.3633
+mimosa bloody,0.3628
+pesto eggplant,0.3627
+diner food,0.3627
+charm food,0.3625
+visiting place,0.3624
+cold coffee,0.3623
+good counter,0.3619
+stove,0.3619
+weekday breakfast,0.3617
+soy milk,0.3617
+cake make,0.3615
+tasted dry,0.3615
+three party,0.3614
+rag restaurant,0.3612
+cheese croissant,0.3607
+charged card,0.3605
+rancheros bean,0.3601
+door saturday,0.3599
+delicious always,0.3597
+plate waffle,0.3596
+girl worth,0.3592
+workflow cashier,0.3589
+inside meal,0.3583
+restroom immaculate,0.3583
+wait crab,0.3582
+burrito good,0.3581
+cucumber slice,0.3581
+crepe restaurant,0.3579
+potato sourdough,0.3577
+outside weekend,0.3572
+martha finland,0.3571
+think breakfast,0.3568
+better price,0.3566
+spruced meal,0.3563
+prepare food,0.356
+sandwich decent,0.3558
+match food,0.3557
+unsatisfied,0.3557
+plate husband,0.3553
+mediocre prices,0.3553
+breakfast wasnt,0.3553
+party got,0.3552
+cooked friend,0.3549
+potato burnt,0.3547
+table waited,0.3545
+served coffee,0.3543
+gave free,0.3542
+egg orange,0.3541
+delicious host,0.354
+thief,0.3539
+chicken family,0.3538
+close eating,0.3529
+many table,0.3525
+liven potatoes,0.3524
+working woman,0.3522
+vegetarian year,0.3521
+bear cub,0.352
+waffle okay,0.352
+seated food,0.3519
+full yumminess,0.3519
+good patient,0.3513
+refill coffee,0.3512
+menu art,0.3512
+eat ordered,0.351
+juice smoothy,0.351
+expecting fruit,0.351
+hunt food,0.3509
+waiter bus,0.3508
+breai downtown,0.3507
+many platter,0.3507
+beat menu,0.3506
+busser chase,0.3505
+decided vanilla,0.3503
+nice cooked,0.3497
+house cake,0.3496
+weak coffee,0.3493
+rave review,0.3489
+preparing espresso,0.3485
+good american,0.3482
+staff efficient,0.3482
+ruined sitting,0.348
+many salmon,0.348
+terrible tofu,0.347
+daughter strawberry,0.3469
+pancake brought,0.3467
+wait order,0.3466
+brunch monday,0.3466
+potato ice,0.3463
+friday bad,0.3463
+watch usc,0.3462
+expensive ordered,0.3462
+coffee recommend,0.3459
+pretty busy,0.3457
+free option,0.3456
+charge receipt,0.3455
+pregnant friend,0.3453
+tea tip,0.3444
+honey ordering,0.3444
+breakfast span,0.3442
+check chef,0.3442
+sf living,0.3442
+arrives quickly,0.3441
+sour cream,0.3439
+eating outside,0.3439
+quickly service,0.3438
+tried crab,0.3438
+want breakfast,0.3436
+chipped plate,0.3433
+service dreadful,0.3431
+dirty dish,0.3423
+atmosphere cafe,0.3421
+returned breakfast,0.3421
+crepe yummy,0.3418
+wife loved,0.341
+food absolutely,0.3408
+morning table,0.3403
+salmon include,0.3403
+fake meat,0.3403
+drink eclectic,0.3401
+service first,0.3401
+pancake order,0.34
+breakfast everyday,0.3391
+meal ready,0.3386
+love eat,0.3382
+giant menu,0.3381
+seat food,0.338
+fran busy,0.3379
+food edible,0.3379
+awesome staff,0.3379
+ordering sitting,0.3378
+fluffy waffle,0.3377
+jelly butter,0.3377
+soda,0.3377
+especially coffee,0.3374
+ok food,0.337
+breakfast day,0.3369
+downtown saturday,0.3366
+gave salmon,0.3363
+croissant,0.336
+thanksgiving day,0.3357
+mimosa deck,0.3354
+coffee since,0.3354
+american pancake,0.3351
+bad chorizo,0.3351
+eating honey,0.335
+avocado liking,0.3347
+honestly restaurant,0.3346
+lipstick stain,0.3344
+breakfast beacon,0.3343
+client food,0.3341
+serve high,0.3339
+sloppy service,0.3338
+food brought,0.3337
+walnut,0.3337
+table coffee,0.3337
+come chicken,0.3327
+best delicious,0.3325
+visited delicious,0.3315
+liking food,0.3312
+think soda,0.331
+get table,0.331
+large table,0.3309
+pepsi handed,0.3308
+delicious friendly,0.3306
+stealing food,0.3305
+party stroller,0.3304
+impressed meal,0.3297
+order rude,0.3281
+bland egg,0.3281
+aware customer,0.328
+sunday spot,0.3278
+table magically,0.3275
+offer tea,0.3274
+forgot one,0.3272
+end restaurant,0.3271
+annoyed wish,0.3269
+cold food,0.3267
+packed tea,0.3264
+water cup,0.3263
+caramel,0.326
+wife salmon,0.3256
+refund meal,0.325
+price restaurant,0.3243
+wanted eat,0.324
+diner service,0.3239
+price fair,0.3236
+cooked great,0.3234
+food cold,0.3231
+grilled cheese,0.323
+onion caper,0.3229
+butter even,0.3228
+bagel good,0.3225
+cleaning,0.3225
+gladly changed,0.3223
+delicious line,0.322
+really cleaned,0.3216
+menu staff,0.3215
+crowd efficiently,0.3214
+florentine taste,0.3212
+thanksgiving,0.3211
+week sunday,0.3211
+quickly wifi,0.3194
+line restaurant,0.3185
+torino eggplant,0.3184
+much avocado,0.3179
+rancheros sub,0.3178
+happy eat,0.3177
+served nice,0.3177
+tasty treat,0.3177
+potatoes alright,0.3176
+mixup food,0.3176
+loud echoeing,0.3173
+crepe coconut,0.3173
+work pretty,0.3167
+kitchen waiting,0.3164
+hour rain,0.316
+arrived sunday,0.3155
+restaurant table,0.3153
+breakfast next,0.3152
+queue long,0.315
+sandwich place,0.315
+better morning,0.3149
+milk foam,0.3145
+service exceptional,0.3141
+star wife,0.3135
+cashier seem,0.3134
+dessert plate,0.3132
+boy glad,0.3126
+salmon try,0.3126
+lackluster super,0.3125
+make drink,0.3124
+fantastic place,0.312
+drink,0.3115
+portion coffee,0.311
+uncomfortably rude,0.3105
+toast amazing,0.3098
+drawn menu,0.3081
+rude uncomfortably,0.3078
+cooked sure,0.3075
+crepe overcooked,0.3073
+dirty even,0.3071
+quite cooked,0.3057
+asked military,0.305
+menu plus,0.3047
+staff highly,0.3047
+menu get,0.3046
+made orange,0.3045
+eat dinning,0.3041
+staff problem,0.3041
+window cleaned,0.3038
+yummy tasty,0.3031
+finger maple,0.303
+space food,0.3027
+syrup luckily,0.3024
+appropriately cooked,0.3024
+new favorite,0.3019
+husband dish,0.3017
+honey staff,0.3017
+day ate,0.3013
+honey sloppy,0.3007
+everyone shouting,0.3002
+super clean,0.3001
+syrup cup,0.2993
+ridiculous food,0.2992
+clean trash,0.2991
+kitchen rhythm,0.2987
+service barely,0.2984
+cheese egg,0.2979
+sunday getting,0.2967
+black coffee,0.2957
+waitress,0.2953
+francisco fresh,0.2948
+city highly,0.2947
+ordered french,0.2946
+wait apology,0.2945
+wiped cleaned,0.2942
+choice staff,0.2937
+rancheros scramble,0.2935
+helpful extra,0.2926
+order strawberry,0.2925
+service huge,0.292
+excited menu,0.2917
+yelp google,0.2914
+morning everything,0.2912
+city vacation,0.289
+complained spanish,0.2885
+manager mask,0.2858
+menu almost,0.2839
+pay plate,0.2828
+typical breakfast,0.2821
+house coffee,0.2814
+server cleaner,0.2773
+shared dessert,0.2762
+benedict flash,0.2744
+menu choose,0.2738
+recommendation highly,0.2736
+eat would,0.2736
+rude eiher,0.2719
+lackluster best,0.2704
+overpriced horrible,0.2703
+make nervous,0.2703
+guess food,0.2701
+careless flavor,0.2686
+apartment pick,0.2651
+shopping downtown,0.2649
+perfectly cold,0.2648
+cold made,0.2639
+overpriced read,0.2625
+morning mobbed,0.2625
+coffee however,0.2614
+vacation glad,0.2603
+ate unforgettable,0.2591
+completely ruined,0.2588
+savoury plate,0.2556
+looked manager,0.2548
+google review,0.2521
+omelette sweet,0.2474
+sweet savoury,0.2453
+menu new,0.2419
+bagel stale,0.2411
+much food,0.241
+back meal,0.2408
+though dining,0.2384
+money tip,0.2352
+time waiting,0.2346
+asked pregnant,0.2327
+exceptional price,0.2326
+waited staff,0.2308
+looked online,0.2291
+total jerk,0.2226
+staff forgot,0.2221
+loud everyone,0.221
+forgot table,0.2168
+hype leave,0.2152
+shoved money,0.2104
+coffee first,0.2092
+delicious decided,0.2067
+super high,0.1913
+better food,0.1762
+half hour,0.1746
+google,0.1645
+charged three,0.1616
+food unusual,0.1614
+paid food,0.1555
+stealing,0.1335
+got minute,0.095

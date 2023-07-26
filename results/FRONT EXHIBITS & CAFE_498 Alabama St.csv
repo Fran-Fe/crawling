@@ -1,132 +1,194 @@
 keyword,weight
-coffee,7.8666
-thank,4.0257
-great,2.6783
-espresso,2.1512
-soon,1.592
-love,1.5103
-thrilled,1.1869
-hope,1.1
-pastry,1.0366
-good,0.9871
-nice,0.9658
-happy,0.9602999999999999
-popcorn,0.9316
+coffee,5.8319
+great coffee,2.7048
+espresso,1.5209
+excellent coffee,1.4886
+serving soon,1.4052
+happy,1.3127
+best coffee,1.2833999999999999
+review hope,1.2473
+pastry,1.2451
+thrilled,1.194
+popcorn,1.1252
+good decaf,1.0
+coffee friendly,0.935
+coffee nice,0.8953
+coffee espresso,0.8932
+good,0.8744
 decaf,0.8453
-friendly,0.8088000000000001
-best,0.7764
-delicious,0.7046
-enjoyed,0.6726
-chocolate,0.649
-appreciate,0.6104
-serving,0.5978
-rude,0.5685
-unfriendly,0.5669
-kind,0.5621
-delighted,0.5176000000000001
-baker,0.4975
-beans,0.49470000000000003
-flavor,0.4937
-parklet,0.4887
-cheesecake,0.4725
-cookies,0.4715
-service,0.4678
-polite,0.446
-wonderful,0.4405
-cappuccino,0.4196
-courteous,0.4168
-buttery,0.4006
-window,0.3913
-inside,0.3908
-serve,0.3858
-outside,0.3762
-confidential,0.3732
-gorgeous,0.3694
-pour,0.3592
-manager,0.3591
-awesome,0.3566
-confidentiality,0.3443
-smooth,0.3393
-viva,0.3384
-biscuits,0.3358
-space,0.3336
-customer,0.3333
-open,0.3265
-respectful,0.3251
-excellent,0.3181
-glad,0.3136
-amazing,0.31
-biscuit,0.288
-loved,0.2733
-pancakes,0.2724
-pastries,0.2557
-long,0.2501
-continue,0.2483
-stars,0.2481
-dj,0.2464
-employee,0.2453
-photos,0.2402
-roasts,0.2387
-outdoor,0.2358
-jammies,0.2327
-certainly,0.2318
-incredible,0.2297
-staff,0.219
-cat,0.2172
-milk,0.2079
-blueberry,0.2048
-star,0.2043
-support,0.2033
-pros,0.1961
-sf,0.1955
-sailing,0.1879
-breakfast,0.1866
-positive,0.1829
-ain,0.1814
-ryan,0.179
-house,0.1742
-cafe,0.1691
-ruth,0.1607
-recipes,0.1586
-regulars,0.1574
-pride,0.1564
-japanese,0.1556
-pretty,0.1499
-sweet,0.1497
-sugar,0.14
-richer,0.1393
-recycled,0.1373
-sophie,0.1302
-crazy,0.1122
-food,0.1101
-cup,0.107
-sorry,0.1018
-drinks,0.0917
-taste,0.0857
-menu,0.0847
-bad,0.0842
-jan,0.0787
-designer,0.0768
-bakehouse,0.0764
-finest,0.0708
-barista,0.055099999999999996
-upset,0.0542
-morning,0.0517
-neighborhood,0.0462
-baked,0.0427
-ice,0.0425
-iced,0.0374
-caffeinated,0.0368
-grab,0.0324
-cute,0.0315
-sunny,0.0283
-remade,0.0266
-jammie,0.0216
-brew,0.0198
-drink,0.0184
-maya,0.013
-city,-0.0093
-ethiopia,-0.0258
-offered,-0.059
-business,-0.067
-live,-0.0673
+espresso pastry,0.8257
+happy customer,0.8249
+loved coffee,0.8061
+love happy,0.7657
+best cappuccino,0.7605
+ryan star,0.7556
+gorgeous parklet,0.7406
+enjoyed popcorn,0.7363
+thank ryan,0.7321
+pastry house,0.7311
+crazy happy,0.7311
+cappuccino amazing,0.7301
+thrilled great,0.7191
+good coffee,0.7178
+thank alexandra,0.7112
+incredible coffee,0.71
+see soon,0.7088
+pour espresso,0.7043
+delicious coffee,0.704
+house baker,0.7022
+coffee pros,0.6994
+popcorn delicious,0.6963
+love serving,0.6957
+experience soon,0.6893
+coffee window,0.6868
+grab pastry,0.6851
+coffee grab,0.6822
+furikake popcorn,0.6778
+hope create,0.6769
+coffee love,0.6732
+nice outside,0.6712
+hope serve,0.6665
+another great,0.6661
+hope,0.6646
+serve soon,0.6632
+friendly service,0.6622
+word hope,0.6599
+experience thank,0.6551
+ruth star,0.6548
+star review,0.6548
+pastry certainly,0.6523
+review thrilled,0.6506
+thank ruth,0.6505
+smooth flavor,0.6473
+popcorn new,0.6469
+espresso pretty,0.6441
+great experience,0.6338
+unfriendly staff,0.6302
+espresso coffee,0.6302
+espresso jammies,0.6223
+thank david,0.6208
+great espresso,0.6187
+parklet reminds,0.6173
+love,0.6106
+great photo,0.61
+friendly,0.6072
+amazing cheesecake,0.6027
+community appreciate,0.5954
+thrilled hard,0.5947
+appreciate review,0.5947
+rude unfriendly,0.5944
+nice,0.5908
+positive review,0.5813
+finest cup,0.5807
+appreciate kind,0.5765
+thank sophie,0.5746
+kind word,0.5743
+pastry love,0.5735
+great,0.5733
+thank appreciate,0.5661
+ask manager,0.5609
+coffee service,0.555
+cup espresso,0.553
+nice people,0.5522
+star,0.5497
+serving community,0.5471
+staff coffee,0.5466
+parklet,0.5382
+review love,0.5361
+manager duty,0.5337
+coffee walk,0.531
+incredibly nice,0.5287
+buttery jammy,0.5277
+quality coffee,0.5249
+coffee legend,0.523
+intense chocolate,0.5158
+biscuit thank,0.5139
+blueberry pancake,0.5132
+built gorgeous,0.5129
+flavor,0.5104
+paying best,0.5052
+rude,0.5048
+buttery biscuit,0.5039
+service pastry,0.5028
+enjoyed visit,0.5009
+coffee tried,0.4997
+sf coffee,0.4981
+coffee anything,0.4954
+word coffee,0.4952
+awesome built,0.4935
+coffee tour,0.4921
+jammie biscuit,0.4917
+coffee looking,0.4875
+enjoyed loved,0.4839
+kind employee,0.4834
+coffee specialist,0.4832
+dosage coffee,0.4831
+better coffee,0.4818
+seating delicious,0.4807
+manager,0.4805
+airbnb coffee,0.4788
+staff good,0.4786
+review delighted,0.4785
+delighted enjoyed,0.4784
+coffee foam,0.4783
+cheesecake menu,0.4766
+layered buttery,0.4722
+delicious affogato,0.4676
+cat fishing,0.4635
+coffee find,0.4628
+mocha deliciously,0.4618
+cafe barista,0.4612
+roast bean,0.4605
+pros delighted,0.4592
+friendly staff,0.4554
+thrilled wonderful,0.4529
+coffee scene,0.4521
+morning espresso,0.4517
+amazing smooth,0.4509
+city roast,0.4439
+espresso ok,0.4427
+style coffee,0.4415
+employee take,0.4387
+new food,0.4377
+built recycled,0.4373
+chocolate note,0.4324
+taste milk,0.4267
+sailing japanese,0.423
+cup coffee,0.4219
+allow manager,0.4209
+wonderful experience,0.4179
+chocolate,0.4128
+coffee incredibly,0.4099
+flaky delicious,0.4097
+cute seating,0.409
+coffee regular,0.4044
+polite respectful,0.4025
+glad feel,0.4025
+respectful courteous,0.4019
+biscuit,0.3986
+caffeinated warmest,0.3982
+confidentiality always,0.3954
+glad enjoyed,0.3906
+proudly roast,0.3868
+polite upset,0.3859
+delicious selection,0.3793
+nature polite,0.3766
+dj designer,0.3746
+recipe rigorous,0.3726
+thanks dj,0.3684
+cup ice,0.3665
+barista offered,0.3644
+make coffee,0.3514
+new customer,0.3437
+remade drink,0.3407
+coffee drink,0.3406
+iced pour,0.3406
+customer best,0.3379
+japanese wood,0.3377
+drink choice,0.3143
+best cup,0.312
+serving regular,0.2883
+coffee hand,0.2587
+style iced,0.2445
+cup ethiopia,0.2237
+ethiopia pour,0.2201

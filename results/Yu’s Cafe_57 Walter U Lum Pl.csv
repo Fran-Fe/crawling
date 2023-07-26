@@ -1,82 +1,120 @@
 keyword,weight
-tea,2.1869
-drinks,2.0944000000000003
-good,1.8246
-milk,1.4439
-jelly,1.0497999999999998
-food,1.0341
-slow,0.9797
-fruit,0.8279000000000001
-cream,0.8109
-friendly,0.8043
-strawberry,0.7968999999999999
-service,0.7861
-drink,0.6963
-huge,0.6934
-favorite,0.6924
-sucks,0.6861
-expensive,0.6707
-waffle,0.6705
-fool,0.6446
-coffee,0.6343
-fresh,0.616
-price,0.6016
-dessert,0.5959
-ice,0.5625
-rude,0.557
-loved,0.5355
-awful,0.5247
-authentic,0.473
-delicious,0.4681
-best,0.4438
-affordable,0.4405
-customer,0.426
-amazing,0.4242
-kong,0.3706
-pudding,0.3669
-cafe,0.3608
-chinatown,0.3281
-grapefruit,0.3258
-fast,0.3138
-welcome,0.3125
-accommodating,0.3049
-wasn,0.3048
-ginger,0.3007
-super,0.2983
-funny,0.2903
-nice,0.2873
-great,0.2861
-restroom,0.2848
-enjoyed,0.2773
-freshly,0.27590000000000003
-sugar,0.271
-drinking,0.2702
-rice,0.2634
-black,0.2518
-excellent,0.2512
-sticky,0.249
-highly,0.2471
-sweet,0.2247
-indoor,0.2102
-strong,0.2079
-workers,0.205
-energetic,0.2028
-herb,0.2007
-mango,0.1816
-butter,0.1634
-boba,0.1631
-flavor,0.1589
-cheese,0.1458
-menu,0.1424
-sweetness,0.0961
-homeless,0.0828
-kitchen,0.0778
-customers,0.0755
-latte,0.0615
-hk,0.055
-taste,0.0374
-sister,0.0276
-tax,0.0209
-creamy,-0.0043
-financial,-0.0115
-office,-0.0277
+tea,1.9401000000000002
+fruit tea,1.7313
+slow,1.0
+freshly made,0.9419
+good fool,0.9043
+good price,0.9033
+fool good,0.9027
+drinks huge,0.8769
+cream waffle,0.8562
+ice cream,0.8516
+expensive good,0.8446
+worker rude,0.8374
+favorite fruit,0.837
+awful worker,0.8239
+expensive,0.8102
+strong coffee,0.794
+drinking coffee,0.792
+loved strawberry,0.7902
+tea excellent,0.7842
+waffle good,0.7607
+good,0.7594
+fool,0.7475
+coffee good,0.7403
+milk,0.7309
+rude idea,0.729
+milk coffee,0.7219
+huge,0.7086
+service suck,0.7016
+cream,0.6905
+ginger milk,0.6902
+style dessert,0.6873
+enjoyed drink,0.6858
+rude,0.6857
+tea chinatown,0.6756
+waffle,0.6723
+best boba,0.6709
+strawberry strawberry,0.6681
+creamy strawberry,0.6608
+strawberry drink,0.6602
+loved black,0.6601
+coffee energetic,0.6522
+good customer,0.6452
+delicious boba,0.6415
+favorite sticky,0.6397
+staff funny,0.6204
+suck,0.6183
+dessert,0.5979
+black sugar,0.5977
+sugar fresh,0.5948
+awful,0.5945
+service drinks,0.5909
+family enjoyed,0.5877
+food taste,0.5866
+jelly rice,0.5864
+boba tea,0.581
+drink family,0.5718
+welcome staff,0.5701
+fresh milk,0.5687
+drinks,0.5664
+milk tea,0.5616
+super fresh,0.5614
+latte sweetness,0.5597
+curd pudding,0.558
+excellent price,0.5546
+fresh mango,0.5528
+made sweet,0.5471
+strawberry sea,0.5429
+cream cheese,0.5401
+friendly service,0.5354
+sticky rice,0.5346
+tea good,0.5324
+herb jelly,0.5308
+grapefruit tea,0.5301
+butter coffee,0.527
+drink pretty,0.5269
+coffee matcha,0.521
+fruit,0.5188
+one best,0.5187
+amazing super,0.5153
+accepted menu,0.5151
+service nice,0.5103
+good service,0.5097
+milk curd,0.5075
+jelly ice,0.505
+fresh affordable,0.4967
+indoor restroom,0.49
+accommodating drink,0.4858
+food really,0.4842
+strawberry,0.4837
+jelly sweet,0.4821
+tea fresh,0.4787
+coffee tasted,0.4778
+style milk,0.4776
+drink food,0.4735
+rice herb,0.47
+authentic hong,0.4699
+good authentic,0.4609
+small jelly,0.4569
+jelly ball,0.4568
+menu includes,0.4492
+jelly,0.4211
+taste great,0.4148
+whole grapefruit,0.414
+fast service,0.412
+sitting indoor,0.404
+matcha freshly,0.4005
+least fruit,0.3981
+hot coffee,0.3903
+cut fruit,0.3807
+tea whole,0.3689
+curry fish,0.3669
+evaporated milk,0.3608
+customer always,0.3478
+ice drink,0.3333
+cafe recommended,0.3314
+drinks always,0.3255
+consistent taste,0.2899
+taste staff,0.2863
+staff sweet,0.266

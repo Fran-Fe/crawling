@@ -1,123 +1,181 @@
 keyword,weight
-coffee,10.2129
-chocolate,1.8905
-good,1.5274999999999999
-amazing,1.4868000000000001
-cafe,1.3699
-espresso,1.3673
-sandwiches,1.3496000000000001
-place,1.2572
-delicious,1.2517
-nice,1.1687
-interesting,1.1471
-hot,1.1439
-cozy,1.1397
-great,1.1122
-small,1.0891
-cup,1.0176
-cute,0.9924
-food,0.9824999999999999
-lunch,0.9416
+coffee,5.3347
+good coffee,4.0401
+hot chocolate,2.2478
+chocolate,1.78
+great coffee,1.7123
+cup coffee,1.6589
+amazing,1.6488
+great espresso,1.5551
+espresso,1.2716
+coffee shop,1.1798
+sightglass coffee,1.1526999999999998
+cup,1.1349
+good,1.0828
+sandwich,1.0437
+amazing coffie,1.0
+lovely place,1.0
+place amazing,0.9764
+lunch,0.9649000000000001
+small interesting,0.9573
+amazing like,0.948
 lovely,0.9313
+support bike,0.9298
+small,0.8964
+bike infrastructure,0.8946
+hidden building,0.8831
+little cozy,0.855
 coffie,0.8465
-cappuccino,0.8416999999999999
-warm,0.8287
+espresso hot,0.8407
+spot hidden,0.8359
+delicious coffee,0.8327
+nice cafe,0.8274
+hidden,0.8207
+coffee nice,0.8179
+latte delicious,0.8141
 bike,0.803
-cool,0.7726999999999999
-café,0.7463
-hidden,0.7434
-comfortable,0.7351
-little,0.7225
-pastries,0.6648
-panini,0.6556
+coffee good,0.7974
+much,0.7902
+secret coffee,0.7899
+like much,0.7807
+espresso pastry,0.7774
+interesting space,0.7703
+lunch cool,0.7559
+good sandwich,0.7557
+cozy spot,0.7521
+table sofa,0.7446
+place,0.736
+sandwich love,0.7148
+interesting,0.7146
+pleasant warm,0.7086
+cheapest pour,0.7084
+pastry cute,0.7011
+great cappuccino,0.6944
+comfortable drink,0.6817
+kiosk comfortable,0.6768
+cheapest,0.6726
+coffee food,0.6718
+panini incredible,0.6694
+sandwich though,0.6694
+cafe delicious,0.6676
+please support,0.6674
+drink delicious,0.6662
+panini lunch,0.666
+coffee pannini,0.663
+sofa area,0.6612
+warm weather,0.6549
+baristas stunning,0.6475
+coffee drink,0.6472
+amazing coffee,0.6459
+enjoy cup,0.6408
+sofa,0.6404
 infrastructure,0.64
-support,0.6351
-cheapest,0.6136
-spot,0.6037
-space,0.5909
-quaint,0.5887
-seating,0.5878
-buildings,0.5877
-pleasant,0.5554
-charming,0.5383
-wifi,0.4868
-charm,0.4803
-like,0.4798
-sun,0.4593
-kiosk,0.4548
-drinks,0.4442
-duck,0.4416
-incredible,0.431
-shop,0.4259
-tables,0.4129
-barista,0.4105
-prosciutto,0.4104
-beans,0.4086
-sandwich,0.4007
-outdoor,0.3941
-fashionable,0.393
-sofa,0.3713
-tasty,0.3706
-love,0.3706
-onion,0.368
-almond,0.3546
-soup,0.3511
-financial,0.3431
-latte,0.342
-gem,0.3417
-salads,0.3416
-oasis,0.3395
-breakfast,0.3359
-having,0.3257
-baristas,0.3228
-10am,0.32
-sightglass,0.3177
-enjoy,0.2856
-chill,0.2786
-location,0.2759
-tucked,0.274
-uber,0.2687
-cappuccinos,0.2512
-historic,0.2465
-soups,0.2465
-cutest,0.2396
-best,0.2367
-need,0.2366
-glasshouse,0.2343
-alley,0.2314
-late,0.2271
-waiting,0.2254
-secret,0.2246
-crowd,0.2229
-bricked,0.2193
-atmosphere,0.2163
-friday,0.2147
-sweet,0.2127
-sour,0.212
-office,0.207
-secluded,0.198
-expertly,0.1937
-treats,0.1868
-stunning,0.1829
-smooth,0.1784
-away,0.1741
-francisco,0.1496
-shops,0.1492
-morning,0.1399
-internet,0.1339
-pannini,0.1223
-beautiful,0.1136
-clean,0.1061
-surly,0.1059
-hours,0.1054
-owner,0.1011
-bustle,0.0979
-corner,0.0955
-servers,0.0803
-courtyard,0.0798
-tastes,0.0638
-years,0.0592
-stars,0.0578
-pour,0.055
-day,0.0221
-sadly,0.0124
+onion soup,0.6394
+coffee bean,0.6356
+duck panini,0.6355
+coffee amazing,0.635
+charming hideaway,0.6348
+coffee soup,0.6344
+best almond,0.6294
+soup yummy,0.6278
+yummy breakfast,0.6185
+cappuccino sandwich,0.6177
+delicious cappuccino,0.614
+alley coffee,0.6095
+shop tasty,0.6068
+building coffee,0.6037
+coffee place,0.6016
+bricked office,0.5944
+friendly baristas,0.5937
+great charm,0.5892
+space,0.5847
+pastry sandwich,0.5802
+pastry,0.5802
+location cup,0.5798
+sandwich kiosk,0.5794
+great oasis,0.5787
+little coffee,0.5763
+hidden coffee,0.5758
+almond cappuccino,0.5758
+great cafe,0.5748
+panini prosciutto,0.5695
+good location,0.5682
+best espresso,0.5675
+incredible cool,0.5657
+sightclass coffee,0.565
+chocolate san,0.564
+comfortable outdoor,0.5625
+food outdoor,0.5607
+treat sandwich,0.559
+considering late,0.5563
+love atmosphere,0.5513
+location great,0.5486
+late morning,0.5464
+prosciutto,0.5458
+panini delicious,0.5442
+food next,0.5425
+uber friendly,0.542
+tasty sightglass,0.5389
+outdoor seating,0.5351
+soup pastry,0.5333
+coffee kiosk,0.5321
+ambiance cafe,0.5317
+interesting location,0.5314
+coffee cool,0.531
+enough barista,0.5257
+coffee serve,0.5243
+good panini,0.5201
+cool location,0.519
+chill sun,0.5146
+coffee corner,0.514
+expect better,0.5116
+barista crowd,0.5115
+best mocha,0.5101
+slightly sour,0.5067
+food coffee,0.5036
+delicious serve,0.4994
+sour extraction,0.4977
+quick lunch,0.4948
+fruit salad,0.4904
+expertly foamed,0.4814
+coffee nestled,0.4798
+european cafe,0.4721
+nice atmosphere,0.4718
+best hot,0.4712
+amazing food,0.4709
+salad boy,0.4647
+sandwich well,0.4608
+delicious,0.4582
+cafe,0.4549
+cute courtyard,0.4538
+financial district,0.4488
+coffee love,0.448
+back food,0.446
+coffee treat,0.4434
+great hot,0.4413
+friday double,0.4388
+kiosk terrific,0.4384
+long waiting,0.4304
+historic alley,0.4278
+coffee service,0.4238
+clean table,0.4183
+sweet expertly,0.4082
+coffee taste,0.4074
+meet coffee,0.4063
+hot,0.4045
+note wifi,0.3992
+crowd long,0.3976
+declined coffee,0.3905
+overly sweet,0.384
+owner beautiful,0.3823
+extremely smooth,0.3815
+watered server,0.3668
+san francisco,0.3661
+cutest little,0.3622
+space decent,0.3617
+five year,0.3579
+server surly,0.3499
+six star,0.3445
+espresso sf,0.2968
+year great,0.2948
+taste watered,0.2807

@@ -1,215 +1,417 @@
 keyword,weight
-food,11.3854
-salad,10.4872
-sandwich,10.32
-lunch,7.0348
-salads,7.0326
-sandwiches,6.9366
-great,5.372
-delicious,4.7435
-chicken,3.6733000000000002
-coffee,3.4715000000000003
-cafe,3.2634
-avocado,2.7523
-place,2.6215
-fresh,2.4951
-mango,2.295
-friendly,2.2803999999999998
-fantastic,2.1914
-service,1.9394
-kind,1.9076
-excellent,1.8886
-nice,1.7721
-tasty,1.635
-amazing,1.4325999999999999
-good,1.4299
-little,1.3900000000000001
-quaint,1.3679999999999999
-spot,1.1706
-recommend,1.1703000000000001
-breakfast,1.141
-small,1.121
-best,1.1188
-salmon,1.0623
-soup,1.0199
+salad,10.336
+sandwich,8.7659
+food,5.9677
+salad sandwich,4.5468
+best sandwich,3.6407
+great food,3.4811
+coffee,3.0143
+lunch,2.8702
+turkey avocado,2.6981
+delicious,2.5072
+great salad,2.3478
+sandwich salad,2.2789
+mango salad,2.2729
+good salad,2.1961
+good food,2.1526
+pastrami sandwich,2.1368
+great lunch,2.1304
+great,1.9910999999999999
+avocado sandwich,1.9868
+avocado,1.9813
+fantastic,1.9488
+food service,1.8334000000000001
+delicious sandwich,1.8079
+chicken sandwich,1.7696
+egg salad,1.7436
+nicoise salad,1.7410999999999999
+food great,1.5819
+smoked salmon,1.5396999999999998
+fresh,1.5152
+cafe,1.5144
+excellent,1.5078
+sandwich amazing,1.4146
+great service,1.3979
+delicious food,1.383
+food would,1.3655
+brie sandwich,1.3613
+fresh salad,1.3599999999999999
+mushroom sandwich,1.3577
+friendly food,1.3559
+soup sandwich,1.3558
+roasted chicken,1.3201
+friendly staff,1.3157
+sandwich ever,1.2893
+best breakfast,1.2610000000000001
+food amazing,1.2367
+excellent food,1.2135
+ham cheese,1.1872
+half salad,1.1839
+friendly,1.1604
+salmon,1.1581
+quaint,1.1568999999999998
+sandwich great,1.1024
+quaint little,1.1006
+chicken,1.0634
+prosciutto sandwich,1.0614999999999999
+ham swiss,1.0110000000000001
+would recommend,1.0092
+food coffee,1.0074
+food excellent,1.0
+interesting spot,1.0
+fantastic place,1.0
+swiss croissant,0.9868
+everything delicious,0.9792
+sandwich would,0.9715
 interesting,0.9594
-ham,0.8861999999999999
-espresso,0.8708
-turkey,0.8476
-moscone,0.8249
-outstanding,0.7926
-bigger,0.7758
-ingredients,0.7681
-cheese,0.7568
-quality,0.7503
-meal,0.7374999999999999
-owner,0.7252000000000001
-brunch,0.6939
-awesome,0.6796
-impressed,0.6747000000000001
-swiss,0.6738999999999999
-beautiful,0.6726
-mushroom,0.6722999999999999
-french,0.6709
-favorite,0.663
-warm,0.6575
-croissant,0.6517
-winderful,0.6446
-friends,0.6404000000000001
-toast,0.6376999999999999
-cute,0.6355999999999999
-pastries,0.6325000000000001
-bread,0.5958
-quantity,0.5634
-staff,0.5567
-love,0.5492
-loved,0.5305
-addicted,0.5298
-spectacular,0.5224
-friendliness,0.5203
-yummy,0.5103
-lunchtime,0.4976
-light,0.4715
-thanks,0.4622
-like,0.4536
-die,0.4527
-hype,0.441
-mediocre,0.4392
-roasted,0.4341
-prosciutto,0.4266
-microwaved,0.4264
-super,0.4083
-pastrami,0.3754
-apple,0.37170000000000003
-smoked,0.3702
-lattes,0.36950000000000005
-restaurant,0.3695
-horrible,0.3562
-slow,0.355
-bacon,0.353
-roast,0.3408
-tiny,0.3354
-cappuccino,0.3312
-mocha,0.3297
-happy,0.3271
-honey,0.3179
-atmosphere,0.3163
-chutney,0.3102
-people,0.31
-diner,0.3056
-cosy,0.305
-onions,0.3049
-fishiness,0.302
-superb,0.3018
-hotel,0.301
-hot,0.294
-cozy,0.291
-perfect,0.288
-billionaire,0.2861
-marzcapone,0.2855
-tuna,0.2836
-california,0.2802
-legit,0.2791
-dining,0.2771
-cortada,0.2766
-saltiness,0.2675
-close,0.2632
-party,0.2621
-february,0.2618
-brie,0.2588
-satisfied,0.2587
-croisant,0.2543
-strawberries,0.2537
-caffe,0.2517
-welcoming,0.248
-butteriest,0.246
-healthy,0.2418
-bottle,0.2389
-avocados,0.2388
-tartine,0.236
-workers,0.2325
-favorites,0.2295
-dine,0.2236
-pastry,0.2193
-eatery,0.214
-hungry,0.2107
-toasted,0.2039
-expensive,0.2022
-tomato,0.1992
-avo,0.1961
-babbling,0.196
-luncheons,0.191
-pickups,0.1898
-divine,0.1842
-near,0.1838
-beans,0.1832
-blue,0.1829
-trip,0.1792
-picnic,0.177
-paris,0.1735
-10,0.1699
-staffed,0.1694
-foam,0.1628
-hook,0.1558
-francisco,0.1537
-exquisite,0.1452
-customer,0.141
-nicest,0.1378
-week,0.1349
-butter,0.1338
-totally,0.1315
-shushed,0.1291
-character,0.1231
-affordable,0.1222
-culinary,0.1219
-lunches,0.1208
-authentic,0.115
-dish,0.1127
-generous,0.1103
-noon,0.1067
-terrible,0.1063
-register,0.1017
-eggs,0.1004
-latte,0.0996
-east,0.0961
-half,0.0959
-tucked,0.0869
-eat,0.0869
-street,0.0868
-madam,0.0859
-daily,0.0839
-enjoyed,0.0822
-meals,0.0819
-veg,0.0781
-45,0.0759
-highly,0.0753
-nicoise,0.0689
-avacado,0.0658
-sauce,0.0644
-baguette,0.0618
-minutes,0.0611
-huge,0.0602
-european,0.0594
-brightened,0.0588
-phone,0.0508
-stumbled,0.0482
-seating,0.0468
-afternoon,0.0462
-ways,0.0453
-big,0.0439
-heavy,0.0397
-croissants,0.0394
-shame,0.0382
-order,0.0289
-server,0.0239
-oftentimes,0.0179
-ordered,0.0138
-wifi,0.0081
-perfection,0.0031
-experienced,0.0003
-day,-0.0004
-quickly,-0.0039
-money,-0.0131
-large,-0.0307
-sf,-0.1401
-ve,-0.2
+lunch meeting,0.9343999999999999
+delicious excellent,0.9307
+salad nice,0.9289
+tasty food,0.9251
+everything fresh,0.9244
+tarragon sandwich,0.9208000000000001
+best cafe,0.9171
+excellent coffee,0.9108
+always fantastic,0.9103
+sandwich fantastic,0.9038
+amazing salad,0.902
+coffee friendliness,0.8992
+fresh food,0.8946
+caesar salad,0.8911
+superb sandwich,0.8761
+fresh winderful,0.8738
+get salad,0.8671
+light lunch,0.8493
+portions bigger,0.8484
+fantastic quality,0.846
+mango chicken,0.8419
+brunch lunch,0.8419
+food spectacular,0.8356
+salad addicted,0.83
+chicken salad,0.8272
+tasty salad,0.8268
+sandwich die,0.8249
+spot,0.8225
+avocado honey,0.8212
+mango,0.8211
+sandwich divine,0.8205
+food outstanding,0.8188
+salad order,0.8183
+nice little,0.8107
+salad person,0.8036
+tasty,0.8007
+salmon tasty,0.7998
+hot sandwich,0.7991
+salmon tartine,0.7932
+impressed every,0.7919
+kind owner,0.7895
+bigger like,0.7835
+bigger,0.7816
+sandwich genuine,0.7799
+great place,0.7762
+kind small,0.7752
+ham sandwich,0.7737
+lunch salad,0.7731
+place,0.7729
+cortada food,0.7613
+amazing lunch,0.7602
+nice,0.7579
+loved cortada,0.7573
+mocha coffee,0.7531
+food thanks,0.7522
+nice brunch,0.7505
+ingredients fresh,0.7458
+food choice,0.7406
+always,0.7401
+salad coffee,0.739
+small,0.7388
+california delicious,0.7366
+salad hook,0.7352
+especially salad,0.7328
+breakfast california,0.7308
+salad great,0.7256
+staff awesome,0.7252
+salad amazing,0.7236
+great fresh,0.7217
+people kind,0.7159
+shiny sandwich,0.7117
+perfect latte,0.7105
+cheese croisant,0.7103
+moscone delicious,0.71
+french toast,0.7083
+food place,0.7082
+excellent salad,0.7073
+quality,0.7052
+marzcapone delicious,0.7008
+lunch exquisite,0.7002
+kind friendly,0.6995
+avacado mango,0.6987
+sandwich favorite,0.6981
+salad lunch,0.6964
+good pastry,0.6962
+salad soooo,0.6952
+food good,0.6944
+espresso affordable,0.6921
+roast coffee,0.6855
+perfect lunch,0.6854
+food kind,0.6835
+salad perfect,0.6828
+sandwich super,0.6817
+legit impressed,0.6792
+best coffee,0.6771
+sandwich excellent,0.6727
+microwaved chicken,0.6716
+moscone outstanding,0.6688
+salad place,0.6667
+chicken avo,0.6662
+pastry sandwich,0.6644
+good espresso,0.6643
+preparation meal,0.6643
+meal ingredients,0.6614
+everything,0.6606
+honey chutney,0.6594
+sandwich simply,0.6585
+croissant perfect,0.658
+cafe near,0.6538
+lunch spot,0.6535
+mushroom,0.6505
+french cafe,0.6503
+got chicken,0.6461
+good coffee,0.6434
+tiny food,0.64
+two salad,0.6302
+toast definitely,0.6301
+great mocha,0.6283
+coffee latte,0.6276
+little cafe,0.6271
+best ham,0.6271
+cheese,0.6264
+excellent breakfast,0.6239
+best ingredient,0.6238
+lunch sandwich,0.6199
+spot food,0.6186
+price friendly,0.6183
+atmosphere french,0.618
+sandwich way,0.618
+fresh delicious,0.6165
+salad phenomenal,0.6163
+salad egg,0.6158
+heavy salad,0.6139
+impressed,0.6102
+enjoyed brunch,0.6083
+amazing atmosphere,0.6039
+warm sandwich,0.6032
+sandwich made,0.6027
+wonderful dining,0.6025
+party excellent,0.6021
+ever salad,0.6021
+service cute,0.5989
+orzo salad,0.5989
+beautiful great,0.5987
+loved,0.5986
+recommend anyone,0.5979
+best pastrami,0.5943
+super great,0.5936
+avo mango,0.5915
+toast,0.5888
+favorite roasted,0.5882
+friendliness,0.5847
+great meal,0.5833
+get sandwich,0.5829
+check chicken,0.576
+perfectly toasted,0.5714
+sandwich prosciutto,0.5706
+meal,0.5683
+friendly service,0.5659
+beautiful,0.5652
+avocado tomato,0.5647
+cafe salad,0.5624
+priced sandwich,0.562
+chicken warm,0.5615
+sandwiches always,0.5606
+coffee recommend,0.5585
+sandwich nicoise,0.5573
+nice place,0.5558
+thanks alot,0.5551
+size salad,0.5545
+ingredient soup,0.5545
+prosciutto brie,0.5534
+expensive lunch,0.5534
+delicious meal,0.5529
+die,0.5499
+favorite nicoise,0.5468
+flaky croissant,0.5449
+impressed diner,0.5443
+chicken orzo,0.5443
+coffee proprietor,0.543
+delicious staff,0.5402
+salad delicious,0.5373
+turkey sandwich,0.5365
+madam delicious,0.5349
+owner nice,0.5348
+salad best,0.5332
+meal great,0.5321
+incredible chicken,0.5291
+monsieur lunch,0.5284
+need coffee,0.5277
+espresso butteriest,0.5276
+sandwich two,0.5259
+small lunch,0.5249
+breakfast bite,0.5238
+mango smoothie,0.5223
+egg bacon,0.5221
+italy sandwich,0.5216
+avocado salad,0.5204
+bread delicious,0.5202
+fruit salad,0.5194
+incredible food,0.5183
+recommend chicken,0.5164
+chicken caesar,0.5157
+bacon superb,0.5155
+small salad,0.5151
+sandwich san,0.5148
+amazing slow,0.5139
+salad baguette,0.5117
+salmon salad,0.5114
+small restaurant,0.5103
+tasty bread,0.5097
+pepper sandwich,0.5095
+horrible service,0.5086
+large salad,0.5023
+owner came,0.5023
+toasted ham,0.5021
+favorite pastrami,0.5013
+service,0.5011
+oj espresso,0.4976
+avocado oj,0.4964
+spot excellent,0.4944
+welcoming food,0.4925
+corner cafe,0.4919
+bread sandwich,0.4912
+breakfast,0.491
+warm authentic,0.4898
+delicious mango,0.4891
+sandwich experience,0.4883
+proper cappuccino,0.4865
+lunch crowd,0.4857
+salad portion,0.485
+great bread,0.4846
+apple pastrami,0.4829
+tomato strawberry,0.482
+tartine yummy,0.4806
+prosciutto,0.4806
+food wonderful,0.4788
+lunch rush,0.478
+huge chicken,0.4772
+homemade toast,0.4751
+tasty baggette,0.4748
+fantastic turkey,0.4747
+turkey,0.4734
+area sandwiches,0.4712
+team fantastic,0.4693
+butteriest croissant,0.469
+fresh mango,0.469
+contact worker,0.4655
+salad poki,0.4654
+exceptional food,0.465
+awesome,0.4638
+staff happy,0.4636
+serving salad,0.4622
+saltiness dish,0.4607
+got sandwich,0.4598
+accommodated party,0.4575
+breakfast almond,0.4574
+near moscone,0.4566
+cheddar apple,0.4546
+exquisite service,0.4545
+customer happy,0.4536
+veg hot,0.453
+ordered turkey,0.453
+really warm,0.452
+portion salad,0.4508
+came register,0.4505
+restaurant google,0.45
+came lunch,0.4477
+restaurant think,0.4468
+chicken tarragon,0.446
+ever sandwich,0.4428
+cheese spinach,0.4407
+get smoked,0.4396
+week cafe,0.4389
+worker acknowledged,0.4387
+sourced coffee,0.4376
+lunch make,0.437
+coffee pastry,0.4367
+meeting picnic,0.4361
+salad good,0.4342
+perfect place,0.4335
+mango avocado,0.4327
+espresso,0.4315
+caffe latte,0.4306
+close moscone,0.4297
+mediocre hot,0.4263
+lunch nicoise,0.4239
+chicken mango,0.4239
+favorite city,0.4239
+salad portobello,0.4232
+salad share,0.4207
+cheese sandwich,0.4206
+brunch coffee,0.4197
+sandwich tough,0.4196
+service delicious,0.4173
+option lunch,0.4083
+crunch bread,0.4075
+babbling phone,0.4061
+sandwich caesar,0.4053
+fond chicken,0.4047
+billionaire reopen,0.4043
+duper salad,0.3995
+wanted pastry,0.399
+best prosciutto,0.3989
+sandwich also,0.3975
+coffee bean,0.3965
+sandwich add,0.3949
+salad given,0.3938
+avocado perfect,0.3936
+pastrami,0.3928
+superb european,0.3866
+two caffe,0.3855
+cut avocado,0.3821
+totally recommend,0.382
+affordable price,0.3816
+ham,0.3804
+addicted,0.3792
+diner,0.3706
+half sandwich,0.3703
+quality food,0.3653
+seating lunch,0.3642
+salad probably,0.3641
+east stumbled,0.3625
+register babbling,0.3581
+next week,0.3572
+last february,0.3545
+apple butter,0.3538
+lunch hour,0.3522
+swiss,0.3515
+preorders luncheon,0.347
+croissant,0.3449
+cortada,0.3426
+coffee go,0.3426
+food superb,0.3409
+pickup going,0.3407
+friend trip,0.3384
+salad full,0.3357
+making pickup,0.3338
+lunch culture,0.3294
+become billionaire,0.3276
+coffee neighborhood,0.3251
+caffe,0.3226
+tuna,0.3128
+amazing,0.3059
+slice paris,0.303
+strongest espresso,0.2986
+drink outstanding,0.2975
+february looking,0.2921
+nicest people,0.2727
+paris san,0.2327
+super affordable,0.2229

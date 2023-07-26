@@ -1,39 +1,45 @@
 keyword,weight
-breakfast,1.511
-sandwiches,1.4564
+breakfast burrito,1.9945
+tasty breakfast,1.4794999999999998
+sandwich,1.2415
 bagels,1.0
-yum,0.9596
-burritos,0.9428000000000001
-stop,0.7698
-closed,0.7697
-sale,0.613
-salad,0.5882000000000001
-food,0.4994
-tasty,0.4761
-vegan,0.4463
-place,0.4209
-lasagna,0.3957
-cooked,0.3126
-nina,0.2799
-sandwich,0.2653
-beat,0.2636
-cheese,0.2546
-quick,0.2488
-thank,0.2449
-café,0.2343
-burrito,0.2245
-instagram,0.2145
-chicken,0.1963
-tomato,0.1872
-cafe,0.1796
-blueberries,0.1704
-salsa,0.1613
-sauce,0.1573
-strawberries,0.135
-baked,0.1293
-nyc,0.1097
-home,0.1016
-bananas,0.0471
-area,0.0068
-francisco,-0.0035
-cheap,-0.0211
+yum,1.0
+top,1.0
+stop sale,0.9267
+closed stop,0.8978
+place closed,0.8503
+closed,0.8121
+beat sandwich,0.7826
+stop,0.7789
+cooked breakfast,0.7167
+nina thank,0.7158
+sandwich area,0.6598
+pas sandwich,0.6369
+lasagna chicken,0.636
+burrito good,0.5968
+breakfast,0.5831
+home cooked,0.5592
+nina,0.5584
+mozzarella tomato,0.5357
+food,0.5311
+burrito breakfast,0.5179
+basil sandwich,0.5161
+chicken salad,0.516
+spicy cheese,0.5049
+vegan tofu,0.5008
+terrible breakfast,0.4881
+rice salad,0.4845
+portion lasagna,0.4819
+regular breakfast,0.4741
+salsa spicy,0.4718
+blueberry banana,0.4636
+strawberry blueberry,0.4572
+discovered breakfast,0.4389
+salad enjoyed,0.437
+breakfast come,0.395
+breakfast place,0.3917
+vegan,0.359
+fresh juice,0.3572
+another vegan,0.3336
+granola strawberry,0.3038
+banana shaved,0.2569

@@ -1,85 +1,100 @@
 keyword,weight
-food,2.2504999999999997
+food,1.2421
 valuable,1.0
-good,0.9158999999999999
-priced,0.8070999999999999
-starving,0.7687
-service,0.7654
-overpriced,0.659
-dinner,0.6446
-unhealthy,0.5911
-yummy,0.5782
-pricey,0.5249
-5pm,0.5231
-customer,0.5223
-obnoxious,0.5069
-lunch,0.5065
-nice,0.4946
-caffeine,0.4854
-espresso,0.4662
-rude,0.4506
-coffee,0.4302
-junk,0.4276
-tourist,0.4114
-burgers,0.4015
-starbucks,0.3871
-bother,0.3859
-waste,0.3741
-summer,0.3628
-sun,0.3579
-disgusting,0.3578
-slow,0.3547
-prices,0.3341
-unless,0.3217
-greedy,0.3182
-pasta,0.3053
-dined,0.3013
-restaurant,0.28859999999999997
-expensive,0.2806
-lack,0.2711
-mcdonalds,0.2692
-fries,0.2645
-shame,0.2492
-super,0.2411
-shrimps,0.2357
-terrible,0.2286
-drink,0.2275
-drinks,0.2273
-bright,0.2263
-chicken,0.2225
-avoid,0.2146
-cafe,0.2144
-people,0.2071
-tuesday,0.2049
-menu,0.2018
-3pm,0.1749
-sunday,0.1667
-local,0.1667
-shakerato,0.1653
-cheese,0.1645
-10am,0.1613
-bus,0.1389
-fast,0.1305
-limited,0.1303
-restroom,0.1292
-faster,0.1249
-sleeping,0.1109
-fruit,0.1055
-manager,0.1047
-macchiato,0.1026
-eat,0.1006
-plain,0.0961
-dog,0.0887
-ok,0.0826
-milk,0.0598
-protein,0.0584
-scones,0.0579
-bland,0.0374
-dry,0.0338
-washing,0.024
-tiny,0.023
-cost,0.0203
-employee,-0.0026
-minutes,-0.0229
-class,-0.0425
-closing,-0.0674
+fast food,0.8611
+food yummy,0.8481
+good customer,0.7995
+service food,0.7921
+unless starving,0.7782
+unhealthy food,0.7454
+priced food,0.7352
+nice people,0.7081
+food obnoxious,0.7078
+tourist price,0.7023
+starving,0.6922
+dinner food,0.6786
+good priced,0.6764
+obnoxious staff,0.6715
+perfect summer,0.667
+morning caffeine,0.6523
+ok dinner,0.6507
+dinner,0.6499
+priced bother,0.6423
+rude staff,0.6415
+priced,0.6394
+water disgusting,0.6316
+mcdonalds eat,0.6243
+greedy food,0.623
+junk food,0.6082
+avoid burger,0.6017
+hitchhike mcdonalds,0.5993
+duper nice,0.5962
+drink espresso,0.5827
+coffee good,0.5757
+espresso shaken,0.5719
+dined sun,0.5716
+recommend local,0.5694
+faster restaurant,0.568
+back starbucks,0.5611
+sun nice,0.5582
+fry milk,0.5581
+yummy,0.5575
+food alright,0.5492
+drink fast,0.5486
+waste money,0.5388
+starbucks,0.5372
+food go,0.5356
+unhealthy,0.5266
+people food,0.5264
+overpriced junk,0.5195
+cup greedy,0.5144
+customer service,0.5133
+service slow,0.5122
+sleeping baby,0.5086
+ice orange,0.506
+disgusting shame,0.504
+nice bright,0.4986
+fruit veggi,0.4906
+burger meh,0.4894
+chicken grilled,0.4865
+pack lunch,0.4778
+hot dog,0.4718
+staff overpriced,0.4716
+even sleeping,0.466
+overpriced macchiato,0.4653
+grilled cheese,0.4646
+small pasta,0.4589
+mcdonalds,0.4581
+fry dry,0.457
+good,0.4521
+restaurant preparing,0.4499
+shame cup,0.4494
+pasta added,0.4463
+work restaurant,0.4458
+pulled chicken,0.4417
+restroom washing,0.4365
+rude,0.4364
+class closes,0.4304
+limited fruit,0.4238
+lunch walk,0.4064
+burger,0.4056
+tuesday sunday,0.4032
+closes pm,0.4022
+sleeping,0.4015
+pasta,0.3896
+complained manager,0.3885
+elsewhere lunch,0.3875
+lunch also,0.3872
+open tuesday,0.3842
+food complained,0.3811
+overpriced plain,0.3778
+pm delicious,0.3773
+shrimp womp,0.3759
+menu exploratorium,0.3713
+lunch,0.3541
+restaurant exploratorium,0.3503
+fruit,0.3111
+delicious horchata,0.2988
+serve hot,0.2848
+macchiato tiny,0.2547
+absolutely overpriced,0.249

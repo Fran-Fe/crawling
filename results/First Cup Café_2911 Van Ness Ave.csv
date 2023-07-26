@@ -1,91 +1,162 @@
 keyword,weight
-breakfast,6.6569
-coffee,4.3962
-sandwich,4.1433
-sandwiches,3.276
-delicious,2.8985000000000003
-good,2.1128
-tasty,1.9973999999999998
-cheese,1.7475
-great,1.6571
-clean,1.1075
-cafe,0.8761
-morning,0.8714
-pretty,0.8612
-taste,0.8555999999999999
-terrible,0.8382
-chocolate,0.8341000000000001
-juice,0.8194
-cream,0.8096000000000001
+sandwich,5.1922999999999995
+breakfast,5.1292
+bbq sandwich,3.3411
+sandwich delicious,3.2718000000000003
+coffee,2.7062999999999997
+korean bbq,2.5147
+delicious,2.0041
+breakfast sandwich,1.9348
+ham cheese,1.5171
+great coffee,1.5124
+bagel sandwich,1.4635
+great breakfast,1.3022
+great taste,1.1989
+cream cheese,1.1659000000000002
+tasty,1.1118
+avocado cream,1.1029
+breakfast lunch,1.0843
+freshly prepared,1.0055
+cappuccino terrible,1.0
+coffee mediocre,1.0
+excellent service,0.9891
+great,0.9799
+bad latte,0.9706
+delicious breakfast,0.9623
+start morning,0.9565
+taste breakfast,0.9459
+morning,0.9194
+decent breakfast,0.9163
+breakfast quickie,0.8718
+mediocre,0.8641
+good coffee,0.862
+terrible,0.8386
+good excellent,0.8339
+pretty bad,0.8321
+good breakfast,0.8289
+juice cheap,0.8281
+excellent,0.8233
+good,0.8227
+delicious bagel,0.8084
 bad,0.8023
-avocado,0.8018000000000001
-excellent,0.7998
-pastries,0.7726
-friendly,0.716
-bagel,0.7001
-smoothie,0.6884
-mediocre,0.6873
-start,0.6441
-korean,0.6224000000000001
-service,0.6174
-latte,0.6129
-food,0.61
-bagels,0.6031
-fast,0.5667
-cappuccino,0.5634
-fair,0.5513
-recommend,0.522
-freshly,0.46440000000000003
-place,0.4282
-decent,0.4276
-boss,0.4256
-quickie,0.4143
-café,0.4066
-fighting,0.4042
-cheap,0.3933
-lunch,0.364
+delicious juice,0.7946
+tasty food,0.7803
+tasty breakfast,0.7802
+breakfast little,0.7794
+best sandwich,0.7718
+best breakfast,0.7708
+food good,0.7529
+slow waited,0.7519
+waited min,0.75
+clean tasty,0.7455
+kind sandwich,0.7227
+orange juice,0.7199
+waited,0.7117
+place start,0.7098
+start,0.6991
+cheese sandwich,0.6952
+try sandwich,0.6903
+price sandwich,0.6893
+squeezed delicious,0.6721
+much time,0.6701
+super delicious,0.6655
+coffee freshly,0.6651
+service,0.6605
+breakfast bagel,0.6601
+slow,0.6601
+coffee bagel,0.65
+delicious ham,0.6488
+sandwich clean,0.6487
+price clean,0.6454
+cappuccino,0.6411
+beef sandwich,0.6397
+tasty sandwich,0.6353
+friendly owner,0.6336
+tasty bos,0.6263
+bos fighting,0.6162
+best coffee,0.6152
+coffee breakfast,0.6123
+coffee bomb,0.6114
+chocolate croissant,0.6105
+sandwich san,0.6047
+cheap clean,0.603
+tried chocolate,0.6024
+thai tea,0.5982
+bomb sandwich,0.5977
+fresh breakfast,0.5973
+sandwich super,0.5946
+sandwich smoothie,0.594
+fresh avocado,0.5936
+latte,0.5919
+breakfast frisco,0.5885
+best thai,0.5771
+chance breakfast,0.5688
+taste,0.5671
+korean beef,0.5669
+amazing avocado,0.5659
+juice,0.5653
+cheese croissants,0.5636
+owner great,0.5588
+cafe delicious,0.547
+flavor bacon,0.5468
+pastry incredible,0.5462
+delicious smoothie,0.5424
+sandwich freshly,0.5381
+breakfast windy,0.5293
+lunch homemade,0.5289
+bagles coffee,0.5253
+cafe love,0.5241
+breakfast go,0.5215
+sandwich bagles,0.5118
+pastry yummy,0.5106
+frisco freshly,0.5105
+good price,0.5094
+morning lunchtime,0.5069
+fighting,0.4998
+tourist recommend,0.4994
+sandwich great,0.4988
+bacon egg,0.4899
+cup pastry,0.4888
+bite coffee,0.4837
+pretty decent,0.4771
+hot bagel,0.477
+sandwich somewhat,0.4742
+chocolate ham,0.4717
+chocolate cooky,0.4692
+enough coffee,0.4682
+coffee nice,0.4679
+bagel,0.4665
+sandwich friendly,0.4655
+avocado everything,0.4568
+quickie,0.4489
+bos kind,0.4482
+bagel coffee,0.4475
+sandwich whole,0.4472
+coffee fair,0.4469
+pretty,0.4447
+coffee made,0.4426
+awesome breakfast,0.4405
+table breakfast,0.4401
+little tourist,0.4391
+cafe,0.4389
+ever sandwich,0.4371
+actual nutella,0.4343
+tea ever,0.4299
+sandwich fyi,0.4253
+chocolate,0.4232
+got coffee,0.4176
+cheese bagel,0.4155
+egg cheese,0.4103
+bacon,0.4062
+rice cafe,0.3916
+tasty korean,0.3911
+cheese croissant,0.3862
+fried chicken,0.3838
+hot korean,0.3804
+coffee spot,0.3737
+cafe fried,0.3712
 super,0.3621
-cookies,0.3527
-orange,0.3331
-kind,0.3175
-bacon,0.3153
-owners,0.3118
-tea,0.3112
-lunchtime,0.2967
-slow,0.2743
-beef,0.2734
-little,0.2657
-wheat,0.2632
-best,0.2591
-refreshing,0.2385
-thai,0.2238
-waited,0.2106
-tourist,0.2098
-nutella,0.2086
-bbq,0.20249999999999999
-croissants,0.1973
-price,0.179
-hearty,0.1704
-croissant,0.1699
-mins,0.1576
-flavor,0.1313
-usual,0.1007
-rainy,0.0984
-cute,0.0951
-locals,0.0863
-cup,0.0824
-burnt,0.0748
-roast,0.0716
-windy,0.0676
-week,0.0626
-curry,0.0549
-oder,0.0535
-francisco,0.053000000000000005
-chicken,0.0507
-lattes,0.0504
-time,0.0306
-thirsty,0.0137
-love,0.0039
-squeezed,-0.0226
-stumbled,-0.0387
-future,-0.0477
+sandwich also,0.3498
+curry rice,0.3481
+recommend croissant,0.3411
+korean food,0.321

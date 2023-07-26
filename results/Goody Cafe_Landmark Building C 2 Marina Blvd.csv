@@ -1,151 +1,220 @@
 keyword,weight
-coffee,5.6264
-cafe,4.3107
-food,2.8305
-good,2.7189
-delicious,2.17
-lavender,1.8304
-nice,1.7151999999999998
-latte,1.6614
-great,1.4024
-bookstore,1.3349
-friendly,1.326
-lunch,1.2785
-place,1.2377
-espresso,1.1799
-pudding,0.9741
-honey,0.9597
-goody,0.9405
-eating,0.9300999999999999
-milk,0.8627
-bread,0.8534
-café,0.8351999999999999
+coffee,3.7785
+cafe,2.2115
+food,2.0163
+good food,1.876
+food good,1.8506
+delicious,1.4653
+friendly staff,1.4228
+neighborhood cafe,1.3645999999999998
+bread pudding,1.3281
+honey lavender,1.2602
+great coffee,1.2468
+goody cafe,1.2377
+cozy cafe,1.2286
+lavender,1.2281
+quality coffee,1.2014
+oat milk,1.2005
+good,1.188
+coffee shop,1.1715
+delicious delicious,1.0
+goody,1.0
+bookstore,0.9534
+mediocre coffee,0.9449
+creamiest latte,0.9076
+decent coffee,0.9076
+food friendly,0.9016
+latte oat,0.8961
+best mocha,0.8937
+quality food,0.8836
+fog espresso,0.8816
+tea pretentiousness,0.8605
+coffee relaxed,0.8508
+interesting wifi,0.8506
+real tea,0.8499
+cute mug,0.848
+cup tap,0.8477
+regular coffee,0.8435
+latte delicious,0.8416
+old timber,0.8265
+boiled egg,0.8155
+espresso,0.8079
 mediocre,0.8053
-love,0.8017
-mocha,0.7913
-wifi,0.7692
-best,0.7419
-quality,0.7394000000000001
-tea,0.7037
-creamiest,0.6788
-pleasant,0.6593
-service,0.6576
-cool,0.6315
-cheesecake,0.6303
-decent,0.6065
-library,0.5764
-small,0.5729000000000001
-fog,0.5621
-relaxed,0.56
-beer,0.5432
-mugs,0.5243
-old,0.5178
-neighborhood,0.5175
-real,0.5075
-attention,0.5066
-staff,0.5056
-online,0.5053
-interesting,0.5036
-chocolate,0.4956
-counterculture,0.4955
-available,0.4898
-timber,0.4861
-snacks,0.4841
-drinks,0.47750000000000004
+great beer,0.8051
+great cheesecake,0.8041
+give cup,0.8015
+huge library,0.8003
+online lunch,0.7975
+wifi available,0.795
+good people,0.7932
+good latte,0.79
+staff food,0.7896
+tap water,0.7798
+latte cute,0.7603
+nice old,0.7585
+delicious coffee,0.7558
+best coffee,0.7535
+good attention,0.7505
+timber vibe,0.75
+lavender rose,0.749
+nice staff,0.7474
+rose latte,0.7434
+creamiest,0.7433
+wifi,0.7416
+tea,0.7409
+great neighborhood,0.7268
+lavender sweet,0.7267
+library full,0.7255
+tap,0.7232
+lavender honey,0.7167
+pleasant atmosphere,0.7139
+best,0.7121
+pudding excellent,0.7109
+pudding amazing,0.709
+service cool,0.7054
+pudding made,0.6982
+coffee service,0.6959
+lunch great,0.6943
+cool location,0.6925
+coffee interesting,0.6839
+water order,0.6836
+honey latte,0.6832
+creamy bacon,0.6823
+miss lavender,0.6782
+excellent bread,0.6762
+good quality,0.671
+fantastic chocolate,0.6677
+timber,0.6656
+hide fog,0.6655
+relaxed atmosphere,0.6653
+better worker,0.6599
+cafe nice,0.6518
+mocha town,0.6508
+food meh,0.6504
+priced bread,0.6451
+rain good,0.644
+cheesecake,0.6392
+nice place,0.6385
+handmade cafe,0.6351
+inventive coffee,0.6338
+coffee great,0.6337
+old,0.6303
+small place,0.63
+secondhand bookstore,0.6251
+coffee mocha,0.6225
+small,0.6224
+small lunchy,0.617
+breadpudding nice,0.6146
+eating brunch,0.613
+staff yummy,0.612
+sweet ear,0.609
+homemade breadpudding,0.6046
+chocolate crumb,0.6003
+waiting coffee,0.5989
+fog,0.5982
+lavender latte,0.592
+mocha,0.5849
+cafe favorite,0.5846
+coffee ok,0.5813
+banana bread,0.5782
+milk,0.5764
+cafe serving,0.5742
+space bookstore,0.5736
+bacon breakfast,0.5723
+fresh nummy,0.5713
+latte honey,0.5703
+library,0.568
+next bookstore,0.5649
+bit counterculture,0.563
+cafe much,0.561
+place hide,0.5593
+good pastry,0.5561
+counterculture mainstream,0.5554
+home eating,0.5505
+coffee drink,0.5503
+milk welcome,0.5473
+fresh snack,0.5472
+lunchy thing,0.5469
+enjoy meal,0.5468
+superb flavour,0.5445
+beer,0.5389
+lunch friendly,0.5369
+dinner eating,0.5341
+reasonably priced,0.5287
+yummy treat,0.5227
+food economical,0.5225
+cute,0.5223
+worker serve,0.5083
+pretentiousness,0.508
+bookstore great,0.5077
+lunchy,0.5075
+store mexican,0.5067
+mug,0.505
+go online,0.5023
+coffee date,0.5016
+town,0.5006
+scone delicious,0.4989
+coffee breakfast,0.4937
+pudding,0.4937
+food wonderful,0.4922
+espresso cold,0.4908
+fridge staff,0.4897
+neighborhood,0.4895
+freshly baked,0.4846
+great spot,0.4843
+breadpudding,0.4839
+lunch,0.4797
+burrito freshly,0.4778
+favorite neighborhood,0.475
 shop,0.4749
-regular,0.4704
-hide,0.4649
-cute,0.4637
-vibe,0.4576
-breadpudding,0.4553
-nummy,0.4431
-luscious,0.4287
-lunchy,0.4253
-cake,0.4164
-2012,0.4143
-economical,0.4138
-reading,0.4006
-charming,0.39690000000000003
-rose,0.3953
-sweet,0.3882
-books,0.3869
-bacon,0.3857
-pastries,0.3825
-location,0.3787
-flavours,0.376
-town,0.3659
-home,0.3555
-baked,0.3538
-atmosphere,0.3537
-banana,0.3536
-treats,0.3528
-fridge,0.3522
-tap,0.3498
-better,0.3494
-meal,0.3489
-mexican,0.3468
-customer,0.3435
-worker,0.3423
-favorite,0.3409
-brunch,0.3397
-pretentiousness,0.3273
-yummy,0.3266
-huge,0.3132
-serve,0.3092
-spot,0.308
-cup,0.3073
-inside,0.2989
-superb,0.2889
-eggs,0.2888
-space,0.2864
-mainstream,0.2862
-meh,0.2854
-casual,0.2826
-breakfast,0.2715
-water,0.2689
-impressed,0.2602
-croissants,0.2589
-people,0.2564
-vintage,0.2542
-dinner,0.2534
-priced,0.2488
-snack,0.242
-reasonably,0.2374
-homemade,0.2297
-quiet,0.2297
-oat,0.2206
-tasty,0.2203
-fun,0.2189
-ok,0.2179
-block,0.205
-sf,0.2047
-hungry,0.2041
-goodies,0.1982
-seating,0.1969
-wouldn,0.1952
-excellent,0.1934
-cocoa,0.192
-dessert,0.1915
-order,0.169
-drink,0.1675
-album,0.1668
-novel,0.1667
-handmade,0.1622
-cheese,0.1528
-going,0.1472
-espressos,0.1443
-almond,0.1428
-music,0.1401
-sipping,0.1298
-store,0.1266
-book,0.1044
-punk,0.1024
-boiled,0.0985
-morning,0.0898
-edible,0.0654
-anytime,0.0453
-scones,0.0412
-helpful,0.0346
-cold,0.03
-disappointing,-0.032
-recently,-0.1061
+art book,0.4673
+better one,0.4617
+hungry mom,0.4594
+place lunch,0.4585
+great vintage,0.4521
+customer time,0.4517
+nice quiet,0.4493
+hot cocoa,0.4478
+little cafe,0.4462
+eating sort,0.4438
+small price,0.4397
+best almond,0.4396
+parent cafe,0.4393
+punk duo,0.4386
+little lunch,0.4369
+cold punk,0.4321
+playing album,0.431
+snack table,0.4208
+coffee books,0.4207
+great staff,0.4203
+staff friendly,0.4176
+gem food,0.4152
+new novel,0.4149
+spinach cheese,0.4115
+customer,0.4066
+cocoa chilly,0.4055
+eating half,0.405
+better drink,0.4044
+staff favorite,0.4031
+trinity coffee,0.4019
+croissant ever,0.4011
+novel sipping,0.3993
+espressos bitter,0.3983
+food freshly,0.3911
+great,0.3906
+friendly helpful,0.3869
+wonderful staff,0.3677
+food great,0.3648
+ordered espresso,0.3635
+black sabbath,0.3611
+recently favorite,0.3591
+shop perfect,0.3489
+impressed music,0.3419
+punk,0.3376
+baked treat,0.3262
+almond croissant,0.3205
+baked good,0.3016
+great baked,0.2896
+espresso walked,0.2695
+edible bitter,0.268
+stone cold,0.266

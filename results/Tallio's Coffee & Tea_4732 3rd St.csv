@@ -1,108 +1,143 @@
 keyword,weight
-coffee,5.3770999999999995
-tea,1.5877999999999999
-friendly,1.4074
-great,1.3058
-vibes,1.2721
-delicious,1.1371
-nice,1.1023999999999998
-delivers,0.8904
+coffee,4.1684
+good coffee,1.8887
+tea,1.7539
+delicious coffee,1.7125
+coffee tea,1.4703
+great,1.2298
+great vibe,1.0
+terrific teas,1.0
+tallio delivers,1.0
+happy enjoyed,0.9199
+review happy,0.9199
+tallio,0.9188
+tallio coffee,0.8941
+delivers,0.8917
 teas,0.8753
-tallio,0.8318
-thank,0.8124
-blondie,0.6761
-vegan,0.6457
-happy,0.6453
-espresso,0.5938
-enjoyed,0.5537
-wonderful,0.5525
-cute,0.5495
-knowledgeable,0.5367
-excellent,0.5344
+vibe,0.8741
+happy,0.8497
+great coffee,0.8487
+wonderful business,0.8416
+business excellent,0.8322
+blondie chock,0.8194
+friendly owner,0.8169
+like blondie,0.8157
+owner nice,0.8108
+enjoyed,0.8074
+cute store,0.7932
+store friendly,0.7867
+excellent coffee,0.7812
+blondie,0.7808
+knowledgeable coffee,0.7786
+full goodness,0.7705
+thank much,0.7662
+coffee shop,0.7639
+excellent work,0.7632
+passion coffee,0.7244
+coffee caring,0.7224
+starbucks taste,0.7218
+blueberry smoothie,0.7
+brother sf,0.6908
+goodness place,0.6896
+nice vibe,0.6855
+coffee neighborhood,0.6814
+local coffee,0.6761
+coffee accompanied,0.6746
+espresso good,0.6738
+vegan option,0.6518
+love coffee,0.6476
+bagel vegan,0.6302
+vegan,0.6292
+price starbucks,0.6266
+sf history,0.6187
+coffee local,0.6085
+cool brother,0.6055
+coffee amazing,0.6008
+busy espresso,0.5985
+coffee got,0.5982
+local bakery,0.5978
+iced coffee,0.5936
+pastry banana,0.5914
+sf native,0.5825
+banana bread,0.5802
+thoughtful knowledgeable,0.5798
+recommend coffee,0.5787
+work community,0.5624
+coffee greetings,0.5519
+coffee good,0.5501
+latte delicious,0.5485
+wonderful,0.5473
+starbucks,0.5467
+place delicious,0.5424
+service sf,0.5423
+phenomenal shop,0.5404
+iced latte,0.5402
+undocumented immigrant,0.5386
+treasure thoughtful,0.5361
+greetings turkey,0.5359
+absolute treasure,0.5333
+email gladly,0.532
+coffee half,0.5272
 terrific,0.5266
-caring,0.5243
-goodness,0.5152
-blueberry,0.5047
-pastries,0.4888
-thoughtful,0.4688
-love,0.4586
-business,0.456
-work,0.4521
-turkey,0.4477
-beautiful,0.4161
-community,0.4056
-starbucks,0.4045
-chock,0.4034
-treasure,0.3996
-store,0.3995
-brother,0.3785
-banana,0.3752
-bakeries,0.3548
-coffeeshop,0.3525
-googled,0.3435
-place,0.3284
-smoothie,0.3271
-quick,0.3237
-greetings,0.3071
-like,0.3042
-coffees,0.3018
-iced,0.2955
-cafe,0.2741
-bread,0.2646
-busy,0.2643
-brownie,0.2571
-sf,0.2443
-warm,0.2362
-caramel,0.2362
-owners,0.2359
-google,0.2338
-online,0.2336
-creative,0.2274
-good,0.2172
-bad,0.2115
-beans,0.2104
-review,0.2011
-native,0.1993
-workers,0.196
-email,0.1941
-chargers,0.1893
-vietnamese,0.1863
-drinks,0.1824
-undocumented,0.1811
-exploit,0.1793
-regular,0.1715
-history,0.166
-immigrants,0.1615
-bagels,0.157
-taste,0.1545
-passion,0.1528
-neighborhood,0.1463
-excited,0.1438
-perfect,0.1359
-restaurants,0.1355
-accommodating,0.1258
-phenomenal,0.1164
-seating,0.1137
-flora,0.1134
-shops,0.1112
-saturday,0.1063
-august,0.0996
-owner,0.08689999999999999
-friend,0.0809
-invite,0.0778
-reopen,0.076
-better,0.0696
-late,0.0646
-serving,0.060399999999999995
-shop,0.0584
-cafes,0.0433
-wifi,0.0369
-hours,0.0256
-welcome,0.0231
-upscale,0.0144
-price,0.0016
-black,-0.0018
-morning,-0.002
-media,-0.0153
-welcoming,-0.047
-fair,-0.0593
+experience coffeeshop,0.5263
+hire undocumented,0.5262
+staff friendly,0.5201
+good brownie,0.5111
+blueberry,0.5084
+coffee delicious,0.498
+welcoming coffee,0.4978
+coffee bagel,0.4961
+espresso incredible,0.4918
+great espresso,0.4893
+drink amazing,0.4865
+bakery source,0.4827
+friendly creative,0.4822
+quick staff,0.4819
+black tea,0.477
+coffee place,0.476
+vietnamese iced,0.4747
+accommodating drink,0.4725
+serving coffee,0.4696
+upscale coffee,0.4621
+mocha perfect,0.4586
+neighborhood cafe,0.4565
+coffeeshop,0.4544
+googled local,0.4541
+caramel latte,0.4499
+drink pastry,0.4494
+nice delicious,0.445
+regular mocha,0.4439
+seating nice,0.4406
+iced caramel,0.4374
+nice phone,0.4339
+bread great,0.4335
+pay bad,0.4327
+tea smooth,0.4312
+friend regular,0.4299
+free wifi,0.4285
+coffee parklet,0.4272
+online social,0.424
+shop friendly,0.423
+tea check,0.4174
+never recommend,0.4072
+hour google,0.4052
+particular tea,0.3986
+pay worker,0.3885
+quality taste,0.3849
+present online,0.3828
+smoothie good,0.3718
+update online,0.3673
+restaurant cafe,0.3643
+cafe owner,0.3629
+matcha tea,0.3604
+cafe normally,0.36
+online,0.3548
+google care,0.3541
+morning restaurant,0.3528
+quick iced,0.3495
+tea owner,0.347
+love shop,0.3435
+google,0.3114
+update hour,0.2835
+price fair,0.2693
+glad delicious,0.258

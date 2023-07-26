@@ -1,138 +1,201 @@
 keyword,weight
-coffee,15.3282
-great,4.9815000000000005
-service,2.2314
-email,2.042
-good,2.0263
-espresso,1.7566
-bluebottlecoffee,1.7258
-love,1.6032
-slow,1.4792
-nice,1.3134000000000001
+coffee,11.2902
+bluebottlecoffee com,3.4881
+coffee email,3.3932
+email support,3.3738
+support bluebottlecoffee,3.3717
+good coffee,3.2648
+great,3.0987
+great coffee,2.899
+hear coffee,2.8404
+great service,1.7637
+good,1.7517
+slow,1.5685
+coffee great,1.2986
+espresso,1.154
+green tea,1.1511
+excellent coffee,1.0
+good slow,1.0
 amazing,1.0
-staff,0.8315
-thanks,0.8029
-blue,0.7573
-place,0.7367999999999999
-tea,0.7365999999999999
-latte,0.7019
-cozy,0.6931
-spiced,0.6914
-pleasant,0.6893
-mediocre,0.6855
-delicious,0.6222
-awesome,0.6005
-bright,0.594
-chocolate,0.575
+iced coffee,0.9839
+love spiced,0.9406
+breakfast sandwich,0.8954
+food mediocre,0.8946
+nice coffee,0.8882
+nice espresso,0.8789
+mobile order,0.8778
+bright cozy,0.8769
+love,0.8731
+latte bright,0.8317
+staff pleasant,0.823
+cozy place,0.8207
+mediocre return,0.8205
+notch coffee,0.8195
+available time,0.8122
+place coffee,0.808
+coffee minigolf,0.8075
+mediocre,0.798
+grab coffee,0.7979
+love latte,0.7958
+mobile,0.795
+cozy,0.7924
+slow service,0.7884
+spiced nola,0.7823
+order available,0.7679
+coffee service,0.7484
+always great,0.7281
+spiced,0.727
+time,0.7226
+service,0.7225
+blue bottle,0.7196
+coffee delicious,0.7071
+coffee prepared,0.698
+favorite coffee,0.6968
+kind staff,0.6927
+coffee stop,0.6907
+great people,0.684
+closing early,0.6809
+fresher roast,0.6799
+top notch,0.6724
+butter croissant,0.6666
+cinnamon chocolate,0.6569
+coffee bit,0.6516
+nice butter,0.6504
+quick service,0.6495
+espresso green,0.647
+espresso tasted,0.644
+iced latte,0.6433
+berry cake,0.638
+espresso email,0.6334
+staff good,0.6324
+prepared well,0.6304
+employee awesome,0.6245
+nice staff,0.6235
+coffee always,0.6226
+pleasant,0.6211
+specialty coffee,0.6186
+flavor coffee,0.6155
+good pastry,0.6075
+cake though,0.6069
+awesome wish,0.606
+relax grab,0.6047
+spot employee,0.6031
+coffee richer,0.6005
+coffee favorite,0.5927
+place relax,0.5893
+matcha flavor,0.5802
+top,0.5782
+always nice,0.5704
+sandwich coffee,0.5672
+ample outdoor,0.5656
+best coffee,0.5653
+coffee try,0.5639
+hear espresso,0.5632
+walk ample,0.5631
 excellent,0.5586
-croissant,0.5569
-waffle,0.5491
-cake,0.5355
-employees,0.53
-nola,0.5235
-mobile,0.523
-com,0.5208
-butter,0.4932
-notch,0.491
-prepared,0.4777
-quick,0.4742
-food,0.459
-cappuccino,0.45790000000000003
-best,0.4499
-wish,0.4488
-fast,0.4444
-relax,0.4425
-sandwich,0.4414
-ample,0.4359
-time,0.4303
-orders,0.4254
-kind,0.4245
-polite,0.4139
-available,0.4099
-closing,0.3852
-cheaper,0.3768
-beans,0.3665
-stop,0.3631
-pastries,0.3594
-later,0.3457
-outdoor,0.3352
-roast,0.3342
-flavors,0.32349999999999995
-breakfast,0.3204
-minigolf,0.3142
-clear,0.311
-open,0.3108
-people,0.3079
-cinnamon,0.3066
-favorite,0.30569999999999997
-overpriced,0.2944
-fresher,0.2908
-lattes,0.2893
-coffeehouse,0.2889
-sour,0.2839
-really,0.2834
-starbucks,0.2809
-flavor,0.2791
-coffees,0.2759
-snack,0.2719
-wifi,0.26680000000000004
-fruit,0.2608
-green,0.2515
-richer,0.2451
-return,0.2365
-grab,0.2348
-covid,0.2341
-wait,0.2329
-going,0.2299
-slower,0.2285
-early,0.2276
-berry,0.2276
-oats,0.2263
-bathrooms,0.2244
-milk,0.2129
-iced,0.2076
-exquisite,0.2061
-hospitals,0.1908
-market,0.1872
-tasted,0.1865
-warm,0.1862
-taste,0.1842
-drinks,0.1743
-products,0.1706
-shorter,0.1694
-drink,0.1645
-clean,0.1644
-roasting,0.1634
-conglomerate,0.1593
-spacious,0.1522
-mumbly,0.1513
-restroom,0.1469
-thrilled,0.1396
-dietary,0.1328
-sister,0.1224
-shops,0.1132
-password,0.0981
-matcha,0.098
-new,0.0947
-beep,0.0934
-recommend,0.0905
-liege,0.0862
-favourite,0.0753
-successful,0.0738
-late,0.0718
-beautiful,0.0657
-doggy,0.0637
-week,0.0608
-store,0.0491
-doggo,0.047
-barista,0.0384
-bottle,0.0334
-eat,0.0312
-friendly,0.0271
-pandemic,0.0179
-patio,-0.0015
-breeze,-0.0075
-candy,-0.0101
-app,-0.0308
-staffed,-0.0439
-respite,-0.0561
+rest coffee,0.5557
+awesome coffee,0.5536
+like coffee,0.5515
+experience coffee,0.5484
+nola,0.5479
+stop closing,0.5464
+tasted sour,0.5448
+wish stayed,0.5413
+craft coffee,0.5391
+chocolate powder,0.5378
+tea drink,0.5313
+milk nice,0.5297
+coffee good,0.5281
+tea,0.5241
+great location,0.519
+cinnamon,0.518
+best place,0.5176
+cake,0.5139
+wish,0.5119
+coffee brand,0.5105
+latte delicious,0.5079
+cheaper market,0.507
+great always,0.5062
+staff fast,0.4997
+closing,0.499
+fruit overnight,0.4957
+successful store,0.4954
+really nice,0.49
+tea taste,0.4865
+best,0.4864
+nice,0.4835
+neighborhood favorite,0.4804
+coffee perfectly,0.4736
+overpriced nice,0.4698
+ever coffeehouse,0.4697
+liege waffle,0.4675
+atmosphere cinnamon,0.4672
+like espresso,0.4658
+served coffee,0.4651
+matcha latte,0.4575
+favourite blue,0.457
+roast date,0.4562
+beans used,0.4558
+coffee olive,0.4546
+safe bathrooms,0.4538
+notch,0.4529
+bottle iced,0.4526
+chocolate croissant,0.4496
+used cheaper,0.448
+awesome covid,0.4456
+job coffee,0.444
+deeper flavor,0.4421
+coffee hot,0.4405
+exquisite cappuccino,0.4342
+coffee selection,0.434
+free wifi,0.4323
+coffee made,0.4287
+consistently delicious,0.4257
+friendly coffee,0.4253
+sweet latte,0.4153
+delicious also,0.4141
+pastry line,0.4125
+coffee shop,0.41
+starbucks date,0.4075
+great neighbor,0.4032
+pastry,0.4019
+slower pour,0.3987
+oat milk,0.3981
+place,0.3962
+convenient brand,0.3951
+cappuccino blue,0.3884
+latte taste,0.3879
+cappuccino matcha,0.3785
+waffle,0.3718
+flavor bit,0.3684
+roasting prep,0.3678
+bathroom clean,0.3673
+wifi speed,0.3582
+moved neighborhood,0.3566
+brand new,0.356
+coffee ever,0.3513
+delicious,0.3501
+egg breakfast,0.3495
+welcoming food,0.3472
+large patio,0.332
+flavor,0.3308
+enjoyed spark,0.3269
+cute doggo,0.324
+dog friendly,0.3232
+truck wifi,0.3228
+croissant heated,0.3127
+coffee hooked,0.309
+staff friendly,0.3086
+patio offer,0.2981
+wifi needed,0.2833
+bottle coffee,0.2819
+great blue,0.2767
+hooked doggy,0.2748
+bathrooms locked,0.2736
+product artfully,0.2698
+campus hospital,0.259
+code bathroom,0.251
+friendly professional,0.2397
+visit patio,0.2302
+barista super,0.2302
+professional dress,0.2289

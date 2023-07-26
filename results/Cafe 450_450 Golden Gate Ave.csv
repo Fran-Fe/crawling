@@ -1,16 +1,17 @@
 keyword,weight
-oatmeal,0.9102
-cafe,0.4301
-lunch,0.3858
-vegetarian,0.3108
-sandwiches,0.3029
-sandwich,0.2535
-salads,0.2505
-salad,0.2478
-lunchtime,0.2322
-restaurants,0.2123
-food,0.1149
-months,0.0995
-chicken,0.0841
-minutes,0.0617
-waited,0.0601
+oatmeal,1.0
+finish lunch,0.6382
+vegetarian sandwich,0.624
+waited lunch,0.5996
+turkey sandwich,0.5846
+lunch minute,0.5667
+lunch time,0.5315
+big sandwich,0.5137
+lunch,0.4999
+chicken sandwich,0.4966
+vegetarian mom,0.4787
+salad fresh,0.4624
+plenty cafe,0.4487
+salad safeway,0.431
+cafe impressive,0.4196
+cafe restaurant,0.3966

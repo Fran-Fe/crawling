@@ -1,70 +1,86 @@
 keyword,weight
-friendly,1.734
-food,1.5263
-sandwiches,1.4039
-sandwich,1.3958
-great,1.3458999999999999
-staff,1.2366000000000001
-toast,0.8512
-fresh,0.8119000000000001
-delicious,0.7773
-small,0.7706
-authentic,0.7558
-amazing,0.6704
-friends,0.6556
-taste,0.6455000000000001
-vibe,0.5819
-breakfast,0.5797
-healthy,0.5737
-tasty,0.5142
-smoothies,0.501
-tea,0.4517
-social,0.4381
-kindly,0.4223
-drinks,0.4063
-yummy,0.3808
-morning,0.3716
-flavor,0.3597
-serve,0.3432
-meet,0.3294
-mexico,0.3276
-cafe,0.3204
-good,0.31
-pesto,0.3085
-nice,0.3065
-love,0.2932
-burrata,0.2907
-club,0.2793
-cheese,0.2705
-street,0.268
-health,0.2631
-quick,0.2621
-cold,0.2482
-local,0.2465
-coffee,0.2426
-hearty,0.2414
-large,0.2311
-recommend,0.2164
-smoothie,0.2061
-mocha,0.2042
-mexican,0.1979
-half,0.1876
-thirds,0.1743
-bad,0.1697
-bagel,0.1657
-filled,0.1649
-veggie,0.1639
-cute,0.1546
-best,0.1541
-burnt,0.1274
-cream,0.1262
-early,0.1153
-hangover,0.1152
-old,0.1125
-say,0.0372
-nicest,0.0039
-covid,-0.0244
-eat,-0.0252
-perfect,-0.1159
-week,-0.1184
-seats,-0.1315
+friendly staff,2.0752
+sandwich,1.9559000000000002
+food,1.4517
+food friendly,1.2154
+great food,1.0844
+amazing food,0.9518
+food great,0.9099
+authentic friendly,0.8859
+kindly social,0.8238
+friendly,0.8213
+serve kindly,0.8096
+breakfast sandwich,0.7932
+toast smoothy,0.7902
+healthy toast,0.7866
+authentic,0.7783
+best breakfast,0.7761
+meet friend,0.773
+staff highly,0.7696
+say delicious,0.7586
+delicious recommend,0.7567
+tasty drink,0.7477
+veggie sandwich,0.7444
+recommend toast,0.7405
+great tea,0.7349
+friend,0.7335
+great vibe,0.7161
+sandwich phenomenal,0.7149
+social meet,0.7132
+club sandwich,0.696
+large mocha,0.6762
+amazing sandwich,0.668
+staff,0.6679
+inside tasty,0.6571
+toast,0.6507
+smoothy recommended,0.6472
+health taste,0.6451
+mexico love,0.6445
+excellent flavor,0.6397
+delicious,0.6385
+tasty,0.6352
+local delicious,0.6288
+fresh healthy,0.61
+taste one,0.5995
+tea,0.5877
+amazing,0.5867
+good price,0.5804
+taste,0.5759
+sandwich early,0.5754
+third full,0.5678
+breakfast,0.5676
+flavor best,0.5666
+delicious club,0.5485
+mocha filled,0.5479
+pesto sandwich,0.5452
+yummy health,0.5388
+drink quick,0.5212
+burrata pesto,0.5024
+old mexico,0.5005
+make sandwich,0.497
+street nice,0.4935
+want large,0.4908
+phenomenal smoothie,0.4883
+mexican mocha,0.4851
+cheese bagel,0.4847
+love place,0.4813
+cafe seats,0.4684
+fresh local,0.4671
+cream cheese,0.4624
+large,0.4606
+healthy hearty,0.4519
+cheese also,0.4392
+bagel cream,0.4348
+sandwich order,0.4335
+best veggie,0.4286
+coffee though,0.4266
+corner cafe,0.4251
+hearty option,0.4224
+sandwich portion,0.3973
+cheese,0.3812
+eat week,0.3405
+coffee,0.3202
+nicest people,0.3156
+week always,0.2025
+guy nicest,0.1791
+nicest,0.1273

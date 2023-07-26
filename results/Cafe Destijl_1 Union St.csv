@@ -1,87 +1,125 @@
 keyword,weight
-great,2.3956999999999997
-food,2.2653
-sandwiches,2.1421
-coffee,1.8421
-poor,1.8194
-lunch,1.6317
-salads,1.4197
-salad,1.1961
-service,1.1595
-soup,1.0981
-panini,1.0969
-tasty,1.0424
-mediocre,1.0315
-sandwich,1.0035
-veggie,0.9642999999999999
-friendly,0.8939
-cappuccino,0.7409
-underwhelming,0.7182
-handy,0.6831
-exploratorium,0.6652
-eggplant,0.6481
-worst,0.6363
-vegetarian,0.6071
-good,0.599
-mash,0.5931
-mish,0.5729
-things,0.5695
-excellent,0.5643
-espresso,0.5526
-bit,0.5436
-breakfast,0.5353
-kebabs,0.5315
-lemonade,0.5277
-bathroom,0.5211
-quaint,0.5055
-ok,0.4977
-fresh,0.4456
-pastries,0.4393
-meal,0.4366
-delicious,0.4342
-bacon,0.4309
-best,0.40440000000000004
-salmon,0.3902
-cozy,0.3788
-small,0.3739
-coconut,0.3515
-eat,0.3496
-cafe,0.34900000000000003
-dishes,0.3465
-curry,0.336
-potatoes,0.3342
-drink,0.3288
-chicken,0.3224
-lunchtime,0.3191
-paninis,0.3052
-regularly,0.2998
-cool,0.2945
-open,0.2802
-enjoyed,0.2799
-unfortunately,0.2764
-priced,0.2732
-menu,0.2685
-burrito,0.2589
-tea,0.2583
-host,0.2463
-cauliflower,0.2368
-clean,0.2255
-nearby,0.2071
-sfo,0.201
-roasted,0.1975
-friend,0.1894
-close,0.1764
-pleasant,0.171
-place,0.1256
-egg,0.1235
-iced,0.1198
-coming,0.1176
-cookie,0.10830000000000001
-coworkers,0.1078
-meals,0.1049
-slow,0.0792
-late,0.0393
-inconvenience,0.0214
-possibly,-0.0618
-paid,-0.0968
-owner,-0.1151
+great,2.4082
+poor service,2.0
+poor,1.8252
+sandwich,1.7654999999999998
+fresh salad,1.4788999999999999
+good coffee,1.3974
+sandwich salad,1.3477999999999999
+service,1.1206
+panini,1.0934
+soup,1.0843
+salad,1.0573000000000001
+salad cookie,1.0236
+bathroom worst,1.0
+cappuccino underwhelming,0.9832
+excellent food,0.9411
+cobb salad,0.9036
+tasty sandwich,0.8944
+best bacon,0.8803
+lunch,0.8775
+enjoyed soup,0.8635
+thing great,0.8592
+good bit,0.8383
+salad panini,0.8359
+best coffee,0.8351
+veggie panini,0.8257
+good,0.8146
+handy exploratorium,0.7996
+soup sandwich,0.7913
+worst,0.7833
+great veggie,0.7551
+great eggplant,0.7446
+sandwich coming,0.7438
+mediocre breakfast,0.7423
+great espresso,0.7406
+eggplant veggie,0.7348
+pastry friendly,0.73
+coffee sandwich,0.725
+underwhelming,0.7212
+exploratorium excellent,0.7164
+sandwich close,0.7117
+cappuccino,0.7088
+mediocre food,0.7058
+amazing sandwich,0.7047
+vegetarian choice,0.7011
+ok cappuccino,0.7002
+priced mediocre,0.6993
+bacon egg,0.6987
+mash thing,0.6959
+curry chicken,0.6941
+delicious bite,0.6932
+sandwich pastry,0.6781
+staff delicious,0.6771
+lemonade every,0.6699
+bathroom,0.6688
+tasty potato,0.6682
+egg sandwich,0.6671
+meal sandwich,0.6603
+burrito tasty,0.6567
+food,0.6548
+handy,0.6544
+eggplant,0.6431
+reasonably priced,0.6216
+coffee eat,0.6201
+espresso super,0.6196
+salad dish,0.6193
+mediocre,0.6149
+bacon,0.6028
+lunch amazing,0.598
+coffee sfo,0.5957
+squeezed lemonade,0.5945
+vegetarian,0.5938
+roasted cauliflower,0.5921
+salmon panini,0.5909
+green salad,0.5878
+breakfast burrito,0.5855
+friend lunch,0.5838
+chicken avacado,0.5826
+great salad,0.5808
+salad choice,0.5747
+great host,0.571
+amazing food,0.5687
+lunch definitely,0.5645
+espresso,0.564
+avacado salmon,0.5627
+local drink,0.5626
+sandwich ever,0.5621
+small quaint,0.5607
+kebab coconut,0.5584
+tasty,0.554
+potato worth,0.5536
+coffee,0.5514
+good food,0.5506
+salad great,0.5492
+veggie,0.5451
+soup day,0.5442
+eat local,0.5378
+nice menu,0.5317
+food good,0.5314
+tasty food,0.5287
+iced tea,0.5241
+veggie pesto,0.5213
+wrong salad,0.5184
+til lunch,0.5152
+fruit salad,0.5138
+lemonade,0.5136
+goto lunch,0.5123
+food unfortunately,0.5094
+salad soup,0.5028
+fresh food,0.5025
+lunch enchilada,0.5024
+lunch make,0.5006
+great coffee,0.4989
+salad walked,0.4843
+tomorrow lunch,0.4667
+best meal,0.4547
+salad yum,0.4505
+tea til,0.4432
+friendly owner,0.4323
+thank cafe,0.4314
+ok,0.428
+sfo great,0.4226
+wait iced,0.3985
+coming regularly,0.359
+great place,0.3311

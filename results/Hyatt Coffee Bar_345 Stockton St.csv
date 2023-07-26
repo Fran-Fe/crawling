@@ -1,36 +1,42 @@
 keyword,weight
-coffee,3.6633
-fast,1.4375
-nice,0.9756
-service,0.9057
+coffee,3.8547
+fast,1.4018
+nice,1.0
+fast inexpensive,1.0
+high quality,1.0
+coffee excellent,0.9328
+great coffee,0.926
 high,0.9017
-inexpensive,0.8379
-just,0.821
+food coffee,0.8908
+inexpensive,0.8851
+fast service,0.8636
+tasty fast,0.8563
+brew unforgivable,0.8442
+cold brew,0.8382
 quality,0.8168
-tasty,0.7907
-unforgivable,0.6688
-cold,0.6385
-food,0.5744
-comfortable,0.5158
-good,0.5148
-clean,0.4743
-chocolat,0.4718
+cold,0.7981
+coffee clean,0.7908
+meha tasty,0.7874
+unforgivable,0.7798
+tasty,0.7664
+coffee ok,0.7649
+iced coffee,0.6847
+au chocolat,0.6758
+good food,0.6679
+coffee shop,0.6629
+cup coffee,0.6571
+brewed coffee,0.6403
+coffee pot,0.6346
+chocolat,0.6344
+excellent service,0.6341
+vietnamese iced,0.6098
+recommend pain,0.6058
+clean comfortable,0.5749
+food,0.5663
+mainly hyatt,0.5634
+coffee die,0.562
+comfortable outdoor,0.5469
 great,0.4683
-excellent,0.4675
-cup,0.4456
-hyatt,0.3994
-meha,0.398
-vietnamese,0.3755
-brew,0.3649
-85,0.3414
-shop,0.3237
-seating,0.3223
-10,0.3195
-iced,0.3169
-snacks,0.3114
-pain,0.3033
-recommend,0.293
-don,0.2876
-brewed,0.2604
-recommended,0.2225
-die,0.2076
+good,0.4434
+brew,0.4369
+vietnamese,0.4341

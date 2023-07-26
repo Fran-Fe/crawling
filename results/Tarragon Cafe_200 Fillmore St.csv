@@ -1,310 +1,631 @@
 keyword,weight
-thank,37.1663
-soon,13.7717
-review,9.0079
-food,7.279
-hope,7.0275
-appreciate,6.378
-coffee,5.2779
-salad,5.202
-cafe,5.0022
-breakfast,3.8217
-sandwich,3.3323
-love,3.1003
-happy,3.0789
-glad,2.9654
-lunch,2.919
-great,2.8171
-salads,2.8129999999999997
-kind,2.8064999999999998
-friendly,2.7920000000000003
-thanks,2.6822
-star,2.3778
-tasty,2.1741
-delicious,2.0501
-wait,2.0472
-chef,2.0435
-enjoyed,1.9311
-sandwiches,1.8157
-sorry,1.5625
-nice,1.5441
-vegetarian,1.5317
-awesome,1.3436000000000001
-wonderful,1.3018
-menu,1.252
-service,1.2071
-lovely,1.1320000000000001
-avocado,1.1184
-good,1.108
-seeing,1.089
-mario,1.087
-nicole,1.0817
-sunny,1.0027
-pizza,1.0025
+thank,24.8684
+see soon,18.3678
+thank review,7.3452
+soon,6.9829
+hope,5.5483
+review,5.1555
+star review,5.1202000000000005
+hope see,4.8995999999999995
+salad,4.3224
+thank star,4.1334
+kind review,3.9646
+food,3.4501
+wait see,3.3492
+appreciate,3.0564
+glad enjoyed,2.9646
+appreciate wait,2.8192
+review hope,2.7538
+seeing soon,2.6254
+coffee,2.5766
+glad,2.5129
+star,2.3412
+wonderful review,2.2462
+thanks,2.2106
+thank kind,2.0838
+breakfast sandwich,2.0747
+great coffee,2.0737
+enjoyed,1.9348
+avocado toast,1.8077
+great food,1.7605
+love,1.7385
+cafe,1.7275999999999998
+awesome review,1.7165
+salmon toast,1.7161
+breakfast,1.6456
+coffee food,1.588
+appreciate hope,1.5361
+friendliest cafe,1.5323
+food good,1.529
+great breakfast,1.5282
+happy,1.5222
+chicken salad,1.4698
+love neighborhood,1.432
+great staff,1.3912
+nicole,1.3817
+favorite lunch,1.3475000000000001
+serve soon,1.3392
+service food,1.3321
+wait serve,1.3019
+forward seeing,1.2964
+good coffee,1.2890000000000001
+breakfast coffee,1.2464
+sandwich,1.2332
+yummy food,1.2163
+taco friday,1.2135
+salad huge,1.1867999999999999
+thank five,1.1848999999999998
+breakfast sando,1.1558
+food coffee,1.1256
+five star,1.1223
+love food,1.1185
+vegetarian panini,1.1134
+caprese sandwich,1.0687
+thank much,1.0509
+new restaurant,1.0479
+prison welcoming,1.0
+merci,1.0
+thanks luis,1.0
+thank shayne,1.0
+thank ryan,1.0
+thank sarah,1.0
 relaxing,1.0
-toast,0.9963
-chicken,0.9929000000000001
-sarah,0.9458
-place,0.9439
-merci,0.9428
-salmon,0.9415
-italian,0.9063
-kitchen,0.8928
-rules,0.8578
-pablo,0.8281
-luis,0.8244
-restaurant,0.8236
-ryan,0.8216
-bathroom,0.8113
-best,0.7946
-friendliest,0.7908999999999999
-amazing,0.785
-forward,0.7813
-shayne,0.7643
-soup,0.7616999999999999
-croissants,0.7526999999999999
-staff,0.7393000000000001
-cheese,0.7363
-beer,0.7308
-graham,0.7271000000000001
-ruben,0.725
-fantastic,0.6843
-favorite,0.6759999999999999
-new,0.6737
-sun,0.6466000000000001
-drinks,0.6448
-max,0.64
-prison,0.6301
-simon,0.6146
-vegetables,0.6089
-100,0.6088
-welcoming,0.6078
-serve,0.5932
-appreciated,0.5902
-maria,0.5837
-mimosas,0.5797
-chocolate,0.5794
-healthy,0.575
-jan,0.5738
+place rule,1.0
+thank nicole,1.0
+thank pablo,1.0
+love salad,1.0
+chinese chicken,0.998
+iced latte,0.9975
+tasty,0.9944
+cafe city,0.9914000000000001
+breakfast lunch,0.9899
+great,0.9730000000000001
+master kitchen,0.9662999999999999
+simon appreciate,0.9553
+terrific salad,0.9536
+max appreciate,0.9515
+thanks max,0.9505
+thank simon,0.9489
+ruben amazing,0.9452
+soup,0.9314
+food nice,0.9301
+breakfast sandy,0.927
+mangal appreciate,0.9135
+thank appreciate,0.9034
+place,0.8999
+vegetarian,0.8989
+thank steve,0.8958
+rule,0.8941
+thank leander,0.8923
+tidewatergirl glad,0.8803
+great cafe,0.8698
+coffee shop,0.8623000000000001
+thanks ruben,0.8601
+luis,0.8581
+italian sandwich,0.8575
+best pizzaa,0.8557
+glad neighbor,0.8521
+pablo,0.8486
+thank tidewatergirl,0.8435
+sarah,0.8405
+enjoyed soup,0.8376
+thank new,0.8368
+leander appreciate,0.8337
+tahsim appreciate,0.8326
+steve wait,0.8299
+ryan,0.8287
+neighborhood cheers,0.8187
+cafe lovely,0.8177
+favorite cafe,0.8148
+item glad,0.8133
+shayne,0.8128
+tasty salad,0.8069
+cafe happy,0.8065
+joshua wait,0.8041
+good service,0.794
+isaac wait,0.7935
+pastry selection,0.7897000000000001
+chicken panini,0.7877
+best food,0.7868
+free sandwich,0.7854
+food consistently,0.7847
+amazing,0.7841
+hanna hope,0.7839
+love picture,0.7822
+kind,0.7817
+jason hope,0.781
+trini appreciate,0.78
+annalise love,0.7775
+star tahsim,0.7775
+awesome food,0.7726
+ivan hope,0.7726
+review jan,0.7716
+angeline appreciate,0.7706
+thank nao,0.7688
+christina glad,0.7683
+ha thanks,0.7677
+appreciate star,0.7666
+nao appreciate,0.7656
+food terrific,0.7655
+incredible sandwich,0.7649
+sophia wait,0.7605
+nice friendly,0.7602
+thank maria,0.7598
+mush appreciated,0.7551
+delicious croissant,0.754
+thank hanna,0.7527
+great review,0.7519
+friendly service,0.7514
+soon sarah,0.751
+freshest ingredient,0.7507
+steve,0.7493
+food great,0.7489
+good vegetarian,0.7483
+sarah thank,0.7461
+thank danny,0.7456
+max,0.7434
+review glad,0.7425
+future thank,0.7419
+great italian,0.7401
+enjoyed looking,0.7377
+allyson hope,0.7359
+macaroni salad,0.7352
+thanks star,0.7348
+thank isaac,0.7327
+nice coffee,0.7324
+consistently good,0.7311
+brian hope,0.731
+review abe,0.7308
+review happy,0.7305
+thank beautiful,0.7298
+jan,0.7291
+review mangal,0.7271
+enjoyed thank,0.7267
+thank aaron,0.7266
+positive review,0.7257
+rishi hope,0.722
+lovely customer,0.7217
+review wait,0.7215
+serving soon,0.7186
+sunny seating,0.7184
+graham appreciate,0.7183
+review joshua,0.7179
+staff great,0.7164
+time cafe,0.715
+mario love,0.7143
+simon,0.7131
+best mimosa,0.713
+amy hope,0.7126
+review eileen,0.7115
+appreciated,0.7106
+chad sorry,0.7106
+jan see,0.7106
+excellent food,0.7101
+thank awesome,0.7092
+thank great,0.7044
+maryann wait,0.7023
+beer wine,0.7015
+review eylith,0.6998
+review trini,0.6998
+thank positive,0.696
+excellent almond,0.6955
+angeline,0.6953
+great sandwich,0.6949
+review sophia,0.6946
+glad came,0.6929
+toilet usually,0.6921
+lot money,0.6885
+good cost,0.6865
+return salad,0.6862
+salad sandwich,0.6846
+fruit fresh,0.6839
+beautiful salad,0.6838
+loved chicken,0.6822
+thank visiting,0.6821
+salad serve,0.6784
+lovely staff,0.6764
+friendly,0.6758
+prison,0.6756
+cafe loved,0.6755
+coffee sandwich,0.6752
+review angeline,0.6729
+welcome neighborhood,0.6712
+parastoo happy,0.6698
+bathroom service,0.6691
+happy welcome,0.6686
+ruben,0.6674
+cost lot,0.6672
+joshua,0.6667
+rude chef,0.6656
+breakfast good,0.6655
+abe wait,0.6649
+thank mark,0.6638
+review dan,0.6633
+cheese recommend,0.6632
+wow thank,0.6626
+tidewatergirl,0.6611
+coffee strong,0.6598
+review jason,0.6596
+thank martin,0.6591
+nicole wait,0.6577
+salad excellent,0.6558
+review nicole,0.6557
+music mode,0.6551
+brunch lunch,0.6535
+sorry bathroom,0.653
+glad liked,0.652
+morning breakfast,0.6518
+welcoming,0.6517
+almond croissant,0.6516
+graham tv,0.6507
+hope yo,0.6503
+sandwich fantastic,0.6492
+maria see,0.6482
+cheese croissant,0.6475
+nick wait,0.6457
+review nick,0.6456
+bathroom happens,0.6451
+kitchen small,0.6446
+salad full,0.6418
+chinese salad,0.6409
+krissy appreciate,0.6366
+panini sandwich,0.6361
+great lunch,0.6354
+thank tyler,0.6348
+salad amazing,0.6345
+sorry bad,0.6342
+salad perfect,0.634
+chocolate yum,0.6339
+soon glad,0.6337
+bad experience,0.6335
+book coloring,0.6328
+seeing happy,0.6321
+review macaroni,0.6316
+coated chocolate,0.6313
+latte nice,0.628
+ham cheese,0.6273
+write wonderful,0.6271
+mimosa around,0.6254
+review appreciate,0.6252
+review brian,0.6243
+review amy,0.6224
+delicate champagne,0.6222
+lunch loved,0.6218
+david happy,0.6201
+friendly owner,0.6201
+delicious pepperoni,0.6199
+shortbread cookie,0.6178
+happy favorite,0.6177
+stuffed cheese,0.6173
+neighborhood wonderful,0.6168
+looking forward,0.6142
+tamara wait,0.6128
+using freshest,0.6128
+love customer,0.6119
+review maryann,0.6101
+chimay week,0.6098
+every dish,0.6095
+happy lovely,0.6055
+massively tasty,0.6052
+dan,0.6041
+helpful taco,0.6041
+wish pasta,0.6038
+ingredient hope,0.6034
+delicious coffee,0.6026
+food town,0.6019
+aaron review,0.601
+thomas loved,0.5999
+bathroom,0.5991
+toast salad,0.5984
+greg excited,0.5983
+pasta also,0.5981
+sandwich lunch,0.5973
+pastry,0.5955999999999999
+thing toilet,0.595
+peaceful neighborhood,0.5944
+side salad,0.5931
+sophia,0.5923
+nice server,0.5922
+loved getting,0.5922
+sandwich list,0.5918
+every morning,0.5906
+croissant original,0.5899
+pride using,0.5894
+ok cafe,0.5893
+freshest,0.5889
+vegetarian option,0.5881
+outside sunny,0.5881
+cappuccino yummy,0.5878
+naming friendliest,0.5877
+customer love,0.5875
+cheers,0.5864
+krishin love,0.5862
+sunny,0.5861
+happy place,0.5853
+macaroni,0.5845
+tv usually,0.5844
+mimosa,0.5821
+toast avocado,0.5819
+best sandwich,0.5815
+large shortbread,0.5789
+dinner incredible,0.5788
+love love,0.5779
+salad slowly,0.5777
+food beer,0.5761
+food fresh,0.5745
+spacious coffee,0.5744
+gluten free,0.5744
+excited outdoor,0.5737
+business dropping,0.5735
+knowledgeable potato,0.5728
+week two,0.5715
+usually music,0.5708
+music intolerable,0.5704
+fantastic pork,0.5691
+italian,0.5687
+bad,0.5653
 sandy,0.5652
-cost,0.5634
-hanna,0.5621
-cheers,0.5575
-wine,0.5556
-steve,0.5482
-tidewatergirl,0.545
-neighborhood,0.5414
-taco,0.5369999999999999
-macaroni,0.5356
-yummy,0.5285
-pasta,0.527
-morning,0.526
-quaint,0.521
-eileen,0.5114
-loved,0.5111
-chinese,0.5032
-brian,0.5003
-pleasant,0.494
-consistently,0.4913
-dan,0.4846
-serving,0.4706
-pastry,0.4683
-peaceful,0.468
-music,0.4672
-beautiful,0.4659
-cookie,0.4657
-danny,0.4646
-bread,0.4627
-champagne,0.4547
-angeline,0.454
-freshest,0.449
-toilet,0.4481
-jason,0.448
-sándwiches,0.4431
-croissant,0.4336
-pizzaa,0.4323
-isaac,0.4318
-nao,0.4275
-tv,0.4241
-intolerable,0.424
-ha,0.4198
-brunch,0.4177
-almond,0.4124
-money,0.4123
-tranquil,0.4057
-positive,0.4036
-allyson,0.4004
-mangal,0.3935
-wifi,0.3899
-small,0.38860000000000006
-welcome,0.3875
-city,0.3847
-pudding,0.38280000000000003
-item,0.3821
-leander,0.3798
-shade,0.3793
-dish,0.3722
-joshua,0.3707
-loves,0.3673
-neighbors,0.3652
-liked,0.3574
-excited,0.355
-clean,0.3533
-outside,0.3521
-maryann,0.3469
-pepperoni,0.3446
-terrific,0.3427
-pride,0.3418
-dinner,0.3415
-lot,0.3376
-mode,0.336
-rishi,0.3352
-week,0.3343
-shortbread,0.3341
-pastries,0.3337
-mark,0.3285
-comfortable,0.32620000000000005
-cuban,0.3231
-latte,0.3203
-sophia,0.3199
-enjoy,0.3137
-slowly,0.30779999999999996
-rude,0.3066
-ivan,0.3022
-gluten,0.29919999999999997
-enrich,0.2971
-ingredients,0.2966
-eylith,0.2957
-stars,0.2953
-breakfasts,0.2939
-pork,0.2935
-affordable,0.2916
-experienced,0.2911
-mush,0.2869
-pictures,0.2805
-cashier,0.2782
-mushrooms,0.2773
-vaccination,0.2768
-temporary,0.2711
-baked,0.267
-fruit,0.2642
-congrats,0.2632
-wages,0.2559
-popcorns,0.253
-bad,0.2526
-jean,0.252
-free,0.2489
-covid,0.2465
-customers,0.2464
-tyler,0.2461
-fix,0.2426
-chimay,0.2405
-write,0.2399
-beers,0.2351
-christina,0.2335
-trying,0.2295
-krissy,0.2274
-spacious,0.2267
-abe,0.2265
-meals,0.2239
-addicted,0.2228
-excellent,0.221
-nicest,0.2191
-coloring,0.2181
-coffeeshops,0.2162
-cooked,0.2149
-day,0.2109
-amy,0.2074
-owner,0.206
-trini,0.1981
-bakery,0.1964
-businesses,0.1956
-anger,0.1953
-television,0.1941
-iced,0.1941
-dining,0.1926
-town,0.191
-long,0.1906
-flavorful,0.1901
-bland,0.1881
-sweeter,0.1875
-supporting,0.1852
-jazz,0.184
-girls,0.1826
-restaurants,0.1824
-aaron,0.1815
-high,0.1796
-foodies,0.1776
-forever,0.1773
-huge,0.1766
-annalise,0.1744
-tamara,0.1715
-eat,0.1711
-beef,0.171
-family,0.1704
-massively,0.1703
-solid,0.1702
-polite,0.17
-poppyseed,0.1697
-cappuccino,0.1679
-picture,0.1639
-chad,0.1598
-wrong,0.1594
-javed,0.1593
-fresh,0.158
-welcomed,0.1576
-annoying,0.1549
-danishes,0.1472
-dough,0.1442
-coming,0.143
-midday,0.14
-savors,0.1398
-tahsim,0.1391
-hello,0.1362
-4pm,0.1323
-helpful,0.1296
-nick,0.128
-eggs,0.1268
-order,0.1252
-pop,0.124
-mozzarella,0.1213
-books,0.1195
-wow,0.1181
-caesar,0.1161
-flavors,0.11560000000000001
-tried,0.1148
-commercials,0.112
-man,0.1076
-crispy,0.1038
-throw,0.0985
-sunlight,0.0958
-flavor,0.0931
-homemade,0.0853
-blaring,0.0853
-wife,0.0819
-soups,0.0794
-wish,0.0793
-potato,0.0775
-recommend,0.0766
-knowledgeable,0.0736
-passionate,0.0692
-dad,0.064
-bomb,0.0631
-lemon,0.0618
-friday,0.0589
-suggestions,0.0583
-panini,0.0582
-regular,0.0534
-business,0.051
-tomato,0.0506
-ate,0.048
-dropping,0.0425
-paying,0.035
-francisco,0.0323
-pandemic,0.0295
-return,0.0278
-sunday,0.005
-experience,-0.0043
-home,-0.0208
-afternoon,-0.0298
-popped,-0.0463
+healthy food,0.5647
+soup mercedes,0.5644
+chocolate,0.5641
+went wrong,0.5637
+backed sometimes,0.5634
+sandwich fresh,0.5625
+sandwich lovely,0.5624
+serve,0.5601
+food rude,0.5584
+toilet,0.5581
+coffee sit,0.5573
+making sandwich,0.5568
+wonderful people,0.5553
+tv,0.5552
+avocado,0.5552
+sandwich dish,0.5528
+quickly salad,0.5513
+best coffeeshops,0.5499
+thank graham,0.5497
+order kitchen,0.5492
+inside salmon,0.5489
+addictive salmon,0.5478
+sandwich stuffed,0.5455
+tried soup,0.5455
+thanks supporting,0.5439
+soup pizza,0.5424
+owner fantastic,0.5424
+fantastic quaint,0.5415
+friendly staff,0.5415
+brian mario,0.5412
+delicious food,0.5407
+great owner,0.5384
+toast breakfast,0.5372
+pizzaa,0.5352
+review picture,0.535
+menu vegetarian,0.5347
+food pastry,0.5346
+shade great,0.5342
+neighborhood coffee,0.5341
+wine,0.532
+lunch food,0.5317
+salad big,0.5315
+eat local,0.5311
+chef friendly,0.5294
+toast delicious,0.5282
+friendliest,0.527
+neighborhood spot,0.5269
+server pleasant,0.5266
+sorry experienced,0.5237
+kitchen,0.523
+happy enrich,0.521
+salad awesome,0.5195
+coffee even,0.5187
+jean looking,0.5184
+pastry drink,0.5176
+sometimes,0.5167
+congrats mario,0.5167
+tasty seating,0.5166
+lunch fri,0.5165
+coloring supply,0.516
+usual cafe,0.5155
+vegetarian frittata,0.515
+favorite dish,0.5144
+kristine happy,0.5132
+thank jenny,0.5107
+corner friendly,0.5104
+serving food,0.5103
+tasty restaurant,0.5093
+loved food,0.509
+pasta,0.509
+cost food,0.5088
+amazing dough,0.5086
+new cafe,0.5082
+better pastry,0.5067
+chiara appreciate,0.5063
+diversity vegetable,0.5049
+family visiting,0.5049
+fruit coffee,0.5039
+picture tamara,0.5015
+ambience menu,0.5015
+appreciate thanks,0.5013
+nice manager,0.5002
+expected tasty,0.5
+coffee good,0.4995
+pizza dough,0.499
+beef panini,0.4989
+restaurant terrific,0.4988
+tarragon sandwich,0.4981
+coffee delish,0.498
+fresh ingredient,0.4975
+mario team,0.4971
+lunch usually,0.4968
+caesar salad,0.4965
+best gluten,0.4962
+coffee hidden,0.4952
+pizzaa ive,0.4951
+sat dinner,0.4949
+sandwich best,0.4933
+beer,0.4932
+fresh mozzarella,0.4923
+champagne glass,0.4909
+kitchen salad,0.4895
+food yummy,0.4886
+week,0.4864
+cheese,0.4863
+service friendliest,0.4847
+cafe like,0.4833
+big tasty,0.481
+amazing chinese,0.478
+rent high,0.4779
+better payment,0.4772
+baked good,0.4727
+exquisite chef,0.4718
+miss breakfast,0.4682
+chef owner,0.4679
+amazing food,0.4679
+eat san,0.4673
+food wage,0.4668
+covid congrats,0.4661
+kid book,0.4644
+slowly working,0.4633
+coffee always,0.4622
+cooked beautifully,0.4607
+food quickly,0.4604
+croissant,0.46
+shop great,0.4588
+restaurant new,0.4574
+focaccia bread,0.4573
+food better,0.4562
+price dropping,0.4552
+next trip,0.454
+try soup,0.4539
+excellent review,0.4525
+foodie love,0.4515
+visiting hope,0.4506
+healthy happy,0.4501
+german beer,0.4494
+chef,0.4493
+capicola pizza,0.448
+favorite croissant,0.4474
+back pastry,0.4473
+tasty nice,0.447
+selection coffee,0.4467
+food avocado,0.4453
+sunny sidewalk,0.4451
+bread pudding,0.4448
+spot love,0.4441
+cafe last,0.4429
+kevin slowly,0.4424
+cesar salad,0.4417
+try pizza,0.4414
+food chinese,0.4413
+bread crispy,0.441
+flavor pork,0.4409
+margarita pizza,0.4407
+champagne,0.4399
+croissant return,0.4391
+need television,0.4388
+thank trying,0.4386
+bread veggie,0.4363
+salmon,0.4344
+work lunch,0.4293
+outdoor dining,0.4288
+leek soup,0.4276
+fresh food,0.427
+nicoise beef,0.4255
+ham breakfast,0.4251
+poppyseed muffin,0.4246
+good cashier,0.4243
+food thank,0.4236
+fantastic gluten,0.4235
+tomato yummy,0.4225
+cashier polite,0.4223
+panini chicken,0.4214
+sandwiches served,0.4214
+asian chicken,0.4207
+made home,0.4201
+coloring,0.4197
+salad highly,0.4187
+people like,0.4173
+breakfast home,0.4169
+nice ambiente,0.4167
+intolerable,0.4161
+pizza,0.4152
+soup wordly,0.4149
+neighborhood lunch,0.4149
+high spend,0.4138
+coconut vegetarian,0.4133
+great cappuccino,0.4127
+meal worth,0.4126
+discussed staff,0.4114
+excited,0.4113
+business organic,0.4103
+friendly chef,0.4101
+trying menu,0.4092
+getting breakfast,0.4075
+coffee definitely,0.4075
+cafe sits,0.4069
+mario chef,0.4062
+pork cooked,0.4043
+clean nice,0.4022
+super delicious,0.4011
+get salad,0.3985
+comfortable sunny,0.3958
+preparation flavor,0.3938
+brunch friendly,0.3926
+girl sit,0.3922
+food amazing,0.389
+taco,0.3883
+forever cuban,0.3865
+lemon poppyseed,0.3854
+friendly food,0.3851
+worth food,0.385
+sauce cheese,0.3849
+replacement bread,0.3847
+wonderful suggestion,0.383
+food delicious,0.3821
+pastry nicer,0.3817
+pizza along,0.3793
+popcorn munch,0.3748
+bland food,0.3737
+cafe fare,0.3722
+afternoon wife,0.3719
+bakery gem,0.3708
+staff try,0.3697
+coffee pastry,0.3683
+enough sandwiches,0.3669
+ndwiches delicious,0.3668
+nice cafe,0.3654
+belgian beer,0.3639
+spot foodie,0.3612
+sandwich ever,0.3593
+overpriced bland,0.3584
+prepared delicious,0.358
+good food,0.3562
+kitchen kind,0.3549
+chef achieved,0.3523
+spot breakfast,0.349
+dish,0.3478
+crafted coffee,0.3478
+nicer menu,0.3449
+deserves husband,0.3428
+husband love,0.3423
+nicest guy,0.339
+week breakfast,0.3385
+small slice,0.3378
+professional stop,0.333
+ok coffee,0.3262
+coffee peace,0.3149
+amazing homemade,0.3115
+heck food,0.311
+coffee tasted,0.3106
+ever tried,0.3081
+wife bringing,0.3074
+condescended wife,0.3071
+peaceful coffee,0.3043
+hip coffee,0.2876
+sip coffee,0.2864
+tried recommend,0.2796
+gluten,0.2769
+best staff,0.2738
+employee wife,0.2706
+due business,0.2445
+pastry ordered,0.2438

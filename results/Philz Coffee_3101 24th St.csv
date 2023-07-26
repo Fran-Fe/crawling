@@ -1,376 +1,701 @@
 keyword,weight
-coffee,57.1604
-great,12.3055
-good,10.1165
-love,8.909699999999999
-philz,7.9716
-nice,6.5725999999999996
-best,5.4099
-delicious,4.9078
-friendly,4.8423
-staff,4.7603
-place,4.6068999999999996
-service,4.3839
-mint,3.991
-amazing,3.3097
-cool,3.2398
-cup,2.9975
-cozy,2.5763
-seating,2.4527
-favorite,2.4294000000000002
-mojito,2.3609999999999998
-starbucks,2.1882
-baristas,2.1098
-tea,2.0756
-awesome,1.9324
-atmosphere,1.7120000000000002
-drinks,1.7059000000000002
-unique,1.6431
-lot,1.6315
-cute,1.5944
-coffees,1.5823
-latte,1.5734000000000001
-location,1.5238
-flavors,1.5014
-perfect,1.4632
-patio,1.4412
-toast,1.4289
-quiet,1.4066
-chill,1.4008
-super,1.3411
-fast,1.3331
-bad,1.2971
-breakfast,1.2952
-spot,1.2410999999999999
-chocolate,1.1059
-fantastic,1.0754
-wifi,1.0748
-people,1.0743
-food,1.0594999999999999
-pricey,1.0571000000000002
-teas,1.0238
-way,1.0234
-just,0.9982
-pretentious,0.9624
-customers,0.9569000000000001
+coffee,52.2534
+great coffee,11.2042
+love,7.6469000000000005
+best coffee,7.6098
+good coffee,7.4784999999999995
+great,5.997999999999999
+coffee good,5.9149
+best,4.7264
+cup coffee,4.5832
+good,4.3601
+philz,4.139
+amazing coffee,3.9746
+coffee great,3.8983
+place,3.6482
+delicious coffee,3.4516999999999998
+nice,3.3203
+mint mojito,3.1587
+tea,3.0372
+coffee ever,3.0237999999999996
+starbucks,3.0163
+nice staff,2.8129
+friendly staff,2.7967
+mint,2.7772
+delicious,2.5326
+coffee amazing,2.4966999999999997
+staff,2.3941
+cool,2.377
+coffee delicious,2.3138
+awesome staff,2.1795999999999998
+mojito,2.1686
+philz coffee,2.1283
+always,2.0659
+love coffee,2.0
+amazing,1.9452
+good philz,1.94
+friendly baristas,1.8104
+philz great,1.7945
+nice coffee,1.7906
+unique flavor,1.6974
+coffee awesome,1.633
+latte,1.5997
+friendly,1.5594000000000001
+coffee town,1.5512
+iced coffee,1.5509
+favorite coffee,1.542
+flavor,1.5368
+coffee bomb,1.5255
+coffee bean,1.5083
+first time,1.4801
+mojito latte,1.4630999999999998
+cute,1.4422000000000001
+coffee friendly,1.4162
+patio,1.4102000000000001
+love philz,1.4046
+seating,1.3942
+mint tea,1.3898000000000001
+coffee complaint,1.3860999999999999
+coffee tea,1.3820999999999999
+coffee like,1.362
+drink,1.3531
+coffee best,1.3517
+hot chocolate,1.325
+service great,1.3176999999999999
+quality coffee,1.3107
+baristas,1.2606
+great neighborhood,1.252
+special coffee,1.2467
+coffee ready,1.2341000000000002
+great service,1.229
+mojito coffee,1.2107
+best mint,1.2044000000000001
+coffee excellent,1.1931
+coffee coffee,1.1834
+coffee house,1.18
+experience coffee,1.1773
+coffee made,1.1503
+good service,1.1480000000000001
+toast,1.1312
+coffee always,1.1237
+bad,1.0952
+service,1.0657999999999999
+tasty,1.0381
+drip coffee,1.0334
+great philz,1.0246
+cup,1.016
+really nice,1.0144
+ever,1.0084
+great place,1.0
+wolfie approves,1.0
+addicted,1.0
+beautiful place,1.0
+friendliest staff,1.0
+menu attractive,1.0
+ask latte,1.0
+cool peep,1.0
+quiet,1.0
+cute patio,1.0
+good cofee,1.0
+fantastic staff,1.0
+full philling,1.0
+love phill,1.0
+love phiz,1.0
+coffee around,0.9866999999999999
+come breakfast,0.9641
 beautiful,0.9569
-addicted,0.9567
-expensive,0.9509000000000001
-customer,0.9408
-tasty,0.9158999999999999
-morning,0.897
-quick,0.8883000000000001
-hot,0.8847
-friendliest,0.8764
-coffe,0.8392999999999999
-lovely,0.8288
-parking,0.8281000000000001
-hangout,0.8111
-sandwiches,0.8078
-loved,0.8077000000000001
-pretty,0.8013
-character,0.8002
-greenery,0.7956
-high,0.7865
-black,0.786
-day,0.7841
-start,0.7827
-blends,0.7720999999999999
-snacks,0.771
-downtown,0.7691
-terrible,0.766
-easy,0.7654
-beans,0.7651
-menu,0.7631
-police,0.7586999999999999
-cofee,0.7569
-philling,0.7491
-peeps,0.7418
-espresso,0.7397
-bomb,0.7379
-approves,0.7345
-aren,0.7342
-time,0.7326999999999999
-highly,0.7169000000000001
-little,0.6993
-wolfie,0.6992
-phill,0.6923
-pleasure,0.6784
-turnover,0.674
-phiz,0.6686
-interior,0.6599
-warm,0.6584
-bacon,0.6578999999999999
-caffeinated,0.6548
-busy,0.6524
-convenient,0.6274
-selection,0.6259
-noisy,0.6257
-app,0.6228
-outdoor,0.6206
-say,0.6192
-changed,0.618
-expect,0.6091
-accommodating,0.6073
-quicker,0.5966
-rhis,0.5931
-attractive,0.5869
+start day,0.9551
+lot character,0.9471
+love little,0.9458
+good customer,0.9429
+breakfast,0.9375
+nice people,0.9316
+place lot,0.927
+always love,0.9265
+flavor cool,0.9265
+unique blend,0.9239
+coffee specialty,0.9232
+cute interior,0.9191
+excellent coffee,0.9175
+cool place,0.9162
+dark coffee,0.9162
+free wifi,0.9133
+friendliest,0.9065
+high turnover,0.9063
+fast friendly,0.9032
+pretentious,0.9031
+nothing else,0.8958
+mojito go,0.892
+expect philz,0.8908
+mojito great,0.8899
+spot chill,0.8899
+best bathroom,0.8882
+favorite,0.887
+various coffee,0.8867
+pour coffee,0.886
+great selection,0.8848
+seems high,0.8844
+love coffe,0.8817
+coffee expensive,0.88
+high,0.8722
+ecstatic coffee,0.8721
+friendly delicious,0.8712
+awesome,0.8708
+coffee way,0.8687
+greenery courtyard,0.8663
+philz starbucks,0.8654
+pretentious coffee,0.8633
+lot,0.8633
+great tea,0.8609
+starbucks upper,0.8593
+chill,0.8575
+get coffee,0.8536
+philz nothing,0.8521
+philz greenery,0.8517
+day,0.8515
+super nice,0.8504
+people,0.8504
+mint coffee,0.8493
+always parking,0.8483
+coffee service,0.8443
+greenery,0.8394
+always point,0.8371
+coffe perfect,0.8365
+terrible wifi,0.8363
+tea loved,0.8358
+full,0.8341
+point drink,0.8338
+decent coffee,0.829
+area changed,0.829
+perfect atmosphere,0.8277
+free morning,0.8266
+almond milk,0.8262
+nothing,0.8197
+hangout,0.817
+morning commute,0.817
+exactly would,0.816
+changed lot,0.8153
+place hangout,0.8145
+corporate discount,0.8131
+bad cup,0.8106
+coffee outside,0.8101
+gingersnap iced,0.8085
+coffee food,0.808
+allows baristas,0.8077
+ask,0.8075
+highly caffeinated,0.8056
+wish seating,0.8045
+caffeinated coffee,0.8031
+coffee terrible,0.8011
+way start,0.7991
+tasty coffee,0.7981
+great love,0.7979
+lot seating,0.7973
+start,0.7971
+great accommodating,0.7916
+would expect,0.7899
+coffee bad,0.7897
+coffee tasty,0.7895
+interior design,0.7849
+peep,0.7819
+cool atmosphere,0.7815
+approves,0.781
+attractive,0.7805
+changed,0.7798
+patio seating,0.7784
+character,0.7784
+good corporate,0.7781
+little place,0.7771
+expect,0.776
+sandwich delicious,0.7716
+coffee taste,0.7714
+nice philz,0.7713
+philling,0.7691
+avocado sandwich,0.767
+baristas personality,0.7668
+coffee avocado,0.7658
+selection unique,0.761
+comfortable coffee,0.7597
+atmosphere pleasent,0.7597
+good tea,0.7587
+fantastic,0.7584
+people coffee,0.758
+caltrain morning,0.7574
+great spot,0.7557
+coffee favorite,0.7552
+love good,0.7551
+coffee bit,0.7546
+quicker service,0.7527
+blend,0.7524
+coffee snack,0.7446
+phill,0.7411
+cofee,0.7411
+little,0.7406
+service convenient,0.7403
+next police,0.74
+spot,0.7399
+coffee fantastic,0.7394
+coffee lebaneh,0.7366
+coffee store,0.7363
+accommodating staff,0.7358
+coffee probably,0.735
+wolfie,0.7341
+loved chamomile,0.7339
+else say,0.7335
+fast service,0.7325
+rather good,0.7318
+coffee usual,0.7309
+toast delicious,0.7282
+seating available,0.7259
+awesome coffee,0.7245
+seat sofa,0.7229
+many type,0.7201
+coffee long,0.7192
+better starbucks,0.7181
+fast,0.718
+sofa,0.7169
+great customer,0.7167
+trying coffee,0.7136
+go,0.7128
+quite relaxing,0.712
+coffee note,0.7103
+tea nice,0.71
+swift baristas,0.7086
+less crowded,0.7081
+bathroom door,0.7077
+phiz,0.7056
+menu,0.7037
+town,0.7032
+hang area,0.6993
+else,0.6978
+menu coffee,0.6967
+popular usually,0.696
+love black,0.6956
+limited seating,0.6938
+avacado toast,0.6928
+relaxing,0.6921
+pleasure,0.6914
+coffee modern,0.691
+coffee kind,0.6906
+coffee gone,0.6899
+baristas warm,0.6895
+location always,0.6883
+police station,0.6869
+nice spot,0.6866
+wonderful people,0.6862
+location wish,0.6841
+tends pricey,0.684
+espresso drink,0.6836
+perfect coffee,0.6832
+love jamaican,0.683
+turnover,0.6823
+great dark,0.682
+chamomile honey,0.6814
+coffee bay,0.6802
+coffee nice,0.6795
+turnover rhis,0.6794
+treats customer,0.6783
+always experienced,0.6751
+noisy missing,0.6749
+black mint,0.6744
+convenient location,0.671
+customer service,0.6706
+good ordering,0.6683
+spot allows,0.6675
+lovely coffee,0.667
+fantastic coffee,0.6667
+pricey side,0.6667
+go starbucks,0.6645
+black cup,0.6638
+place hang,0.6624
+mountain coffee,0.6606
+morning,0.6579
+jamaican blue,0.6571
+smaller philz,0.6559
+chocolate brownie,0.6559
+sure coffee,0.6556
+snack lovely,0.6547
+super tasty,0.6546
+bathroom,0.6538
+outpost patio,0.6534
+better coffee,0.6523
+loaf chocolate,0.6508
+great staff,0.6493
+asking espresso,0.6481
+philz downtown,0.6475
+side coffee,0.6473
+make pleasure,0.6472
+lebaneh toast,0.6453
+delicious made,0.6439
+customer well,0.6438
+wish,0.6438
+bit pretentious,0.643
+great friendly,0.6422
+interior,0.6411
+caffeinated,0.641
+good way,0.6404
+ordering confusing,0.64
+love location,0.6396
+course coffee,0.639
+coffee place,0.639
+creamy coffee,0.6381
+tea good,0.6325
+food waiting,0.6319
+accommodating,0.6316
+brownie bacon,0.6308
+specialty made,0.6303
+pricey,0.6277
+quicker,0.6266
+cup phil,0.6266
+great cup,0.6257
+coffee every,0.6249
+popular,0.6228
+coffee helpful,0.6222
+point,0.6199
+way noisy,0.6197
+police,0.6189
+ideal four,0.6178
+overpriced pretentious,0.6172
+baristas good,0.6156
+chill next,0.6153
+downtown sj,0.6149
+many,0.6144
+fresh brew,0.6141
+soo good,0.6134
+seat free,0.613
+experienced great,0.6127
+staff treats,0.6113
+yet bad,0.6112
+another great,0.611
+really popular,0.6107
+vegan doughnut,0.6099
+location limited,0.6097
+super fast,0.6096
+philz though,0.6077
+liking perfect,0.6075
+drink good,0.6074
+favorite philz,0.6071
+bacon onion,0.6049
+near fountain,0.6037
+customer,0.6035
+noisy,0.6034
+spacious outdoor,0.6018
+per cup,0.601
+starbucks starbitter,0.5992
+tea much,0.5991
+cup perfectly,0.5971
+comped drink,0.5969
+cozy philz,0.5966
+cozy loved,0.5964
+parking nearby,0.5944
+expensive,0.5937
+great people,0.5919
+coffee really,0.5919
+staff coffee,0.591
+coffee wanted,0.5893
+avocado,0.589
+amazing cup,0.5875
+lovely service,0.587
+favorite sf,0.5863
+always terrible,0.5855
+always difficult,0.5855
 overpriced,0.5853
-limited,0.5816
-minutes,0.5749
-wonderful,0.5729
-relaxing,0.5728
-bathroom,0.563
-jamaican,0.5585
-sofas,0.5569
-pleasent,0.5565
-corporate,0.5563
-spacious,0.5468999999999999
-milk,0.5454
-personality,0.5417
-discounts,0.5412
-comfortable,0.5396000000000001
+way go,0.5845
+bad sevice,0.5842
+delicious boyfriend,0.5832
+time delicious,0.5824
+breakfast sandwich,0.5805
+gone mcdonald,0.5792
+caviar make,0.5784
+type unique,0.5771
+coffee personalized,0.577
+spot first,0.5767
+roast coffee,0.5765
+coffee open,0.576
+bomb,0.5754
+weather nice,0.5747
+service awesome,0.5742
+nice cozy,0.5728
+notch banana,0.5716
+outdoor sitting,0.5692
+drink liking,0.5686
+philz friendly,0.5682
+prefer starbucks,0.568
+using app,0.5678
+toast breakfast,0.5677
+discount,0.5677
+great cust,0.5675
+service easy,0.5664
+corporate,0.566
+rude coffee,0.5656
+quickly coffee,0.5656
+blue mountain,0.5653
+four star,0.5651
+ahead coffee,0.5651
+downtown,0.5621
+super,0.5618
+enjoy coffee,0.5603
+starbucks literally,0.5599
+friendly swift,0.5591
+work long,0.559
+sf coffee,0.5585
+best every,0.5579
+great location,0.5579
+door sf,0.5576
+less,0.5573
+place chill,0.5562
+coffee whenever,0.5548
+starbucks still,0.5541
+coffee darn,0.554
+strong,0.554
+neighborhood vibe,0.5517
+never hot,0.5511
+dog friendly,0.5503
+first,0.5486
+friendly fun,0.5479
+nice location,0.5474
+fresh bagel,0.5472
+selection coffee,0.5435
+coming caltrain,0.5418
+competition coffee,0.5408
+selection pastry,0.5405
+coffe good,0.54
+order coffee,0.5389
+coffee experience,0.5384
 dark,0.5381
-free,0.5377
-avocado,0.5349
-area,0.5347000000000001
-courtyard,0.5317
-decent,0.526
-pastries,0.523
-hours,0.5181
-exactly,0.5181
-honey,0.51
-seats,0.5091
-wish,0.5089
-treats,0.4992
-tech,0.4961
-available,0.4945
-strong,0.4933
-blend,0.492
-menus,0.4856
-outpost,0.4843
-design,0.4802
-point,0.4781
-laptop,0.4749
-excellent,0.4742
-don,0.4727
-specialty,0.4658
-banana,0.4637
-smaller,0.4591
-caviar,0.446
-various,0.4444
-drink,0.4435
-missing,0.4396
-confusing,0.4375
-tastes,0.4352
-safe,0.432
-personalized,0.4316
-town,0.4275
-almond,0.4275
-dog,0.4191
-happy,0.417
-bright,0.4159
-bit,0.4068
-fountain,0.406
-types,0.4056
-barista,0.4039
-caffeine,0.4003
-ask,0.3996
-sf,0.39089999999999997
-usual,0.3899
-brew,0.38739999999999997
-sitting,0.3823
-allows,0.3821
-cream,0.382
-commute,0.3817
-come,0.3811
-popular,0.3773
-ecstatic,0.3767
-charm,0.375
-complicated,0.3745
-note,0.3744
-sevice,0.3733
-blue,0.3724
-traffic,0.3724
-dogs,0.3694
-vibe,0.36929999999999996
-fun,0.3655
-calm,0.3573
-nearby,0.3562
-fresh,0.355
-liking,0.354
-makes,0.3515
-25,0.3512
-creamy,0.3507
-park,0.3504
-ordering,0.3489
-phil,0.3488
-outside,0.3484
-shop,0.3472
-experienced,0.3468
-difficult,0.343
-comped,0.3387
-decor,0.3338
-onion,0.3315
-chamomile,0.3305
-mcdonald,0.3292
-modern,0.3287
-swift,0.3284
-hillary,0.3283
-gud,0.3255
-door,0.3206
-station,0.3205
-guest,0.3196
-cust,0.3173
-bagels,0.315
-cashier,0.3149
-instagram,0.3139
-summer,0.3106
-weekends,0.308
-pour,0.3058
-low,0.3049
-offer,0.3048
-vegan,0.3043
-experience,0.3005
-houses,0.2958
-long,0.2944
-caltrain,0.2925
-tons,0.2907
-sweet,0.2903
-lebaneh,0.2889
-crowded,0.2863
-sj,0.2834
-bar,0.2737
-tends,0.2736
-manhattan,0.2719
-drip,0.2712
-usually,0.2666
-waiting,0.2644
-flavor,0.2643
-diversity,0.2528
-learned,0.2447
-wasn,0.2446
-hip,0.2386
-quickly,0.2368
-favorites,0.2365
-eclectic,0.2341
-everytime,0.2336
-order,0.233
-turkish,0.2298
-recommend,0.2234
-work,0.22
-pop,0.2192
-neighborhood,0.219
-like,0.218
-miserable,0.2172
-heat,0.2172
-music,0.2159
-hands,0.2158
-online,0.2145
-weather,0.2131
-kind,0.2063
-clean,0.2062
-large,0.2058
-mountain,0.2053
-gone,0.2038
-croissant,0.2026
-iced,0.2019
-impressed,0.2017
-trudy,0.2011
-hurry,0.2009
-welcoming,0.1969
-doughnuts,0.1969
-break,0.1962
-real,0.1931
-roast,0.193
-snapchat,0.1925
-upper,0.1887
-lots,0.1885
-taste,0.1861
-impeccable,0.1836
-advice,0.1831
-helpful,0.1781
-bay,0.1697
-addict,0.1686
-city,0.1653
-competition,0.1643
-coffeeeeeee,0.1591
-cops,0.1559
-wait,0.1524
-preorder,0.1507
-killer,0.1506
-gingersnap,0.1506
-varieties,0.1468
-rude,0.1434
-midday,0.142
-quite,0.1399
-hour,0.1391
-sizes,0.1377
-nectar,0.1364
-regular,0.1363
-girl,0.1363
-probably,0.1354
-coming,0.1347
-200,0.131
-gluten,0.1298
-average,0.1295
-lifeless,0.1275
-market,0.1234
-splendor,0.1206
-gas,0.1193
-ve,0.1181
-starbitter,0.1161
-choices,0.1073
-mass,0.1055
-silken,0.0998
-boyfriend,0.0991
-cosy,0.0977
-sure,0.0963
-beverages,0.0961
-faster,0.0949
-firefighters,0.0932
-tasted,0.0876
-thank,0.0856
-quality,0.0846
-bus,0.0816
-sunday,0.0785
-lonely,0.0784
-store,0.0768
-worth,0.0764
-toasts,0.0736
-water,0.0734
-stars,0.0717
-creaming,0.0711
-end,0.0597
-shops,0.0557
-oracle,0.0556
-smiling,0.0548
-perfectly,0.0537
-april,0.0536
-fragrant,0.0444
-hate,0.0433
-paying,0.043
-wonderbar,0.0414
-prepare,0.0393
-spilled,0.036
-wanted,0.0351
-tips,0.0323
-alex,0.0308
-2021,0.0273
-30,0.0197
-month,0.0167
-enjoy,0.013900000000000003
-spartan,0.0138
-special,0.0133
-jamaica,0.0124
-better,0.0113
-stumbled,0.0094
-20,0.0079
-awhile,-0.012
-ideal,-0.0179
-personally,-0.018
-cleaned,-0.0234
-visit,-0.0309
-red,-0.0498
-early,-0.0723
-haze,-0.0788
+like strong,0.5373
+great outdoor,0.5343
+coffee lot,0.5341
+delicious coffeeeeeee,0.534
+staff friendly,0.5337
+favorite line,0.5335
+loved infrastructure,0.5312
+warm welcoming,0.5307
+cup brew,0.529
+nice bright,0.527
+lot parking,0.5266
+whole menu,0.526
+coffee better,0.5259
+favorite mint,0.5257
+average nothing,0.5253
+large menu,0.525
+excellent mint,0.5243
+best ever,0.524
+also coffee,0.5235
+commute,0.5229
+lighting dog,0.5205
+tea ever,0.5187
+work laptop,0.5185
+coffee option,0.5179
+tessaro coffee,0.5179
+regular hour,0.5176
+specialty,0.5174
+location great,0.5174
+cozy,0.5166
+clean comfortable,0.5143
+honey delicious,0.5142
+app super,0.514
+service good,0.5136
+coffee ordered,0.5132
+taste ok,0.5128
+nothing special,0.5126
+awesome baristas,0.5125
+super quick,0.5114
+welcoming love,0.5112
+milk coffee,0.5111
+gud come,0.5109
+personalized black,0.5107
+pepples vegan,0.51
+toast friendly,0.51
+place complicated,0.5094
+excellent staff,0.509
+calm cozy,0.509
+long hour,0.5048
+ecstatic,0.5047
+made cup,0.5033
+serve toast,0.5033
+bagel enough,0.503
+scone pretty,0.5028
+food choice,0.502
+terrible,0.5017
+bacon burrito,0.5009
+wonderful,0.4996
+big safe,0.4986
+water everytime,0.4982
+service delicious,0.4978
+order food,0.4973
+go coffee,0.4972
+dose caffeine,0.4968
+customer nice,0.4929
+prepare coffee,0.4927
+everyone nice,0.4925
+spot spacious,0.4925
+pastry,0.492
+pastry expensive,0.4916
+safe location,0.4906
+variety coffee,0.4888
+wanted coffee,0.4885
+online ordering,0.4884
+people best,0.488
+coffee breakfast,0.4874
+seating weather,0.4872
+dog inside,0.4842
+highly recommend,0.4839
+blend ideal,0.4822
+latte avacado,0.4821
+local coffee,0.4819
+coffee bar,0.4815
+coffee shop,0.481
+order quickly,0.4809
+bay area,0.476
+always fun,0.4759
+wanted taste,0.4741
+drink favorite,0.4736
+unbelievable coffee,0.4724
+egg bacon,0.4721
+sf baristas,0.4712
+shop first,0.4712
+regular espresso,0.4711
+ordering,0.4703
+rock pop,0.4703
+hot enough,0.4683
+favorite love,0.4659
+coffee new,0.4653
+caffeine,0.4644
+mint flavor,0.4637
+outdoor seating,0.4611
+good never,0.4611
+coffee mocha,0.4608
+everytime break,0.4605
+coffee hot,0.4582
+especially almond,0.457
+black,0.4549
+lot variety,0.4532
+good spot,0.4532
+quick service,0.4526
+design,0.4522
+chained coffee,0.4515
+probably best,0.45
+staff calm,0.4493
+best creamy,0.449
+coffee usually,0.447
+come,0.4468
+creamy sweet,0.4462
+learned name,0.4448
+taste,0.4437
+phil coffee,0.4406
+amazing order,0.4402
+doughnut also,0.4401
+best made,0.4391
+turkish excellent,0.437
+every cup,0.437
+always amazing,0.4365
+chocolate everywhere,0.4353
+coffee spot,0.4349
+vegan,0.4326
+choose starbucks,0.4317
+aside coffee,0.4308
+chocolate cream,0.4303
+gluten free,0.4301
+wifi,0.4295
+instagram snapchat,0.428
+wonderbar first,0.4234
+coffee drink,0.4216
+new manhattan,0.4206
+coffee creator,0.4114
+parking good,0.4096
+menu pretty,0.4095
+made order,0.4091
+coffee could,0.4073
+app,0.4071
+cream honey,0.407
+coffee artist,0.4068
+sad toast,0.4063
+drink coffee,0.4053
+gud,0.4038
+ever cute,0.4032
+family spacious,0.4032
+easy online,0.4022
+helpful barista,0.4009
+hip hop,0.4009
+sweet sprig,0.3999
+sweet staff,0.3976
+hillary gave,0.3934
+eclectic music,0.3922
+one cup,0.3899
+staff tons,0.3891
+cream coffee,0.389
+app preorder,0.3885
+tesora honey,0.3859
+wait coffee,0.3837
+great barista,0.3829
+staff worth,0.3824
+philz charm,0.3813
+coffee fab,0.3771
+nice street,0.3752
+addict fan,0.3725
+honest coffee,0.3712
+quickly even,0.371
+chocolate lead,0.3706
+coffee mostly,0.3697
+helpful staff,0.3694
+music diversity,0.3688
+made best,0.3674
+work coffee,0.3666
+coffee pastry,0.3663
+unannounced competition,0.3649
+hillary,0.364
+hang weekend,0.3637
+whipped best,0.3606
+mint iced,0.3582
+else menu,0.3574
+bacon,0.3566
+coffee prepared,0.3554
+pace girl,0.3549
+coffee hang,0.3505
+hot water,0.3482
+favorite blend,0.3482
+ever favorite,0.348
+breakfast treat,0.3443
+creamy tesora,0.3425
+fav philz,0.342
+baristas busy,0.3408
+weekend crowded,0.3389
+quickly,0.332
+everytime,0.3319
+honey ever,0.3308
+morning barista,0.3303
+parking actually,0.3299
+wait time,0.3296
+great music,0.3295
+modern rock,0.328
+love selection,0.3265
+super sweet,0.3249
+staff amazing,0.3244
+sfpd bomb,0.324
+high traffic,0.3228
+nice price,0.322
+one favorite,0.3211
+april inside,0.3198
+interior nice,0.3197
+ran competition,0.3166
+favorite location,0.313
+lonely drink,0.3118
+customer calling,0.3112
+shop miserable,0.3048
+coffee order,0.3019
+also wait,0.3014
+try delicious,0.2994
+traffic smooth,0.2775
+francisco pretentious,0.2737
+store snack,0.2689
+lots police,0.2641
+best pour,0.2592
+girl register,0.2507
+thank whoever,0.2496
+like baristas,0.2491
+delicious even,0.2484
+barista extra,0.2277
+spilled drink,0.2254
+chocolate,0.2187
+drink staff,0.1829

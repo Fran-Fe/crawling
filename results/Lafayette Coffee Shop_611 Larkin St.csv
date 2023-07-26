@@ -1,251 +1,442 @@
 keyword,weight
-food,17.5583
-good,10.6293
-breakfast,7.2785
-diner,4.9941
-great,4.7563
-love,4.6218
-service,4.5629
-coffee,3.1802
-cheap,2.6379
-dinner,2.5711
-place,2.2467
-nice,1.725
-tasty,1.7195
-cooked,1.6851
-pancakes,1.5826
-eating,1.5544
-greasy,1.5323
-potatoes,1.4956
-cooking,1.4859
-excellent,1.4804
-comfortable,1.4791
-meal,1.4609
-friendly,1.4446999999999999
-daily,1.4385999999999999
-rude,1.4375
-spoon,1.4321
-best,1.4071
-reasonable,1.3719999999999999
-american,1.3501
-home,1.3443
-fast,1.3119
-meals,1.2647
-quick,1.1029
-cafe,1.0977000000000001
-lunch,1.08
-forever,1.0754000000000001
-large,1.0467
-restaurant,1.0367000000000002
-average,1.0187
-foods,1.0081
-salad,0.9864999999999999
-lafayette,0.9776
-loved,0.9678
-eat,0.9587
-thanksgiving,0.9438
-nostalgia,0.9389
-steak,0.9329999999999999
-price,0.9282
-specials,0.9207000000000001
-nasty,0.8803000000000001
-day,0.8586
-beef,0.8554999999999999
+food,8.4521
+good food,7.0521
+breakfast,5.0558
+diner,4.8044
+good,4.6954
+great food,3.7661
+love,3.4605
+food good,3.3037
+great,2.7386
+greasy spoon,2.355
+coffee,2.3374
+home cooked,2.2151
+good service,2.1892
+cheap,2.0759
+food daily,1.9082
+diner food,1.8621
+dinner,1.6639
+lunch,1.6115
+daily special,1.5907
+service food,1.5777
+service,1.5563
+service good,1.5135999999999998
+great place,1.4866000000000001
+cooked meal,1.4048
+neighborhood diner,1.4009999999999998
+good cheap,1.3837
+dinner breakfast,1.3813
+good breakfast,1.3258
+breakfast special,1.3216
+food reasonably,1.3064
+nice,1.3056999999999999
+best,1.2886
+tasty,1.2832
+food service,1.2802
+meal surprisingly,1.2388
+reasonably priced,1.2114
+cafe,1.2037
+steak,1.1579
+place,1.1176
+home cooking,1.1169
+food expect,1.0713
+good place,1.0695000000000001
+bacon egg,1.0394999999999999
+prime rib,1.0183
+mashed potato,1.0072
+food great,1.0023
+may still,1.0
+loved,1.0
+nostalgia,1.0
+love place,1.0
+comfortable,1.0
+rude clean,1.0
+love lafayette,1.0
+pioneer stars,1.0
+best tl,1.0
+good budget,1.0
+best cafe,1.0
+simply excellent,1.0
+excellent,0.9731
+primerib wonderful,0.9694
+speedy friedly,0.9607
+place good,0.9563
+love owner,0.95
+place breakfast,0.9411
+take breakfast,0.9406
+good portion,0.9388
+eating,0.9298
+amazing support,0.929
+hearty meal,0.9284
+food nice,0.9234
+breakfast start,0.9135
+thank amazing,0.912
+lunch thanksgiving,0.8976
+great dinner,0.8943
+cooking,0.8786
+tasty diner,0.8757
+rich coffee,0.8675
+work lunch,0.8619
+food reasonable,0.8571
 simply,0.8549
-decent,0.8488
-quality,0.8481
-priced,0.8458
-corn,0.8288
-soup,0.8268
-speedy,0.8184
-inexpensive,0.8088
-dinners,0.7946
-thank,0.7699
-just,0.7555
-salmon,0.7390000000000001
-locals,0.7362000000000001
-friedly,0.7345
-hearty,0.7336
-budget,0.7125
-amazing,0.6996
-support,0.6901
-everytime,0.6852
-bacon,0.6754
-meat,0.6738
-prices,0.6261
-owners,0.6237
-clean,0.6202000000000001
-casual,0.5976
-tl,0.5924
-deal,0.5918
-neighborhood,0.591
-eggs,0.5851999999999999
-customers,0.5839
-rib,0.5690000000000001
-portions,0.5687
-hotcakes,0.5679
-enthusiastic,0.5633
-yummy,0.5595
-meatloaf,0.5586
-stars,0.5577
-onions,0.5576
-cuisine,0.5549
-hot,0.5525
-pioneer,0.5517
-pastries,0.5436
-shady,0.5434
-owner,0.5374
-staff,0.5324
-favorite,0.5146
-chicken,0.5132
-spot,0.5038
-old,0.498
-new,0.4927
-reasonably,0.4897
-chef,0.4887
-chinese,0.4874
-low,0.476
-rich,0.47
-peppers,0.4609
-sixninety,0.4608
-job,0.4542
-worth,0.4454
-high,0.4428
-pleasant,0.4395
-13,0.4366
-complimentary,0.4343
-better,0.4331
-fresh,0.4254
-surprisingly,0.4244
-burgers,0.4196
-lunches,0.4195
-cook,0.4171
-welcoming,0.4144
-tourists,0.4126
-lady,0.4078
-start,0.4014
-efficient,0.3949
-color,0.3896
-friends,0.3881
-primerib,0.3829
-juicy,0.3826
-prime,0.3775
-hash,0.37649999999999995
-rarely,0.3762
-sausage,0.3688
-slow,0.3676
-closeness,0.3644
-homely,0.3573
-affordable,0.349
-sunday,0.3439
-cool,0.3421
-wonderful,0.3356
-ribs,0.3268
-value,0.3217
-15,0.3177
-yum,0.3161
-school,0.3152
-eats,0.3149
-special,0.3144
-strengthened,0.3133
-spaghetti,0.3128
-thanks,0.306
-visit,0.3031
-expect,0.3026
-don,0.2989
-attitude,0.2948
-ambiance,0.2944
-sucks,0.2913
-economy,0.2866
-city,0.2814
-tour,0.2784
-95,0.2778
-maybe,0.2752
-cost,0.2735
-browns,0.271
-dishes,0.2601
-graham,0.2573
-colorful,0.255
-cashier,0.2527
-bread,0.2506
-pudding,0.248
-denver,0.2471
-tender,0.2452
-delicious,0.2449
-breakfasts,0.2404
-menu,0.2384
-smelled,0.2382
-omlettes,0.2378
-die,0.2351
-italian,0.2346
-courses,0.2318
-plus,0.2288
-2020,0.2283
-lumberjack,0.2239
-overpriced,0.2226
-toast,0.2212
-tolerable,0.2168
-got,0.2164
-thanklesz,0.2163
-photo,0.2112
-landlords,0.2088
-tomato,0.2054
-hotel,0.1982
-peas,0.1971
-table,0.1947
-family,0.1939
-waitress,0.1938
-super,0.1902
-mommy,0.1893
-generous,0.1864
-butter,0.1836
-served,0.182
-taste,0.1797
-makes,0.1758
-asian,0.1755
-hunger,0.1742
-typical,0.1693
-regular,0.1687
-fish,0.1649
-satisfied,0.1632
-bother,0.1578
-mashed,0.155
-like,0.1546
-stephanie,0.1518
-hangout,0.1488
-sauce,0.1482
-hour,0.1416
-jam,0.1395
-dinning,0.1392
-work,0.1378
-working,0.1366
-lost,0.1344
-business,0.1317
-buddhist,0.1291
-today,0.1267
-stanley,0.1247
-sad,0.1247
-10min,0.1246
-valuable,0.1207
-fine,0.1172
-customer,0.1103
-walking,0.1091
-night,0.1053
-canteen,0.097
-serving,0.0961
-killer,0.089
-diamond,0.0785
-2000,0.0706
-quiet,0.0679
-eateries,0.0678
-aroma,0.0673
-years,0.0663
-incredibly,0.0657
-plates,0.0622
-cakes,0.0576
-unnecessarily,0.0435
-a1,0.0394
-thirties,0.0362
-opening,0.0317
-went,-0.0356
-busy,-0.076
+cheap staff,0.8537
+still,0.8535
+thank,0.8522
+casual tasty,0.8508
+rude,0.8463
+lady friendly,0.8361
+food everytime,0.8351
+good greasy,0.8341
+great love,0.833
+coffee pastry,0.83
+foods average,0.8292
+stars,0.829
+dinner food,0.8279
+nice speedy,0.8245
+great coffee,0.8174
+yummy coffee,0.8121
+complimentary coffee,0.8084
+may,0.806
+speedy,0.8055
+nice price,0.8038
+always quick,0.8032
+love cheap,0.8019
+comfortable diner,0.7987
+tasty food,0.7923
+enthusiastic recommend,0.7911
+lafayette,0.7875
+pioneer,0.7864
+rib better,0.7857
+wonderful,0.784
+favorite place,0.7828999999999999
+support,0.7792
+food fast,0.7775
+start day,0.7773
+yum primerib,0.7743
+price rarely,0.774
+meat,0.7709
+spoon cuisine,0.7706
+staff friendly,0.7651
+diner inexpensive,0.7617
+amazing,0.7599
+nice enthusiastic,0.7592
+clean,0.7571
+lafayette coffee,0.7567
+good cooking,0.7555
+hot american,0.7503
+tl,0.7477
+worth dennys,0.7476
+eat great,0.7455
+salmon steak,0.7427
+friendly maybe,0.7416
+food friendly,0.7414
+cheap decent,0.7412
+cheap owner,0.7398
+hotcakes sausage,0.737
+coffee food,0.7354
+slow price,0.735
+friedly,0.7335
+fine breakfast,0.7333
+coffee pleasant,0.7321
+decent always,0.7316
+food shady,0.7308
+price reasonable,0.728
+shady customer,0.7267
+great eating,0.7264
+chicken tender,0.7263
+cashier rude,0.7255
+hearty,0.7243
+lumberjack breakfast,0.7196
+cheap lunch,0.7178
+corn beef,0.7166
+steak egg,0.7164
+low cost,0.7127
+steak dinner,0.7046
+primerib,0.7044
+enthusiastic,0.7026
+liver onion,0.6983
+proprietress nice,0.6966
+maybe color,0.6946
+day,0.6936
+beef liver,0.6905
+food quality,0.689
+average service,0.6885
+got steak,0.6867
+american omlettes,0.6858
+breakfast well,0.6841
+picture hotcakes,0.6833
+reasonable price,0.6817
+good price,0.6757
+friendly enough,0.6754
+chinese food,0.6748
+friendly,0.672
+color graham,0.6699
+better average,0.6692
+budget,0.6684
+thanksgiving,0.6678
+spot good,0.6666
+satisfying dinner,0.6642
+local tourist,0.664
+stanley chef,0.6622
+good home,0.6614
+service diner,0.6611
+local restaurant,0.6608
+yum,0.6606
+rarely seen,0.6573
+love breakfast,0.6559
+style food,0.6535
+old school,0.6525
+cooking diner,0.6505
+food smelled,0.6502
+breakfast dinner,0.6499
+rarely,0.6487
+quick service,0.6461
+affordable meal,0.6461
+chef cooking,0.6448
+omlettes sixninety,0.6415
+lot food,0.6405
+thanksgiving dinner,0.6381
+greasy,0.638
+average,0.6363
+soup salad,0.6361
+diner atmosphere,0.6361
+meatloaf good,0.6354
+diner family,0.6342
+bit slow,0.6339
+pastry visit,0.6328
+food complimentary,0.6325
+spoon,0.6294
+opening hour,0.6244
+fast service,0.6244
+surprisingly good,0.6221
+hotcakes,0.622
+sixninety got,0.6205
+everytime,0.6188
+got love,0.6175
+large pancake,0.6156
+american,0.6145
+cooking die,0.6134
+food generous,0.6132
+food inexpensive,0.6074
+cooked diner,0.6069
+breakfast pancake,0.6067
+eating establishment,0.605
+casual,0.6048
+food large,0.6047
+serve beef,0.6042
+great pancake,0.6035
+eats breakfast,0.6034
+meat eating,0.6015
+bell pepper,0.601
+gets job,0.6001
+restaurant local,0.5988
+eating takeout,0.5984
+everytime around,0.5961
+slow,0.5951
+chef,0.5939
+portion dinner,0.5934
+foods,0.5911
+amount food,0.5907
+soso food,0.5906
+pancake big,0.5905
+new spot,0.5904
+slice bacon,0.5897
+hot,0.5895
+salad dinner,0.5889
+quality food,0.5882
+job done,0.588
+pastry,0.5851
+forever,0.585
+good deal,0.5845
+straight breakfast,0.5831
+best food,0.583
+fancy diner,0.5824
+spaghetti meat,0.5821
+coffee denver,0.5788
+best breakfast,0.5778
+white table,0.5774
+pleasant breakfast,0.5774
+tender juicy,0.5766
+better,0.576
+portion hot,0.5729
+salad everyday,0.5719
+daily,0.5716
+food momma,0.571
+food portion,0.5702
+sold meat,0.5701
+fantastic pancake,0.5696
+tourist please,0.5676
+cooking even,0.5668
+may salad,0.5643
+typical chinese,0.5633
+owner,0.5616
+tourist,0.5609
+meal soup,0.5593
+price great,0.5586
+food breakfast,0.5575
+cake bacon,0.5574
+local,0.557
+day burger,0.5557
+fluffy pancake,0.5548
+good eats,0.5518
+meatloaf,0.5511
+order lunch,0.5493
+owner nasty,0.5486
+meat potato,0.5478
+fresh food,0.5477
+rib dinner,0.5474
+chowder soup,0.5443
+potato gravy,0.5405
+nice neighborhood,0.5403
+rib,0.5392
+got spaghetti,0.5356
+egg yummy,0.5347
+food well,0.5311
+breakfast place,0.5299
+tasty affordable,0.529
+pancake meal,0.5285
+feel cafe,0.5285
+beef,0.5282
+good cashier,0.5268
+dinner eased,0.5242
+burger really,0.5237
+hotel quality,0.523
+rude nasty,0.523
+time breakfast,0.5216
+pancake egg,0.5208
+inexpensive service,0.5177
+cooking food,0.5167
+american food,0.515
+delicious food,0.5143
+italian meal,0.5135
+large portion,0.5128
+even chicken,0.5104
+classic greasy,0.51
+colorful neighborhood,0.51
+nice food,0.509
+included price,0.5078
+restaurant tenderloin,0.5068
+great neighborhood,0.5053
+today lafayette,0.5022
+every sunday,0.4981
+incredibly priced,0.497
+eating lyft,0.4943
+spoon prices,0.4942
+worth salmon,0.4939
+food eating,0.4938
+old,0.4917
+want cheap,0.4916
+quality neighborhood,0.4887
+food hotel,0.4882
+coffee taste,0.481
+regular hangout,0.4808
+cooked vegetable,0.4794
+sausage,0.479
+strengthened photo,0.4783
+big serving,0.4773
+rib coffee,0.477
+eat tenderloin,0.477
+company thanksgiving,0.4766
+burger,0.476
+food slow,0.4739
+shop forever,0.4732
+lunch lot,0.4708
+food always,0.4677
+always great,0.4652
+potato comfort,0.4636
+eaten daily,0.461
+photo tour,0.4608
+breakfast couple,0.4593
+best stephanie,0.4551
+hash brown,0.4513
+sp soup,0.4507
+economy priced,0.449
+salmon add,0.4489
+place take,0.4466
+owner waitress,0.4451
+overpriced eatery,0.4444
+lafayette forever,0.4436
+family working,0.4433
+inexpensive large,0.4427
+plate bread,0.4401
+spaghetti,0.4394
+went work,0.4377
+quality soup,0.4375
+bread butter,0.437
+desirable food,0.4354
+hot cake,0.4348
+price colorful,0.4327
+beef short,0.4324
+traditional food,0.4324
+dinner full,0.4314
+full lumberjack,0.4308
+salmon,0.4293
+pancake,0.4276
+bread pudding,0.4274
+sunday great,0.4247
+corn mashed,0.4241
+price clean,0.4231
+eddy family,0.4143
+fast walking,0.4127
+spoon really,0.4117
+cafe like,0.4115
+lettuce tomato,0.4112
+hour,0.4104
+eat breakfast,0.4098
+sauce last,0.4077
+homemade food,0.4066
+dinner lettuce,0.4051
+full dinner,0.405
+eating quit,0.4039
+service coffee,0.4036
+cooked,0.4028
+asian owner,0.4025
+canned corn,0.4019
+portion yummy,0.3985
+somehow cook,0.3962
+potato,0.3956
+school neighborhood,0.3955
+vietnamese food,0.3952
+business pride,0.3925
+restaurant business,0.3925
+omelette bread,0.3902
+owner super,0.3886
+decent meal,0.3827
+get sauce,0.3771
+mommy never,0.3764
+unnecessarily overpriced,0.3741
+service sucks,0.3673
+spoon loved,0.3636
+sad day,0.362
+tty thanklesz,0.3528
+fashioned breakfast,0.3506
+love omelette,0.3481
+breakfast reasonable,0.3479
+favorite,0.3465
+surprisingly asian,0.346
+one favorite,0.3455
+date perfect,0.3402
+air dinning,0.3387
+great people,0.3265
+coffee shop,0.3251
+love mommy,0.3236
+satisfied rae,0.3233
+food staff,0.3206
+great family,0.3204
+love peace,0.3178
+restaurant,0.3158
+sauce,0.3063
+bad people,0.3004
+valuable joint,0.2986
+food every,0.2982
+meal old,0.2977
+excellent sad,0.2953
+affordable yet,0.2946
+dinning room,0.2945
+pride customer,0.2869
+francisco greasy,0.28
+big hunger,0.2726
+never cook,0.2705
+mac donalds,0.2675
+hot home,0.2432
+time food,0.2219

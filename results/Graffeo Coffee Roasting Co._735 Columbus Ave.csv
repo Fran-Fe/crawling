@@ -1,78 +1,139 @@
 keyword,weight
-coffee,10.1689
-beans,4.9706
-best,2.25
-roast,1.7294
-espresso,1.3251
-rich,0.9371999999999999
-roasts,0.9077999999999999
-roaster,0.6971
-shop,0.5501
-roasted,0.547
-francisco,0.5019
-roastery,0.4968
-sweetest,0.4831
-city,0.45899999999999996
-roasters,0.4379
-friends,0.4082
-wife,0.4031
-san,0.3827
-outstanding,0.3672
-cute,0.3661
-sf,0.3655
-company,0.365
-amazing,0.3646
-beach,0.3617
-favorite,0.3471
-rare,0.3426
-owner,0.33449999999999996
-years,0.32439999999999997
-consistently,0.3124
-tasted,0.3098
-usa,0.2599
-mediocre,0.2599
-bay,0.2414
-overrated,0.234
-store,0.2227
-institution,0.2193
-pound,0.2163
-mom,0.2153
-flavors,0.2087
-cigar,0.2083
-drinks,0.2013
-caffe,0.1909
-flavor,0.18180000000000002
-customer,0.1754
-bitter,0.1471
-love,0.14629999999999999
-north,0.1381
-buy,0.1283
-good,0.1261
-walked,0.1198
-17,0.1112
-flavorful,0.0929
-buying,0.09129999999999999
-african,0.0887
-area,0.0837
-sells,0.0805
-local,0.0759
-dark,0.0735
-brewing,0.0726
-texas,0.0726
-better,0.0718
-delicious,0.067
-loyal,0.0659
-treasure,0.0651
-land,0.0619
-40,0.0587
-serve,0.0553
-purchase,0.0532
-everyday,0.0342
-smells,0.0241
-wonderful,0.0165
-bean,0.007
-drink,0.0063
-mario,0.0062
-connoisseur,-0.0046
-20,-0.0243
-ve,-0.07350000000000001
+coffee,10.571
+best coffee,7.6088
+coffee bean,3.5314
+coffee ever,1.876
+bean roasted,1.6577
+amazing coffee,1.6193
+roast coffee,1.2425
+serve coffee,1.1938
+buying coffee,1.1732
+coffee shop,1.0883
+coffee roaster,1.0110000000000001
+espresso,0.9742999999999999
+north beach,0.9492
+favorite coffee,0.9185
+light roast,0.8805000000000001
+best espresso,0.8765
+best,0.8564
+fabulous coffee,0.8296
+coffee city,0.8079
+cute coffee,0.7546
+espresso bean,0.7538
+coffee best,0.7456
+sell coffee,0.74
+sweetest owner,0.7354
+strong coffee,0.735
+coffee usa,0.7301
+coffee sell,0.7238
+shop sweetest,0.7195
+graffeo coffee,0.6945
+try coffee,0.6929
+best friend,0.6827
+coffee bay,0.6802
+coffee wife,0.6781
+coffee san,0.67
+best roaster,0.6685
+buy coffee,0.6649
+coffee come,0.6535
+coffee long,0.652
+coffee amazing,0.6512
+coffee dark,0.637
+overrated coffee,0.6332
+friend north,0.6227
+bean roaster,0.6224
+coffee owner,0.6166
+always good,0.6087
+san francisco,0.6031
+rich bitter,0.6016
+coffee could,0.5907
+service coffee,0.5845
+wonderful people,0.5784
+coffee connoisseur,0.5765
+morning espresso,0.5759
+rare company,0.5725
+love coffee,0.5715
+wife always,0.5644
+true coffee,0.5509
+outstanding customer,0.5411
+roasted fresh,0.5397
+roastery espresso,0.5337
+african bean,0.5321
+finest roast,0.529
+best bean,0.5266
+bean sf,0.5255
+much coffee,0.5211
+best roast,0.521
+sweetest,0.52
+francisco,0.5147
+graffeo roast,0.5105
+grounded coffee,0.5058
+bohemian cigar,0.5038
+coffee great,0.5034
+dark roast,0.4851
+many year,0.4846
+beach satisfy,0.4845
+consistently outstanding,0.4838
+espresso roast,0.4824
+bay area,0.476
+roast best,0.4746
+drink store,0.4721
+city,0.4677
+year graffeo,0.4638
+extremely cute,0.4626
+favorite,0.4599
+bean,0.4541
+finest restaurant,0.4536
+coffee attracted,0.4509
+coffee fifty,0.4492
+great coffee,0.4483
+local treasure,0.4402
+coffee flavor,0.4392
+flavor mediocre,0.4381
+loyal customer,0.4378
+outstanding many,0.4341
+dark espresso,0.4337
+amazing,0.4312
+mom loyal,0.4309
+coffee enthusiast,0.4276
+francisco roastery,0.421
+attracted coffee,0.4198
+rich flavor,0.4195
+option coffee,0.418
+quality espresso,0.4154
+roast place,0.4146
+coffee espresso,0.4133
+ever rich,0.4107
+sour roast,0.4053
+great place,0.4036
+roast,0.3999
+coffee company,0.3991
+crema espresso,0.3892
+roasted luciano,0.3874
+coffee btw,0.3851
+bean roast,0.3831
+mention wonderful,0.3786
+usa,0.376
+better bean,0.3746
+roast decaf,0.3732
+tasted anywhere,0.3721
+puzzle roastery,0.3691
+wife,0.3688
+fresh everyday,0.3611
+ever tasted,0.3607
+roast smooth,0.3601
+make coffee,0.3589
+guest buying,0.3576
+coffee people,0.3488
+roastery something,0.3417
+roast possible,0.3401
+roastery,0.3367
+ever,0.3342
+brewing home,0.3313
+cigar shop,0.3307
+delicious staff,0.3307
+ask coffee,0.3267
+roaster land,0.3089
+good flavor,0.3075
+perfect crema,0.3045
+quite roaster,0.2849

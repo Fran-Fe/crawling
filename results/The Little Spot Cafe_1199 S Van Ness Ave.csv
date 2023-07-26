@@ -1,175 +1,307 @@
 keyword,weight
-coffee,11.2876
-friendly,5.0541
-cozy,4.3764
-cafe,4.3408
-good,4.1082
-great,3.1536
-vibes,2.8197
-cool,2.425
-service,2.3638
-tasty,2.1096
-cute,2.0025
-shop,1.9645000000000001
-nice,1.8225
-breakfast,1.7707000000000002
-sandwiches,1.6544
-spot,1.5097
-excellent,1.4630999999999998
-snacks,1.427
-place,1.343
-little,1.2958
-latte,1.2303000000000002
-awesome,1.1336
-bagel,1.1249
-kind,1.1114000000000002
-delicious,1.1085
-quiet,1.0874000000000001
-drinks,1.0657
-café,1.0086
-ok,1.0
+coffee,4.5012
+great coffee,3.2893
+coffee shop,2.5484
+good vibe,2.411
+cozy,2.3215
+bagel sandwich,1.9447
+vibe,1.7113
+breakfast bagel,1.6726
+friendly staff,1.6615000000000002
+good,1.6383999999999999
+spot,1.6179999999999999
+good coffee,1.5596
+delicious breakfast,1.5465
+love coffee,1.5279
+cool,1.5221
+great,1.4341
+coffee ice,1.4177
+breakfast,1.3957000000000002
+little,1.3728
+good music,1.3505
+cute cafe,1.3486
+coffee friendly,1.3028
+service,1.2757
+tasty,1.2688
+super friendly,1.2286000000000001
+people good,1.2206000000000001
+coffee good,1.1077
+great latte,1.0
 yum,1.0
-immaculate,0.9691
-small,0.9364
-comfy,0.927
-comfortable,0.8777
-relax,0.8683
-warm,0.8468
-music,0.8249
-thoughtful,0.8193
-love,0.7904
-sit,0.7904
-creativity,0.7757
-books,0.7376
-locals,0.7305
-sf,0.7183999999999999
-inspires,0.7074
-creative,0.6919
-muffins,0.6804
-people,0.6641
-space,0.6469
-atmosphere,0.6468
-affordable,0.6331
-book,0.6309
-wonderful,0.608
-bacon,0.6068
-regulars,0.5954
-bad,0.5811
-barista,0.5694
-japanese,0.5688
-croissants,0.5527
-avocado,0.5425
-staff,0.5399
-sandwich,0.5389
-ice,0.532
-read,0.5275
-lovely,0.522
-vibe,0.5137
-tea,0.5134
-amazing,0.5097
-cheap,0.5005
-favorite,0.48460000000000003
-perfect,0.4843
-chill,0.4781
-espresso,0.4773
-coolest,0.4771
-coffeeshop,0.4753
-cheese,0.4718
-indoor,0.4675
-cookies,0.4597
-improved,0.4559
-cosy,0.4546
-fun,0.4511
-toasty,0.4353
-welcome,0.4247
-friends,0.4153
-manga,0.4105
-expresso,0.399
-anime,0.39590000000000003
-iced,0.3925
-counter,0.3908
-chat,0.3906
-friend,0.38799999999999996
-best,0.3843
-guy,0.3826
-cafes,0.3791
-hot,0.3735
-scalding,0.3726
-trendy,0.3673
-lattes,0.3635
-sorry,0.3619
-dog,0.3582
-cities,0.3457
-drink,0.3382
-living,0.337
-bagels,0.3366
-dude,0.3353
-decor,0.3341
-23rd,0.3316
-genuine,0.3277
-biscuit,0.3269
-south,0.3199
-mission,0.3193
-cashier,0.3163
-cubes,0.3133
-ambience,0.3095
-google,0.3092
-problem,0.3059
-owned,0.3052
-morning,0.3048
-wrong,0.2933
-hipster,0.2928
-conversationalist,0.2926
-hard,0.289
-home,0.2863
-egg,0.2821
-games,0.2777
-terrible,0.2643
-radical,0.2641
-cappuccino,0.254
-chihuahua,0.2508
-homey,0.248
-solid,0.2471
-quaint,0.2378
-disappointing,0.2347
-blue,0.2318
-sunny,0.2303
-relaxed,0.2254
-eclectic,0.2238
-customers,0.2204
-berry,0.2103
-thank,0.208
-wifi,0.2061
-owner,0.2061
-food,0.2041
-uncrowded,0.1999
-funky,0.1961
-reviews,0.16
-daughter,0.1524
-slow,0.1509
-tuesday,0.1352
-tiny,0.1339
-magic,0.1289
-friday,0.1283
-normally,0.1272
-mellow,0.1224
-resist,0.12
-death,0.1104
-live,0.1048
-comic,0.0881
-unsanitary,0.0814
-business,0.0767
-boss,0.0754
-frozen,0.0547
-metal,0.0547
-hours,0.0278
-10mins,0.0138
-movies,0.0127
-meeting,0.0109
-melts,0.001
-gig,-0.0204
-syrup,-0.0343
-meat,-0.0384
-stores,-0.0753
-big,-0.0781
-25,-0.1042
+ok,1.0
+spot back,1.0
+tasty snack,1.0
+immaculate vibe,1.0
+coffee great,0.98
+service comfortable,0.9688
+immaculate,0.9623
+cool little,0.9582
+back,0.9485
+excellent friendly,0.9468
+thoughtful kind,0.9427
+friendly service,0.9388
+cafe cool,0.9341
+coffee ok,0.9259999999999999
+good service,0.924
+kind service,0.9216
+comfortable place,0.9185
+little cafe,0.9032
+friendly,0.897
+comfortable,0.8931
+friendly creative,0.8929
+great local,0.8869
+sandwich,0.8853
+read book,0.8793
+bacon avocado,0.8766
+neighborhood cafe,0.8740999999999999
+small coffee,0.8728
+creative atmosphere,0.8677
+everything coffee,0.8545
+inspires creativity,0.8523
+coolest coffee,0.8474
+little spot,0.8472
+good bagel,0.8444
+atmosphere inspires,0.8438
+thoughtful,0.8379
+sit read,0.8356
+tasty tea,0.8291
+awesome service,0.8276
+bagel bacon,0.8254
+great drink,0.8217
+caf good,0.8207
+drink good,0.8174
+iced coffee,0.8169
+kind dog,0.8137
+latte,0.8081
+service wonderful,0.8068
+good expresso,0.8066
+relax drink,0.8003
+coffee love,0.7998
+cosy caf,0.7839
+cafe,0.7826
+excellent,0.7771
+wonderful place,0.7708
+cozy small,0.7706
+drink snack,0.767
+coffee cool,0.7668
+local,0.7663
+kind,0.76
+nice cosy,0.7582
+bagel fun,0.7564
+cafe great,0.7549
+friend relax,0.7538
+cozy environment,0.7489
+friendly cheap,0.7446
+love staff,0.7444
+egg cheese,0.7327
+corner cozy,0.7327
+hipster cafe,0.7317
+hot latte,0.7314
+awesome,0.7287
+music good,0.7268
+snack,0.7208
+favorite coffee,0.7187
+quiet cozy,0.7154
+place sit,0.7147
+snack yum,0.7112
+ice coffee,0.7108
+cheese bagel,0.7096
+ideal cafe,0.7031
+coffee breakfast,0.7026
+wonderful,0.6986
+sandwich best,0.694
+sit,0.6931
+cafe delicious,0.693
+cheese asiago,0.687
+book,0.6842
+warm welcome,0.6841
+terrible milk,0.683
+eclectic coffee,0.6815
+coffeeshop regulars,0.6811
+good people,0.6794
+cozy book,0.6768
+owned quiet,0.6726
+cute cozy,0.6725
+great cozy,0.6704
+cappuccino tasty,0.6659
+staff cute,0.6657
+solid espresso,0.6631
+quiet place,0.659
+nice,0.6565
+relax,0.6551
+coffee excellent,0.653
+music friendly,0.6511
+drink problem,0.6504
+aesthetic friendly,0.6468
+cafe nice,0.6426
+great staff,0.6422
+wrong drink,0.6417
+shop mission,0.6313
+cozy friendly,0.6306
+cheap,0.63
+best egg,0.6253
+nice people,0.6251
+place coffee,0.6194
+espresso,0.6183
+warm toasty,0.6177
+indoor space,0.6172
+welcome people,0.6156
+decor tasty,0.6146
+cozy comfy,0.614
+cool guy,0.6123
+google hipster,0.6116
+loved coffee,0.6109
+little indoor,0.6104
+cozy space,0.6077
+espresso something,0.6077
+price friendly,0.606
+quaint cafe,0.6051
+warm,0.6037
+mocha tasty,0.6036
+awesome dog,0.6033
+hella nice,0.5983
+egg bagel,0.5969
+quiet,0.5966
+dog relaxed,0.5944
+tea,0.5935
+relaxed chill,0.5926
+affordable price,0.5895
+chilling living,0.5854
+sandwiches bagel,0.5853
+staff coffee,0.585
+real coffeeshop,0.5849
+frozen coffee,0.5841
+indoor,0.5838
+latte awesome,0.5836
+great vibe,0.5806
+usual coffee,0.58
+done sandwiches,0.5798
+bad day,0.5797
+shop,0.5774
+space coffee,0.5768
+japanese owned,0.5764
+friendly quiet,0.5742
+service cozy,0.574
+cube iced,0.5738
+cute barista,0.5728
+corporate coffee,0.5728
+bagel warm,0.5725
+coolest,0.5699
+van ness,0.5689
+small kind,0.5672
+cafe cute,0.565
+coffee corporate,0.564
+staff good,0.5603
+relax friend,0.56
+calm slow,0.5594
+place nice,0.5588
+coffee could,0.5553
+south van,0.5552
+comfy homely,0.5535
+find city,0.553
+excellent chai,0.5529
+area cozy,0.5527
+chai great,0.5521
+slow relaxed,0.552
+great conversationalist,0.5489
+crowded google,0.5487
+biscuit croissant,0.5483
+made perfect,0.5465
+every morning,0.5438
+milk scalding,0.543
+hard find,0.5388
+fresh sandwich,0.5365
+great muffin,0.5358
+ice cube,0.5355
+coffeeshop,0.5349
+corner south,0.5348
+owns hella,0.5346
+fun game,0.5341
+cashier barista,0.5265
+book manga,0.5247
+bad cuppa,0.5235
+sandwich free,0.5219
+sf,0.5152
+spot excellent,0.5138
+must bad,0.5118
+cafe lovely,0.5107
+cube ice,0.5074
+public calm,0.5068
+comfy place,0.504
+shop sf,0.5032
+fan coffee,0.498
+berry muffin,0.4966
+grab coffee,0.4917
+customer last,0.4914
+problem refund,0.4904
+helpful cappuccino,0.4869
+good hot,0.4869
+cute dog,0.4823
+cute spot,0.477
+excellent cooky,0.476
+friendly mocha,0.4729
+turkey meat,0.4711
+cozy coffee,0.47
+blue berry,0.4661
+sit back,0.4633
+coffee fresh,0.4631
+daughter play,0.459
+bagel delicious,0.4568
+spot coffee,0.4519
+sandwich bagel,0.4478
+food biscuit,0.4432
+breakfast recommend,0.4409
+death metal,0.4392
+cafe fancy,0.4392
+performing cafe,0.4358
+anime comic,0.434
+regulars,0.433
+scalding hot,0.4328
+scalding,0.4311
+review normally,0.4301
+lovely review,0.4206
+customer,0.418
+try comment,0.416
+barista friendly,0.4146
+cafe super,0.4139
+manga,0.4103
+staff manga,0.4092
+great breakfast,0.4007
+star coffee,0.3997
+food couple,0.3995
+hot,0.3981
+muffin good,0.3965
+croissant big,0.396
+coffee would,0.388
+barista super,0.3873
+visited cashier,0.3837
+vacation grateful,0.3805
+coffee lox,0.3776
+month coffee,0.373
+tasty great,0.37
+amazing people,0.3641
+dog favorite,0.3623
+solid coffee,0.362
+work awesome,0.3605
+meeting work,0.3597
+best ken,0.3569
+young daughter,0.3464
+designed coffee,0.3461
+new store,0.3432
+running cafe,0.3255
+finished food,0.3253
+bagel,0.3179
+cafe plan,0.3151
+also turkey,0.3017
+good chai,0.2999
+lost hour,0.2933
+nice barista,0.2863
+coffee highly,0.278
+ok bathroom,0.2736
+food great,0.2725
+cafe experience,0.2723
+dog sweet,0.2613
+funding build,0.2605
+drink syrup,0.26
+daughter,0.2422
+book movie,0.2229

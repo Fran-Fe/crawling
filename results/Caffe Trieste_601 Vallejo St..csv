@@ -1,898 +1,2280 @@
 keyword,weight
-coffee,158.5446
-espresso,40.5693
-cafe,35.7917
-italian,31.7277
-great,27.0669
-good,20.5664
-nice,16.2061
-best,15.012599999999999
-place,14.8789
-pastries,14.5094
-cash,13.2543
-cappuccino,12.5815
-delicious,11.5308
-francisco,10.3399
-old,9.8954
-classic,9.8855
-love,9.172699999999999
-amazing,8.8695
-atmosphere,8.457
-beach,8.2993
-excellent,8.2646
-italy,8.1362
-shop,8.0605
-friendly,7.9207
-history,7.9167000000000005
-caffe,7.72
-vibe,7.5044
-chocolate,7.2454
-authentic,6.25
-favorite,6.1017
-north,6.0892
-music,6.0083
-spot,5.9418
-locals,5.8313999999999995
-sf,5.7636
-live,5.6738
-wonderful,5.1777999999999995
-café,5.1627
-food,4.9304
-pastry,4.9104
-godfather,4.7624
-cozy,4.7556
-cool,4.717
-latte,4.6674
-breakfast,4.648899999999999
-drinks,4.5552
-desserts,4.1415
-tasty,4.0443999999999996
-fun,3.9872
-cheesecake,3.966
-san,3.9301
-cakes,3.7561999999999998
-taste,3.6614
-people,3.5945
-beautiful,3.5675
-atm,3.4274
-cake,3.3952
-trieste,3.3413
-sunday,3.2868
-coffees,3.2348
-neighborhood,3.2199
-service,3.1908
-real,3.1806
-strong,3.0452
-ambiance,2.9855
-morning,2.9818
-historic,2.9587
-tea,2.8973
-tourists,2.8775
-pizza,2.8723
-loved,2.7091000000000003
-cookies,2.6166
-fantastic,2.6029999999999998
-perfect,2.5467
-watching,2.5392
-awesome,2.5254000000000003
-drink,2.5045
-little,2.4446
-croissants,2.4040999999999997
-home,2.3857
-coppola,2.3792
-cup,2.3374
-like,2.2962
-local,2.2944
-cream,2.2462
-hot,2.1701
-crowded,2.1354
-wine,2.0797
-cute,2.0588
-rich,2.0361000000000002
-worth,2.0263999999999998
-seating,2.0111
-bitter,2.0039
-recommend,1.9949
-original,1.9845
-lattes,1.9729
-rude,1.9518
-barista,1.9505
-regulars,1.938
-expensive,1.8829
-lovely,1.8641
-jukebox,1.8495
-starbucks,1.8301
-true,1.7907000000000002
-charm,1.7772000000000001
-pleasant,1.7561
-afternoon,1.756
-bit,1.7530000000000001
-relaxing,1.7389000000000001
-beat,1.7317
-cappuccinos,1.7253
-wifi,1.7184
-visit,1.7135
-staff,1.7131
-pricey,1.6709
-bohemian,1.6329
-traditional,1.6158
-dessert,1.5568
-years,1.5558
-city,1.5263
-feels,1.5236
-character,1.5148
-sandwich,1.5146000000000002
-chinatown,1.5057
-enjoyed,1.4851
-try,1.4795
-need,1.4786000000000001
-tourist,1.4728
-treats,1.4722
-croissant,1.463
-iconic,1.4614000000000003
-sweet,1.4287
-sit,1.4279
-california,1.4234999999999998
-beans,1.4034
-lunch,1.3959
-dirty,1.3602
-super,1.3597000000000001
-book,1.3492
-pie,1.3459999999999999
-screenplay,1.3391
-sun,1.3225
-ok,1.3201999999999998
-experience,1.3191000000000002
-day,1.3084
-dinner,1.3043
-overrated,1.3006
-night,1.2995
-stop,1.2987
-reading,1.2896
-ford,1.2694999999999999
-caffeine,1.2568
-location,1.2518
-burnt,1.246
-cold,1.2459
-bar,1.2447
-oldies,1.2425
-menu,1.2411
-favourite,1.2212
-mythical,1.2042000000000002
-gem,1.2001
-caffè,1.1981
-mellow,1.1865
-americano,1.1855
-cinnamon,1.1811
-efficient,1.1784000000000001
-town,1.1539
-50,1.1476
-coffeehouse,1.142
-poets,1.1322999999999999
-ve,1.1244
-iced,1.117
-fast,1.1114
-time,1.1053
-pretty,1.1007
-non,1.094
-ambience,1.088
-tasted,1.0634
-landmark,1.039
-friends,1.0336
-drinking,1.0278
-cheap,1.0055999999999998
+coffee,118.0903
+great coffee,33.6802
+good coffee,28.7382
+espresso,26.074
+cafe,24.4719
+best coffee,21.3827
+italian,20.6972
+coffee shop,17.9156
+good,11.0289
+excellent coffee,10.6091
+coffee good,10.5104
+italian coffee,10.4637
+north beach,10.3057
+san francisco,9.934
+coffee great,9.3867
+best espresso,9.1956
+pastry,9.0544
+best,8.4643
+cappuccino,8.0719
+coffee pastry,7.7492
+italian cafe,7.5998
+delicious,7.3994
+great,7.0805
+chocolate,6.6053
+nice,6.3652
+favorite,5.9069
+classic,5.72
+good espresso,5.6551
+coffee san,5.6543
+cash,5.6256
+place coffee,5.5076
+history,5.4778
+cup coffee,5.381600000000001
+favorite coffee,5.347799999999999
+place,5.3213
+great espresso,5.1929
+amazing coffee,5.1914
+excellent,5.0297
+amazing,4.798
+hot chocolate,4.7198
+coffee strong,4.6915
+coffee nice,4.5641
+delicious coffee,4.3651
+italy,4.3378
+nice italian,4.2844
+vibe,4.2462
+francisco,4.1205
+nice place,4.1175999999999995
+great pastry,4.1124
+coffee delicious,3.9617
+cozy,3.9288
+coffee taste,3.8869
+cheesecake,3.8125999999999998
+authentic,3.7756
+coffee house,3.7516
+real coffee,3.6718
+wonderful,3.6705
+quality coffee,3.5915
+live music,3.5633999999999997
+always,3.5301
+nice espresso,3.4076
+old school,3.3880999999999997
+favorite cafe,3.3836
+espresso drink,3.3777
+authentic italian,3.323
+cake,3.3014
+friendly,3.2216
+pizza,3.0523
+love,3.0210999999999997
+espresso good,2.9885
+great vibe,2.9629
+pastry coffee,2.9602
+good cappuccino,2.9483
+real italian,2.9435000000000002
+classic coffee,2.8988
+tasty,2.8712
+coffee espresso,2.8629
+classic italian,2.8532
+ford coppola,2.7967
+italian cappuccino,2.7879
+food,2.7803
+great people,2.7704
+north,2.6873
+classic north,2.661
+cash atm,2.6460999999999997
+beautiful,2.6424
+sf,2.6204
+espresso cappuccino,2.6199
+coffee local,2.5557
+cool,2.5374
+good pastry,2.5195
+cafe good,2.5004
+great music,2.4848
+fantastic coffee,2.4701
+american coffee,2.4557
+caffe trieste,2.4521
+favorite place,2.4514
+coffee food,2.4434
+old,2.4325
+great place,2.4151
+good italian,2.4036999999999997
+good atmosphere,2.384
+pastry good,2.3699000000000003
+home,2.3688000000000002
+beach cafe,2.3453
+best cappuccino,2.329
+godfather,2.3004
+whipped cream,2.2812
+nice coffee,2.2756
+tasty coffee,2.2597
+fun,2.1867
+coffee excellent,2.1704
+school italian,2.1587
+highly recommend,2.1382
+coffee cooky,2.1246
+coffee cake,2.1205
+espresso great,2.112
+coffee town,2.1113
+taste coffee,2.108
+live,2.1074
+atm,2.1033999999999997
+starbucks,2.0917
+strong coffee,2.0399
+coffee service,2.0214
+drink,2.0044
+cake delicious,1.9877
+italian style,1.9771
+amazing espresso,1.9395
+neighborhood coffee,1.922
+selection pastry,1.9135
+coffee live,1.9105
+coffee drink,1.8918
+caffe,1.8903999999999999
+classic spot,1.8776000000000002
+atmosphere coffee,1.8749
+coffee best,1.8495
+good cake,1.8417
+sandwich,1.8366
+francisco coffee,1.8165999999999998
+delicious italian,1.8157
+dessert,1.7995
+screenplay godfather,1.7988
+sunday morning,1.782
+pastry amazing,1.7809
+loved,1.7707000000000002
+italian district,1.7667
+like home,1.7633
+beach,1.7490999999999999
+original,1.7396
+classic cafe,1.7376
+coffee ever,1.725
+sunday,1.7038000000000002
+strong,1.6778
+cafe trieste,1.6646
+traditional italian,1.6589
+delicious cake,1.6543999999999999
+fun place,1.6461999999999999
+ambiance,1.6434000000000002
+best americano,1.6274000000000002
+coffee dessert,1.6244
+good latte,1.6024
+wine coffee,1.5833
+cappuccino tasted,1.5761
+style coffee,1.5732
+spot great,1.5728
+coffee north,1.572
+coffee worth,1.5661
+cup,1.5513
+spot,1.5508
+try,1.5497
+friendly staff,1.5457
+fantastic,1.5442
+coffee usa,1.5368
+pastry great,1.5328
+coffee atmosphere,1.5326
+coffee like,1.5302
+nice cafe,1.5223
+almond croissant,1.5222
+caffe latte,1.5170000000000001
+wifi,1.5087000000000002
+sweet treat,1.5072
+neighborhood cafe,1.5027000000000001
+lovely,1.5026000000000002
+wonderful neighborhood,1.4998
+historic,1.496
+cafe excellent,1.4834
+made coffee,1.4834
+coffee spot,1.4782
+coffee friendly,1.4704
+cool cafe,1.4603000000000002
+tasting espresso,1.4554
+ordered espresso,1.4512999999999998
+italy great,1.4479
+drink pastry,1.4421
+local tourist,1.434
+wrote godfather,1.4336
+music great,1.4335
+perfect espresso,1.4297
+ok coffee,1.4281
+nice staff,1.4211
+atmosphere,1.4175
+drinking coffee,1.4161000000000001
+san,1.4106999999999998
+piece italy,1.4082
+cappuccino tasty,1.3986
+coffee cash,1.3949
+pleasant,1.3905
+coffee expert,1.3904
+mythical,1.3892
+carrot cake,1.3881999999999999
+wine,1.3878
+americano,1.3718
+local cafe,1.3645
+little,1.3538000000000001
+visit cafe,1.3511
+love atmosphere,1.3485
+service wonderful,1.3473
+traditional,1.345
+cappuccino delicious,1.3386
+town,1.3362
+little italy,1.3349
+school coffee,1.3274
+love local,1.3223
+espresso ever,1.3208
+tea,1.3166
+vanilla latte,1.3079
+latte delicious,1.3061
+enjoyed coffee,1.2932000000000001
+excellent espresso,1.2917
+coffee city,1.2915999999999999
+coffee lover,1.2901
+bathroom,1.2875999999999999
+local spot,1.2873
+friendly coffee,1.2863
+super,1.2854999999999999
+iconic italian,1.2833999999999999
+old coffee,1.278
+atm inside,1.2706
+music,1.2671999999999999
+great history,1.2656
+coffee ok,1.2648000000000001
+cute cafe,1.2638
+coffee obviously,1.2633
+nice pastry,1.241
+good cafe,1.2359
+real,1.2343000000000002
+cafe coffee,1.2339
+better coffee,1.2268
+morning coffee,1.2265000000000001
+local coffee,1.2259
+cafe busy,1.2239
+vibe live,1.2208
+latte,1.2191
+rude staff,1.2187000000000001
+coffee often,1.2168
+rich history,1.2132
+environment good,1.2075
+grab coffee,1.1998000000000002
+coffee pretty,1.1934
+wrote screenplay,1.1932
+coffee cappuccino,1.192
+love coffee,1.1716
+coffee fabulous,1.1683
+delicious pastry,1.166
+staff coffee,1.1648
+italian soda,1.1601
+like,1.1583999999999999
+cool spot,1.1537
+coffee definitely,1.1528
+star coffee,1.1522000000000001
+morning,1.152
+feel like,1.1492
+good drink,1.1391
+indoor outdoor,1.1343999999999999
+stop,1.1194000000000002
+beer,1.1189
+italian taste,1.1127
+coffee wonderful,1.109
+crowded,1.1088
+worth visit,1.1077
+francisco landmark,1.1035
+nice historic,1.1026
+coffee bean,1.0948
+shop great,1.0939
+coffee place,1.0927
+tasting coffee,1.0889
+coppola wrote,1.0883
+amazing history,1.0866
+love music,1.0726
+drink espresso,1.0701
+tourist,1.0685
+taste,1.0638
+wonderful coffee,1.0613000000000001
+pecan pie,1.0591
+coffee people,1.0502
+great service,1.0501
+selection coffee,1.0470000000000002
+shop,1.0456
+sipping coffee,1.0421
+vanilla,1.0363
+one best,1.0348000000000002
+coffee something,1.034
+italian neighborhood,1.0218
+coffee ambiance,1.0194
+cappuccino around,1.0113
+sandwich good,1.0107
+tourist trap,1.0089000000000001
+history abounds,1.0
+go,1.0
+favourite cafe,1.0
+try africano,1.0
+friendly barista,1.0
+excellent croissant,1.0
+excellent charm,1.0
+cappuccino good,1.0
+excellent bathroom,1.0
+excellent always,1.0
+good cash,1.0
+good cheesecake,1.0
+amazing scrumtrulescent,1.0
+classic year,1.0
+think breakfast,1.0
+great cheesecake,1.0
+try tiramisu,1.0
+nice overrated,1.0
+rich,1.0
+delicious refreshing,1.0
+wonderful place,1.0
+must sfo,1.0
+delicious cash,1.0
+lovely vibe,1.0
+delicious cappuccino,1.0
+oldies goody,1.0
+curious atmosphere,1.0
+ridiculous coffee,1.0
 optimal,1.0
-american,0.9997
-times,0.9966999999999999
-guitar,0.9904
-prices,0.9794999999999999
-touristy,0.9747999999999999
-relaxed,0.9734
-beer,0.9693
-loud,0.9682
-saturdays,0.9568
-quaint,0.9488
-relax,0.9460999999999999
-sandwiches,0.9396
-crowd,0.9287000000000001
-covid,0.9275
-house,0.9228000000000001
-bakeries,0.9223999999999999
-tasting,0.9203000000000001
-sipping,0.915
-curious,0.9141
-superb,0.9128000000000001
-parking,0.9098
-africano,0.9065
+pure cult,1.0
+always best,1.0
+loud,1.0
+italian roast,0.9966
+racism cafe,0.996
+italian music,0.9901
+wonderful historic,0.983
+saturdays,0.9748000000000001
+best pizza,0.9744
+sf coffee,0.9743999999999999
+cozy little,0.9737
+magical miracle,0.973
+breakfast burrito,0.9712999999999999
+better cappacino,0.9701
+great fun,0.9691
+spectacle authentic,0.9664
+first italian,0.9641
+venerable italia,0.9634
+city,0.9621
+frappe ofina,0.9595
+coffee authentic,0.9583
+coffee tasty,0.9553
+like italy,0.9549
+super cool,0.9545
+drip coffee,0.954
+atmosphere friendly,0.9538
+coffee beautiful,0.9538
+great traditional,0.953
+iconic coffee,0.9512
+ooh tractorieste,0.9492
+breakfast,0.9468
+favorite cultural,0.9463
+good food,0.9457
+avoid atm,0.9419
+baked good,0.9417
+sfo,0.9395
+coffeehouse,0.9325000000000001
+africano,0.931
+super bagel,0.9309
+atm machine,0.9289
+charm,0.925
+people loved,0.9242
+cafe expensive,0.9232
+simple efficient,0.9224
+oldies,0.9215
+spectacular latte,0.9184
+never let,0.9138
+veri frappe,0.9135
+curious,0.9132
+italian cofee,0.9128
+jukebox,0.9126
+espresso chilled,0.9119
+chocolate cake,0.9119
+acceptable shot,0.9117
+good sandwich,0.9113
+espresso sandwich,0.9113
+coffee chocolate,0.9111
+cafe mocha,0.9104
+genuine italian,0.9104
+cash avoid,0.9094
+love old,0.9087
+writing godfather,0.9075
+cheap iconic,0.9055
+latte delightful,0.9047
+rude,0.9045000000000001
+refreshing,0.904
+non existent,0.9038
+true character,0.9032
+coffee okayish,0.9026
+italian ambiance,0.9008
 tractorieste,0.9003
-hour,0.8958
-roast,0.8891
-highly,0.8775
-tastes,0.8755
-sweets,0.8744000000000001
-quality,0.8738
-tiramisu,0.873
-special,0.8717999999999999
-limited,0.871
-espressos,0.8659
-italia,0.8631
-refreshing,0.8618
-expresso,0.8562
-unique,0.8548
-different,0.8517999999999999
-better,0.8375
-don,0.8343
-amicable,0.8327
-ofina,0.8315
-vanilla,0.8251999999999999
-warm,0.8198
-terrace,0.8183
-simple,0.8182
-coffe,0.8058000000000001
-school,0.8054
-historical,0.8033999999999999
-spectacle,0.8009
+efficient human,0.8987
+amazing chocolate,0.8977
+quiet good,0.897
+tiny cafe,0.8969
+good spot,0.8949
+delicious cheesecake,0.8949
+coffee hang,0.8934
+gem changed,0.8933
+jolt espresso,0.8932
+bitter watery,0.893
+beach sf,0.8929
+lots history,0.8928
+wonderful caramel,0.8926
+track frisco,0.8922
+coffee nothing,0.8919
+found better,0.8918
+spot spectacle,0.8916
+cool vibe,0.8914
+drink alright,0.8906
+coffee really,0.89
+beat track,0.8892
+caffeine trieste,0.8877
+cozy historical,0.8875
+coffee overpriced,0.8866
+italia experience,0.8851
+mythical pleasant,0.8836
+going caffeine,0.8833
+expect italian,0.8831
+traditional place,0.88
+tiramisu,0.8799
+landmark cafe,0.8766
+dirty side,0.8755
+classic place,0.8749
+rage dessert,0.8746
+pizza delicious,0.8743
+superb cafe,0.8742
+people appreciate,0.874
+historic place,0.8731
+francisco cafe,0.8727
+espresso friendly,0.8723
+snack cash,0.8717999999999999
+good dessert,0.871
+service non,0.871
+efficient,0.8709
+always come,0.8704
+good cup,0.8698999999999999
+stop coffee,0.8691
+cool place,0.8689
+old classic,0.8665
+changed time,0.8657
+bit dirty,0.8654
+treat amazing,0.8631
+worn coffee,0.8626
+shot true,0.8624
+coffee eating,0.8599
+destination sf,0.8582
+overrated coffee,0.8579
+drink italian,0.8567
+vibe touch,0.8562
+atmosphere drink,0.8553
+magical,0.8546
+old san,0.8531
+coffee deep,0.8525
+must,0.8524
+italia,0.8517
+ofina,0.8486
+veri,0.8483
+atmospheric cafe,0.8479
+place quiet,0.8468
+nice beer,0.8456
+espresso cup,0.8444
+fun coffee,0.8431
+fond memory,0.8422
+pastry nothing,0.842
+coffee amazing,0.8403
+americano city,0.8398
+caramel latte,0.8387
+awesome place,0.8384
+space limited,0.8379
+original space,0.8376
+cheesecake tasty,0.8376
+would recommend,0.837
+bagel find,0.836
+local mostly,0.8351
+better,0.835
+immediate destination,0.8345
+great vanilla,0.8341
+delightful service,0.8337
+music weekend,0.8324
+always keep,0.8321
+little place,0.8319
+morning pit,0.8313
+quiet,0.831
+sunday afternoon,0.8302
+friendly simple,0.8298
+awesome coffee,0.8295
+ground zero,0.8285
+cultural importance,0.8283
+grocery coffee,0.828
+latte disappointment,0.8278
+wonderful espresso,0.8273
+place amicable,0.8253
+ask wifi,0.8248
+cappuccino heavily,0.8246
+frappe,0.8227
+good people,0.8211
+overrated,0.8209
+limited,0.8197
+chocolate good,0.8192
+one immediate,0.8191
+dirty,0.8185
+amicable stuff,0.8183
+miracle happened,0.8172
+burnt chocolate,0.8169
+caffeine,0.8168
+pastry chef,0.8167
+real people,0.8159
+americano california,0.8143
+cheap,0.814
+warm feel,0.8139
+amazing croissant,0.8131
+changed,0.8125
+best coffeehouse,0.8119
+recommend,0.8113
+lime pie,0.8106
+place sweet,0.8094
+visited people,0.8085
+croissant,0.808
+cheesecake also,0.8075
+coffe ok,0.8071
+non,0.8067
+let always,0.8048
+ok service,0.8045
+authentic coffee,0.8044
+spoke pastry,0.8042
+racism,0.8042
+nice bagel,0.804
+sandwich right,0.8031
+amicable,0.8029
+espresso world,0.8028
+cheesecake cool,0.8019
+frisco,0.8017
+acceptable,0.8017
+spot would,0.8007
+history happenes,0.8
+ok food,0.8
+espresso city,0.7995
+food good,0.7993
+night espresso,0.7992
+coffee speciality,0.7989
+great selection,0.7987
+music sunday,0.798
+felt welcome,0.798
+espresso cash,0.7974
 pure,0.7973
-veri,0.7923
-frappe,0.7913
-baked,0.7904
-outside,0.7865
-favorite_,0.786
-scrumtrulescent,0.7846
-usa,0.7826
-glad,0.7821
-sfo,0.7767
+nasty espresso,0.7969
+espresso classic,0.7968
+francisco found,0.7949
+coffee quaint,0.7948
+dinner tea,0.7945
+touch crowded,0.7938
+pricey delicious,0.7934
+lost gift,0.7924
+space nice,0.7921
+iced espresso,0.791
+italian quarter,0.7904
+italian dessert,0.7903
+godfather fan,0.7901
+warm,0.7901
+watery latte,0.7884
+espresso dessert,0.7876
+italian donuts,0.7872
+location coffee,0.7867
+never,0.7865
+cash coffee,0.7851
+come town,0.7847
+spectacle,0.7844
+scrumtrulescent,0.7842
+vibe host,0.7842
+authentic review,0.7842
+outside seating,0.7838
+hot coffee,0.7837
+perfect tasting,0.7835
+italian manager,0.7826
+country intellectual,0.7825
+pizza period,0.7807
+spot home,0.7804
+ambiance espresso,0.7803
+year,0.7794
+recommend enjoy,0.779
+expired starbucks,0.7783
+time,0.7773
+pizza cinnamon,0.777
+coffee bohemian,0.7755
+cafe experience,0.7751
+make coffee,0.7746999999999999
 abounds,0.7746
-quiet,0.7726
-happy,0.7722
-overpriced,0.7611
-hangout,0.7555000000000001
-fabulous,0.7547
-frisco,0.7535
-bad,0.7532
-polite,0.7518
-acceptable,0.751
-bathrooms,0.749
-space,0.7473000000000001
-goodies,0.741
-caramel,0.7402
-fond,0.7382
-venerable,0.7273
-definitely,0.7261
-felt,0.7214
-huge,0.7208
-enjoying,0.7204999999999999
-chilled,0.7141
-touch,0.7137
-cocoa,0.7126
-disappointment,0.7048
-donuts,0.7046
-immediate,0.7046
+italy experience,0.7746
+survived pandemic,0.7745
+bit cold,0.7742
+chef minute,0.7737
+gem,0.7734
+pound coffee,0.773
+italy pizza,0.7726
+coffee history,0.7719
+nice cozy,0.7715
+cream pie,0.7712
+crowded day,0.7711
+breakfast dinner,0.7708
+awesome environment,0.7704
+traditionally italian,0.7702
+immediate,0.77
+coffee cheesecake,0.77
+delicious croissant,0.7689
+espresso sf,0.7672
+keep,0.7663
+sweet,0.7661
+zero,0.7658
+coffee conversation,0.7655
+generation pleasant,0.7653
+espresso cake,0.7652
+cappuccino pizza,0.7639
+attended local,0.7625
+chocolate croissant,0.7618
+copolla wrote,0.7612
+favorite sf,0.7612
+coffee sweet,0.7597
+selection drink,0.7589
+cake expresso,0.7585
+cappuccino espresso,0.7581
+bagel,0.7571
+atmosphere bit,0.7568
+miracle,0.7563
+different taste,0.756
+tasty treat,0.7555
+style cafe,0.7553
+zero power,0.7548
+historical cafe,0.7531
+coffee bitter,0.7527
+italian barman,0.7524
+place authentic,0.7522
+latte excellent,0.7521
+espresso iced,0.7511
+cup charged,0.7505
+cafe bag,0.75
+real place,0.7492
+bitter,0.7473
+perfect coffee,0.7469
+smoking ok,0.7451
+cold,0.744
+california,0.7436
+strong delicious,0.7435
+remodel old,0.7434
+fantastic cappuccino,0.7433
+nothing temping,0.7432
+coffee cannoli,0.7431
+beat,0.7429
+place attended,0.7427
+coffee terrace,0.7426
+espresso best,0.742
+history adding,0.7418
+welcome,0.7396
+little run,0.7396
+memory great,0.7395
+always wonderful,0.7393
+true,0.7381
+musician improvising,0.7381
+cafe comfortable,0.7375
+authentic cafe,0.7362
+bar italian,0.7357
+pie cheesecake,0.7355
+way italian,0.7351
+humble chocolate,0.735
+roast classic,0.7347
+cafe best,0.7345
+fantastic breakfast,0.7339
+goody,0.7336
+cozy location,0.7328
+return lunch,0.7326
+pleasant place,0.7325
+coffee closest,0.7322
+dessert cash,0.7313
+espresso much,0.7311
+great spot,0.731
+loving atmospheric,0.7304
+history pastry,0.7304
+best dessert,0.73
+best ambiance,0.7291
+outside,0.7277
+espresso tasted,0.7277
+food fine,0.7273
+relying history,0.7272
+coffee relax,0.7272
+cafe favorite,0.7268
+checking menu,0.7254
+special space,0.7248
+breakfast cappuccino,0.7247
+far favorite,0.7241
+great roast,0.724
+okay cappuccino,0.7231
+coffee bar,0.7231
+mellow dinner,0.723
+good tea,0.723
+local,0.7229
+good coffe,0.7224
+lunch another,0.7219
+espresso first,0.7217
+entertainment saturdays,0.7217
+barista,0.7216
+coffee california,0.7211
+nice caffe,0.7202
+need remodel,0.7195
+cash good,0.7195
+baklava live,0.7195
+need deal,0.7194
+coffee variety,0.7194
+cafe traditionally,0.7191
+otsosy ooh,0.7185
+fabulous institution,0.7182
+always solid,0.7182
+coffee perfect,0.7163
+great food,0.716
+big rage,0.7159
+went outside,0.7155
+roasted coffee,0.7152
+italian standing,0.7146
+lemon pie,0.7145
+good bakery,0.7145
+beverage wifi,0.7142
+stopped late,0.7135
+wonderful time,0.7126
+cappuccino cash,0.7125
+nice neighborhood,0.7123
+place felt,0.7123
+coffee glass,0.7122
+pastry top,0.7121
+cash place,0.7119
+mediterranean atmosphere,0.7115
+place beat,0.7109
+place real,0.7106
+cute neighborhood,0.7104
+beautiful place,0.7103
+cappuccino italian,0.71
+run need,0.71
+beach favorite,0.7097
+place like,0.7084
+espresso historic,0.7079
+iced mocha,0.7078
+spot lots,0.7078
+guitar accordion,0.7076
+good grocery,0.7068
+worth wait,0.7066
+chocolate tasted,0.7065
+good expresso,0.706
+existent,0.7051
+film days,0.7047
+busy bathroom,0.7047
+appreciate,0.7046
+jim galway,0.7046
+nothing special,0.7041
+wifi outlet,0.7037
+tea apricot,0.7035
+nouveau coffee,0.7033
+caramel,0.703
+shop italian,0.7027
 cult,0.7025
-apricot,0.7021
-importance,0.7009
-almond,0.6985
-buy,0.6972
-existent,0.6885
-outdoor,0.6868
-cookie,0.6845
-quick,0.6760999999999999
-lost,0.6748000000000001
+hour mediterranean,0.7025
+shop love,0.7023
+disappointment,0.7019
+espresso fun,0.7013
+spectacular,0.7011
+happen san,0.7008
+lovely sunday,0.7003
+terrace smoking,0.7001
+coffee canola,0.7
+italian bar,0.7
+caffe fun,0.6998
+enjoy,0.6996
+espresso response,0.6995
+great morning,0.6993
+place super,0.699
+great location,0.6984
+friendly nice,0.6983
+double espresso,0.6982
+venerable,0.6981
+chef,0.697
+beatnik coffee,0.6963
+reading book,0.694
+pastry snack,0.6936
+coffe,0.6934
+thing spain,0.6934
+think coffee,0.6925
+decent espresso,0.6924
+gem forever,0.692
+legit coffee,0.6917
+cafe much,0.6912
+discover italian,0.6909
+intellectual people,0.6908
+fond,0.6907
+need,0.6905
+coffee mexican,0.6904
+classic character,0.6902
+avoid,0.69
+croissant cake,0.6899
+cookie good,0.6895
+cappuccino changed,0.6894
+eating camillo,0.6891
+coffee right,0.6888
+classic sf,0.6885
+coffee ideal,0.6881
+comforting vibe,0.6876
+small coffee,0.6876
+really access,0.6876
+wonderful guitar,0.687
+donuts,0.6866
+charm definitely,0.6865
+delicious treat,0.6865
+coffee slice,0.6864
+iced coffee,0.6862
+solid service,0.6857
+place check,0.6855
+fun relaxed,0.6853
+terrace sun,0.685
+cappuccino nice,0.6848
+pastry excellent,0.6843
+cleanliness ocd,0.6841
+need time,0.684
+best capuccino,0.6838
+differential typical,0.6836
+space,0.6833
+heavily recommended,0.682
+mythical place,0.6818
+cafe cool,0.6818
+fun spot,0.6817
+delightful,0.6815
+place incredible,0.6814
+mythical cafe,0.6811
+afternoon sipping,0.6807
+place land,0.6804
+macchiato espresso,0.68
+cafe character,0.6797
+jacksonville loved,0.6796
+generous coffee,0.6777
+track,0.6773
+busy coffee,0.6772
+trieste since,0.6768
+watching coffee,0.6767
+mediterranean,0.6755
+smooth classic,0.6751
+cafe cash,0.6749
 otsosy,0.6746
-indoor,0.6741999999999999
-big,0.6739999999999999
-milk,0.6705
-eat,0.6675
-galway,0.6663
-keeps,0.6663
-tiny,0.6651
-environment,0.6627
-cultural,0.6608
-shots,0.6595
-bagels,0.6593
-weekends,0.6588
+nice strong,0.6741
+great local,0.674
+european coffee,0.6734
+great caffe,0.6727
+sidewalk seating,0.6723
+make stop,0.6723
+play godfather,0.6717
+cafe rich,0.6716
+lovely place,0.6708
+enjoyed iced,0.6707
+love everyone,0.6704
+staff good,0.6701
+dessert cafe,0.6699
+coffee sf,0.6698
+galway,0.6698
+history big,0.6697
+coffee indoor,0.6696
+place worth,0.6693
+staff nice,0.6693
+espresso exactly,0.6691
+character charm,0.669
+similar restaurant,0.6688
+cafe chilled,0.6682
+cafe rather,0.6681
+taste good,0.668
+consider juke,0.6673
+tasted america,0.6671
+late night,0.6668
+friendly people,0.6668
+wonderful pastry,0.6660999999999999
+neighborhood excellent,0.6657
+history felt,0.6655
+nice comforting,0.6649
+drink coffee,0.6646
+breakfast option,0.6645
+sipping espresso,0.664
+intellectual,0.6637
+must coffee,0.6636
+juke box,0.6632
+feature film,0.663
+style italian,0.6629
+copolla,0.6625
+found italian,0.6624
+lovely caf,0.6621
+importance,0.6619
+found,0.6615
+clean staff,0.6613
+coffee parking,0.6612
+ground,0.6607
+cafe near,0.6606
+pizza sandwich,0.6598
+beverage nothing,0.6589
+cappacino,0.6589
 cofee,0.6579
-racism,0.6567
-copolla,0.653
-memories,0.6459
-zero,0.6424
-hipster,0.6408
-100,0.6374
-regular,0.6355999999999999
-annoying,0.6336
-francis,0.6315999999999999
-saturday,0.6309
-newspapers,0.6302
-delightful,0.6288
-oldest,0.6261
-wrote,0.6248
-smoking,0.6177
-spectacular,0.6165
+visit espresso,0.6577
+wonderful atmosphere,0.6577
+tea coffee,0.6575
+stop consider,0.6571
+taste espresso,0.6569
+screenplay,0.6567
+delicious dessert,0.6553
+accidental find,0.6552
+fresh pastry,0.6548
+godfather novel,0.654
+place regular,0.6532
+landmark coffee,0.6532
+coffee lunch,0.6532
+relaxed place,0.6531
+enjoyed breakfast,0.6527
+pastry awesome,0.6521
+slice cake,0.6512
+poet people,0.651
+place cash,0.6509
+full local,0.6505
+muggles drink,0.6505
+sip cafe,0.6502
+friendly crowd,0.65
+yum pastry,0.6497
+cappuccino dream,0.6494
+spain,0.6491
+good advertised,0.6489
+music saturdays,0.6482
+parking quite,0.6481
+tea staff,0.6476
+eclair cafe,0.6474
+always friendly,0.6469
+place cannolis,0.6467
+day nice,0.6467
+lmake room,0.6462
+space cafe,0.6459
+coffee outside,0.6457
+nowhere italian,0.645
+maryanne jim,0.6445
+bohemian atmosphere,0.6445
+ridiculous,0.6442
+coffee chain,0.6437
+morning perfect,0.6433
+nice though,0.6431
+love picture,0.6426
+wanted cafe,0.6417
+furniture coffee,0.6416
+mocha pastries,0.6408
+coffeehouse sf,0.6406
+beach good,0.6405
+dessert cappuccino,0.6403
+chocolate rugala,0.639
+cream yum,0.639
+rather charming,0.6389
+cold chocolate,0.6388
+sf old,0.6385
+bad flavors,0.6385
+friendly cozy,0.6384
+remodel,0.6384
+beautiful historic,0.6378
+regular stop,0.6369
+covid always,0.6365
+vibe coffee,0.6364
+pm dinner,0.6358
+cafe bother,0.6358
+espresso also,0.6355
+amazing taste,0.6355
+closest thing,0.6354
+cake good,0.6352
+pastry foo,0.635
+beer wine,0.6347
+someone guitar,0.6344
+hanging enjoying,0.6342
+cake must,0.6342
+coffee listen,0.6337
+espresso nice,0.6336
+pretty nice,0.6332
+gem cash,0.6331
+cappuccino disappointed,0.633
+fabulous,0.6327
+price,0.6323
+sell coffee,0.6322
+espresso pretty,0.6322
+coffee mellow,0.6318
+strong latte,0.6313
+local cash,0.6312
+dessert huge,0.6307
+little piece,0.6306
+hello fanny,0.6305
+coffee old,0.6304
+nothing,0.6304
+awesome,0.6302
+visit local,0.6301
+excited visit,0.6298
+amazing food,0.6298
+tiny,0.6292
+restaurant jacksonville,0.6289
+nights shot,0.6288
+glad survived,0.6279
+book tara,0.6278
+come,0.6274
+buzzing locals,0.6273
+delicious love,0.6266
+beautiful cafe,0.6255
+must visit,0.6253
+italian pastry,0.625
+must place,0.6249
+love cappuccini,0.6249
+employees racism,0.6245
+dessert coffee,0.6245
+people neighborhood,0.6244
+love regular,0.6243
+together music,0.6238
+croissant sandwich,0.6235
+wizard muggles,0.6234
+nice breakfast,0.6231
+bit annoying,0.623
+espresso powder,0.6225
+pastry staff,0.6225
+coffee option,0.6222
+mexican food,0.622
+quirky live,0.622
+stopping coffee,0.6219
+bagel atmosphere,0.6215
+coffee strongest,0.6214
+soda delicious,0.6209
+cappuccino relaxing,0.6206
+book discussion,0.6206
+treat coffee,0.6206
+lunch,0.6206
+coffee inexpensive,0.6205
+nice clean,0.6205
+people watching,0.62
+espresso pastry,0.6196
+take coffee,0.6195
+oldschool jukebox,0.6195
+time walked,0.6195
+spot full,0.6193
+coffee croissant,0.6189
+late,0.6189
+anything special,0.6187
+stop sf,0.6184
+coffee fantastic,0.6182
+typical country,0.6177
+expensive,0.6175
 ooh,0.6164
-racist,0.6145
-ridiculous,0.6142
-characters,0.612
-charming,0.6092
-cannoli,0.6077
-watery,0.6055
-popular,0.6055
-hasn,0.6031
-cannolis,0.6007
-lots,0.5979
-books,0.5941000000000001
-eating,0.5941
-usually,0.5893
-recommended,0.589
-open,0.583
-enjoy,0.5788
-host,0.5786
-high,0.5761000000000001
-minutes,0.5759
-mediterranean,0.5715
-think,0.5702
-juke,0.5683
-okayish,0.5663
-baristas,0.5657
-rage,0.5654
-remodel,0.5636
-piece,0.5636
-human,0.5633
-comfortable,0.5613
-loving,0.559
-accidental,0.5572
-groceries,0.5572
-walls,0.5551999999999999
-destinations,0.5549
-ground,0.554
-chef,0.5533
-alright,0.5529
+writer vibe,0.616
+wrote,0.6154
+huge delicous,0.6153
+mug coffee,0.6152
+outdoor sidewalk,0.615
+everything great,0.6149
+greatest coffee,0.6149
+style espresso,0.6147
+rude woman,0.6145
+meet poet,0.6138
+superb landmark,0.6134
+touristy relaxing,0.6132
+stepping back,0.6128
+espresso amazing,0.6128
+bakery fairly,0.6124
+average coffee,0.6117
+socialize buy,0.6116
+roast coffee,0.6113
+bitter cool,0.6113
+client satisfied,0.6112
+lost,0.6107
+history ambiance,0.6107
+espresso reading,0.61
+bohemian setting,0.61
+quaint coffee,0.6096
+offer pizza,0.6092
+loved old,0.6089
+tasted amazing,0.6087
+inside love,0.6087
+cappuccino cafe,0.6082
+bit pricey,0.6081
+francisco beautiful,0.6081
+vibe good,0.6078
+visit history,0.6074
+bohemian,0.607
+starbucks suave,0.6069
+people reading,0.6066
+iconic cafe,0.6065
+cake tasty,0.6063
+people great,0.6063
+annoying,0.6062
+regular,0.6057
+espresso biscotti,0.6051
+old man,0.6051
+guitarist busking,0.6049
+pricey,0.6046
+concert coffee,0.6046
+incredible,0.6046
+food amazing,0.6037
+coffee novel,0.6035
+good lemon,0.6034
+amazong coffee,0.6033
+live italian,0.6033
+coffee maker,0.6031
+rage,0.6028
+music superb,0.6022
+always glad,0.6021
+delicious espresso,0.6021
+drink great,0.6015
+knew regular,0.6001
+delicious cannoli,0.5997
+pit stop,0.5996
+little coffee,0.5996
+italian old,0.5994
+atmosphere great,0.5991
+protecting newspaper,0.599
+trieste,0.5986
+italian strong,0.5985
+perfect sit,0.5984
+also amazing,0.5982
+lovely coffee,0.598
+back year,0.598
+francisco pastry,0.598
+latte starbucks,0.5978
+wave espresso,0.5977
+poet sipping,0.5974
+must stop,0.5974
+music also,0.5974
+listened jukebox,0.5973
+espresso taste,0.5969
+days nights,0.5969
+place cup,0.5965
+coffee break,0.5964
+recommended breakfast,0.5962
+quick coffee,0.5961
+established bar,0.5958
+good friendly,0.5958
+croissant macaroon,0.5951
+world cafe,0.5951
+cannolis,0.595
+tiramisu coffee,0.5949
+real sf,0.5947
+cafe special,0.594
+pastry fix,0.5938
+cozy spot,0.5938
+classic coffeehouse,0.5937
+breakfast sandwich,0.5937
+buy good,0.5936
+loni maryanne,0.5935
+vibe worth,0.5935
+coffee liking,0.5932
+crowded complaint,0.5931
+christmas event,0.5931
+espresso cold,0.5931
+fun easy,0.593
+chinatown great,0.5929
+gave coffee,0.5925
+priced delicious,0.5924
+cultural,0.5924
+guitar,0.5923
+coffee walk,0.5918
+attentive waiter,0.5916
+forever,0.5914
+good location,0.5911
+downed coffee,0.5903
+improvising,0.5901
+iconic north,0.5901
+historic coffee,0.5894
+however pastry,0.5894
+afternoon latte,0.5894
+outlet popular,0.5893
+worth,0.5893
+parking,0.5889
+improvising various,0.5887
+cake culture,0.5886
+chai latte,0.5885
+service great,0.5883
+blessing customer,0.5878
+dessert option,0.5876
+coffee bakery,0.5874
+chocolate often,0.5873
+pastry please,0.5868
+school cafe,0.5866
+coffee buck,0.5864
+neighborhood fave,0.5863
+chocolate sprinkled,0.5859
+cash hour,0.5852
+live guitar,0.5851
+serving italian,0.585
+unbelievably rude,0.5849
+worst customer,0.5845
+pastry love,0.5844
+home roasted,0.5839
+popular coffee,0.5835
+cafe employee,0.5834
+loving,0.583
+went musician,0.5826
+food beverage,0.5824
+italian hot,0.5819
+save cash,0.5817
+worth look,0.5813
+drink hot,0.5811
+italy feel,0.5809
+loved almond,0.5807
+original classic,0.5805
+covid future,0.5801
+piece,0.5798
+drank double,0.5797
+night visit,0.5797
+delicious cooky,0.5796
+one rare,0.5793
+latte espresso,0.5793
+non american,0.579
+cafe local,0.5789
+best cooky,0.5784
+menu cash,0.5783
+coffee delighted,0.5779
+apricot jam,0.5778
+sitting sunday,0.5775
+different,0.5774
+needed coffee,0.5773
+sf atmosphere,0.5773
+heart italian,0.5772
+iconic,0.5771
+temperature happy,0.577
+godfather coffee,0.5769
+service classic,0.5764
+ravioli delicious,0.5761
+pastry girlfriend,0.5755
+chilled music,0.5754
+espresso polite,0.5747
+dry cappuccino,0.5742
+chilled vibe,0.5742
+cafe roast,0.574
+ever,0.5735
+think,0.5727
+coffee tea,0.5723
+cake atmosphere,0.5722
+mainly barista,0.5721
+pizza slice,0.5719
+good drinking,0.5717
+chocolate bread,0.5717
+italian beverage,0.5716
+stumbled caffe,0.5712
+enjoying sun,0.5712
+taste burned,0.5712
+coffee wanted,0.5711
+eating,0.5711
+great customer,0.571
+like cash,0.5709
+enjoyed atmosphere,0.5709
+espresso north,0.5708
+authentic real,0.5707
+atmosphere cafe,0.5704
+chocolate accepts,0.5702
+croissant stall,0.5701
+vibe soul,0.57
+cozy old,0.5699
+perfect temperature,0.5699
+trendy coffee,0.5694
+excellent pastry,0.5688
+music wonderful,0.5686
+relax meet,0.5686
+could improve,0.5686
+perfect place,0.5681
+latte coffee,0.5677
+italy cafe,0.5677
+store inviting,0.5671
+due christmas,0.5664
+funny people,0.5664
+bathroom really,0.5661
+coffee tiramisu,0.566
+bought poem,0.5656
+tara ugh,0.5654
+enjoy cash,0.5653
+croissant also,0.565
+minute waited,0.5649
+selection,0.5649
+italian flair,0.5646
+perfect mellow,0.5646
+best cafe,0.5645
+house local,0.5643
+coffee quick,0.5642
+cappuccino fresh,0.5639
+find,0.5637
+espresso baked,0.5637
+homeless yelling,0.5634
+giant seattle,0.5634
+high quality,0.5633
+cooky,0.5628
+looked tasty,0.5623
+classic san,0.5623
+cash great,0.5621
+waited line,0.562
+like espresso,0.562
+wait,0.5619
+little cup,0.5616
+espresso china,0.5615
+spot excited,0.5609
+quaint historical,0.5605
+coffee friend,0.5604
+racism never,0.5601
+coworkers polite,0.56
+landmark,0.56
+coffee home,0.5599
+american,0.5597
+spiked coffee,0.5596
+america expensive,0.5596
+espresso place,0.5592
+soul north,0.559
+music afternoon,0.5589
+cafe iconic,0.5588
+great cup,0.5588
+pie amazing,0.5583
+polite considerate,0.5582
+unique delicious,0.558
+menu similar,0.5579
+pastry seemed,0.5578
+espresso different,0.5577
+best italian,0.5572
+kinder cash,0.5572
+tea cake,0.5571
+espresso picked,0.5571
+espresso neighborly,0.5565
+coffee nowhere,0.5562
+accidental,0.556
+cappuccino pretty,0.5557
+music perfect,0.5557
+closest,0.5551
+corned beef,0.555
+musician,0.5547
+people cleanliness,0.5546
+iced tea,0.5545
+cold coffee,0.5542
+coffee manage,0.5538
+like atmosphere,0.5537
+delicious carrot,0.5534
+chocolate sort,0.5533
+nostalgic italian,0.5531
+place north,0.5529
+seemed cranky,0.5527
+hot cocoa,0.5525
+cooky wonderful,0.5519
+cafe touch,0.5519
+burnt must,0.5518
+obviously local,0.5518
+sicilian mafia,0.5516
+large coffee,0.5515
+local outdoor,0.5515
+shop cool,0.5514
+cool local,0.5511
+coffee european,0.551
+best expensive,0.5509
+covid love,0.5505
+joint rich,0.5505
+watch world,0.5503
+many people,0.5502
+place awesome,0.5502
+much year,0.5501
+hearty croissant,0.5501
+pastry sit,0.5497
+full staff,0.5497
+ice coffee,0.5497
+poet bought,0.5496
+singer guitarist,0.5496
+morning live,0.5495
+coffee moody,0.5493
+neighborhood gem,0.5493
 smooth,0.549
-snacks,0.5484
-room,0.5469
-intellectual,0.5452
-walked,0.5451
-hassle,0.5446
-tables,0.5442
-late,0.5438000000000001
-intellectuals,0.5433
-nights,0.5432
-happenes,0.5423
-land,0.541
-stepping,0.5394
-beverage,0.5385
-avoid,0.5366
-selection,0.536
-concerts,0.5333
-caffee,0.5306
-track,0.5268
-long,0.5243
-busy,0.5241
-10,0.5237
-closest,0.5227
-spain,0.5182
-mexican,0.5171
-check,0.5167
-bagel,0.5164
-excited,0.5147
-waiter,0.5145
-flavorful,0.5142
-sugar,0.5124
-1966,0.5115
-appreciate,0.5089
-box,0.5045
-restaurant,0.5013
-century,0.4983
-muggles,0.4959
-changed,0.4943
-improve,0.4926
-2000,0.491
-stuff,0.4898
-waiters,0.4878
-mocha,0.48619999999999997
-style,0.4855
-heavily,0.4839
-intimate,0.4827
-fans,0.4784
-grandma,0.4781
-comforting,0.4781
-biscotti,0.4781
-deal,0.4746
-genuine,0.4717
-novel,0.47140000000000004
-hello,0.4713
-transportation,0.4704
-ice,0.4679
-differential,0.467
-visited,0.464
-wait,0.4638
-energized,0.4633
-come,0.4628
-cashier,0.4604
-pit,0.4598
-attended,0.4584
-cappacino,0.4581
-typical,0.4554
-peskin,0.4542
-outstanding,0.4528
-america,0.4523
-conversation,0.4519
-easy,0.4507
-public,0.4506
-solid,0.4503
-variety,0.4492
-sitting,0.4476
-fave,0.4442
-lmake,0.4436
-sidewalk,0.4433
-happen,0.4429
-jim,0.4418
-rare,0.4407
-dogs,0.439
-courteous,0.4376
-maryanne,0.4373
-let,0.437
-atmospheric,0.4353
-miracle,0.435
-beatnik,0.4346
-early,0.4331
-forever,0.4316
-institution,0.4306
-macaroons,0.4296
-wizards,0.4287
-furniture,0.426
-soul,0.4227
-lemon,0.4208
-reviews,0.42079999999999995
-magical,0.4191
-chat,0.4179
-guitarist,0.4176
-country,0.415
-horrible,0.4132
-girlfriend,0.4124
-right,0.4117
-make,0.4106
-obviously,0.4103
-pies,0.4094
-adding,0.4084
-relying,0.4082
-legit,0.408
-restaurants,0.40780000000000005
-christmas,0.4041
-destination,0.4033
-40,0.3995
-weekend,0.3988
-consider,0.3955
-sensational,0.3947
-baklava,0.3938
-motorcycle,0.3934
-roasted,0.3929
-enjoyment,0.3923
-lousy,0.39
-save,0.3898
-man,0.3892
-favorites,0.3884
-44,0.3883
-1986,0.3865
-services,0.3864
-legendary,0.3829
-half,0.3828
-bags,0.381
-film,0.3798
-tops,0.379
-dry,0.3789
-35,0.3776
-worn,0.376
-thing,0.3751
-poet,0.3749
-meet,0.3743
-frustrated,0.373
-amazong,0.373
-incredible,0.371
-disappointed,0.371
-chinese,0.3704
-nasty,0.3698
-charged,0.368
-lively,0.3679
-generous,0.3672
-abound,0.3672
-vibes,0.3651
-barman,0.3635
-2023,0.36300000000000004
-generation,0.3621
-mediocre,0.3613
-stealing,0.3612
-singer,0.3586
-cafes,0.357
-owner,0.3541
-wife,0.3533
-sodas,0.3533
-socialize,0.3511
-uncomfortable,0.3508
-capuccino,0.3495
-60s,0.3467
-clean,0.3467
-evening,0.34419999999999995
-snack,0.3432
-improvising,0.3422
-access,0.3421
-mafia,0.342
-tara,0.3392
-quarter,0.3385
-cappuccini,0.338
-goodness,0.3372
-foo,0.3365
-inviting,0.3363
-hang,0.3351
-damn,0.3341
-preparations,0.3339
-year,0.333
-pleasurable,0.3301
-25,0.3294
-deli,0.3278
-survived,0.3273
-unprofessional,0.3261
-far,0.3244
-seats,0.3236
-warmth,0.323
-roma,0.3229
-experts,0.3189
-pound,0.3184
-entertainment,0.3183
-biscuit,0.3176
-power,0.3161
-small,0.3159
-quite,0.3149
-unbelievably,0.3147
-beef,0.3126
-opera,0.3126
-considerate,0.3107
-craving,0.3091
-buzzing,0.3074
-30,0.3062
-cards,0.3062
-traditionally,0.3059
-cranky,0.305
-satisfied,0.3043
-hippie,0.3024
-ravioli,0.3018
-hit,0.3016
-famous,0.3014
-smile,0.3011
-computer,0.3008
-blend,0.299
-damage,0.2977
-holiday2021,0.2961
-stopped,0.2944
-pandemic,0.2931
-protecting,0.2926
-seattle,0.2926
-today,0.2923
-way,0.2918
-novelists,0.288
-yum,0.2874
-pictures,0.2862
-decent,0.2858
-rain,0.2856
-went,0.2856
-homeless,0.2843
-cents,0.2837
-response,0.2822
-okay,0.2802
-sketches,0.2802
-lovers,0.2798
-thank,0.2797
-places,0.2795
-calming,0.2778
-hard,0.2776
-serves,0.2765
-stopping,0.2765
-chai,0.2756
-awful,0.27440000000000003
-states,0.2735
-creative,0.2734
-spirits,0.2733
-china,0.2731
-stall,0.2726
-macchiato,0.2723
-know,0.2672
-beverages,0.2663
-waste,0.2662
-italians,0.2659
-gift,0.2656
-1956,0.2656
-shower,0.2656
-camillo,0.2634
-musicians,0.2624
-trap,0.2622
-simply,0.2607
-overjoyed,0.2603
-whipped,0.2602
-funny,0.2595
-managers,0.2591
-plates,0.2577
-teckel,0.257
-watch,0.257
-waited,0.2567
-pain,0.2551
-established,0.2543
-expired,0.2541
-card,0.2532
-butter,0.2527
-busking,0.2509
-unmissable,0.2508
-bathroom,0.2494
-sat,0.2492
-penn,0.249
-1950,0.2475
-bakery,0.2473
-8pm,0.2458
-customer,0.2453
-eats,0.2436
-brothers,0.2424
-sfs,0.2422
-phone,0.2398
-tradition,0.2393
-screenplays,0.2385
-hearty,0.2382
-saloon,0.2379
-table,0.2371
-90,0.2367
-carrot,0.2354
-fantasy,0.2353
-ask,0.2346
-80years,0.2341
-rudely,0.2335
-holidays,0.2326
-cigarettes,0.232
-pavarotti,0.232
-soft,0.2308
-happened,0.2303
-ginsberg,0.23
-flavored,0.2293
-literati,0.228
-dream,0.225
-sip,0.2246
-terrible,0.2235
-july,0.2228
-sister,0.2214
-green,0.2211
-band,0.2192
-brewer,0.2184
-husband,0.218
-patrons,0.2175
-inside,0.2143
-wasn,0.2132
-week,0.213
-moody,0.2127
-listening,0.2122
-complement,0.212
-stressful,0.2114
-ugh,0.2063
-helpful,0.2056
-2022,0.2053
-sicilian,0.2047
-tradicional,0.2047
-brilliant,0.2046
-bookstore,0.2035
-hurry,0.1985
-festive,0.1981
-coppolla,0.198
-knowing,0.1974
-google,0.1971
-brusque,0.1967
-slalom,0.1957
-shops,0.1948
-spoke,0.1939
-online,0.1934
-map,0.1926
-art,0.1925
-lavish,0.1922
-bite,0.1919
-unfriendly,0.1919
-1979,0.1914
-traveling,0.1904
-tight,0.1874
-bay,0.1874
-acidity,0.1867
-delicous,0.1862
-typewriter,0.1852
-fantasia,0.1851
-rainy,0.1848
-canolas,0.1848
-learned,0.1843
-slice,0.1842
-gluten,0.1839
-celebrities,0.1836
-yelling,0.1833
-going,0.1831
-employee,0.1821
-crispy,0.1813
-stayed,0.1803
-flavor,0.1789
-20,0.1786
-wrong,0.1784
-aura,0.177
-humble,0.1767
-joe,0.1762
-guests,0.1752
-raspberry,0.1749
-discussion,0.1744
-5th,0.1743
-businesses,0.1739
-dating,0.1738
-outsiders,0.1733
-plain,0.1732
-drank,0.1729
-cockroach,0.1727
-jet,0.1721
-flavors,0.1716
-soda,0.1697
-1969,0.1693
-brazil,0.1692
-prepared,0.1686
-giant,0.1684
-kind,0.1674
-cosy,0.1672
-dreams,0.1664
-review,0.164
-worst,0.164
-ride,0.1633
-broadway,0.1613
-hippies,0.1613
-roasting,0.1604
-unexpectedly,0.1554
-inexpensive,0.1543
-alcohol,0.1543
-hands,0.1538
-person,0.1529
-folksy,0.1513
-sean,0.1509
-tonight,0.1488
-cheese,0.1488
-oldschool,0.1479
-compare,0.1469
-wall,0.1463
-wide,0.1459
-broken,0.1432
-probably,0.1426
-customers,0.1404
-pounds,0.1401
-musician,0.1395
-treat,0.1386
-business,0.1378
-seventies,0.1378
-idleness,0.1377
-fathers,0.1374
-soccer,0.1374
-priced,0.1366
-star,0.1365
-pm,0.136
-wave,0.1359
-looking,0.1353
-glassware,0.1351
-everyday,0.1345
-world,0.1343
-garbage,0.1339
-free,0.1306
-knew,0.1297
-pieces,0.1273
-museum,0.1271
-accordion,0.1267
-poem,0.1244
-pecan,0.1236
-feel,0.1234
-boston,0.1216
-fishing,0.1212
-neighborly,0.1202
-chatting,0.1199
-orchestra,0.1193
-period,0.1176
-juice,0.1172
-end,0.1171
-burrito,0.1166
-lady,0.1158
-1950s,0.1153
-employees,0.1149
-photos,0.1149
-woman,0.11460000000000001
-walking,0.1137
-fired,0.1124
-fee,0.1119
-father,0.1115
-artists,0.1112
-funky,0.1109
-04pm,0.1061
-disgusted,0.1059
-workmates,0.1052
-origins,0.1015
-hotel,0.1
-monthly,0.0991
-delighted,0.0962
-disrespectful,0.0961
-7am,0.096
-concert,0.0958
-dark,0.0937
-couple,0.0901
-nutty,0.0884
-comfy,0.0871
-bucks,0.0857
-counter,0.0847
-minus,0.0845
-crawling,0.0838
-kinder,0.083
-corned,0.0808
-jolt,0.0805
-jolanda,0.0795
-welcoming,0.0794
-absolutely,0.0789
-job,0.0787
-racer,0.0786
-lazy,0.0765
-payment,0.0763
-greco,0.0733
-northbeach,0.0719
-shouting,0.0715
-options,0.0713
-pricing,0.0705
-champions,0.0694
-kiss,0.0671
-1000,0.0664
-decor,0.06520000000000001
-ordered,0.0652
-sell,0.0624
-asian,0.062299999999999994
-steaming,0.0608
-toilets,0.0594
-heart,0.059
-disgusting,0.0589
-downtown,0.0578
-sunshine,0.0567
-eavesdropping,0.0544
-insulting,0.0544
-napoli,0.0531
-hangover,0.0523
-interior,0.0519
-patio,0.0485
-men,0.0484
-45am,0.0479
-desperate,0.0477
-slamming,0.0441
-humanity,0.0433
-temping,0.0427
-blasting,0.0421
-workers,0.0415
-grumpy,0.0414
-impressed,0.0413
-recommendable,0.0381
-talking,0.0377
-junkbox,0.0365
-vaccine,0.0334
-00pm,0.0308
-liking,0.028
-drive,0.0255
-weird,0.0199
-expert,0.0185
-sullen,0.0176
-pay,0.0174
-parade,0.0144
-robot,0.0144
-family,0.011699999999999995
-served,0.011
-hateful,0.0072
-underground,0.0045
-average,0.0042
-ocd,0.0025
-strongest,-0.0008
-cleanliness,-0.0029
-impressive,-0.0095
-freakin,-0.0115
-guy,-0.0132
-black,-0.0195
-stress,-0.0201
-days,-0.0234
-unfortunately,-0.0243
-bookend,-0.0263
-hours,-0.04630000000000001
-accepting,-0.0605
-state,-0.0624
-pick,-0.0759
+cute place,0.5487
+croissant morning,0.5487
+big,0.5481
+godfather cafe,0.5479
+public transportation,0.5479
+ambience great,0.5479
+fast cash,0.5477
+great italian,0.5474
+unmissable neighborhood,0.5473
+ice cream,0.5472
+tea delicious,0.5469
+cranky,0.5469
+tourist alike,0.5466
+town cafe,0.5465
+cosy cafe,0.5463
+neighborhood charm,0.5461
+espresso blessing,0.5455
+coffee yummy,0.5445
+damn good,0.5444
+gift book,0.5443
+worst coffee,0.5442
+cool people,0.5442
+authentically italian,0.5441
+favourite,0.5439
+francisco literally,0.5433
+slowly coffee,0.543
+coffee served,0.5426
+go often,0.5425
+solid espresso,0.5425
+cafe full,0.5424
+wine chocolate,0.5422
+looking espresso,0.5421
+lights bookstore,0.542
+mafia family,0.5419
+lost art,0.5415
+rare,0.5414
+qualitative coffee,0.5413
+year used,0.5409
+square pizza,0.5408
+roma bit,0.5406
+coffee ordered,0.5403
+bar good,0.5398
+back italy,0.5397
+cafe decor,0.5394
+deli best,0.5394
+native love,0.5392
+pastry sensational,0.5386
+vibe ask,0.5386
+ambience coffee,0.5385
+every italian,0.5384
+best san,0.5383
+love outdoor,0.5383
+espresso terrace,0.538
+coffee milk,0.5378
+beef hash,0.5375
+reading good,0.5374
+sean penn,0.5374
+fine espresso,0.5373
+employee knew,0.5367
+amount genuine,0.5365
+popular place,0.5363
+coffee breakfast,0.5361
+funky cafe,0.5359
+waiter friendly,0.5358
+chocolate cacao,0.5356
+excellent caffe,0.5356
+shop best,0.5355
+oldest san,0.5353
+always fun,0.5351
+place drink,0.5349
+newspaper place,0.5345
+brilliant old,0.5345
+roast,0.5342
+opera exquisite,0.5342
+school dry,0.5342
+service bit,0.5341
+buy pound,0.5339
+seating relaxing,0.5336
+chocolate eclair,0.5335
+experience,0.5334
+buy,0.5334
+worth minute,0.5332
+feel,0.5331
+cent back,0.5329
+coffee bit,0.5326
+also delicious,0.5323
+caf delicious,0.5323
+good book,0.5321
+food chilled,0.532
+customer happy,0.5319
+host,0.5316
+card payment,0.5315
+rare place,0.5312
+green giant,0.5312
+neighborhood caf,0.5311
+beautiful saturday,0.5307
+biscuit baklava,0.5305
+novel godfather,0.5304
+textbook coffee,0.5304
+changed much,0.5304
+coffee enjoying,0.5301
+espresso town,0.5299
+coffee exceptional,0.5298
+espresso without,0.5296
+kind love,0.5293
+tasty baked,0.529
+italian business,0.5289
+espresso reasonable,0.5284
+pain atm,0.5276
+francisco native,0.5274
+rude charge,0.5271
+place glad,0.5266
+espresso treat,0.5261
+regular line,0.5261
+happened,0.5261
+heads cash,0.5261
+okayish,0.5258
+coffee america,0.5258
+modern coffee,0.5257
+italian breakfast,0.5256
+phone computer,0.5254
+coffee refilled,0.5254
+easy good,0.5254
+unique vibe,0.5248
+employee racist,0.5248
+atm charge,0.5248
+coffee selection,0.5243
+espresso outside,0.5242
+staff perfect,0.5239
+overpriced,0.5236
+busy crowded,0.5236
+parking often,0.5231
+rugelach chocolate,0.5231
+tourist san,0.5225
+read book,0.5219
+wonderful latte,0.5217
+cooky wine,0.5215
+little cafe,0.5211
+sf far,0.5209
+sugar free,0.5207
+outside italy,0.5205
+staff friendly,0.5204
+dinner,0.5204
+make delicious,0.5203
+drinking real,0.5202
+brazil thank,0.5198
+coffee also,0.5196
+cash acceptable,0.5195
+charged menu,0.5193
+real espresso,0.5192
+cleanliness,0.5191
+fun local,0.5189
+latte plenty,0.5187
+payment atm,0.5186
+coffee connoisseur,0.5186
+fratellino caffe,0.5185
+dataphone coffee,0.5184
+light lunch,0.5181
+jukebox really,0.5177
+yummy pastry,0.5173
+real old,0.5171
+beautiful latte,0.5169
+cappuccino bay,0.5168
+italy coffee,0.5167
+best tasting,0.5166
+satisfied service,0.5166
+christmas,0.5165
+italian family,0.5165
+also beer,0.5164
+bet friendly,0.5159
+coffee impeccable,0.5155
+chocolate sooo,0.5154
+oldest city,0.5149
+cheese sweet,0.514
+trieste best,0.5138
+humanity racism,0.5138
+side coffee,0.5137
+tasting,0.5137
+cup joe,0.5133
+wife favorite,0.5133
+espresso die,0.5133
+yummy cappuccino,0.5132
+cappuccino caffe,0.5131
+usa,0.513
+capuccino italian,0.513
+italian beautiful,0.5125
+sit book,0.5118
+soda yummy,0.5117
+coffee nirvana,0.5115
+long vanilla,0.5115
+crowd usually,0.5112
+shop ideal,0.5111
+gluten free,0.5109
+italian american,0.5107
+shop outstanding,0.5106
+good music,0.5105
+great neighborhood,0.5103
+italian coffeehouse,0.51
+excellent people,0.5097
+pastry espresso,0.5095
+caffe live,0.5092
+awesome tho,0.5092
+latte peskin,0.5091
+reading protecting,0.509
+tasty little,0.509
+strong espresso,0.5088
+cash problem,0.5085
+classic real,0.5079
+local favourite,0.5077
+except wine,0.5077
+unmissable italian,0.5076
+american cafe,0.5072
+charged,0.5072
+plan night,0.5069
+barista never,0.5066
+lavish service,0.5066
+guitar trumpet,0.5064
+sun nice,0.5063
+italian newspaper,0.5061
+great breakfast,0.506
+great cakes,0.5059
+installed italian,0.5059
+cappuccino pastry,0.5059
+pastry dessert,0.5058
+barista efficient,0.5052
+recommend pastry,0.5048
+father movie,0.5048
+super high,0.5045
+best oldest,0.5044
+sugar cookie,0.5039
+italy enjoying,0.5039
+variety preparation,0.5037
+cake little,0.5035
+pastry caffe,0.5034
+puzo godfather,0.5028
+one fantastic,0.5026
+awful customer,0.5025
+starbucks come,0.502
+cash pastry,0.502
+milk homemade,0.5018
+bit burnt,0.5017
+first espresso,0.5017
+sit outside,0.5016
+customer relaxing,0.5012
+assortment pastry,0.5005
+sunday concert,0.5004
+newspaper,0.5002
+great authentic,0.5
+little bitter,0.4997
+tourist sun,0.4997
+ford coppolla,0.499
+chocolate cookie,0.499
+coffee recommend,0.499
+caffeine kick,0.499
+free sugar,0.4984
+big green,0.4977
+coffee dark,0.4976
+italian opera,0.4968
+beat era,0.4967
+historic cafe,0.4966
+drink fast,0.4962
+cafe brother,0.4962
+cream,0.4959
+got cookie,0.4959
+often,0.4959
+went sunday,0.4959
+world espresso,0.4957
+butter croissant,0.4956
+quaint cafe,0.495
+cozy cafe,0.495
+get cash,0.495
+indoor,0.4948
+instant coffee,0.4946
+place busy,0.4945
+espresso location,0.4944
+bread crispy,0.4943
+coffee without,0.4942
+worn,0.4941
+live trieste,0.494
+coffee tucked,0.4933
+nice ambiance,0.4931
+coffee limited,0.4928
+made dessert,0.4924
+pastry quick,0.4923
+cocoa good,0.4921
+menu free,0.4918
+cream place,0.4916
+lovely locals,0.4913
+chocolate also,0.4909
+bit worn,0.4906
+relax work,0.4906
+espresso worth,0.4903
+bar coffee,0.4901
+eclair flavorful,0.4901
+local destination,0.4899
+coffee special,0.4899
+fun scene,0.4896
+made,0.4893
+pandemic highly,0.489
+coffee day,0.4887
+neighborhood tasty,0.4885
+holiday coffee,0.4882
+neighborhood shop,0.4882
+espresso wrote,0.4881
+street espresso,0.4879
+service lousy,0.4877
+well coffee,0.4876
+coffee seller,0.4872
+store overjoyed,0.4868
+historical italian,0.4866
+moody barista,0.4862
+hassle,0.4857
+relaxing atmosphere,0.4854
+together taste,0.4853
+delicious late,0.4851
+love caffe,0.4851
+reading,0.485
+quite hassle,0.4847
+coffee tasted,0.4843
+perfect neighborhood,0.4842
+town baristas,0.4841
+coffee italian,0.4826
+written godfather,0.4816
+conversation meet,0.4813
+listening live,0.4813
+chinese serving,0.4809
+baristas staff,0.4808
+cafe sf,0.4808
+walk italian,0.4807
+pastry well,0.48
+cafe looked,0.4799
+italian caff,0.4789
+glad go,0.4788
+night,0.4786
+tried ravioli,0.4786
+relaxing artfully,0.4784
+good ice,0.4777
+price bad,0.4776
+otherwise coffee,0.4775
+caffeine boost,0.4774
+near chinatown,0.4773
+friend town,0.477
+little cake,0.477
+godfather sip,0.477
+throughout usa,0.4769
+holiday busy,0.4769
+free food,0.4768
+sf great,0.4762
+shot espresso,0.4762
+half century,0.4761
+godfather know,0.4761
+cafe enjoy,0.4759
+hitw coffee,0.4759
+racist boy,0.4752
+colleague courteous,0.4752
+choosing caffe,0.4746
+sitting moment,0.4746
+coffee waited,0.4746
+america,0.4745
+interior menu,0.4739
+city san,0.4737
+buy coffee,0.4737
+life poet,0.4725
+penn stayed,0.4721
+espresso bean,0.4719
+rome carrot,0.4706
+genuine atmosphere,0.4705
+slalom racer,0.4705
+croissant tasted,0.47
+burrito sipping,0.4697
+favourite great,0.4697
+tried butter,0.4697
+town best,0.4695
+coffee woman,0.4693
+paying cash,0.4692
+neighborhood,0.4692
+expensive strange,0.4692
+smoking italians,0.4692
+time old,0.4691
+pastry make,0.4691
+grandma took,0.4688
+bottle coffee,0.4686
+card atm,0.4677
+coffee singer,0.4677
+breakfast spot,0.4668
+lunch wall,0.4663
+often love,0.4655
+quintessential coffee,0.4649
+pit,0.4648
+cappuccino live,0.4648
+breve milk,0.4646
+go great,0.4645
+ride motorcycle,0.4644
+great pavarotti,0.4643
+courteous thoughtful,0.4641
+perfect,0.4637
+cash add,0.4636
+rude wifi,0.4631
+order menu,0.4629
+excellent tiramisu,0.4628
+pastry shop,0.4628
+tourist due,0.4626
+house holiday,0.4624
+black coffee,0.4623
+ever cream,0.4621
+table dirty,0.4617
+getting cappuccino,0.4617
+amazing ambience,0.4615
+wonderful musician,0.4614
+delicious downside,0.4614
+enjoyed drink,0.4609
+francisco always,0.4608
+beverage pastry,0.4601
+delicious tea,0.46
+never visit,0.4597
+film godfather,0.4592
+deli coffee,0.459
+crowded minute,0.459
+croissant almond,0.4588
+quality food,0.4586
+explain starbucks,0.4586
+thanks starbucks,0.4583
+rainy sunday,0.4583
+rude found,0.4582
+snack,0.4579
+relaxed fun,0.4578
+cut cashier,0.4577
+food option,0.4577
+italy within,0.4576
+cozy locus,0.4576
+always find,0.4574
+coffee atm,0.4572
+looking caffeine,0.4571
+get coffee,0.457
+italian fishing,0.4569
+institution beat,0.4568
+poem book,0.4568
+wall relax,0.4566
+espresso coffee,0.4565
+spot caffe,0.4561
+playing jukebox,0.4558
+guitar music,0.4557
+cream cheese,0.455
+burrito delicious,0.4545
+wall pricey,0.4538
+ideal coffee,0.4535
+decor awesome,0.4533
+staff little,0.4529
+high coffee,0.4526
+italy heart,0.4525
+night parking,0.4523
+local hangout,0.452
+francisco hand,0.4519
+overall chocolate,0.4517
+year later,0.4515
+mocha coffee,0.4514
+jukebox wall,0.4512
+tea enjoyed,0.4506
+frequented local,0.4505
+place grandma,0.45
+black toilets,0.4498
+grandma,0.4486
+staff mellow,0.4486
+also cinnamon,0.4482
+coffee delightful,0.4481
+unforgettable rainy,0.4476
+craving good,0.4476
+city complement,0.4475
+sweet italian,0.4468
+visit music,0.4465
+crispy tasted,0.4463
+properly coffee,0.4463
+people nasty,0.4462
+ambience amazing,0.4458
+introducing coffee,0.4455
+friendly patron,0.4436
+extremely rude,0.4436
+food feel,0.4429
+coffee yes,0.4428
+inside coffee,0.4425
+music night,0.441
+variety pastry,0.4408
+plenty cake,0.4407
+garbage cafe,0.4406
+century place,0.4405
+choice cafe,0.4404
+free wifi,0.44
+catalogue cash,0.44
+accommodating coffee,0.4398
+different price,0.4397
+long live,0.4394
+street italy,0.4391
+milk cash,0.439
+time tourist,0.4389
+people dogs,0.4389
+awesome service,0.4382
+tea cappuccino,0.4372
+tourist restaurant,0.4367
+original espresso,0.4363
+godfather italian,0.4362
+yelling people,0.4359
+authentic old,0.4353
+rain shower,0.4351
+italian espresso,0.4348
+good sweet,0.4347
+strong wife,0.4344
+coffee restaurant,0.4344
+stressed job,0.4344
+local treat,0.4343
+cannoli guy,0.4339
+nice boutique,0.4335
+sprinkled sugar,0.4322
+shop cozy,0.4318
+motorcycle sf,0.4315
+chatting fun,0.4311
+expert everyone,0.431
+coffee fine,0.4309
+cherry italian,0.4307
+espresso latte,0.4307
+drink food,0.4306
+coffee bliss,0.4304
+cashier asked,0.4304
+coffee coffee,0.4302
+glad espresso,0.4295
+hot hot,0.4295
+sf beat,0.4291
+nice traditional,0.4291
+coffee little,0.4289
+coffee plenty,0.4288
+motorcycle,0.4287
+latte ice,0.4272
+cigarette inside,0.4264
+cafe northbeach,0.426
+dogs,0.4254
+staff polite,0.425
+got breakfast,0.4247
+oldschool caffee,0.4247
+available jukebox,0.4223
+ambience,0.4221
+listening music,0.422
+seating social,0.4219
+dessert loved,0.4216
+pinnacle coffee,0.4214
+cafe serving,0.4213
+cafe evening,0.4211
+latte biscotti,0.4207
+grayer coffee,0.4207
+time chocolate,0.4202
+pastry tried,0.42
+area pastries,0.4188
+score jukebox,0.4181
+latte big,0.4178
+order coffee,0.4174
+guitar player,0.4173
+hanging chatting,0.4171
+cafe incredibly,0.4171
+older cigar,0.4162
+bohemian coffee,0.4162
+posted caffe,0.4161
+enjoy espresso,0.416
+accordion guitar,0.4157
+lousy high,0.4154
+bad customer,0.4153
+live entertainment,0.4153
+italy definitely,0.4152
+password july,0.415
+spoke rude,0.4145
+beef,0.4145
+everyone san,0.4144
+coffee sky,0.4141
+probably best,0.4132
+taste house,0.4132
+hipster italian,0.4129
+tasty tiramisu,0.4118
+cash cute,0.4114
+place italian,0.4114
+kind generous,0.411
+local feel,0.4109
+latte pretty,0.4108
+coffee cafe,0.4105
+horrible customer,0.41
+coffee stressed,0.4097
+girlfriend tell,0.4096
+credit card,0.4095
+brewer geek,0.4094
+pastry sandwich,0.4093
+brother sister,0.4088
+good table,0.4086
+simply drink,0.4079
+rudely told,0.4077
+great tasting,0.4069
+gem staff,0.4065
+cash staff,0.4058
+caffe bar,0.4057
+script godfather,0.4056
+authenticity warmth,0.4052
+espresso double,0.4046
+nice jukebox,0.4041
+unexpectedly touristy,0.4031
+cafe north,0.403
+fabulous neighborhood,0.4026
+great cannoli,0.4024
+lousy,0.4024
+tight squeeze,0.402
+mean cappuccino,0.4019
+serving coffee,0.4018
+burnt tea,0.4018
+coffee sandwich,0.4016
+biscotti eclair,0.4013
+starbucks et,0.4013
+woman shouting,0.4002
+classic corner,0.4001
+pastry people,0.3997
+place good,0.3996
+cockroach crawling,0.3996
+tasted bad,0.3996
+flavored latte,0.399
+neighborhood fabulous,0.3987
+visit town,0.3983
+boy coffee,0.3981
+coffee give,0.3977
+food staff,0.3973
+simply one,0.3968
+sandwich even,0.3967
+think caffe,0.3965
+delicious may,0.3956
+definitely hit,0.3954
+meet spot,0.3954
+history caffe,0.395
+breakfast overall,0.3949
+cream combination,0.3948
+selection eats,0.3946
+talking guy,0.3944
+coffee go,0.3944
+francisco poet,0.3939
+every resident,0.3934
+shop every,0.3932
+certificate coffee,0.393
+milk half,0.393
+sf bay,0.3925
+regular price,0.3923
+pastry careful,0.3922
+charming cafe,0.3918
+pastry delicious,0.3905
+trieste favorite,0.3898
+cream sugar,0.3897
+cinnamon something,0.3896
+business encourage,0.389
+beach truly,0.3887
+right person,0.3884
+truly frustrated,0.3884
+italian americans,0.3875
+city dream,0.3871
+delicious selection,0.3866
+coffe caffe,0.3865
+variety dessert,0.3865
+sister make,0.3864
+try italian,0.3851
+food coffee,0.385
+work furniture,0.3846
+espresso makes,0.3846
+plenty outdoor,0.3843
+ready coffee,0.3843
+cafe culture,0.3838
+coffee concoction,0.3836
+great live,0.3834
+stayed band,0.3829
+love drink,0.3829
+cafe guide,0.3826
+concert occasion,0.3824
+cream coffee,0.382
+ordered wrong,0.3819
+sense coffee,0.3813
+chocolate type,0.3809
+lot pastry,0.3808
+local good,0.3805
+staff barista,0.3803
+grande biscotti,0.3799
+cafe nice,0.3792
+iconic bohemian,0.3792
+ambiance awesome,0.3789
+tourist great,0.3789
+beach never,0.3786
+lot tourist,0.3785
+cafe dirty,0.378
+cake bakery,0.3768
+slalom,0.3766
+girlfriend changed,0.3765
+famous writer,0.3764
+sunday italian,0.3761
+cool coffee,0.3757
+weird music,0.3756
+pastry cash,0.3749
+typical italian,0.3746
+screenplay book,0.3746
+cafe complete,0.3721
+jukebox blasting,0.3717
+baristas,0.3714
+beats hippies,0.3713
+italian vibe,0.3711
+pastries,0.3707
+spend hour,0.3702
+live concert,0.3698
+kiss jolanda,0.3694
+taking coffee,0.3694
+cafe woman,0.3693
+pleasant outdoor,0.369
+flies pastry,0.3687
+loved decor,0.3684
+cream use,0.3675
+sublime north,0.3674
+buy espresso,0.3671
+blasting weird,0.3669
+festive weekend,0.3668
+sun shining,0.3668
+coffee la,0.3662
+coffee machine,0.3652
+category breakfast,0.365
+chocolate guess,0.3635
+company waste,0.3629
+cozy italian,0.3619
+cafe specializes,0.3615
+question rudely,0.3613
+pastry first,0.3611
+enjoying evening,0.3595
+cafe dessert,0.3592
+scooped milk,0.3591
+july holiday,0.359
+girlfriend ordered,0.359
+steaming paying,0.3586
+drive hour,0.3586
+wonderful conversation,0.3586
+guy friend,0.358
+milk tasted,0.3578
+watching definitely,0.3574
+corner regular,0.3572
+writing screenplay,0.3564
+disappointed people,0.3563
+packed coffee,0.3556
+personal favourite,0.3547
+many pastry,0.3538
+tenderloin caffee,0.3527
+italian ristretto,0.3525
+food sightsee,0.3525
+really italy,0.3515
+coffee incredibly,0.3511
+breakfast fortunately,0.3506
+tourist oriented,0.3499
+stressed baristas,0.3492
+counter steaming,0.3487
+espresso thick,0.3483
+freakin boston,0.3482
+customer girlfriend,0.348
+old beatnik,0.3475
+cheesecake pastry,0.3466
+coffee nibble,0.3466
+fast hurry,0.3463
+nude toddler,0.3461
+pie thank,0.3458
+francisco amazing,0.3439
+dine girlfriend,0.3439
+unfortunately barista,0.3436
+cafe closest,0.3433
+cafe seize,0.343
+late espresso,0.3422
+super fast,0.341
+slow staff,0.3404
+italian cool,0.3401
+cash broken,0.3398
+wife like,0.3397
+cafe really,0.3394
+loved double,0.3391
+bite quickly,0.3375
+talking friend,0.3374
+everyone walking,0.3373
+broken atm,0.3371
+overall overpriced,0.3365
+always pick,0.3363
+highly recommended,0.3354
+saw cockroach,0.3354
+coming brazil,0.3338
+bar trieste,0.3334
+terrible experience,0.3316
+cake ordered,0.3304
+blonde barista,0.3302
+coffee hand,0.33
+boston cream,0.3297
+foam properly,0.3297
+recommended rude,0.3293
+prepare coffee,0.3283
+visit california,0.3281
+prepared coffee,0.3274
+fun look,0.3273
+coffee senior,0.3266
+google map,0.3259
+weird rude,0.3253
+watching pleasant,0.3249
+disrespectful talking,0.3248
+shrine every,0.324
+unfriendly staff,0.3239
+poet laureate,0.3226
+jukebox like,0.3223
+italian theme,0.3218
+soooo delicious,0.3215
+afternoon lovely,0.3215
+hmm coffee,0.3207
+educate family,0.3206
+old barista,0.3175
+coffee entire,0.3156
+unprofessional slow,0.3152
+shop always,0.3142
+music enjoying,0.3139
+pie ever,0.3132
+guy apricot,0.3124
+expecting expensive,0.312
+order favorite,0.3116
+cafe san,0.3113
+class espresso,0.3103
+looking cheesecake,0.3103
+card leave,0.3101
+city always,0.3093
+cream infamous,0.309
+tea antipasti,0.3084
+saturday concert,0.3078
+spent hundred,0.3075
+kind friendly,0.3051
+attendance better,0.3051
+great cappuccino,0.3044
+milk foam,0.3038
+borderline racist,0.3022
+relaxed lazy,0.302
+resident tourist,0.3015
+coffee gurus,0.3008
+hash hangover,0.3002
+street saloon,0.2992
+met husband,0.2988
+amazing experience,0.2983
+slamming drink,0.2982
+business hour,0.2982
+missed parking,0.2973
+asked cafe,0.2971
+coffee snack,0.2967
+pot tea,0.296
+stopped coffee,0.2958
+jukebox took,0.2958
+everything coffee,0.2949
+closest google,0.2947
+whip cream,0.2939
+sound italian,0.2935
+intellectual everywhere,0.2906
+ordering coffee,0.2892
+morning complaining,0.2889
+touristy place,0.2889
+grumpy morning,0.2882
+chatting,0.2879
+milk quickly,0.2877
+quality drink,0.2875
+read coffeehouse,0.2866
+awful service,0.2858
+tourist visit,0.2834
+coffee dead,0.2824
+drink snack,0.279
+creamy furniture,0.2786
+job men,0.2783
+latte whole,0.2774
+specializes italian,0.2768
+moment cafe,0.2736
+beautiful people,0.269
+american dollar,0.2678
+hour wasting,0.2678
+cafe map,0.2677
+marked cafe,0.2672
+baristas place,0.266
+fishing village,0.2598
+google,0.258
+rundown cafe,0.2576
+mass parade,0.2574
+world,0.2571
+american military,0.2568
+absolutely coffee,0.2566
+family vibe,0.2533
+closing pm,0.253
+barista art,0.2524
+hour closing,0.2482
+girlfriend became,0.2455
+descent coffee,0.2455
+beach lasted,0.2449
+espresso definitely,0.2447
+baristas super,0.2436
+unprofessional insulting,0.2395
+barista sullen,0.2322
+occasional biscotti,0.2292
+racist remark,0.2273
+barista incredibly,0.2181
+pointing racism,0.2077
+photographing patron,0.1843
+sketchy atm,0.1822
+effort milk,0.1734
+popular local,0.1717
+glass wine,0.1599
+snack pastry,0.1584
+period,0.0919

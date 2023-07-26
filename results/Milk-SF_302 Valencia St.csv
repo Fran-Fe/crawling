@@ -1,134 +1,223 @@
 keyword,weight
-coffee,5.5453
-vegan,3.094
-cafe,3.0722
-sandwich,2.1631
-tasty,1.8638000000000001
-milk,1.7561
-friendly,1.627
-bagel,1.3944
-delicious,1.3809
-food,1.3277999999999999
-fun,1.2109
-queer,1.0242
-epic,0.9682
-wonderful,0.9518
-tea,0.9446
-drinks,0.9441999999999999
-bagels,0.9155
-fast,0.7853
-great,0.7488
-wifi,0.7472000000000001
-marshmallow,0.7328000000000001
-community,0.7318
-cute,0.7038
-incredible,0.7022
-super,0.6965
-comfortable,0.6563
-cool,0.6461
-cheese,0.6168
-vibes,0.5958
-iced,0.569
-space,0.5668
-goofy,0.5613
-good,0.5574
-breakfast,0.5513
-menu,0.5244
-love,0.5065
-pizza,0.5057
-service,0.5017
-espresso,0.494
-milkshake,0.4858
-perfect,0.48150000000000004
-banana,0.4647
-interesting,0.4572
-amazing,0.44430000000000003
-snacks,0.4395
-vibe,0.4358
-welcoming,0.4297
-latte,0.42869999999999997
-coffees,0.3954
-favorite,0.3813
-options,0.3807
-smoothie,0.3744
-bacon,0.3743
-flavorful,0.3687
-pricey,0.3609
-gay,0.3594
-sale,0.3581
-coffeehouse,0.3366
-return,0.3357
-sandwiches,0.3346
-drip,0.3317
-lgbtqia,0.3132
-shop,0.31020000000000003
-yummy,0.3008
-smoothies,0.2965
-flavors,0.2955
-buzzing,0.2812
-fridays,0.2805
-gifts,0.279
-dirty,0.2788
-best,0.2735
-dog,0.2735
-excellent,0.2721
-revel,0.2706
-indoor,0.2695
-atmosphere,0.2669
-traditional,0.2599
-reading,0.2552
-free,0.2294
-worst,0.2181
-dairy,0.2133
-sodas,0.2089
-artists,0.2006
-divine,0.1957
-filled,0.1928
-lox,0.1883
-taste,0.1708
-decor,0.1707
-happy,0.1666
-vibrant,0.1622
-eating,0.1621
-fresh,0.1612
-queerness,0.1575
-cream,0.1572
-maple,0.1513
-salad,0.1504
-friendliest,0.139
-creamy,0.1286
-horrible,0.1276
-chocolate,0.1259
-lgbtq,0.1232
-sundays,0.1115
-pretty,0.1108
-support,0.1063
-safe,0.1042
-girlfriend,0.1023
-tastes,0.0973
-inside,0.0946
-possibly,0.0825
-toasted,0.0788
-distributor,0.0756
-poppyseed,0.0741
-water,0.072
-hurt,0.0714
-bike,0.0649
-cell,0.0611
-enjoyed,0.055
-burnt,0.0506
-neighbors,0.0455
-francisco,0.0444
-old,0.044
-baristas,0.0413
-ice,0.0248
-worth,0.011
-sorry,0.011
-sweet,0.0102
-patrons,-0.0152
-christina,-0.0301
-products,-0.0383
-family,-0.0422
-businesses,-0.0437
-new,-0.0661
-teller,-0.0961
+good coffee,1.9933
+vegan,1.5828
+tasty food,1.5161
+coffee shop,1.5049000000000001
+coffee,1.4708
+lots vegan,1.4195
+delicious bagel,1.2263
+marshmallow latte,1.2197
+iced latte,1.1715
+breakfast sandwich,1.1368
+friendly staff,1.1353
+dairy free,1.1024
+worst latte,1.0905
+wonderful cafe,1.0
+epic,1.0
+delicious,0.9499
+great community,0.9236
+oat milk,0.9142
+cream cheese,0.9017
+delicious marshmallow,0.8533
+fast service,0.844
+super fast,0.8417
+love pizza,0.8295
+bagel cream,0.8274
+place tasty,0.826
+tasty,0.8178
+love sandwich,0.8115
+community space,0.8066
+cafe,0.804
+drip coffee,0.7923
+traditional espresso,0.7898
+fast,0.779
+vegan option,0.7784
+banana milkshake,0.7758
+espresso drink,0.7737
+vibe super,0.758
+cool cafe,0.7514
+sandwich lovely,0.749
+fun goofy,0.7449
+incredible vibe,0.7445
+coffee good,0.7432
+coffee traditional,0.7298
+fun place,0.7266
+sandwich great,0.7243
+cafe good,0.721
+espresso,0.7112
+good queer,0.711
+sandwich revel,0.7108
+great,0.7078
+food drink,0.7073
+community,0.6947
+interesting space,0.6933
+delicious breakfast,0.6926
+coffee banana,0.6911
+sale interesting,0.6823
+bagel excellent,0.6804
+cafe excellent,0.6767
+coffee tea,0.6696
+love cafe,0.6687
+milkshake thank,0.6677
+goofy,0.657
+queer vibe,0.6541
+wifi indoor,0.654
+best lox,0.6536
+drink sandwich,0.6522
+snack welcoming,0.6496
+good vegan,0.6405
+vegan dairy,0.6392
+goofy thing,0.6356
+flavorful taste,0.6323
+bagel wonderful,0.6236
+egg sandwich,0.6234
+pizza bagel,0.6204
+favorite space,0.6185
+great flavorful,0.6179
+coffeehouse vibrant,0.6123
+food cute,0.6092
+coffee smoothy,0.6064
+excellent bagel,0.6057
+harvey milk,0.6042
+sugar free,0.6021
+dog friendly,0.597
+marshmallow,0.5964
+coffee tasty,0.5962
+milk barely,0.596
+amazing queer,0.5834
+vegan breakfast,0.5823
+iced vegan,0.581
+pizza,0.5779
+indoor siting,0.5732
+fine wifi,0.5686
+excellent coffee,0.5671
+sandwich,0.5648
+free flavor,0.5614
+coffee great,0.561
+yummy beverage,0.56
+inclusive cafe,0.557
+delicious coffee,0.5497
+wonderful,0.5494
+great queer,0.5476
+flavorful,0.5468
+bagel love,0.5468
+available smoothie,0.5467
+coffee atmosphere,0.5467
+music wifi,0.5464
+staff yummy,0.5446
+bagel coffee,0.5427
+vegan gluten,0.5394
+milkshake,0.5383
+service comfortable,0.538
+milk latte,0.5363
+milk lgbtqia,0.5355
+banana,0.5318
+tasty drink,0.5311
+tea,0.5302
+buzzing dog,0.5256
+beverage snack,0.5237
+bagel sandwich,0.5235
+delicious boichik,0.5234
+local coffee,0.52
+awesome cafe,0.5154
+strong tea,0.504
+cute little,0.5023
+cafe apart,0.4976
+coffee friendliest,0.4975
+space hope,0.4962
+wifi especially,0.4931
+fan coffee,0.4922
+tea spot,0.4897
+iced tea,0.4859
+space delicious,0.4818
+barely coffee,0.4793
+delicious latte,0.4789
+coffee excellent,0.4763
+local queer,0.475
+bagel vegan,0.4746
+comfortable atmosphere,0.4745
+coffee fine,0.4739
+best scoots,0.4727
+queer space,0.4693
+staff tasty,0.4684
+interesting menu,0.4676
+space star,0.4659
+distributor food,0.4645
+small gift,0.4641
+eating bagel,0.4629
+friday sunday,0.4625
+lox bagel,0.4573
+chocolate burnt,0.4549
+wifi,0.4549
+tea ice,0.4548
+pricey coffee,0.4534
+tea preferably,0.4534
+amazing cute,0.4528
+italian soda,0.4495
+new cafe,0.4492
+cool queer,0.4489
+sandwich baby,0.4478
+little queer,0.4455
+tea latte,0.4435
+amazing girlfriend,0.4433
+many vegan,0.4411
+old distributor,0.4379
+food coffee,0.4377
+coffee third,0.4362
+dirty chai,0.4344
+neighborhood cafe,0.4341
+maple iced,0.4337
+love lgbtq,0.4313
+coffee however,0.4295
+sf food,0.4275
+cafe wonderful,0.4266
+vegan schmear,0.4258
+huge fan,0.4246
+space,0.4233
+want coffeehouse,0.4226
+frozen toast,0.4152
+cheese oz,0.4144
+queer cafe,0.4101
+heavily vegan,0.4089
+bagel awesome,0.4081
+milk oat,0.4075
+sandwich werks,0.4068
+bagel ever,0.4061
+sandwich next,0.406
+poppyseed muffin,0.4046
+black tea,0.4006
+chocolate flavored,0.4006
+coffee relax,0.4003
+space sf,0.3994
+set cafe,0.3962
+drink divine,0.3957
+cafe vibe,0.3921
+milk everything,0.3921
+warm chocolate,0.3919
+chai tea,0.3891
+milk blown,0.3882
+fresh bagel,0.3869
+cafe opened,0.3852
+queer merch,0.3835
+ever dirty,0.3813
+ultra queer,0.3797
+bagel day,0.3713
+lgbtq friendly,0.3652
+divine queerness,0.3627
+day friday,0.3569
+fun coffee,0.3524
+food unique,0.3489
+sweet creamy,0.3421
+enjoyed space,0.3374
+want coffee,0.3293
+probably worst,0.3222
+great food,0.321
+baristas wifi,0.3139
+refreshing business,0.3134
+sunday want,0.3132
+hope family,0.3093
+enjoyed shot,0.3063
+worst,0.2757
+improve latte,0.2708
+sf reviews,0.2554
+seating sorry,0.2395

@@ -1,210 +1,318 @@
 keyword,weight
-coffee,23.1055
-good,6.4251
-great,6.1018
-bakery,3.4007
-nice,3.2746
-delicious,2.3279
-love,2.1126
-friendly,1.8254
-service,1.7726000000000002
-bread,1.7588
-starbucks,1.7069
-location,1.6408999999999998
-amazing,1.6369
-cafe,1.6133
-rich,1.3961999999999999
-best,1.2199
-staff,1.2146
-awesome,1.1685
-worst,1.0861999999999998
+coffee,20.732599999999998
+great coffee,5.354
+good,4.519
+good coffee,4.2591
+bakery,4.0557
+great,3.8553
+coffee good,3.8526
+peet coffee,2.7259
+love coffee,2.555
+coffee amazing,2.2241999999999997
+starbucks,2.029
+coffee delicious,1.8946999999999998
+nice,1.733
+coffee great,1.6768
+better coffee,1.6206
+clam chowder,1.4665
+staff friendly,1.4591
+delicious,1.4142000000000001
+coffee best,1.2977
+chocolate mocha,1.2618
+worst,1.2418
+cafe,1.1926999999999999
+tea,1.1898
+coffee shop,1.1771
+chocolate,1.0718
+friendly,1.0623
+okay,1.0
+rich,1.0
+overall ok,1.0
+honest coffe,1.0
+sooooo gooooooood,1.0
+particularly,1.0
+woow,1.0
+fabulous coffee,1.0
+always good,1.0
+miss lot,1.0
+wrong hour,1.0
+gooooooood,0.98
+need stronger,0.9696
+delicious taste,0.9649
 honest,0.9636
-okay,0.9596
 ok,0.9579
-chocolate,0.9486
-gooooooood,0.928
-tea,0.9189
+worst coffee,0.946
+worst customer,0.9376
+starbucks better,0.9312
+shares location,0.9278
+excellent coffee,0.9264
+people worth,0.9252
+location boudins,0.917
+bun coffee,0.9148
+museum good,0.9125
+miss,0.9073
+stronger,0.9072
 overall,0.9065
-efficient,0.8769
-sooooo,0.8661
-stronger,0.8657
-place,0.8632000000000001
-lot,0.835
-hours,0.8192
-wrong,0.8095
+cashier rude,0.9047
+coffee sugary,0.895
+oaisis airport,0.8902
+efficient,0.8876
+google open,0.8858
+awesome area,0.8821
+boudins,0.8785
+helpful coffee,0.8783
+lots people,0.877
+taste experience,0.8742
+cafe bakery,0.8657
+sooooo,0.8633
+cool cafe,0.8593
+eating bakery,0.8569
+nice need,0.8538
+chowder amazing,0.853
+coffee love,0.8396
+always,0.8385
+coffee service,0.8344
+coffee pastry,0.8301
+coffee price,0.8295
+airport,0.8294
+bakery thing,0.8286
+worth,0.8261
+cappuccino lovely,0.8227
+brrad museum,0.8227
+nice soya,0.8208
+shares,0.8206
+showing google,0.8197
+otherwise perfect,0.8195
+awesome,0.8164
+location,0.8143
+lot,0.8127
+bakery coffee,0.8115
 taste,0.7995
-boudins,0.7952
-particularly,0.7932
-woow,0.779
-needs,0.7756
-worth,0.7728
-sf,0.7706
-museum,0.765
-miss,0.7603
-shares,0.7483
-airport,0.7298
-cool,0.7096
+iced chocolate,0.7985
+great bakery,0.7984
+museum,0.7947
+great bread,0.7944
+hour,0.7851
+good disappointed,0.7848
+need,0.7804
+coffee saleswoman,0.7741
+worst place,0.7718
+tea good,0.7632
+perfect,0.7599
+google,0.7551
+coffee fresh,0.7531
+wrong,0.751
+even busy,0.7499
+busy,0.7476
+relaxing comfortable,0.7378
+ginger turmeric,0.7378
+coffee bad,0.7357
+orange chocolate,0.7343
+soya cappuccino,0.7339
+card accepted,0.7329
+bakery restaurant,0.7312
+good staff,0.729
+check cashier,0.7277
+good place,0.727
+slow service,0.7254
+atmosphere relaxing,0.7238
+great bun,0.72
+best latte,0.7187
+good food,0.7178
+filter coffee,0.7148
+coffee thank,0.7133
+latte spicy,0.713
+best espresso,0.7119
 coffe,0.7081
-busy,0.7013
-cold,0.6939
-google,0.6795
-latte,0.6744
-baked,0.6696
-perfect,0.6663
-inside,0.6607999999999999
-slow,0.6415
-food,0.6341
-cashier,0.6325000000000001
-disappointed,0.6174
-lots,0.6052
-people,0.6051
-cappuccino,0.5819
-comfortable,0.5744
-peet,0.5709
-fabulous,0.5702
-accepted,0.5637
-boudin,0.5501
-eating,0.5453
-brrad,0.5434
-unfriendly,0.5386
-relaxing,0.5362
-pastries,0.5359
-excellent,0.5357
-helpful,0.5349
-area,0.5331
-soya,0.5272
-rude,0.49910000000000004
-fancy,0.4991
-baking,0.498
-bun,0.4955
+accepted,0.7074
+cashier,0.7066
+amazing location,0.7047
+staff helpful,0.7018
+work coffee,0.7017
+great oaisis,0.7015
+great location,0.6984
+disappointed,0.6978
+coffee cake,0.6958
+cafe love,0.6956
+rich acidity,0.6941
+steamed milk,0.6909
+accepted otherwise,0.6866
+bakery cafe,0.6832
+friendly atmosphere,0.6832
+place worst,0.6823
+sugary,0.6816
+went coffee,0.6802
+milk dollop,0.6762
+beverage dessert,0.6748
+amazing staff,0.6748
+coffee dessert,0.6742
+lots,0.6727
+dessert delicious,0.6726
+boudin bakery,0.6702
+delicious savory,0.6687
+staff awesome,0.6664
+best coffee,0.6658
+smell baking,0.6656
+possibility eating,0.6615
+fast service,0.6604
+food cool,0.66
+love fancy,0.6588
+lovely service,0.6574
+boidin bakery,0.6567
+great cafe,0.6567
+highly recommended,0.6563
+lovely coffee,0.6547
+cake pleasant,0.6494
+stale bread,0.6486
+tasty stale,0.6446
+saleswoman spoiled,0.6418
+peet bakery,0.6405
+good service,0.639
+coffee serve,0.6388
+breakfast good,0.6377
+slow,0.637
+coffee fabulous,0.636
+relaxing,0.6355
+golden latte,0.6331
+open time,0.6324
+area even,0.6304
+peers coffee,0.6299
+dessert,0.6286
+people,0.6269
+eating,0.6267
+mixture ginger,0.6252
+recommended staff,0.6248
+awesome efficient,0.6245
+price right,0.6186
+latte best,0.615
+bread together,0.6127
+roast filter,0.6079
+nice beverage,0.6064
+bakery item,0.6038
+drank coffee,0.6027
+delicious cup,0.6025
+fancy stuff,0.602
+savory rich,0.6019
+one worst,0.6015
+love,0.6004
+pastry,0.5982
+cream goooood,0.5973
+cold morning,0.5962
+amazing,0.595
+fresh bread,0.5907
+open,0.5899
+good latte,0.5891
+whip cream,0.5869
+coffee tea,0.5869
+baked bread,0.586
+bad starbucks,0.5824
+better starbucks,0.5816
+like home,0.5793
+coffee sf,0.5789
+mood coffee,0.5773
+door allowed,0.5766
+oaisis,0.5745
+breakfast,0.5719
+line wifi,0.5703
+cold coffee,0.5702
+tea oasis,0.5695
+bun,0.5665
+long ordering,0.5655
+bread pasty,0.5655
+soya,0.5654
+service inside,0.5638
+sweet barista,0.5631
+room temperature,0.559
+saleswoman,0.555
+rude,0.5546
+dark roast,0.5498
+inside boudin,0.5451
+fabulous,0.5424
+coffee staff,0.5417
+morning,0.54
+latte recommended,0.5375
+starbucks order,0.537
+open door,0.5353
+honey harvest,0.5319
+spicy made,0.5314
+amazing highly,0.5309
+internet work,0.5305
+coffee life,0.5274
+baking,0.5266
+cold monkey,0.5242
+coffee ordered,0.5241
+bad wait,0.5178
+amazing orange,0.5169
+fast,0.5149
+best,0.514
+wifi,0.5104
+chowder,0.5096
+starbucks lol,0.5065
+fresh baked,0.5056
+cool animal,0.5035
+inside,0.5005
+baked good,0.4998
+peet barista,0.4979
+harvest latte,0.4949
 experience,0.4938
-sugary,0.4859
-fresh,0.4848
-roast,0.4749
-lovely,0.4729
-barista,0.47019999999999995
-espresso,0.4645
-fast,0.4586
-desserts,0.4574
-cake,0.4509
-savory,0.4495
-ginger,0.4474
-wifi,0.4441
-home,0.4408
-morning,0.429
-coffees,0.4267
-wharf,0.4256
-right,0.4235
-milk,0.42310000000000003
-atmosphere,0.4231
-unhelpful,0.4199
-showing,0.419
-price,0.4184
-oaisis,0.4106
-cards,0.4055
-fishersmans,0.4055
-better,0.4028
-spicy,0.4012
-open,0.4
-chowder,0.3909
-acidity,0.3888
-dessert,0.3873
-time,0.3863
-chowders,0.374
-stale,0.3731
-beverages,0.3721
-pasties,0.3714
-saleswoman,0.3712
-clam,0.3701
-traffic,0.3665
-restaurant,0.3491
-recommended,0.3432
-breakfast,0.3421
-internet,0.3293
-iced,0.3272
-turmeric,0.3236
-cream,0.3229
-long,0.3227
-alcatraz,0.3187
-performance,0.3138
-mediocre,0.3122
-walk,0.2961
-10,0.2902
-wasn,0.2899
-highly,0.2869
-bad,0.2838
-generous,0.2722
-possibility,0.2718
-orange,0.2686
-filter,0.2622
-shop,0.2597
-foot,0.247
-ordering,0.246
-places,0.2453
-drank,0.2376
+roast,0.4829
+barista location,0.4803
+delicious seemed,0.4796
+coffee excelent,0.4787
+favorite sourdough,0.4732
+year coffee,0.4649
+boudin cheap,0.4625
+starbucks standard,0.4614
+nice location,0.4613
+service good,0.4608
+coffee boudin,0.4603
+bread clam,0.4563
+wait little,0.4533
+coffee got,0.4533
+espresso,0.4515
+coffee around,0.45
+cool,0.442
+cappuccino bad,0.4369
+espresso hand,0.4358
+food drink,0.4351
+barista,0.4301
+drinker worker,0.4275
+cup coffee,0.425
+friendly efficient,0.4225
+peet,0.4191
+service,0.4191
+latte ever,0.4182
+decaf coffee,0.4154
+bread unacceptable,0.408
+peet drinker,0.4058
+expensive tasty,0.4047
+efficient find,0.4025
+pete great,0.3999
+check,0.3992
+response starbucks,0.3951
+coffee perfect,0.3867
+foot traffic,0.3848
+pete good,0.3826
+mocha fantastic,0.3757
+ten year,0.3683
+coffee tad,0.368
+hispanic cashier,0.3649
+traffic come,0.3648
+cashier syrup,0.3629
+great brand,0.3603
+super friendly,0.3411
+milk scorched,0.3278
+communicate staff,0.325
+spoiled mood,0.3198
+english problem,0.3101
+burned cold,0.301
+staff make,0.2875
+slow customer,0.2868
+better,0.2864
+cashier asian,0.2851
+went,0.262
+sweet dreg,0.2577
+daughter interrupted,0.2517
 customer,0.2374
-door,0.2282
-stuff,0.2253
-eat,0.2246
-wait,0.2242
-warmed,0.2207
-cup,0.2195
-pleasant,0.2193
-oasis,0.2186
-golden,0.2183
-check,0.2143
-joe,0.213
-croissants,0.2118
-drinks,0.21
-pastry,0.2057
-sunset,0.2033
-dark,0.2013
-workers,0.2011
-don,0.1911
-expensive,0.1888
-dollop,0.1862
-laptop,0.1837
-outdoor,0.1818
-money,0.1813
-outstanding,0.1798
-drink,0.1792
-honey,0.1789
-drinker,0.177
-monkey,0.1718
-temperature,0.1716
-problem,0.1712
-barely,0.1683
-little,0.1631
-tasty,0.1628
-didn,0.1599
-quick,0.1501
-harvest,0.1458
-room,0.1419
-mocha,0.1363
-work,0.133
-life,0.13
-pete,0.1281
-fantastic,0.1262
-burned,0.1116
-cheap,0.105
-goooood,0.0956
-went,0.0936
-almond,0.08
-daughter,0.0586
-spoiled,0.053
-hands,0.0528
-stars,0.0472
-peers,0.0428
-syrup,0.0428
-serve,0.0415
-hispanic,0.029
-preference,0.0275
-bean,0.0133
-dregs,0.0076
-minutes,-0.0042
-ignored,-0.0178
-years,-0.0418
-hello,-0.0498
-scorched,-0.0627
-order,-0.0899
-pour,-0.0926
+finally daughter,0.2124
+ever daughter,0.1865

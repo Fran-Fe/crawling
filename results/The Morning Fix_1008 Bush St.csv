@@ -1,114 +1,181 @@
 keyword,weight
-breakfast,10.5779
-coffee,3.7817
-sandwich,2.8937999999999997
-good,2.8198000000000003
-great,2.637
-food,2.5344
-bagels,2.5153
-sandwiches,2.1087
-love,1.8267
-friendly,1.7323
-bacon,1.6581
-cheap,1.5575
-delicious,1.2643
-lunch,1.2382
-place,1.0851
-awesome,1.0849
-nice,0.9762
-morning,0.9647
-thank,0.9477
-inexpensive,0.9005000000000001
-cheese,0.8193999999999999
-cafe,0.8042
-taste,0.7798
-pricey,0.7718
-fast,0.7131
-early,0.6867
-breakfasts,0.6652
-reasonable,0.6611
-hostess,0.6601
-egg,0.6404
-salad,0.6248
-cheeses,0.6221
-burrito,0.6193
-california,0.5931
-maple,0.5712
-little,0.5302
-croissant,0.4858
-excellent,0.4697
-opening,0.4581
-priced,0.45589999999999997
-clean,0.4489
-hot,0.4463
-café,0.4427
-disgrace,0.4383
-syrup,0.4363
-best,0.4244
-saturday,0.4039
-kind,0.4003
-germany,0.3924
-decent,0.3922
-avocado,0.3794
-french,0.377
-tasty,0.3605
-neighborhood,0.3602
-daily,0.36
-roast,0.3562
-shop,0.3469
-owners,0.3321
-yummy,0.3313
-cosy,0.3212
-tuna,0.3157
-people,0.3074
-eggs,0.3006
-day,0.2972
-simple,0.2881
-amazing,0.2858
-tables,0.2839
-cute,0.2818
-pretensions,0.2621
-turkey,0.2581
-trendy,0.2469
-outside,0.2454
-pvp,0.2433
-spot,0.2155
-sf,0.2084
-low,0.2077
-start,0.207
-chai,0.2037
-7am,0.2025
-pastry,0.1997
-staff,0.1985
-super,0.1982
-restaurant,0.1865
-smile,0.1838
-guest,0.1769
-try,0.1762
-open,0.1649
-burritos,0.1614
-comfortable,0.1597
-helpful,0.1562
-light,0.1554
-greetings,0.1503
-ladies,0.1494
-grill,0.149
-perfect,0.147
-fancy,0.1462
-hour,0.1367
-quick,0.128
-pricetag,0.1188
-muffin,0.1127
-minutes,0.1025
-favorite,0.0947
-francisco,0.086
-2020,0.0669
-recommended,0.065
-fix,0.0598
-prices,0.0456
-20,0.0368
-fruit,0.0367
-slow,0.0288
-english,0.0077
-debit,-0.012
-disappointed,-0.0374
+breakfast,9.1931
+breakfast sandwich,3.8514999999999997
+sandwich,3.6809000000000003
+love,2.1212
+breakfast burrito,1.8717000000000001
+little breakfast,1.7453
+coffee,1.695
+bacon,1.6824
+love place,1.6768
+great bagel,1.6679
+best breakfast,1.6326999999999998
+good food,1.6279
+great coffee,1.5977000000000001
+cheap,1.5718
+breakfast lunch,1.5696
+delicious breakfast,1.4689
+bagel,1.3814
+coffee great,1.2886
+bacon egg,1.2864
+lunch,1.2778
+egg cheese,1.2202
+breakfast spot,1.193
+bagel sandwich,1.1356
+food,1.0937000000000001
+selection breakfast,1.0333999999999999
+cheap fast,0.9692
+breakfast thank,0.9493
+neighborhood cafe,0.9281999999999999
+kind breakfast,0.9265
+great food,0.9165
+little pricey,0.8929
+friendly hostess,0.89
+yummy breakfast,0.8811
+breakfast reasonable,0.8726
+disgrace bacon,0.8609
+decent price,0.8553999999999999
+good cheap,0.85
+neighborhood breakfast,0.8458
+california bagel,0.8448
+cheap food,0.8353
+salad sandwich,0.8351
+food friendly,0.8133
+thank opening,0.8112
+taste little,0.8057
+try breakfast,0.7915
+breakfast croissant,0.7908
+opening early,0.7813
+egg salad,0.7725
+taste,0.77
+best maple,0.7698
+great taste,0.7633
+fast,0.763
+delicious bagel,0.7605
+bacon turkey,0.7588
+love california,0.7578
+inexpensive good,0.7538
+breakfast coffee,0.7537
+great cheap,0.753
+nice people,0.7425
+lunch spot,0.7419
+delicious sandwich,0.7406
+light breakfast,0.7378
+croissant great,0.7118
+shop breakfast,0.7113
+early,0.7054
+nice coffee,0.7005
+place,0.6928
+place breakfast,0.6912
+owners awesome,0.6881
+burrito awesome,0.6815
+sandwich great,0.6808
+pricey,0.6768
+maple syrup,0.6757
+often breakfast,0.6752
+good,0.6736
+inexpensive,0.6712
+french roast,0.6688
+breakfast bagel,0.6646
+best coffee,0.6554
+sandwich hot,0.6522
+lunch item,0.6514
+try bacon,0.6451
+daily breakfast,0.6405
+good bagel,0.6338
+coffee early,0.6249
+salad,0.6244
+muffin coffee,0.6228
+california,0.6217
+cheese,0.6184
+cheese turkey,0.6126
+turkey avocado,0.6072
+roast coffe,0.6054
+great,0.602
+hostess,0.5981
+cafe lady,0.5964
+cafe great,0.5962
+people great,0.5958
+sweetie coffee,0.5939
+breakfast item,0.5883
+inexpensive breakfast,0.5881
+best grill,0.5861
+breakfast nice,0.5849
+order sandwich,0.5833
+ham cheese,0.5755
+nook breakfast,0.571
+value breakfast,0.571
+breakfast nook,0.5661
+open coffee,0.5636
+bagel cosy,0.5634
+maple,0.5629
+reasonable pvp,0.557
+coffee service,0.5562
+grill cheese,0.5552
+coffee always,0.5524
+sandwich another,0.5504
+coffee payment,0.5451
+coffee food,0.5404
+small coffee,0.5319
+great neighborhood,0.5297
+simple caf,0.5159
+excellent breakfast,0.5123
+caf good,0.5122
+good place,0.5109
+breakfast stop,0.5091
+sf delicious,0.5071
+cheese croissant,0.5063
+breakfast find,0.5045
+sandwich instead,0.5043
+croissant,0.5007
+egg ham,0.4926
+reasonable,0.4911
+bagel price,0.4909
+cheese english,0.4909
+sandwich restaurant,0.489
+price reasonable,0.4884
+food quality,0.4862
+staff nice,0.4846
+nice hot,0.4833
+english muffin,0.4764
+little cafe,0.4734
+hot great,0.4719
+super friendly,0.4714
+fantastic sandwich,0.4705
+place kind,0.4691
+coffee tuna,0.4684
+greetings germany,0.4579
+food decent,0.4524
+comfortable neighborhood,0.452
+tuna melt,0.4503
+bagels best,0.4439
+neighbor delicious,0.4424
+cafe,0.4388
+friendly staff,0.4386
+coffee also,0.4373
+amazing price,0.4367
+sandwich large,0.4353
+staff french,0.4346
+large coffee,0.4313
+avocado,0.4297
+smile staff,0.4284
+early saturday,0.4279
+coffee good,0.4271
+bagel highly,0.4237
+start day,0.4202
+bite food,0.4189
+coffee middle,0.4187
+good coffee,0.4184
+roast,0.4105
+must hour,0.4064
+morning fix,0.3997
+super slow,0.3757
+saturday,0.3677
+service excellent,0.3451
+try egg,0.3397
+every morning,0.3381
+yummy,0.3306
+came breakfast,0.3296
+price lost,0.316
+go breakfast,0.304
+best,0.166

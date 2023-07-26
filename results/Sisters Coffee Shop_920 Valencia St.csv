@@ -1,154 +1,261 @@
 keyword,weight
-coffee,12.968
-great,2.7978
-friendly,2.7006
-wifi,2.4717000000000002
-breakfast,2.3699
-bathroom,2.2435
-food,2.0879
-vegan,1.9954999999999998
-clean,1.8705
-cute,1.6640000000000001
-service,1.6325
-nice,1.5964
-sandwich,1.4512
-good,1.3668
-latte,1.3208
-bagel,1.3048
-horrible,1.1077
-cafe,1.0893
-tasty,1.0244
-shop,1.006
-tea,0.9241999999999999
+coffee,7.5768
+great coffee,3.0128
+coffee shop,2.4928
+vegan breakfast,1.7599
+vegan,1.7039
+good coffee,1.6411
+friendly,1.4329999999999998
+sandwich good,1.3454000000000002
+breakfast bagel,1.3439999999999999
+vegan option,1.3114
+bagel coffee,1.3045
+sisters coffee,1.2986
+breakfast sandwich,1.2859
+bathroom,1.2850000000000001
+bagel sandwich,1.251
+tasty,1.1827
+coffee breakfast,1.1655
+bagel,1.0842
+croissant stale,1.0689
+coffee staff,1.0566
+nice staff,1.0554000000000001
+horrible service,1.0
+friendly people,1.0
+breakfast,0.9783
+food,0.9529
+lavender latte,0.9489
+nice coffee,0.9445
+horrible,0.9231
+iced latte,0.9154
+tea,0.8773
+lavender,0.8456
+taro boba,0.8365
+bagel friendly,0.8308
+little expensive,0.8301
+friendly clean,0.8234
 boba,0.8169
-people,0.801
-bagels,0.7894
-lavender,0.7854
-better,0.7483
-menu,0.7461
-staff,0.7043999999999999
-tamales,0.701
-quality,0.6391
-reggaeton,0.6105
-expensive,0.5754
-yum,0.5689
+coffee maker,0.8149
+starbucks cutest,0.8098
+spot friendly,0.8079
+excellent coffee,0.7996
+latte yum,0.7934
+great bagel,0.7921
+reliable wifi,0.7842
+great taro,0.7831
+go tasty,0.781
+subpar coffee,0.7791
+great local,0.7661
+bathroom spacious,0.7606
+plastic smoothie,0.7441
+clean great,0.7384
+clean bathroom,0.7359
+priced coffee,0.731
+use bathroom,0.7302
+friendly staff,0.7245
+latte affordable,0.7229
+great service,0.7214
+quick bagel,0.7214
+cute coffee,0.7167
+shop nice,0.7156
+latte,0.713
+reggaeton love,0.701
+breakfast cafe,0.6977
+straight plastic,0.6974
+croissant sandwich,0.6964
+bagel latte,0.6953
+quality food,0.6947
+quality breakfast,0.6867
+nice seating,0.6859
+milk croissant,0.683
+people,0.6791
+smoothie,0.6703
+coffee food,0.6681
+kind baristas,0.6649
+free wifi,0.663
+selection vegan,0.6593
+clean wifi,0.6592
+better starbucks,0.6553
+good breakfast,0.6537
+stealing money,0.645
+yummy carrot,0.6435
+best coffee,0.6418
+order tamale,0.6392
+table clean,0.6372
+wifi reasonably,0.6352
+coffee even,0.6329
+reasonably priced,0.6324
+staff nice,0.6314
+vegetarian option,0.6306
+wish vegetarian,0.6298
+baristas great,0.628
+music reggaeton,0.6223
+burrito vegan,0.6207
+lots vegan,0.6178
+little breakfast,0.6152
+carrot juice,0.6143
+love pastry,0.6098
+star bathroom,0.6088
+delicious coffee,0.608
+unfriendly service,0.6076
+sandwich impressed,0.6051
+coffee nice,0.6047
+love coffee,0.6021
+bathroom clean,0.6017
+quick coffee,0.5992
+seating good,0.5946
+tamale go,0.5886
+great drink,0.5885
+staff friendly,0.5873
+yum,0.5867
+reggaeton,0.5864
+fantastic chicken,0.5839
+wifi comfy,0.5726
+spacious homey,0.5721
+little,0.5716
+entirely milk,0.5702
+wifi bathroom,0.5692
+quality,0.5689
+reliable,0.5687
+sandwich ordered,0.5677
+good wifi,0.5668
 taro,0.5663
-seating,0.5535
-spacious,0.5495
-reliable,0.5465
-milk,0.5446
-unfriendly,0.5414
-affordable,0.5149
-pastries,0.5054
-love,0.4941
-delicious,0.4909
-local,0.4845
-homey,0.4525
-comfy,0.4354
-little,0.4236
-flavors,0.4155
-maker,0.4122
-refreshing,0.4034
-lunch,0.3974
-plastic,0.392
-smoothie,0.3916
-quick,0.3864
-baristas,0.381
-priced,0.38
-poppin,0.38
-starbucks,0.378
-indoor,0.3676
-vegetarian,0.3663
-reasonably,0.3655
-kind,0.3427
-subpar,0.3392
-vibes,0.3284
-employees,0.3274
-free,0.3234
-croissant,0.3222
-beverages,0.3217
-helpful,0.3148
-stale,0.2993
-taste,0.2975
-bustling,0.2941
-stealing,0.2904
-place,0.2853
-juice,0.2744
-business,0.2624
-chicken,0.2613
-shops,0.2607
-hotspot,0.2589
-cucumber,0.2579
-pay,0.2544
-tomatoes,0.2533
-cook,0.2524
-sisters,0.2497
-cutest,0.2352
-microwave,0.2282
-vibrant,0.2262
-smoothies,0.2256
-favorite,0.2199
-bread,0.202
-carrot,0.201
-burritos,0.1977
-bakery,0.1908
-willing,0.1901
-eat,0.189
-pleasantly,0.188
-impressed,0.1852
-chunks,0.1827
-burrito,0.1822
-unfortunately,0.1808
-decor,0.1804
-bookstore,0.1793
-cheese,0.1732
-comfortable,0.1705
-options,0.17
-smile,0.1458
-greeted,0.1395
-espresso,0.1366
-manager,0.1316
-straight,0.1301
-tapioca,0.1276
-bad,0.127
-chill,0.1269
-wasteful,0.1263
-drink,0.1234
-ice,0.1208
-superb,0.1201
-yummy,0.1144
-wouldn,0.1037
-order,0.1004
-baked,0.0951
-flavor,0.0902
-loud,0.0828
-bro,0.0786
-women,0.0774
-selection,0.0732
-gem,0.0624
-disgusting,0.0618
-working,0.0577
-hard,0.0478
-entirely,0.0464
-liked,0.0456
-stars,0.0453
-oatmilk,0.0415
-lattes,0.0402
-cold,0.0401
-grand,0.038
-burnt,0.0367
-drinks,0.036399999999999995
-bottle,0.0281
-tax,0.0279
-tasted,0.0207
-injury,0.0196
-gone,0.017
-refund,0.0086
-gross,0.0017
-10,-0.0021
-cup,-0.0059
-opening,-0.0079
-cream,-0.008
-gal,-0.0183
-insane,-0.0184
-packaging,-0.0251
+coffee light,0.566
+tamale,0.5625
+better service,0.5615
+breakfast option,0.558
+tasty stuff,0.553
+cute shop,0.5529
+great,0.5524
+food delicious,0.549
+perfect food,0.5483
+unfriendly,0.5458
+indoor outdoor,0.5452
+try vegan,0.5414
+good,0.5414
+coffee sale,0.5393
+shop indoor,0.5378
+vegetarian,0.5368
+little coffee,0.5343
+nice,0.5317
+friendly helpful,0.5291
+espresso fresh,0.529
+tomato cucumber,0.5289
+menu option,0.5283
+wifi seating,0.528
+chunk straight,0.5267
+best bagel,0.5264
+vibe cafe,0.5252
+food employee,0.5248
+plastic,0.5237
+tapioca horrible,0.5237
+even better,0.5226
+croissant latte,0.5204
+coffee fantastic,0.5185
+bathroom even,0.5182
+convenient food,0.5176
+business coffee,0.5154
+boba tea,0.5143
+comfy seating,0.5114
+coffee definitely,0.5095
+liked wifi,0.5068
+vibe refreshing,0.5065
+vegan decided,0.506
+breakfast burrito,0.5036
+milk,0.5014
+coffee heading,0.5012
+flavor vegan,0.4995
+nice decor,0.4982
+bubble tea,0.4982
+nice people,0.4972
+option lunch,0.4967
+good tapioca,0.4961
+delicious decoration,0.4954
+food menu,0.4952
+tea good,0.493
+sandwich,0.4899
+grand opening,0.4876
+interesting flavor,0.4874
+nice food,0.4849
+service,0.4849
+starbucks,0.4819
+baked bakery,0.4818
+love bomb,0.4816
+espresso tasted,0.4793
+food great,0.4788
+juice made,0.4786
+coffee flavor,0.4749
+bad drink,0.4734
+bagel always,0.4732
+shop vibrant,0.4704
+refreshing boba,0.4695
+favorite place,0.4664
+found coffee,0.4604
+lunch look,0.4603
+mushy tomato,0.4588
+coffee bagel,0.4588
+decor good,0.4584
+willing pay,0.457
+good filling,0.4511
+coffee tasted,0.4506
+really coffee,0.4493
+bathroom order,0.4467
+pastry coffee,0.4457
+sandwich next,0.4421
+grab coffee,0.4416
+drink tasty,0.4413
+array coffee,0.439
+door clean,0.4385
+melted burrito,0.4334
+unexpectedly delicious,0.432
+stealing,0.4312
+microwave drip,0.4243
+chicken pesto,0.4195
+service subpar,0.4187
+bread love,0.4167
+coffee burnt,0.4162
+basically stealing,0.4138
+try coffee,0.4127
+eat valencia,0.4119
+bakery croissant,0.41
+shot espresso,0.4098
+place quick,0.4077
+pastry drink,0.4051
+velvet coffee,0.4042
+maker,0.4037
+coffee oat,0.4017
+dish great,0.4008
+bad boba,0.3999
+minute oatmilk,0.3993
+cafe,0.3992
+nice ordered,0.3982
+shop always,0.3959
+like coffee,0.3954
+vegan cheese,0.3913
+neighborhood cafe,0.3874
+water wasteful,0.3789
+cup ice,0.3775
+cooked vegan,0.3763
+latte warm,0.3741
+coffee egg,0.3703
+cafe con,0.3697
+shop vibe,0.3688
+taste coffee,0.3675
+oatmilk latte,0.3647
+cucumber kinda,0.362
+worked coffee,0.3569
+bottle bathroom,0.3534
+bathroom refill,0.3518
+getting coffee,0.3295
+milk chunky,0.3294
+charge ice,0.3269
+clean definitely,0.3243
+random bathroom,0.3229
+quality customer,0.321
+needed latte,0.2969
+cream needed,0.2968
+sell bottled,0.2822
+ice wonder,0.2821
+ice trying,0.275
+oat milk,0.2681
+buy cup,0.2271

@@ -1,266 +1,482 @@
 keyword,weight
-tea,14.4875
-milk,7.2769
-popcorn,6.5764
-chicken,4.9096
-snacks,4.7101
-great,4.4775
-desserts,3.6486
-nice,3.5026
-drinks,3.2183
-coffee,3.1555
-avocado,3.1415
-dessert,2.6986
-waffle,2.6898
-delicious,2.602
-tasty,2.5183
-cream,2.2982
-boba,2.2842000000000002
-good,2.1192
-ginger,2.025
+milk tea,10.2243
+popcorn chicken,9.4907
+tea,8.871500000000001
+popcorn,5.6738
+dessert,4.9035
+egg waffle,4.1993
+bubble tea,4.1407
+ginger milk,4.0317
+avocado smoothie,3.4184
+avocado,3.3395
+waffle,3.2921
+boba tea,3.0987999999999998
+coffee,2.9268
+ice cream,2.6912
+brown sugar,2.4579999999999997
+drink,2.3942
+great,2.239
+milk,2.2382999999999997
 sweet,2.0
-best,1.7868
-love,1.7515
-smoothie,1.7215
-food,1.6938
-slow,1.5806
-drink,1.5558999999999998
-waffles,1.5508
-refreshing,1.4832
-egg,1.4715
-ok,1.3933
-bubble,1.392
-sugar,1.2711999999999999
-chinatown,1.256
-long,1.2263000000000002
-favorite,1.2121
-service,1.2035
-snack,1.1943000000000001
-pricey,1.1801
-little,1.0886
-shop,1.08
-chinese,1.0780999999999998
-jelly,1.0596999999999999
-amazing,1.0356
-bad,1.0025
+snack,1.8662
+sugar milk,1.7927
+snack great,1.6442999999999999
+great boba,1.5328
+black sesame,1.4526
+good snack,1.4234
+delicious,1.4089
+jasmine tea,1.3774000000000002
+chicken,1.3607
+tea delicious,1.3365
+sesame paste,1.335
+chicken great,1.3199
+smoothie,1.2934999999999999
+ginger juice,1.2924
+good dessert,1.257
+slow,1.2391
+tea amazing,1.2296
+taro milk,1.1912
+egg,1.1709
+drink nice,1.1562000000000001
+waffle crepe,1.1174
+nice,1.0836999999999999
+matcha latte,1.0786
+sweetheart cafe,1.0692
+bad,1.0605
+ginger,1.0024
+great drink,1.0
+best drink,1.0
+ok drink,1.0
+closed,1.0
 original,1.0
-place,0.9366
-closed,0.924
-matcha,0.9226000000000001
-flavor,0.9057000000000001
-flavorful,0.8513
-asian,0.8402000000000001
-sweets,0.8293999999999999
-teas,0.8268
-pudding,0.8104
-pancake,0.7991999999999999
-berkeley,0.7883
-fish,0.7567
-francisco,0.7505
-special,0.7476
-coconut,0.7405999999999999
-order,0.7208
-priced,0.6965
-watermelon,0.6954
-warm,0.6835
-herbal,0.6754
-spicy,0.6567000000000001
-walking,0.6463
-ice,0.6459999999999999
-afternoon,0.6426
-taiwanese,0.6416
-jasmine,0.6362
-crowded,0.6327
-prices,0.6137
-san,0.6136
-hot,0.613
-fried,0.6116999999999999
-mango,0.6066
-latte,0.6043000000000001
-fruit,0.6
-crepe,0.5997
-bbt,0.5967
-sesame,0.5936
-quiet,0.5923
-flavors,0.5808
-tastes,0.5719000000000001
-holiday,0.5647
-grapefruit,0.5642
-day,0.5571
+asian dessert,0.9685
+chinese dessert,0.9622
+place chinatown,0.9388
+nothing special,0.9377
+passion fruit,0.935
+hot dessert,0.9304
+coffee crepe,0.9197
+chinatown,0.9197
+favorite fish,0.9184
+nothing,0.9143
+ok nothing,0.9128
+berkeley san,0.9019
+great avocado,0.895
+take long,0.881
+san francisco,0.8759
+great snack,0.8735
+crowded afternoon,0.8697
+watermelon slushy,0.8694
+boba,0.8652
+latte great,0.8633
+waffle amazing,0.8625
+refreshing drink,0.8614
+long time,0.8586
+food star,0.8518
+place coffee,0.8442
+berkeley,0.8428
+good tea,0.8273
+spicy popcorn,0.8218
+milk deliciously,0.8204
+love coffee,0.8199
+milk always,0.8187
+star food,0.8178
+long,0.8135
+love hot,0.8085
+delicious order,0.8082
+watermelon,0.8049
+smoothie taste,0.7997
+waffle lacked,0.7943
+expensive quiet,0.7921
+tea milk,0.788
+day walking,0.7879
+francisco,0.7869
+green tea,0.7846
+popcorn fried,0.7794
+reasonably priced,0.7788
+passionfruit tea,0.7784
+francisco location,0.7777
+herbal jelly,0.7774
+tea best,0.777
+time give,0.7725
+tea soybean,0.767
+waffle really,0.7663
+cream boba,0.7661
+good food,0.7646
+best oreo,0.7645
+grapefruit green,0.7638
+dessert little,0.7636
+cream herbal,0.7572
+smell slow,0.7549
+dessert quite,0.754
+little coffee,0.7523
+give order,0.7503
+love bubble,0.7487
+slow service,0.7471
+good drink,0.7454
+chinese fav,0.7445
+drink snack,0.7442
+tons chinese,0.7433
+great price,0.7432
+asian sweet,0.7427
+puff pancake,0.7426
+ok,0.7386
+food good,0.7377
+priced popcorn,0.7355
+dessert item,0.7351
+soybean pudding,0.7345
+ok dessert,0.733
+oreo cream,0.727
+dessert room,0.7253
+dessert shop,0.7237
+great ginger,0.7214
+tasty ice,0.721
+darn popcorn,0.7181
+nowhere sit,0.7179
+special waffle,0.717
+got matcha,0.717
+bad service,0.7153
+service nowhere,0.7119
+tea sweetened,0.7094
+fried chicken,0.7031
+bad drink,0.7008
+small shop,0.6968
+lacked flavor,0.6951
+nice stop,0.6951
+bbt ok,0.6909
+afternoon,0.6895
+snack drink,0.6892
+hot,0.6889
+latte,0.6888
+coffee shop,0.6867
+warm ginger,0.6853
+chicken freshly,0.6829
+tea little,0.6822
+popcorn mango,0.6798
+tea fresh,0.6707
+fresh milk,0.6704
+chicken favourite,0.6684
+tea refreshing,0.6682
+fried flavorful,0.6668
+tea tip,0.6645
+tea great,0.6639
+snack special,0.6636
+bbt,0.6635
+interesting snack,0.6613
+spicy chicken,0.6609
+fruit tea,0.6605
+og place,0.6594
+pancake,0.6586
+tea boba,0.6572
+black tea,0.6567
+cream fried,0.6566
+tasty treat,0.6543
+pudding dou,0.654
+desert food,0.6535
+og,0.6528
+boba milk,0.6526
+walking,0.6513
+late chill,0.651
+delicious milk,0.6506
+got popcorn,0.6505
+delicious chocolate,0.6501
+chinese,0.6469
+fish ball,0.6426
+taiwanese popcorn,0.6412
+snack dessert,0.6389
+refreshing,0.6382
+craving snack,0.638
+pricey slow,0.6371
+good desert,0.6368
+nice love,0.6349
+bubble waffle,0.6335
+pudding,0.6333
+price reasonable,0.6331
+slow nice,0.6329
+tea taiwanese,0.6322
+noodle soggy,0.6286
+matcha,0.6284
+waffle daily,0.6275
+smoothie soo,0.627
+chicken popcorn,0.6265
+best,0.6253
+tea pretty,0.6239
+pancake disert,0.6238
+taiwanese snack,0.622
+cute little,0.62
+good reasonably,0.6189
+quiet,0.6181
+phenomenal server,0.6159
+open late,0.6153
+dessert happened,0.6147
+quite good,0.6146
+dessert milk,0.6139
+refund cone,0.6136
+day,0.6133
+star service,0.6116
+freshly fried,0.6087
+best sf,0.6074
+chicken amazing,0.6048
+chicken tasty,0.6042
+fav dessert,0.6041
+mango milk,0.6035
+wanted refund,0.6029
+dream popcorn,0.6022
+like grapefruit,0.6018
+holiday expensive,0.5996
+grapefruit,0.5992
+slow waited,0.5987
+people nice,0.5968
+nobody store,0.5961
+ur holiday,0.5959
+tea popcorn,0.5933
+authentic ginger,0.5929
+cream strawberry,0.5898
+tea absolutely,0.5897
+crepe,0.5872
+cream,0.5839
+warm milk,0.5835
+accident glad,0.5814
+many dessert,0.5812
+minute popcorn,0.5798
+juice milk,0.5786
+cream popcorn,0.5786
+taste,0.5782
+avocado drink,0.5779
+strawberry mandarin,0.5738
+shop packed,0.5728
+minute bubble,0.571
+taste like,0.5705
+shelf asian,0.5698
+star spot,0.5686
+chicken bubble,0.5676
+cafe great,0.5659
+cheap coffee,0.5657
+service star,0.5624
+holiday,0.5618
+way crowded,0.5614
+surprise price,0.5606
+place,0.5603
+stick popcorn,0.5599
+amazing service,0.5586
+whole avocado,0.5557
+stop girlfriend,0.5533
+service people,0.5529
+matcha bubble,0.5529
+sweet service,0.5525
+great dessert,0.5522
+buying snack,0.5515
+rude popcorn,0.5514
+mix refreshing,0.5493
 cute,0.5492
-sf,0.5429999999999999
-og,0.5401
-cafe,0.5281
-brown,0.5238
-reasonably,0.5177
-people,0.512
-time,0.5091
-small,0.5059
-smell,0.5045
-oreo,0.5021
-chocolate,0.49570000000000003
-reasonable,0.4941
-lacked,0.4891
-yummy,0.48019999999999996
-thumbs,0.475
-late,0.4677
-soybean,0.4637
-fir,0.4482
-underrated,0.4417
-cantonese,0.4387
-expensive,0.415
-stop,0.4128
-surprises,0.4096
-upstairs,0.4075
-minutes,0.40380000000000005
-pretty,0.39999999999999997
-vegan,0.3987
-location,0.3987
-deliciously,0.3836
-okay,0.3821
-packed,0.3731
-breakfast,0.3672
-got,0.367
-quite,0.3659
-juice,0.3637
-2023,0.3567
-espresso,0.3561
-balls,0.3558
-room,0.354
-taste,0.3516
-green,0.3444
-quick,0.3434
-sweetened,0.3394
-noodles,0.3379
-phenomenal,0.3311
-豆花,0.3306
-sit,0.3301
-chill,0.3293
-crispy,0.3253
-courteous,0.3192
-deserts,0.3108
-taro,0.3068
-fav,0.2985
-passionfruit,0.2978
-girlfriend,0.2952
-20,0.2943
-friendly,0.2911
-gezon,0.287
-strawberries,0.2837
-menu,0.2821
-puff,0.2809
-open,0.2778
-grapefruits,0.2778
-tons,0.2772
-black,0.27380000000000004
-right,0.2693
-enjoyed,0.2682
-perfect,0.2659
-funny,0.2618
-waited,0.2617
-hanging,0.2554
-plan,0.2519
-almond,0.2505
-craving,0.2502
-strong,0.2492
-comfy,0.2489
-americano,0.2467
-woke,0.2439
-generous,0.2358
-vacation,0.2333
-refined,0.2312
-strawberry,0.2277
-slushy,0.2252
-beans,0.2202
-hangout,0.219
-refund,0.2184
-accident,0.2121
-favourite,0.2119
-rare,0.2117
-daily,0.2038
-candle,0.2009
-buying,0.2004
-jewels,0.1988
-foods,0.1958
-fries,0.1952
-saturday,0.1949
-pomelo,0.1932
-sweetness,0.1917
-items,0.1898
-stars,0.1886
-really,0.1884
-safe,0.1873
-charged,0.1807
-liked,0.1806
-glad,0.1805
-tapioca,0.1802
-crunchy,0.177
-thinking,0.174
-card,0.1708
-custard,0.1685
-store,0.1675
-diner,0.1643
-banana,0.1612
-star,0.1596
-underage,0.157
-lotto,0.1556
-iced,0.154
-scribbled,0.1538
-queuing,0.1525
-kong,0.1491
-creamy,0.1477
-tablets,0.1412
-online,0.1379
-couple,0.137
-sneezing,0.1364
-extra,0.1359
-wait,0.1358
-inside,0.1358
-family,0.1314
-daughter,0.1296
-covid19,0.1267
-9pm,0.1257
-soo,0.1199
-town,0.1147
-cones,0.113
-like,0.1117
-covid,0.1095
-interesting,0.1086
-lite,0.0945
-cheap,0.0889
-sunday,0.0881
-2020,0.083
-stores,0.0752
-pepper,0.073
-trip,0.0718
-korean,0.0705
-awesome,0.069
-cash,0.0642
-salt,0.0615
-die,0.0608
-better,0.0584
-pandemic,0.0539
-mandarin,0.0528
-café,0.0518
-unfortunately,0.05
-2016,0.0457
-ball,0.0447
-salty,0.0435
-terrible,0.0398
-regular,0.0326
-darn,0.0325
-business,0.0285
-hour,0.0237
-old,0.0184
-teen,0.0128
-soap,0.0094
-dad,0.008
-woman,0.0074
-basketball,0.0024
-rude,-0.0024
-boy,-0.0029
-tasted,-0.0048
-dine,-0.0181
-99,-0.0305
-hongkongese,-0.0369
-cooked,-0.0837
+enjoyed bingsu,0.549
+iced milk,0.5484
+crowded,0.5483
+refreshing tasted,0.5479
+missing coffee,0.5479
+nice place,0.5476
+jelly,0.547
+room upstairs,0.5447
+flavorful good,0.5428
+late,0.5404
+got passionfruit,0.5404
+refund,0.5387
+love,0.5381
+bingsu vegan,0.5371
+pancake tasting,0.5367
+always right,0.5364
+grapefruit tea,0.5357
+really underrated,0.5347
+chicken delicious,0.5345
+small,0.533
+sweetness milk,0.5329
+around long,0.5314
+great tapioca,0.5313
+best asian,0.5312
+good place,0.5299
+dessert delicious,0.5298
+dreyer popcorn,0.5296
+ask jasmine,0.5296
+cantonese diner,0.5284
+flavorful crispy,0.5269
+good customer,0.5266
+flavorful,0.5197
+amazing dessert,0.5162
+cone price,0.5156
+generous bowl,0.5137
+fastest courteous,0.5093
+tea olly,0.5069
+passionfruit,0.506
+fish,0.5046
+food drink,0.5016
+price clear,0.5008
+yummy order,0.4999
+inside ice,0.4998
+recommended popcorn,0.4994
+soo good,0.499
+avocado boba,0.4975
+tea still,0.4973
+underrated,0.4962
+tea large,0.4958
+milk thick,0.4955
+really nice,0.495
+tasty refined,0.494
+strawberry banana,0.4937
+delicious pancake,0.4935
+also tasty,0.4935
+coffee lite,0.4932
+ordered avocado,0.4922
+oolong milk,0.4916
+ehh noodle,0.4904
+mango pomelo,0.4892
+studying menu,0.4876
+snack ice,0.4866
+desert,0.4863
+oreo,0.4859
+vegan,0.4849
+jasmine,0.4849
+cream bingsu,0.4846
+milk custard,0.4845
+herbal flavor,0.4838
+lite breakfast,0.4832
+waffle great,0.4832
+milk coffee,0.4812
+milk like,0.4806
+like avocado,0.4804
+tea really,0.4786
+chicken salty,0.4783
+dessert worth,0.4782
+amazing,0.4772
+really bad,0.4767
+variety flavor,0.4767
+roasted milk,0.4763
+reservation saturday,0.4759
+good boba,0.4755
+vegan time,0.4748
+pearl chocolate,0.4745
+waffle ok,0.4741
+nobody,0.4732
+dessert new,0.4718
+cantonese dessert,0.4718
+food dessert,0.471
+girlfriend becoming,0.4681
+dessert rare,0.4673
+chicken milk,0.4672
+terrible woman,0.4651
+milk real,0.465
+jelly condiment,0.4649
+absolutely delicious,0.4646
+kong friendly,0.464
+amazing sweetness,0.4625
+drink popcorn,0.4613
+juice,0.4602
+chicken perfect,0.4592
+egg custard,0.4587
+service food,0.458
+tea snack,0.4564
+amazing boba,0.4549
+boba store,0.4547
+drink taste,0.4543
+try warm,0.4528
+eat popcorn,0.4525
+dessert ginger,0.4523
+tasty generous,0.4494
+stop coffee,0.4489
+chinese sweet,0.4454
+tasted good,0.4445
+chinese hangout,0.4435
+asian,0.4422
+great making,0.44
+people queuing,0.4396
+hk milk,0.4395
+bobas grapefruit,0.4362
+daughter reservation,0.436
+delicious thin,0.4353
+authentic taiwanese,0.4341
+taste funny,0.4339
+ice,0.4339
+die dessert,0.4337
+chocolate egg,0.4294
+slushy amazing,0.4233
+dessert black,0.4233
+tea cost,0.4228
+coffee sitting,0.4217
+favorite,0.4205
+saturday first,0.4127
+tea hongkongese,0.4116
+ordered delicious,0.4113
+cafe always,0.4085
+warm black,0.407
+many people,0.4061
+recommend mango,0.402
+queuing love,0.398
+whipped cream,0.3979
+sesame ice,0.3949
+chicken next,0.3912
+chicken especially,0.3891
+salt pepper,0.3886
+breakfast spot,0.3874
+waffle tried,0.3834
+town must,0.3812
+pm dessert,0.3792
+dessert craving,0.3783
+crepe waffle,0.3776
+bad fish,0.3772
+drink unfortunately,0.3759
+card game,0.3758
+waffle traditional,0.3736
+online pickup,0.3736
+korean snack,0.3726
+tea choice,0.3707
+food definitely,0.3692
+great milk,0.3689
+trying coconut,0.3669
+strawberry,0.3659
+girlfriend,0.3647
+accommodating card,0.3606
+got egg,0.3596
+sesame antioxidant,0.355
+normal dessert,0.3535
+coconut sago,0.3528
+curd delicious,0.3478
+order popcorn,0.3464
+cream snack,0.3458
+daily special,0.3455
+banana crepe,0.3443
+got strawberry,0.34
+since coconut,0.3395
+mini vacation,0.3394
+amazing food,0.3386
+school chinese,0.3383
+taro coconut,0.3379
+slushy,0.3301
+asian food,0.328
+late basketball,0.3266
+receive dessert,0.3237
+tea order,0.3194
+amazing woke,0.317
+asian snack,0.3154
+snack asian,0.314
+every trip,0.3091
+snack lotto,0.306
+chicken plus,0.3041
+worst boba,0.2967
+terrible tasted,0.2966
+daughter,0.2957
+dad coworker,0.281
+first dine,0.2771
+almond milk,0.2683
+tad pricey,0.2622
+rude underage,0.262
+durian flavor,0.26
+best darn,0.2467
+ball,0.2426
+unfortunately year,0.2401
+matcha bomb,0.2333
+huge waste,0.2164
+price topping,0.2156
+teen boy,0.2114
+drink prices,0.2103
+better employee,0.2006
+boy making,0.1978
+long dad,0.1887

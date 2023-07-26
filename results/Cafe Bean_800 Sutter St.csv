@@ -1,186 +1,307 @@
 keyword,weight
-coffee,12.2361
-thanks,8.1982
-great,5.1612
-thank,4.6708
-food,3.2033
-cafe,2.8548
-good,2.3551
-cute,2.3518999999999997
-service,2.1392
-nice,2.1037
-breakfast,1.8935
-friendly,1.8558
-tasty,1.7934999999999999
-place,1.6277
-delicious,1.5137
-atmosphere,1.2211
-owner,1.0957
-family,1.0248
-beers,1.0247
-cozy,0.9658
-homely,0.9563
-mediocre,0.921
-classic,0.8839
-sandwiches,0.8765000000000001
-spot,0.8518
-bagels,0.8368
-morning,0.8158000000000001
-christmas,0.8097
-anymore,0.799
-open,0.7927000000000001
-excellent,0.7919
-espresso,0.7857
-best,0.7682
-enjoyed,0.7306
-doesn,0.7301
-tea,0.7153
-latte,0.7127
-cool,0.71
-mr,0.706
-coffees,0.7037
-lovely,0.6992
+coffee,8.4947
+thanks,6.8222000000000005
+thank,5.4643999999999995
+good food,2.4799
+food,2.4303999999999997
+good coffee,2.4244
+best coffee,1.9384000000000001
+great place,1.563
+excellent coffee,1.5534
+coffee shop,1.4306
+great service,1.4125999999999999
+coffee good,1.2770000000000001
+good,1.2062
+tasty,1.1932
+coffee breakfast,1.1284
+breakfast sandwich,1.1187
+get coffee,1.0798999999999999
+coffee tea,1.0483
+nice guy,1.0423
+nice owner,1.0335
+classic spot,1.0
+like coffee,1.0
+thanks derrick,1.0
+thanks catie,1.0
+homely atmosphere,1.0
+thanks noah,1.0
+open anymore,0.9708
+cafe,0.9688
+classic,0.9488
+great,0.9457
+homely,0.9448
+appear open,0.9398
+enjoy coffee,0.9299
+mediocre best,0.9192
+cool owner,0.9151
+open,0.9105
+tasty food,0.9011
+downtown coffee,0.8969
+mediocre,0.883
+catie,0.8822
+see christmas,0.8757
+thanks mr,0.8718
+mr bond,0.8656
+excellent espresso,0.8611
+appear,0.8591
+lovely atmosphere,0.859
+coffee terrible,0.8588
+noah,0.8549
+definitely enjoyed,0.8526
+cute place,0.8518
+christmas,0.8429
+chai latte,0.8322
+quality coffee,0.8304
+comfortable coffee,0.8271
+service tasty,0.8249
+cute seat,0.8228
+best nothing,0.8212
+coffee beer,0.8186
+atmosphere great,0.8144
+good chai,0.8142
+derrick,0.8099
+thanks donovan,0.8093
+rest west,0.808
+cutebcasual good,0.8058
+kind staff,0.8050999999999999
+enjoyed,0.8044
+anymore,0.8028
+tasting coffee,0.795
+place,0.7942
+nothing special,0.794
+spot,0.7913
+delicious,0.7767
+donovan great,0.7719
+bond,0.7714
+affordable nutella,0.7698
+breakfast downtown,0.7633
+coffee tasty,0.7621
+inside nice,0.7567
+cute,0.7545
+food nice,0.7541
+latte delicious,0.7459
+food coffee,0.7374
+apology credited,0.7341
+see family,0.7319
+delicious coffee,0.7316
+food large,0.7304
+pie delicious,0.7277
+eden enjoy,0.7274
+enjoy rest,0.7259
+place cool,0.7215
+coffee wonderful,0.7211
+west coast,0.7183
+nothing,0.7127
+latte,0.7118
+sandwich coffee,0.7104
+great bagel,0.7094
+best cafe,0.7016
+place downtown,0.7
 cutebcasual,0.697
-appear,0.6945
-comfortable,0.6908
-bond,0.6712
-west,0.6531
-shop,0.6291
-large,0.615
-chai,0.598
-better,0.5956
-enjoy,0.5804
-sunny,0.5787
-coast,0.5726
-lattes,0.5710999999999999
-downtown,0.5631
-derrick,0.5555
-cheese,0.536
-special,0.5305
-catie,0.5217
-eden,0.5034
-bagel,0.49839999999999995
-sandwich,0.4978
-burnt,0.4965
-noah,0.4901
-old,0.4877
-10,0.4823
-seats,0.4753
-oscar,0.473
-yummy,0.4684
-inside,0.4664
-sun,0.466
-apologies,0.4617
-affordable,0.4459
-nutella,0.4449
-hours,0.4274
-cooked,0.4117
-julian,0.4067
-pancake,0.4043
-love,0.4038
-regulars,0.4029
-owners,0.3901
-game,0.3873
-flavorless,0.3852
-guy,0.3772
-pastries,0.3679
-tasting,0.3677
-avocado,0.3666
-sorry,0.365
-bacon,0.3427
-favorite,0.3398
-wholesome,0.3388
-studying,0.3374
-local,0.337
-quality,0.3343
-bad,0.3331
-fast,0.3243
-homemade,0.3107
-toast,0.3025
-credit,0.3009
-jenga,0.2865
-pancakes,0.2807
-baked,0.2772
-fresh,0.2748
-wifi,0.2731
-like,0.2599
-donovan,0.2595
-eatery,0.2582
-minutes,0.2581
-amazing,0.256
-seeing,0.2533
-quiet,0.2501
-decor,0.246
-card,0.2278
-shops,0.226
-laptop,0.2254
-fruit,0.225
-francisco,0.2222
-pop,0.2205
-mom,0.2122
-school,0.206
-guest,0.204
-terrible,0.2005
-wonderful,0.19870000000000002
-warm,0.1926
-coffeeis,0.1911
-rotten,0.1832
-cheat,0.1807
-vile,0.1803
-skip,0.1761
-know,0.1713
-macchiato,0.1706
-pleasure,0.1674
-mannequins,0.1646
-counter,0.1645
-friends,0.1606
-bucks,0.1603
-snot,0.1582
-google,0.1565
-kind,0.1514
-store,0.1511
-relaxing,0.15
-rat,0.1459
-week,0.1438
-leathery,0.1406
-beer,0.1371
-mess,0.1368
-free,0.1332
-smell,0.1332
-hangout,0.1313
-french,0.1302
-startled,0.13
-vibe,0.1277
-cup,0.1241
-cream,0.1214
-boyfriend,0.1123
-cleanliness,0.1097
-huge,0.1077
-smelled,0.1033
-don,0.0986
-eaten,0.0915
-people,0.0898
-hungry,0.0898
-wreck,0.0871
-refund,0.0858
-100000000,0.0839
-menu,0.0838
-eat,0.0739
-10000000,0.0728
-superb,0.0725
-husband,0.071
-day,0.0693
-pay,0.0648
-misunderstanding,0.0572
-75,0.0541
-payment,0.0493
-couch,0.0373
-golden,0.0371
-paid,0.0369
-50,0.0231
-beautiful,0.0171
-chat,0.0154
-missel,-0.0342
-debit,-0.0377
-hurry,-0.0477
-bean,-0.0743
+eat breakfast,0.6953
+seat inside,0.6915
+roast tasty,0.6913
+breakfast chester,0.6897
+food amazing,0.6882
+tasty breakfast,0.6871
+mr,0.6855
+better owner,0.6847
+delicious baked,0.6827
+coast visit,0.6824
+favorite cafe,0.6783
+thank oscar,0.6741
+sandwich friendly,0.6729
+yummy omelette,0.6724
+morning sun,0.6711
+great see,0.6706
+option cute,0.6689
+downtown,0.6671
+espresso,0.6671
+coffee normal,0.6651
+accept apology,0.6647
+great owner,0.6645
+atmosphere,0.6596
+nice staff,0.6571
+avocado bacon,0.6556
+family,0.6534
+little coffee,0.6519
+nutella bagel,0.6504
+cheese bagel,0.6493
+apology,0.6381
+oscar always,0.6342
+thanks julian,0.6338
+come coffee,0.6337
+bagel sandwich,0.6297
+local coffee,0.6295
+cool,0.6287
+sun great,0.628
+sunny interior,0.6278
+always great,0.6224
+baked good,0.618
+wonderful guest,0.6179
+breakfast,0.6156
+great tasting,0.6139
+friendly service,0.6137
+great food,0.6134
+back credit,0.6098
+owner sunny,0.6096
+tasty crepe,0.6078
+omelette coffee,0.6051
+chai,0.6038
+terrible,0.6032
+beer,0.6028
+terrible okay,0.6021
+mostly flavorless,0.599
+service excellent,0.5972
+egg cheese,0.5923
+coffee house,0.5923
+fresh food,0.5921
+superb coffee,0.5919
+go breakfast,0.5919
+sun,0.5909
+open hour,0.5849
+pancake thin,0.5844
+hour,0.583
+free wifi,0.5826
+owner nice,0.5778
+hour like,0.5757
+friendly,0.575
+like,0.5714
+credit card,0.5696
+coffee fresh,0.5672
+cheat thank,0.5666
+bacon cream,0.5628
+entered coffee,0.5605
+wreck coffee,0.555
+homemade pie,0.5548
+omelette friendly,0.553
+amazing staff,0.5496
+coffee particularly,0.5496
+service family,0.5474
+cafe bit,0.5458
+outside morning,0.5415
+pop cafe,0.5414
+owner,0.541
+priced coffee,0.539
+jenga game,0.5384
+little cafe,0.5359
+family owned,0.5346
+city cute,0.533
+wholesome delicious,0.5325
+extra payment,0.5309
+trying cheat,0.5309
+shop coffee,0.5308
+fast service,0.5273
+breakfast coffee,0.5265
+delicious clare,0.5265
+coffee sandwich,0.5245
+card paid,0.5213
+cafe coffee,0.5186
+even better,0.5185
+coffee snot,0.5177
+food friendly,0.5153
+chat coffee,0.5135
+quiet affordable,0.513
+great advice,0.51
+breakfast bagel,0.5059
+coffee turned,0.5053
+oscar,0.5038
+topped tasty,0.5014
+coffee morning,0.5006
+cute mom,0.4982
+food cooked,0.4961
+dutch pancake,0.4961
+pay card,0.4955
+julian see,0.4952
+julian,0.4949
+flavorless,0.4946
+french toast,0.4944
+dutch pancakes,0.4942
+selection pastry,0.4914
+laptop morning,0.4862
+iced coffee,0.4847
+pastry even,0.4845
+cream cheese,0.4829
+coffee coffee,0.4785
+bagel friendly,0.4752
+staff friendly,0.4749
+bean breakfast,0.4733
+got avocado,0.4724
+neighborhood coffee,0.4704
+coffee incredible,0.4688
+bagel even,0.4682
+san francisco,0.4659
+coffee tasted,0.4645
+pancakes menu,0.4624
+shop great,0.4589
+cheat,0.457
+second cup,0.4548
+old school,0.4538
+great chat,0.4528
+never really,0.4499
+great sandwich,0.4492
+service free,0.4474
+chester pleasure,0.4473
+get refund,0.4448
+great espresso,0.4425
+great cafe,0.4424
+mean coffee,0.4396
+cooked order,0.4381
+cafe bean,0.4355
+mannequin sitting,0.4344
+coffee company,0.4334
+cafe ever,0.4311
+bacon,0.4299
+cup coffee,0.427
+old,0.4256
+star wars,0.4255
+neighborhood eatery,0.4252
+coffeeis better,0.4235
+big coffee,0.4233
+cup free,0.4233
+stopped coffee,0.4212
+better,0.421
+mom pop,0.4209
+beer tap,0.4199
+cafe little,0.4126
+even beer,0.411
+account add,0.4095
+decent pricing,0.4025
+needed coffee,0.4006
+cleanliness store,0.3967
+coffee place,0.395
+pastry,0.3948
+good quality,0.3845
+charge card,0.3684
+selection tea,0.3648
+tea beer,0.3614
+card report,0.359
+pancakes,0.3454
+skip star,0.3413
+place cafe,0.3395
+neighborhood cafe,0.3308
+white food,0.3305
+sf warm,0.3288
+slow hurry,0.327
+sandwich san,0.3159
+year every,0.3147
+coffee also,0.3135
+rotten arnold,0.3056
+buck coffeeis,0.3042
+rotten burnt,0.3015
+bar nice,0.3013
+palmer lemonade,0.3012
+tea overall,0.2995
+food great,0.2936
+ice tea,0.2895
+favorite experience,0.2801
+great guy,0.2787
+owner great,0.2769
+nice city,0.2764
+phoenix coffee,0.2707
+guy always,0.2707
+love place,0.2694
+burnt ice,0.2673
+behind counter,0.2551
+debit credit,0.249
+counter,0.2051

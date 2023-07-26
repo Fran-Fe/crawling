@@ -1,121 +1,180 @@
 keyword,weight
-coffee,14.8542
-espresso,1.6541
-beans,1.5352999999999999
-shop,1.4914999999999998
-iced,1.4793
-great,1.4419
-pastries,1.3841999999999999
-good,1.3721999999999999
-vietnamese,1.33
-nice,1.3003
-latte,1.2543
-small,1.2229999999999999
-recommend,1.1246
-best,1.0121
-tiny,0.9647
-spot,0.9608
-drinks,0.9588000000000001
-coffeeshop,0.9468
-super,0.8953
-tony,0.8416
-love,0.8162
-mediocre,0.8092
-decent,0.7387999999999999
-favorite,0.7273000000000001
-hooked,0.7264
-cozy,0.6702
-seating,0.6552
-kind,0.6212
-friendly,0.6188
-excellent,0.6075
-milk,0.6031
-tasty,0.5781
-baristas,0.5450999999999999
-neighborhood,0.5445
-place,0.5315
-brew,0.5288
-service,0.5256
-sf,0.5098
-italian,0.4729
-creamy,0.4685
-quaint,0.4668
-cute,0.4496
-bar,0.4453
-cold,0.445
-francisco,0.3936
-lil,0.3856
-owner,0.3832
+coffee,12.9043
+great coffee,2.9703999999999997
+vietnamese coffee,2.6745
+good coffee,2.4122000000000003
+best coffee,2.2984
+coffee nice,1.6677
+decent coffee,1.6028
+coffee shop,1.5044
+coffee good,1.4958
+iced vietnamese,1.4867
+good service,1.1599
+vietnamese,1.1591
+espresso,1.0553
+tony hooked,1.0
+spot,1.0
+coffeeshop,0.9936
+service coffee,0.9502999999999999
+iced latte,0.9347
+latte,0.9228000000000001
+little coffee,0.9109
+tasty coffee,0.8872
+tony,0.8448
+coffee amazing,0.8398
+mediocre best,0.8132
+coffee sf,0.8044
+tiny cozy,0.7961
+cozy coffee,0.794
+lovely iced,0.7901
+coffeeshop good,0.7826
+coffee sooooooo,0.7683
+baristas excellent,0.7632
+cute coffee,0.7616
+great pastry,0.7614
+hooked,0.7464
+favorite neighborhood,0.7456
+nice baristas,0.7393
+neighborhood coffee,0.7314
+pastry great,0.7311
+italian espresso,0.7296
+love coffee,0.7203
+coffee would,0.7202
+exceptional espresso,0.7083
+espresso bar,0.7038
+mediocre,0.7011
+coffee pastry,0.6986
+best latte,0.6953
+perfect espresso,0.6921
+favorite coffee,0.6914
+lil coffeeshop,0.6841
+coffee person,0.6719
+coffee super,0.667
+excellent bean,0.6642
+excellent drink,0.6606
+get iced,0.6583
+cozy,0.6554
+sf coffee,0.6492
+brew friendly,0.6417
+tiny,0.6415
+espresso drink,0.6411
+excellent coffee,0.6396
+tasty,0.6387
+phenomenal coffee,0.6372
+friendly staff,0.6325
+complex milk,0.6313
+coffee friendly,0.6306
+iced,0.6276
+pastry muffin,0.6219
+baristas cool,0.619
+tasting espresso,0.6159
+nice quiche,0.6135
+kind owner,0.6133
+coffee pound,0.613
+creamy love,0.6117
+staff great,0.6116
+espresso grind,0.6103
+slowest service,0.6063
+buy coffee,0.6058
+san francisco,0.6053
+coffee place,0.605
+better togo,0.6041
+excellent cold,0.6039
+fabulous oat,0.6003
+coffee slap,0.6002
+smooth creamy,0.5995
+shop,0.5849
+sf opinion,0.5848
+sweet service,0.5809
+loved taste,0.5721
+making coffee,0.5714
+seating good,0.5709
+shop coffee,0.5674
+milk drink,0.5668
+cold brew,0.5657
+nice flavor,0.5645
+latte coffee,0.5638
+super chill,0.5631
+espresso might,0.5611
+season coffee,0.5583
+pastry service,0.5518
+new coffee,0.5518
+great service,0.5506
+drink nice,0.5443
+coffee far,0.5384
+small place,0.5364
+oat latte,0.5364
+coffee bean,0.5342
+flavor good,0.5336
+place decent,0.533
+nice earth,0.5249
+tastes smooth,0.5239
+nice outdoor,0.5204
+super kind,0.5183
+new coffeeshop,0.5143
+milk,0.511
+amazing people,0.5094
+sf,0.5076
+fancy pastry,0.507
+fave coffee,0.5062
+appreciation coffee,0.5059
+coffee home,0.4987
+ginger spice,0.4986
+competition neighborhood,0.4986
+pastry,0.4984
+great,0.4981
+outdoor seating,0.4967
+marshmallow bread,0.4965
+favorite,0.4921
+quaint,0.4893
+selection pastry,0.4853
+coffeeshop last,0.4826
+highly recommend,0.4808
+market love,0.4799
+francisco,0.4788
+front nice,0.4707
+slowest,0.47
+coffee ok,0.4683
+sooooooo good,0.4651
+type coffee,0.461
+coffee looks,0.455
+latte breve,0.4411
+autumn harvest,0.439
+pastry bread,0.4331
+lot competition,0.4325
+cafe great,0.4317
+sour tasting,0.4308
+espresso delicate,0.4269
+good super,0.4267
+coffee since,0.4241
+coffee around,0.4181
+great menu,0.4147
+cute ambiance,0.4137
+seating drink,0.4136
+laptop really,0.4131
+extracted sour,0.4105
+harvest fall,0.4095
+brew buy,0.4094
+small barista,0.409
+sit inside,0.4004
+use laptop,0.399
+souvenir coffee,0.3937
+coffee joint,0.3875
+product lot,0.3798
 lovely,0.3754
-smooth,0.3751
-outdoor,0.375
-slowest,0.3738
-fabulous,0.3708
-breve,0.367
-tastes,0.3603
-flavor,0.3434
-amazing,0.3303
-awesome,0.3049
-espressos,0.3025
-roasters,0.3013
-snacks,0.3003
-working,0.2986
-marshmallow,0.2958
-cafe,0.2884
-thank,0.2851
-white,0.284
-delicious,0.2784
-taste,0.2745
-vibe,0.2712
-caffeine,0.2697
-san,0.2665
-grind,0.2599
-tasting,0.2599
-chill,0.2587
-ice,0.2511
-laptops,0.2501
-competition,0.2477
-roast,0.2464
-barista,0.2409
-cool,0.2359
-market,0.23
-autumn,0.2277
-minutes,0.2146
-menu,0.2113
-spices,0.2029
-tasted,0.2024
-breads,0.1998
-muffin,0.1961
-10,0.1893
-better,0.183
-opinion,0.1787
-ambiance,0.1771
-bali,0.171
-harvest,0.17
-morning,0.1631
-togo,0.162
-sweet,0.1535
-artisanal,0.1494
-sooooooo,0.1465
-quiche,0.1449
-sour,0.1446
-people,0.1433
-lots,0.1418
-staff,0.1402
-dog,0.1299
-ginger,0.1203
-berkeley,0.116
-phenomenal,0.1134
-souvenir,0.1072
-buy,0.1046
-sugar,0.0962
-rwanda,0.096
-boyfriend,0.0925
-windy,0.0895
-kenya,0.0887
-weekly,0.088
-free,0.082
-far,0.0757
-new,0.062
-spice,0.0498
-friend,-0.0745
+coffee option,0.3751
+appreciated seating,0.3465
+large espresso,0.3446
+morning shaded,0.3316
+coffee give,0.3314
+need ginger,0.3268
+serving phenomenal,0.3201
+white great,0.3149
+great shop,0.314
+saying ginger,0.3014
+city friendly,0.2917
+ginger,0.2575
+spice great,0.2566
+month store,0.2498
+great customer,0.2449
+home pastry,0.2406

@@ -1,270 +1,508 @@
 keyword,weight
-food,14.5185
-good,5.8322
-breakfast,4.9844
-cafe,4.4863
-delicious,4.1603
-tea,4.1476999999999995
-chinese,3.9535
-restaurant,3.8522
-service,3.3626
-great,3.2963999999999998
-chinatown,3.194
-beef,2.8954
-noodles,2.8855
-tasty,2.4565
-cheap,2.3384
-excellent,2.114
-soup,2.0594
-menu,1.9884000000000002
-expensive,1.9544000000000001
-baked,1.8831
-pork,1.8516
-dinner,1.7064
-milk,1.6897
-price,1.6889
-nice,1.6337
-taste,1.5078
-friendly,1.4578000000000002
-noodle,1.4221
-small,1.3841
-rice,1.3462
-eating,1.2963
-cantonese,1.2091
-spaghetti,1.1705
-love,1.1006
-worst,1.0821
-bakery,1.075
+food,6.9597
+good,4.842
+breakfast,3.971
+delicious,3.8974
+noodle soup,3.3695
+good food,3.3631
+milk tea,3.1516
+food good,2.9783999999999997
+chinese restaurant,2.7574
+chinese food,2.7202
+cafe,2.6626000000000003
+fried rice,2.6362
+great food,1.9284
+tasty,1.9249
+restaurant,1.9221
+beef stew,1.8332000000000002
+great,1.8253
+expensive,1.784
+excellent service,1.7306
+cheap,1.7029
+chinatown,1.6711
+stew noodle,1.6614
+beef,1.6612
+chinese,1.6441000000000001
+tea,1.5801
+style cafe,1.5334999999999999
+bbq pork,1.4563000000000001
+fast food,1.4256
+small,1.4083999999999999
+food reasonable,1.4047999999999998
+food average,1.3617
+chinese breakfast,1.3223
+ok food,1.3144
+food delicious,1.3132000000000001
+spot breakfast,1.2021000000000002
+baked spaghetti,1.1982
+eating,1.1381999999999999
+style tea,1.0965
+noodle congee,1.0939
+asian food,1.0289
+rice noodle,1.004
+style breakfast,1.0023
+eat chinese,1.0014
+cheap tasty,1.0
+delicious breakfast,1.0
+cod good,1.0
+good cafe,1.0
+great hang,1.0
+good services,1.0
+love breakfast,1.0
 wonderful,1.0
-place,0.9896
-fast,0.9634
-fried,0.9468
-inexpensive,0.9327000000000001
-lunch,0.9095
-clean,0.9018
-eat,0.8864
+great dining,0.9707
+chinese authentic,0.9568
+excellent food,0.9444
+price moderate,0.933
+menu nice,0.9309
+food excellent,0.9246
+cheap food,0.9158
+pork bun,0.9063
+baked pork,0.9054
+food friendly,0.9047
+love eating,0.8894
+delicious asians,0.8882
+pork chop,0.8845
+hang,0.8801
+excellent,0.8763
+food slow,0.873
+good deli,0.8701
+authentic chinese,0.8666
+awesome food,0.8646
+expensive adding,0.8575
+small pricier,0.8497
+cod,0.848
+average taste,0.8357
+dining option,0.8353
+food great,0.8274
+worst restaurant,0.8257
+amazing restaurant,0.8227
+chinatown disappointed,0.8222
+side delicious,0.8197
+baked seafood,0.8188
+friendly staff,0.8168
+chinesse menu,0.8161
+deli seasoning,0.8128
+sweet bread,0.8075
+pretty food,0.8056
+food fresh,0.801
+waitress,0.7968
+expensive delicious,0.7967
+cafe daily,0.7958
+person delicious,0.7953
+deal chinese,0.7942
+clean cafe,0.7921
+tasty snack,0.7882
+good service,0.7881
+slow service,0.7865
+clean diner,0.7828
+good price,0.7755
+nice place,0.7709
+seafood rice,0.7578
+complete breakfast,0.7568
+breakfast casual,0.7561
+dining,0.7559
+moderate,0.7558
+worth lunch,0.7522
+menu,0.7521
+tea restaurant,0.748
+reasonable price,0.7465
 services,0.7438
-dining,0.7338
-slow,0.7109
-soups,0.7064
-disappointing,0.7049000000000001
-moderate,0.7041
-china,0.6990000000000001
-waitress,0.6921999999999999
-bread,0.692
-average,0.6751
-reasonable,0.6683
-value,0.6663
-authentic,0.6369
-chinesse,0.5991
-cod,0.5967
-product,0.5869
-meal,0.579
-deli,0.5758
-seasoning,0.5738
-dishes,0.5737
-real,0.5624
-staff,0.5551
-kong,0.5479
-hang,0.5469
-just,0.5373
-mediocre,0.5291
-restaurants,0.5266
-favorite,0.5173
-fresh,0.5148
-cooked,0.5143
-snack,0.5132
-best,0.509
-okay,0.4969
-ok,0.4965
-charges,0.4941
-pricier,0.4845
-option,0.4721
-nicest,0.472
-loved,0.4702
-asians,0.4599
-seafood,0.4598
-cake,0.4592
-chicken,0.4545
-cheese,0.4434
-money,0.4387
-dinning,0.4362
-quick,0.4246
-deal,0.4239
-toast,0.4174
-diner,0.4068
-enjoy,0.3952
-fish,0.3917
-cheeseless,0.3908
-cash,0.3859
-kitchen,0.38139999999999996
-daily,0.3745
-customer,0.3698
-person,0.368
-adding,0.363
-steak,0.3616
-flavours,0.3596
-macaroni,0.3584
-awesome,0.3469
-flavor,0.34540000000000004
-bargain,0.3435
-eggs,0.3431
-flavoring,0.3402
-sticky,0.3401
-oily,0.3399
-coffee,0.3394
-porridge,0.3379
-bad,0.3357
-foodie,0.3355
-pepper,0.3347
-cooking,0.3346
-tasteless,0.3343
-sucks,0.3339
-donuts,0.3296
-pay,0.329
-microwave,0.3232
-crowded,0.3167
-bbq,0.3119
-hk,0.3111
-sf,0.3039
-goods,0.3017
-recommended,0.3016
-很多人都不会注意到这些并且给他们另算小费,0.2992
-disgusting,0.297
-hungry,0.2935
-french,0.2901
-angel,0.2871
-lobster,0.2851
-prawns,0.282
-mugging,0.2721
-heart,0.2719
-casual,0.2712
-ruin,0.2632
-sandwiches,0.259
-hong,0.2576
-stew,0.2555
-sweet,0.2534
-poor,0.2508
-specials,0.2479
-overdone,0.2433
-bland,0.2415
-drink,0.2397
-afterwork,0.2378
-rude,0.2373
-buns,0.2345
-amazing,0.2284
-steam,0.2275
-pretty,0.2275
-prices,0.2223
-liked,0.219
-flavorful,0.2182
-cuisine,0.2182
-yesterday,0.2165
-allowed,0.2149
-idiot,0.2124
-tongo,0.2084
-charge,0.2079
-spacious,0.2027
-racist,0.2021
-relaxing,0.2008
-stars,0.19979999999999998
-bank,0.1982
-soda,0.1931
-brunch,0.1928
-cream,0.1909
-hardcore,0.1871
-bubble,0.1847
-cook,0.1819
-walnuts,0.1791
-checkout,0.1779
-hard,0.1773
-他们把小费加在账单里,0.1762
-authenticity,0.1746
-tax,0.1742
-scrambled,0.1735
-shanghai,0.1662
-shrimp,0.1653
-tofu,0.1646
-atm,0.1639
-sesame,0.163
-unfortunately,0.1625
-meals,0.1622
-parking,0.1613
-2022,0.1543
-fries,0.1536
-asian,0.1531
-crowding,0.1511
-tasted,0.1507
-agitated,0.15
-cold,0.1497
-warm,0.1475
-old,0.1474
-bathrooms,0.1452
-potatoes,0.1442
-yum,0.1438
-super,0.1431
-6pm,0.14
-double,0.139
-salty,0.1383
-need,0.137
-crunchy,0.1355
-card,0.1334
-charsubao,0.1312
-bother,0.1301
-employees,0.13
-thousand,0.1296
-waiters,0.1288
-tomato,0.1238
-stumbled,0.1152
-afternoon,0.1144
-egg,0.1132
-ate,0.1129
-complete,0.1107
-appreciate,0.1087
-big,0.1084
-corn,0.1072
-vermicelli,0.1066
-warmed,0.1061
-ignored,0.1041
-kind,0.0972
-tasting,0.0907
-debt,0.0886
-20,0.087
-low,0.0861
-cards,0.0803
-white,0.0738
-try,0.0721
-spoon,0.0679
-popular,0.0653
-cleaner,0.0643
-basic,0.0627
-table,0.0587
-server,0.0566
-woman,0.0561
-polynesian,0.0538
-ask,0.0496
-sister,0.049
-chop,0.0455
-canceled,0.0454
-40,0.036
-beware,0.0316
-hurry,0.0292
-honolulu,0.0279
-elderly,0.0231
-ice,0.0166
-ordered,0.0164
-congee,0.0082
-plate,0.0012
-extra,0.0008
-tips,-0.0008
-boba,-0.0074
-english,-0.011700000000000002
-chilly,-0.0123
-rolls,-0.0135
-sauce,-0.0148
-tables,-0.0171
-cheated,-0.0197
-greasy,-0.0204
-bowl,-0.0271
-cents,-0.029
-fainted,-0.1041
+worst service,0.7424
+product okay,0.7356
+liked soup,0.729
+delicious place,0.7278
+fish tofu,0.7273
+service,0.7258
+great customer,0.7249
+breakfast quick,0.7242
+heart chinatown,0.7205
+nice person,0.7197
+recommended breakfast,0.719
+mediocre food,0.7171
+food taste,0.7155
+oily noodle,0.713
+spacious restaurant,0.7116
+afterwork dinner,0.7063
+noodle salty,0.7052
+dinner friendly,0.7047
+breakfast friendly,0.7031
+flavoring tasty,0.7018
+favorite charsubao,0.7006
+good value,0.6967
+cafe good,0.6962
+eating baked,0.696
+lunch dinner,0.6947
+small amount,0.6934
+cantonese charge,0.6923
+worst place,0.6915
+super inexpensive,0.6898
+fried chicken,0.6889
+nice,0.6862
+diner relaxing,0.6841
+restaurant noodle,0.6821
+absolutely delicious,0.6817
+anddecent food,0.6807
+inexpensive yum,0.6792
+chinese dish,0.6783
+okay price,0.6774
+daily special,0.6761
+cake heaven,0.675
+food disappointing,0.6727
+tea french,0.6705
+beef fried,0.6693
+tasty walnut,0.6678
+nicest service,0.6677
+slow,0.6616
+cash cafe,0.6608
+fried noodle,0.6579
+baked beef,0.6546
+favorite cantonese,0.654
+pricier side,0.6537
+food cantonese,0.6492
+chinatown crowding,0.648
+tea bland,0.6479
+flavoring good,0.6473
+friendly,0.6465
+cafe quick,0.6462
+food nice,0.645
+product,0.6446
+delicious fast,0.6432
+loved walnuts,0.6429
+cream tasty,0.6422
+noodle fried,0.6381
+scrambled egg,0.6374
+ordered soup,0.6369
+basic chinese,0.6345
+breakfast brunch,0.6341
+french toast,0.6324
+good chinese,0.6322
+macaroni chicken,0.6301
+wonton cheeseless,0.6295
+lobster steak,0.6289
+asians,0.6276
+food heart,0.6274
+congee beef,0.6265
+warmed microwave,0.6259
+charge extra,0.6249
+inexpensive clean,0.6229
+asians allowed,0.6182
+speak cantonese,0.6174
+spaghetti bbq,0.6139
+authentic place,0.6126
+ham macaroni,0.6123
+light milk,0.6114
+english well,0.6097
+crunchy noodle,0.6085
+pay meal,0.608
+make favorite,0.6076
+taste great,0.6052
+adding charge,0.601
+quick tasty,0.6008
+fresh good,0.6007
+try eating,0.5998
+chicken rice,0.5997
+reasonable,0.5986
+well cooked,0.5968
+tasteless hungry,0.5961
+deli,0.5948
+style milk,0.5946
+soup noodle,0.5943
+authentic,0.5933
+speak english,0.5931
+inexpensive,0.593
+brisket soup,0.5924
+charge bill,0.5916
+chinese restaurants,0.5915
+sf chinatown,0.5912
+cafe tongo,0.5851
+lunch,0.585
+cantonese,0.5843
+angel food,0.5827
+beef noodle,0.5801
+food cake,0.5799
+cheese wonton,0.5798
+baked good,0.5794
+best chinese,0.5789
+food qualify,0.5781
+cantonese cooking,0.5768
+clean kitchen,0.5766
+breakfast including,0.5745
+cook amazing,0.5745
+cafe offer,0.5743
+service fast,0.5742
+great service,0.5721
+relaxing meal,0.5717
+esp fish,0.5717
+disappointing tasty,0.5716
+authentic book,0.5714
+bland tasteless,0.5712
+egg prawn,0.5712
+fresh tea,0.5711
+best asian,0.5704
+chinatown hard,0.5693
+restaurant area,0.5681
+cheeseless,0.5672
+server rude,0.5668
+soup restaurant,0.5651
+good employee,0.5648
+cheeseless hard,0.5639
+food ordered,0.5636
+never food,0.5632
+soup great,0.5626
+egg pork,0.5624
+noodle authentic,0.561
+noodle chow,0.5609
+soup delicious,0.5602
+breakfast dinner,0.5583
+seasoning,0.558
+recommend rice,0.5575
+hardcore foodie,0.556
+walnut crunchy,0.5528
+worst,0.5526
+casual dinning,0.5526
+foodie appreciate,0.5522
+bread like,0.5514
+porridge brisket,0.5509
+chinese rice,0.5484
+spot beef,0.5475
+amount soup,0.5473
+including coffee,0.5468
+white rice,0.5464
+rude customer,0.5452
+charge double,0.542
+mediocre,0.5411
+beef egg,0.54
+local eat,0.5397
+charge,0.5388
+extremely mediocre,0.5387
+menu chinese,0.5387
+breakfast food,0.5385
+prawn disappointing,0.5384
+pepper spaghetti,0.5382
+yummy food,0.5362
+daily,0.534
+dinner,0.5334
+bad server,0.532
+best chinatown,0.531
+chinese donut,0.5309
+fine beef,0.5284
+best tasted,0.5281
+restaurant cash,0.5275
+wonton soup,0.5269
+bathrooms disgusting,0.526
+loved good,0.5242
+amazing rice,0.5235
+cake,0.5214
+delicious authentic,0.5207
+cleaner chinese,0.5206
+love,0.5191
+really inexpensive,0.5181
+ordered beef,0.5168
+waiting waitress,0.5156
+dinner food,0.5152
+bubble tea,0.5143
+pick beef,0.514
+service good,0.5129
+need dinner,0.5123
+pepper beef,0.5101
+microwave dried,0.5094
+extra tip,0.5089
+rich tea,0.5085
+ever never,0.5077
+macaroni,0.5066
+steak okay,0.5064
+fish,0.5059
+wonderful drink,0.5058
+baked food,0.5025
+english,0.5004
+credit card,0.4993
+everyday shanghai,0.499
+cheap hong,0.4935
+tasted good,0.4925
+food milk,0.4919
+rice roll,0.4917
+comfort food,0.4915
+nicest,0.4914
+eat local,0.4912
+everything sticky,0.4886
+option,0.4883
+fry noodle,0.4875
+great noodle,0.4854
+food authentic,0.4819
+tasty unfortunately,0.4796
+steak,0.4794
+restaurant clean,0.4791
+cash check,0.479
+dish taste,0.479
+cooked perfectly,0.4783
+er delicious,0.4782
+steamed pork,0.477
+english food,0.4753
+bakery low,0.4745
+restaurant worst,0.4726
+help waitress,0.4708
+diner,0.4705
+chop spaghetti,0.4703
+food polynesian,0.4689
+dinner restaurant,0.4677
+style bakery,0.4654
+tasteless,0.4652
+service worst,0.4636
+canteen menu,0.4624
+tea interesting,0.4601
+otherwise charge,0.4595
+delicious boba,0.4592
+checkout accepts,0.4583
+bad table,0.4575
+toilet clean,0.4568
+stir fried,0.4565
+service restaurant,0.4565
+mushy flavoring,0.4563
+fried chong,0.4559
+service sucks,0.4557
+dinning,0.4546
+soup received,0.4542
+lobster,0.4537
+cafe hawaiian,0.4532
+pork congee,0.4531
+club sandwich,0.4529
+steam bun,0.4528
+menu bakery,0.4516
+menu bottom,0.451
+crowded however,0.4497
+peppered beef,0.4495
+mongolian beef,0.449
+old egg,0.4472
+food china,0.4462
+tea sweetened,0.4456
+tea flavor,0.4451
+service value,0.4451
+qualify baked,0.443
+clean noodle,0.4418
+restaurant neighborhood,0.4417
+restaurant popular,0.4414
+authentic food,0.4392
+soup bad,0.4387
+delicious singapore,0.4377
+absolute worst,0.4372
+ruin business,0.4351
+tea food,0.4349
+worst worst,0.4341
+foodie,0.4333
+location chinatown,0.4322
+sandwich baked,0.4319
+chicken broth,0.4315
+vegetable noodle,0.431
+dinner taste,0.4302
+dish dinner,0.4282
+worst absolute,0.4281
+price order,0.4261
+flavoring,0.426
+chinese cafe,0.4257
+never go,0.4255
+spaghetti egg,0.4253
+seen waitress,0.4247
+customer service,0.4243
+great tasting,0.4236
+bun sesame,0.4208
+hawaiian food,0.4207
+tips bills,0.4192
+average bathrooms,0.4192
+eat breakfast,0.4168
+waitress bos,0.4166
+cash pay,0.416
+traditional cantonese,0.4142
+meal,0.4136
+cafe chinatown,0.4133
+wife beef,0.4125
+bun cheap,0.411
+good restaurant,0.4103
+stir fry,0.4081
+pork,0.4073
+microwave,0.407
+french fry,0.4062
+waitrist racist,0.4061
+quite crowded,0.4058
+beef tender,0.4051
+thousand year,0.4044
+ask price,0.4041
+rice tasted,0.4039
+pork salted,0.4008
+waitstaff cook,0.3998
+food service,0.3993
+yummy ate,0.3963
+town bathrooms,0.3961
+boba tea,0.396
+cooking grease,0.3951
+tasted great,0.3948
+cuisine tasted,0.3946
+chinese shame,0.3945
+waitress walked,0.3931
+restaurant changed,0.3901
+changed yesterday,0.3885
+lunch family,0.3884
+poor service,0.3882
+eaten delicious,0.388
+saw pork,0.3856
+recommend baked,0.3853
+chop rice,0.3809
+served faster,0.3802
+restaurants old,0.3799
+old cooking,0.3777
+fry french,0.3762
+store cheated,0.3712
+price menu,0.3687
+tea good,0.3682
+taste bad,0.366
+service bad,0.3641
+shredded pork,0.3631
+pepper pork,0.3615
+bite pork,0.3586
+francisco china,0.3566
+tea great,0.3565
+dirty chinese,0.3565
+base tax,0.3563
+rice huge,0.3555
+go every,0.3543
+food consistent,0.3503
+problematic food,0.3458
+love place,0.3444
+wanted eat,0.3439
+menu recommend,0.3309
+one shrimp,0.3266
+every table,0.3261
+woman working,0.3242
+portion noodle,0.3215
+beef brisket,0.3195
+overchsrge worst,0.3192
+serve menu,0.3181
+cafe cash,0.3178
+service suck,0.3138
+quick delicious,0.313
+shrimp cut,0.3103
+restaurant almost,0.3044
+beef like,0.3019
+cafe new,0.3012
+woman paid,0.2992
+flavor great,0.2962
+worst lady,0.2864
+even restaurant,0.2854
+price taste,0.2848
+sticky rice,0.2834
+ridiculously poor,0.2825
+racist gave,0.2788
+tea taste,0.278
+racist,0.2773
+brisket noodle,0.2756
+tasted fainted,0.2676
+service ridiculously,0.2579
+go restaurant,0.2501
+menu pointed,0.2484
+potato egg,0.2474
+changed owner,0.2424
+real potato,0.235
+fry best,0.2155
+checked hurry,0.1876
+faster minute,0.1702
+note menu,0.1663

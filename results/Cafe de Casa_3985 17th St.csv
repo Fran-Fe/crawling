@@ -1,388 +1,897 @@
 keyword,weight
-thank,137.1839
-business,87.273
-hope,52.2599
-feedback,40.2247
-experience,38.1166
-rating,35.0446
-leaving,33.2832
-taking,30.779200000000003
-food,24.4131
-value,24.0329
-coffee,23.02
-review,20.5311
-delicious,16.9964
-brazilian,14.9149
-soon,12.479500000000002
-great,10.569799999999999
-time,9.4982
-cheese,8.6836
-good,7.2559000000000005
-tasty,7.2008
-amazing,6.7638
-friendly,5.663
-cafe,5.4274000000000004
-beautiful,5.2252
-bread,5.1738
-sandwich,5.1001
-sandwiches,5.084
-nice,4.9407
-service,4.8806
-best,4.8375
-clean,4.4554
-breakfast,3.7975
-place,3.6602
-pastries,3.4783
-rude,3.0779
-lunch,2.9391
-coconut,2.8891999999999998
-menu,2.6776999999999997
-pastry,2.6317
-favorite,2.4698
-love,2.3529999999999998
-excellent,2.2933
-authentic,2.2076000000000002
-brazil,1.9793
-cute,1.8959
-juice,1.8485
-awesome,1.8295
-cake,1.7955999999999999
-café,1.7782
-chocolate,1.7766
-chicken,1.7317
-staff,1.7247
-juices,1.6978
-rich,1.6855
-snacks,1.6602000000000001
-sweet,1.6226
-cheesebread,1.4153
-simple,1.3898000000000001
-salad,1.3884
-flavorful,1.3752
-perfect,1.3483
-opened,1.3175999999999999
-milk,1.3082
-bacon,1.2998
-castro,1.2871000000000001
-bakery,1.2572999999999999
-espresso,1.2449
-latte,1.2026999999999999
-restaurant,1.2023
-steak,1.1994
-wonderful,1.1445
-taste,1.1326
-bowl,1.1253
-fresh,1.1166
-bathroom,1.089
-coffees,1.0676
-cozy,1.0538
-sauce,1.0468000000000002
-pleasant,0.9957
-ambience,0.9814999999999999
-100000,0.958
-portuguese,0.9491999999999999
+thank leaving,125.99539999999999
+thank,84.8523
+leaving rating,67.3916
+experience business,66.8454
+thank taking,59.068200000000004
+leave feedback,58.002700000000004
+business hope,57.806999999999995
+time leave,57.088499999999996
+taking time,57.0526
+value business,39.201699999999995
+leaving review,29.1132
+leaving,27.1121
+feedback hope,25.150000000000002
+review business,23.922
+see soon,19.5275
+hope,17.301399999999997
+hope see,17.1786
+business,15.7952
+coffee,13.6708
+soon,11.5695
+brazilian food,11.5648
+review hope,11.4375
+food,9.4854
+delicious,8.6824
+cheese bread,8.4233
+brazilian,8.0869
+best brazilian,5.5803
+delicious coffee,4.781
+great,4.3317
+leaving feedback,4.226500000000001
+good food,4.1895
+great coffee,4.0635
+tasty,3.8944
+cheese,3.738
+delicious brazilian,3.7298
+feedback,3.624
+carrot cake,3.5976
+great food,3.1552
+amazing food,3.0869999999999997
+coconut bread,2.8605
+best,2.8406000000000002
+friendly staff,2.8382
+authentic brazilian,2.7999
+food great,2.7531
+food tasty,2.6143
+delicious food,2.4402
+amazing,2.3689
+sandwich,2.3592
+nice place,2.2576
+amazing brazilian,2.2077999999999998
+cake chocolate,2.2074
+bread sandwich,2.1731
+place good,2.1078
+good coffee,2.1006
+churrasco sandwich,1.9743
+brazilian pastry,1.9712999999999998
+cafe,1.8107000000000002
+good,1.798
+service food,1.7837
+great brazilian,1.7647
+salad delicious,1.7381000000000002
+food nice,1.7359
+service,1.724
+rude,1.6877
+coffee good,1.6659
+brazilian coffee,1.6343999999999999
+tasty coffee,1.6308
+awesome,1.5614
+coffee delicious,1.5483
+place,1.5293999999999999
+coffee nice,1.5016
+nice people,1.4955
+food welcome,1.4941
+food amazing,1.4895
+brazil,1.4830999999999999
+ham cheese,1.4696
+tropical salad,1.4658
+cheesebread,1.4649
+brazilian breakfast,1.4630999999999998
+amazing coffee,1.4506999999999999
+food coffee,1.4457
+food delicious,1.4386
+nice staff,1.4364
+breakfast,1.4331
+delicious sandwich,1.4256
+great service,1.4024999999999999
+food friendly,1.396
+brazilian cafe,1.3923
+taste brazil,1.3612000000000002
+beautiful,1.3566
+delicious chicken,1.3517000000000001
+gluten free,1.3458
+salad,1.3397999999999999
+favorite restaurant,1.2934
+great cafe,1.2784
+loved food,1.2555
+savory sweet,1.2469
+juice cheese,1.2422
+cream cheese,1.242
+pastry coffee,1.2357999999999998
+pastry good,1.2258
+menu,1.2106
+bacon,1.2046000000000001
+pineapple mint,1.2014
+sandwich coffee,1.1852
+food beautiful,1.1843
+best bowl,1.1718000000000002
+coffee pastry,1.165
+space delicious,1.1519
+ordered cheese,1.1442999999999999
+pastry,1.1413
+coffee food,1.1006
+cheese sandwich,1.0957
+lunch,1.0707
+brazilian restaurant,1.0674000000000001
+bread cheese,1.0586
+hot sauce,1.05
+food good,1.0495
+cup coffee,1.046
+breakfast sandwich,1.0442
+excellent service,1.0242
+vegetarian,1.0241
+sandwich lunch,1.0156
+tasty authentic,1.0028000000000001
+extremely tasty,1.0
+note,1.0
+delicious clean,1.0
+amazing always,1.0
+awesome place,1.0
+great opened,1.0
+kool place,1.0
+queijo sandwich,0.9734
+cheese puff,0.9724
+awesome brazilian,0.9702
+amazing cheesebread,0.962
+delights salted,0.9549
+brazilian bite,0.9517
 kool,0.9478
-loved,0.944
-salads,0.9265000000000001
-savory,0.9262
-quality,0.9215
-pineapple,0.921
-adorable,0.8871
-try,0.8815999999999999
-kind,0.8687
-welcome,0.8631
-hot,0.8594999999999999
-fantastic,0.8455
-avocado,0.8412999999999999
-snack,0.8160000000000001
-note,0.8140000000000001
-salted,0.7702
-restaurants,0.7631
-delights,0.7561
-carrot,0.7364999999999999
-expensive,0.7313000000000001
-pricey,0.7282
-seating,0.7182
-tea,0.7013
-flavors,0.6974
-new,0.6835
-people,0.6718
-helpful,0.6669
+good service,0.945
+best sf,0.9436
+environment sweet,0.943
+excellent coffee,0.9328
+orange juice,0.9300999999999999
+latte,0.9292
+latte milk,0.9265
+splendid coffee,0.9228
+opened,0.921
+french bread,0.9177
+coffee shop,0.9149
+pastry pleasant,0.905
+kind staff,0.9012
+sweet treat,0.8992
+exquisite menu,0.8914
+clean,0.8815
+coffee rich,0.8796
+salad sandwich,0.8776
+best coffee,0.8772
+traspot beautiful,0.872
+hot chocolate,0.8695999999999999
+salted service,0.8679
+large appetizing,0.8677
+rude employee,0.8646
+terrible food,0.8639
+brazilian spot,0.8631
+lunch never,0.8624
+brazilian eatery,0.8619
+great environment,0.858
+great view,0.8557
+nice,0.8536
+pastry salad,0.8514
+people delicious,0.8473
+great costumer,0.8465
+lunch delicious,0.8443
+yummy food,0.8408
+beautiful view,0.8404
+amazing flavor,0.8398
+snack,0.839
+always,0.8382
+delicious kind,0.8291
+salted,0.8279
+steamed latte,0.8271
+new coffee,0.8201
+juice,0.8170999999999999
+quality food,0.815
+employee terrible,0.8096
+brazilian san,0.8075
+food reasonable,0.8075
+portuguese place,0.8035
+sandwich world,0.8025
+atmosphere friendly,0.8019
+amazing ambience,0.7996
+order portuguese,0.7968
+cozy tasty,0.7962
+delicious salads,0.7952
+also delicious,0.7907
+delicious nutella,0.7901
+highlight week,0.7889
+good cheesebread,0.7885
+ufff delicious,0.7861
+delicious definitely,0.7809
+came brazilian,0.7798
+pleasant seating,0.7795
+tasty fresh,0.779
+portuguese,0.7782
+excellent lunch,0.7778
+bad hour,0.7773
+cheesebread sandwich,0.777
+food toppppppppp,0.7762
+pot rice,0.774
+wonderful food,0.7736
+taste coffee,0.7734
+food service,0.7726
+mur delicious,0.7693
+ambience amazing,0.7686
+good atmosphere,0.7679
+restaurant clean,0.7644
+brazilian empanas,0.7637
+beautiful people,0.7623
+service cute,0.761
+delights,0.7601
+oh delicious,0.7593
+sweet,0.7591
+delicious pineapple,0.7587
+cutest coffee,0.7585
+milk,0.7582
+sf,0.7582
+lovely cafe,0.7572
+chicken delicious,0.7549
+brazilian delicious,0.754
+salads amazing,0.7532
+menu high,0.7528
+try thing,0.7515
+horrible customer,0.7513
+delicious case,0.7504
+coxhinas excellent,0.7479
+neat novel,0.7477
+bacon avocado,0.7475
+delicious churrasco,0.7475
+friendly style,0.7467
+already service,0.7456
+favorite coffee,0.7445
+good pot,0.7426
+disappointed empana,0.7418
+novel pastry,0.7403
+unique menu,0.7395
+rich friendly,0.737
+anything menu,0.7355
+welcome setting,0.7352
+recommend pastry,0.7348
+cheese delicious,0.7345
+place fantastic,0.7329
+making sandwich,0.7326
+closing difficult,0.7322
+coffee beautiful,0.7318
+coffee donkin,0.7317
+love cafe,0.7294
+staff love,0.7294
+authentic food,0.7285
+free breakfast,0.7284
+food clean,0.7276
+food slow,0.7245
+tasty menu,0.7226
+enjoy caffeine,0.7213
+empanas disappointed,0.7212
+coffee lovely,0.7196
+eat wonderful,0.7184
+favorite,0.7178
+brazilian salgadinhos,0.7164
+puff omg,0.7149
+returning try,0.7128
+waiter able,0.7116
+coffee place,0.7114
+french,0.7103
+avocado sandwich,0.7101
+flavorful nice,0.7079
+breakfast lunch,0.7065
+good snack,0.7051
+food note,0.705
+option brazilian,0.7047
+egg bacon,0.7044
+able order,0.7035
+favorite caf,0.7032
+price friendly,0.703
+tasty breakfast,0.7021
+costumer service,0.6994
+snack coffee,0.699
+damn tasty,0.6979
+beautiful space,0.6951
+best food,0.6934
+san francisco,0.6902
+sandwich coming,0.6896
+bread special,0.6892
+latte coffee,0.6887
+high quality,0.6869
+perfect service,0.6847
+hands best,0.6843
+breakfast tasty,0.6827
+flavorful,0.6813
+coffee bathroom,0.6792
+cute vibe,0.6784
+cute place,0.6781
+nicest bathroom,0.677
+menu selection,0.677
+excellent opened,0.6768
+brazil land,0.6765
+quality coffee,0.6756
+appetizing,0.6753
+brigadeiros coffee,0.6736
+option vegetarian,0.6717
+good sandwich,0.6695
+amazing coconut,0.669
+cafe great,0.669
+food excellent,0.668
+juice fresh,0.6671
+rice coxinha,0.6657
 extremely,0.6648
-appetizing,0.6591
-treats,0.6583
-puffs,0.6392
-spot,0.6285999999999999
-highly,0.6254
-terrible,0.6187
-costumer,0.6186
-coxinha,0.615
-lots,0.6129
-francisco,0.5896
-able,0.5826
-smiley,0.5809
-steakhouses,0.5768
-10,0.5764
-histroric,0.5723
-view,0.5714
-french,0.5669
-dinner,0.5625
-warm,0.559
-large,0.5543
-waiters,0.548
-atmosphere,0.5451
-yummy,0.5395
-neat,0.5393
-rice,0.5338
-phenomenal,0.5322
-environment,0.5315
-slow,0.5296
-meals,0.5289
-high,0.5268
-vegetarians,0.5262
-shop,0.5241
-dishes,0.5214
-small,0.52
-reasonable,0.5191
-fries,0.5181
-disrespectful,0.5178
-returning,0.5151
-pleased,0.5145
-cream,0.5087
-vibe,0.5037
-omg,0.4968
-free,0.49429999999999996
-order,0.4931
-toppppppppp,0.4914
-traspot,0.4908
-fabulous,0.4815
-favorites,0.4766
-dessert,0.4754
-week,0.4742
-steamed,0.4732
-generous,0.4704
-casual,0.4656
-wifi,0.4632
-donut,0.4626
-congrats,0.4626
-style,0.46
-pot,0.4596
-sf,0.4586
-pie,0.4521
-gluten,0.4507
-churrasco,0.4487
-happy,0.4457
-eat,0.44530000000000003
-uncle,0.4403
-attention,0.4402
-horrible,0.4388
-special,0.4365
-caffeine,0.4356
-novel,0.4296
-options,0.4226
-exquisite,0.4209
-pushy,0.4179
-setting,0.4148
-waiter,0.4142
-tropical,0.4136
-splendid,0.413
-nicest,0.4126
-attended,0.4121
-hours,0.4082
-addicting,0.4076
-corn,0.4045
-reheated,0.4024
-employees,0.4003
-highlight,0.3994
-bowls,0.3986
-ideal,0.3927
-surprising,0.3906
-unique,0.39
-beef,0.3897
-san,0.3877
-brazilians,0.382
-spacious,0.38
-gastronomy,0.3792
-faucet,0.375
-00,0.3731
-mochas,0.3704
-salgadinhos,0.3681
-flavor,0.3678
-lovely,0.3666
-coming,0.3662
-relax,0.366
-takeout,0.3642
-decoration,0.3636
-choices,0.3612
-pudding,0.3609
-upbeat,0.3592
-fast,0.3576
-needs,0.3538
-efficient,0.3526
-working,0.3517
-jelly,0.3512
-cappuccino,0.3492
-recommend,0.344
-sure,0.3406
-cutest,0.3356
-quite,0.3339
-terrific,0.3319
-congratulations,0.3261
-beans,0.3257
-worth,0.3239
-prices,0.321
-sweetness,0.3192
-tomato,0.3192
-things,0.3184
-closing,0.3181
-meal,0.3175
-50,0.3166
-weekday,0.316
-50pm,0.3152
-casserole,0.3081
-house,0.3079
-inviting,0.3068
-europe,0.3068
-dissapoint,0.3058
-nutella,0.3024
-want,0.3018
-soda,0.3011
-spicy,0.3011
-girlfriend,0.2998
-açaí,0.2996
-starved,0.2968
-ceasar,0.2933
-7pm,0.2921
-space,0.2919
-skipped,0.2913
-coxhinas,0.2904
-picaña,0.284
-acai,0.283
-gorgeous,0.2817
-polite,0.2789
-60,0.2787
-flavorsome,0.2782
-healthy,0.2732
-hearth,0.2731
-wine,0.2725
-average,0.2666
-courteous,0.266
-flavored,0.2585
-wish,0.258
-town,0.2578
-beer,0.2556
-freshly,0.2547
-fruity,0.2501
-hands,0.2499
-sam,0.2456
-green,0.24510000000000004
-google,0.2376
-cramped,0.2372
-beach,0.2359
-impeccable,0.2355
-girlboss,0.2347
-mozzarella,0.2281
-dream,0.2237
-presentation,0.2167
-laptops,0.2165
-breading,0.2142
-got,0.2131
-closed,0.21200000000000002
-customer,0.2108
-vegetarian,0.2092
-sweets,0.209
-chalky,0.2069
-decadent,0.2059
-la,0.204
-served,0.2
-onion,0.2
-better,0.1989
-star,0.1945
-world,0.194
-30pm,0.1933
-hit,0.1931
-drinks,0.1925
-eatery,0.1898
-undone,0.1895
-donkin,0.185
-december,0.1848
-smoothies,0.184
-future,0.1831
-cocunut,0.1828
-fatal,0.1822
-6pm,0.182
-afternoon,0.1803
-loveit,0.1792
-fried,0.1781
-difficult,0.1755
-reason,0.1737
-visited,0.1672
-dough,0.1642
-fruit,0.1639
-menus,0.1623
-appetite,0.1619
-cashier,0.1617
-allergic,0.1605
-watery,0.1563
-sunday,0.1562
-buns,0.155
-fish,0.1548
-disappointed,0.1515
-childhood,0.149
-bucket,0.1466
-sugar,0.1435
-tempting,0.1422
-unforgivable,0.1407
-meat,0.1387
-meats,0.1381
-liked,0.1379
-tasted,0.1366
-translator,0.1232
-foods,0.1204
-empanas,0.1194
-customers,0.1187
-saturday,0.1159
-phone,0.1126
-zen,0.1108
-outdoor,0.1097
-bun,0.1095
-convenient,0.1046
-hate,0.1037
-dairy,0.0988
-15,0.097
-20pm,0.0886
-disappointment,0.0869
-empana,0.0845
-frustrating,0.0835
-bogglingly,0.0785
-need,0.074
-granola,0.0737
-dry,0.0647
-unreliable,0.0628
-paulo,0.0562
-soft,0.0547
-milanese,0.0468
-addicted,0.0468
-bad,0.045799999999999993
-varieties,0.0456
-boyfriend,0.0418
-100s,0.0246
-change,0.0222
-soulcycle,0.0207
-baristas,0.0114
-badly,0.008
-ordered,-0.0036
-yesterday,-0.0084
-barista,-0.011
-didn,-0.0128
-enjoyed,-0.0209
-apologize,-0.0224
-brigadeiros,-0.0304
-thought,-0.0391
-guarana,-0.0523
-ordering,-0.0574
-huge,-0.0587
-appreciate,-0.0873
-live,-0.1153
-forgot,-0.137
-home,-0.1372
+healthy breakfast,0.6636
+francisco,0.6635
+nice casual,0.6632
+coffee smoothy,0.6631
+coffee undone,0.663
+costumer,0.6622
+comment coffee,0.6611
+rich steak,0.6587
+never dissapoint,0.6579
+free choice,0.6571
+pastry delicious,0.6565
+steak delicious,0.6563
+quiet coffee,0.6551
+fast food,0.6541
+menu decent,0.6536
+loved cappuccino,0.6531
+decadent pineapple,0.6529
+bright cafe,0.6519
+pastry rich,0.6516
+eat steakhouse,0.6513
+favorite breakfast,0.651
+heated coffee,0.6502
+food mostly,0.6498
+cute cafe,0.6493
+loved juice,0.6487
+coffee always,0.6482
+well bacon,0.6476
+could flavorful,0.646
+perfect place,0.6455
+delicious addicting,0.6455
+every time,0.6454
+beautiful pica,0.6435
+love atmosphere,0.6434
+rude staff,0.6434
+breakfast coconut,0.6418
+ambience,0.6417
+relax eat,0.6411
+sandwich tasty,0.6387
+dream coconut,0.6381
+bread thick,0.6376
+rude pushy,0.6376
+memory brazil,0.6373
+cafe excellent,0.6368
+chicken casserole,0.6365
+week place,0.6361
+cafe right,0.6357
+snack cheese,0.6354
+food restaurant,0.6353
+bread great,0.6333
+steak creamy,0.6333
+great mocha,0.6332
+kind,0.6325
+disrespectful talk,0.6325
+space food,0.6322
+bread perfect,0.6307
+best cafe,0.6305
+laptop weekend,0.6293
+bacon catupiry,0.629
+bread coffee,0.6262
+sauce spicy,0.6242
+cute coffee,0.6242
+eat great,0.6241
+puff,0.6231
+mocha amazing,0.6214
+coffee hot,0.6212
+enjoy coffee,0.6203
+staff nice,0.6203
+place cute,0.6199
+great new,0.6198
+small plate,0.6197
+bad,0.6197
+coffee bakery,0.6187
+food option,0.6173
+addicting congrats,0.6172
+takeout highlight,0.6169
+note already,0.6163
+rice,0.6159
+amazing fry,0.6159
+undone pastry,0.6156
+great option,0.6155
+product delicious,0.6153
+land uncle,0.6149
+coffee average,0.6148
+sandwich de,0.6147
+highly recommend,0.6144
+sandwich mix,0.6139
+uncle sam,0.6136
+milanese sandwich,0.6129
+sandwich latte,0.6119
+food awesome,0.6113
+tea carrot,0.6112
+coffee bad,0.6099
+cheese chicken,0.6089
+coxinhas favorite,0.6087
+menu person,0.6081
+coffee house,0.6077
+flavor,0.6052
+brazilian good,0.6047
+bareista rude,0.6046
+pricey sf,0.6046
+difficult get,0.6043
+tasty got,0.6034
+opened time,0.603
+really need,0.6026
+sweet baked,0.6021
+coxinhas flavorful,0.6016
+coffee flavor,0.6007
+bowl hit,0.6006
+pastry coconut,0.5987
+casual environment,0.5986
+double coconut,0.5955
+pushy disrespectful,0.5934
+shop highly,0.5934
+tomato mozzarella,0.5932
+waiter,0.5922
+good pastry,0.5918
+coffee amazing,0.5917
+quite large,0.5914
+coffee brazilian,0.5909
+delicious coconut,0.5905
+sandwich amazing,0.5903
+caffeine,0.5901
+sandwich menu,0.59
+steakhouse,0.5889
+bowl splendid,0.5875
+nutella coffee,0.5874
+rich,0.5861
+coffee friendly,0.5858
+iced tea,0.5855
+also beautiful,0.5843
+castro really,0.5841
+coffee fantastic,0.5839
+difficult,0.5839
+always favorite,0.5835
+visited location,0.5835
+avocado tomato,0.5834
+hour google,0.5834
+quality presentation,0.583
+breakfast good,0.5829
+friendly customer,0.5827
+regular coffee,0.5822
+good expensive,0.5816
+steak favorite,0.5815
+coffee castro,0.5814
+clean simple,0.5802
+well served,0.58
+service coffee,0.5784
+cozy,0.5781
+food town,0.5775
+lovely outdoor,0.5768
+coffee favorite,0.5763
+gorgeous food,0.576
+bread cream,0.5751
+clean modern,0.575
+milk latte,0.5748
+bread,0.5744
+terrible,0.5743
+food wonderful,0.5743
+great juice,0.5742
+time every,0.5726
+attention coffee,0.572
+steakhouse like,0.5709
+donkin donut,0.5708
+new,0.5707
+food coxhinas,0.5704
+brazilian meal,0.5695
+location clean,0.5692
+coffee best,0.5691
+made latte,0.5675
+fresh food,0.5672
+sandwich delicious,0.5653
+delicious staff,0.5648
+smoothy brazilian,0.5632
+atmosphere coffee,0.563
+perfect,0.5629
+already,0.5617
+food pastry,0.5611
+great price,0.5611
+pastry excellent,0.5603
+brazilian gastronomy,0.5599
+great authentic,0.5598
+food cafe,0.5598
+afternoon pastry,0.5595
+clean staff,0.5588
+reasonable price,0.5583
+chicken coxinha,0.5579
+bread chicken,0.5576
+tea cream,0.5575
+nice service,0.5565
+tasty staff,0.5564
+free,0.5557
+food recommend,0.5555
+great location,0.5552
+staff wonderful,0.5547
+small coffee,0.5545
+miss brazilian,0.5542
+hit spot,0.5534
+weekday laptop,0.5519
+mint juice,0.5519
+steak great,0.5516
+bowl sandwich,0.5506
+coffee casual,0.5501
+week,0.5499
+bean pastry,0.5499
+warm carrot,0.5498
+la eat,0.5495
+smiley attended,0.549
+baked good,0.5486
+nice decoration,0.5478
+made cheese,0.5471
+juice cappuccino,0.547
+super tasty,0.547
+everything perfect,0.5464
+coffee min,0.5455
+sauce else,0.5454
+chicken bacon,0.545
+everything tasty,0.5438
+slow nd,0.5434
+sweet pastry,0.5432
+lunch sweet,0.5432
+delicious bread,0.543
+spot,0.5427
+coconut bun,0.542
+meat vegetarian,0.5414
+chocolate icing,0.5403
+another breakfast,0.5386
+clean cafe,0.5381
+coffee everything,0.538
+staff definitely,0.5373
+excellent brazilian,0.5372
+good cappuccino,0.5367
+recommend coconut,0.5362
+bathroom even,0.5362
+congrats entire,0.5362
+chicken parmigiana,0.5356
+cake delicious,0.5352
+pleasant walk,0.5346
+flavorful decadent,0.5346
+place phenomenal,0.5343
+hearty meal,0.5333
+cafe open,0.5328
+warm coxinha,0.5325
+chocolate also,0.5323
+worker nice,0.5322
+loved north,0.5316
+wish made,0.5311
+juice dream,0.5309
+served excellent,0.5308
+savory,0.5307
+brazilian carrot,0.5307
+wonderful impeccable,0.5298
+fruit latte,0.5286
+sandwich special,0.5281
+service smiley,0.5277
+clean pleasant,0.5271
+authentic dish,0.5269
+pleased spot,0.5269
+justice sandwich,0.5264
+coconut sweet,0.5257
+gluten,0.5254
+ordered pastry,0.5245
+squeezed juice,0.5242
+espresso friendly,0.5239
+zen clean,0.5237
+big salad,0.5234
+choice,0.5232
+food cheese,0.5232
+recommending coffee,0.5225
+sf surprising,0.5223
+beautiful little,0.5222
+cappuccino nice,0.5221
+service congratulations,0.5221
+drizzled chocolate,0.5213
+brazilian chicken,0.5206
+seating food,0.5205
+inviting atmosphere,0.5195
+ideal place,0.5193
+parmesan chicken,0.519
+cappuccino well,0.519
+food fantastic,0.5184
+sandwich gluten,0.5176
+usual carrot,0.5174
+delicious price,0.5166
+delicious really,0.5158
+sweet cake,0.5156
+omg,0.5153
+american girlfriend,0.5147
+excellent breading,0.5145
+chicken onion,0.5142
+cheese guava,0.5139
+beautiful plant,0.5138
+pastry wish,0.5137
+comfortable brazilian,0.5135
+snack chicken,0.5133
+treated well,0.5132
+appreciate food,0.5126
+nd rude,0.5124
+gf cheese,0.5124
+food soo,0.5117
+guava jelly,0.511
+pick snack,0.5099
+lunch menu,0.5098
+pot,0.5098
+steamed,0.5082
+fluffy bread,0.5055
+authentic,0.5053
+delicious filling,0.5051
+super flavorful,0.5049
+brasilian food,0.5046
+extended lunch,0.5045
+cake pleasing,0.5044
+salgadinhos ever,0.5044
+pricey,0.5038
+love caf,0.5033
+sandwich really,0.5031
+atmosphere cafe,0.5031
+store hour,0.5015
+chicken pot,0.5005
+amazing caf,0.4995
+dessert amazing,0.4993
+bakery breakfast,0.4991
+fry salad,0.4981
+every,0.4965
+lunch castro,0.4964
+cheese bun,0.4964
+bakery product,0.4958
+good everything,0.4958
+ventured wish,0.495
+bowl delicious,0.4942
+upbeat atmosphere,0.4939
+beef steak,0.4938
+cake usual,0.4934
+food fresh,0.4932
+latte amazing,0.493
+lunch dinner,0.4929
+beautiful place,0.4925
+staff,0.4925
+brazilian goody,0.4924
+oat milk,0.4922
+corn rissole,0.492
+store pm,0.4919
+queijo coffee,0.4908
+city beautiful,0.4906
+working great,0.4896
+dish cheese,0.4895
+impeccable service,0.4893
+awsome delicious,0.4891
+coxinha cheese,0.4872
+espresso coffee,0.4865
+brazilian flavor,0.4865
+coffee bowl,0.4862
+soft chocolate,0.4857
+great cheese,0.4851
+green juice,0.4851
+culo terrific,0.4851
+bathroom problem,0.4851
+chicken pie,0.485
+good brazilian,0.4847
+chocolate cheese,0.4846
+bread espresso,0.4841
+wifi free,0.484
+good bean,0.4829
+brazilian bakery,0.4829
+castro excellent,0.4827
+freshly squeezed,0.4826
+girlfriend addicted,0.4817
+tried coconut,0.4815
+mix mozzarella,0.4813
+bread cake,0.481
+good wifi,0.4805
+favorite place,0.4797
+well flavored,0.4788
+orange sauce,0.4764
+coffee great,0.4764
+recommend delicious,0.4763
+delicious super,0.476
+great pastry,0.4753
+coffee today,0.4742
+wish,0.4741
+bun avocado,0.4737
+change hour,0.473
+great latte,0.472
+enjoyed fish,0.4713
+pastry acai,0.4693
+good acai,0.4689
+dinner amazing,0.4688
+google map,0.4685
+lunch family,0.4677
+best brasilian,0.4676
+cheese beef,0.4652
+cake carrot,0.4635
+pot pie,0.4619
+try sandwich,0.4616
+delicious brunch,0.4606
+restaurant regret,0.4597
+juice carrot,0.4595
+vegetarian peanut,0.4558
+chocolate tasted,0.4555
+cheese roll,0.4554
+cappuccino good,0.4553
+life pudding,0.4552
+beef corn,0.4531
+yellow cake,0.4527
+use bathroom,0.4519
+coconut roll,0.4516
+delicate milk,0.451
+sandwich mind,0.4509
+bc cafe,0.4508
+fresh delicious,0.4505
+nordestino steak,0.4502
+juice freshly,0.4495
+drip coffee,0.4486
+gorgeous inside,0.4478
+great cappuccino,0.4477
+coffee also,0.4476
+salad finally,0.4474
+friendly helpful,0.4471
+coffee delivered,0.4467
+cafe shop,0.4466
+brazil looking,0.4453
+hands,0.445
+delicious recommend,0.4448
+feijoada snack,0.4448
+delicious highly,0.4447
+great snack,0.4442
+pastry sandwich,0.4437
+flavorsome tasty,0.4422
+pudding dessert,0.4418
+quick service,0.4405
+beef acebollado,0.4386
+loved everything,0.4368
+tapioca carrot,0.4365
+special,0.4355
+super cozy,0.4349
+coxinha chicken,0.4345
+bowl chicken,0.4341
+beer wine,0.4338
+min closing,0.4333
+good flavorsome,0.4309
+salads,0.4302
+selection food,0.4297
+north beach,0.4297
+everything delicious,0.4294
+wine dining,0.4291
+cake juice,0.4256
+enough food,0.4246
+recommended healthy,0.4227
+creamy rice,0.4225
+restaurant ever,0.4211
+salad bowl,0.4204
+acai bowl,0.42
+chicken vegetable,0.4197
+weekday coffee,0.4192
+perfect always,0.4186
+meal snack,0.4178
+best latte,0.4172
+small chicken,0.4161
+coffee etc,0.4156
+bread grilled,0.4147
+got beef,0.4144
+juice coffee,0.4141
+staff warm,0.4137
+meat delicious,0.4128
+onion drawback,0.4123
+bathroom,0.4122
+green experience,0.4115
+kitchen cafe,0.4103
+enjoying sandwich,0.4099
+already closed,0.4093
+pastry really,0.4093
+employee space,0.4087
+good carrot,0.408
+instant favorite,0.4078
+brazilians friendly,0.407
+sunday lunch,0.4069
+nice taste,0.4067
+breakfast fresh,0.4062
+store restaurant,0.4059
+early dinner,0.4055
+cafe absolutely,0.4054
+warm delivered,0.405
+sugar addict,0.4038
+service love,0.4037
+preparation meat,0.4036
+staff sweet,0.4032
+really tasty,0.4017
+mistake food,0.4012
+place lunch,0.4012
+eating restaurant,0.3995
+communicate always,0.3991
+courteous polite,0.3991
+queijo fantastic,0.3989
+super friendly,0.398
+efficient staff,0.3957
+cafe offering,0.3947
+delicious brazilians,0.3937
+pm disappointed,0.3934
+chocolate flavoured,0.3933
+amazing staff,0.3933
+meat dry,0.3931
+pie cheese,0.3929
+beverage snack,0.3925
+cheese pao,0.392
+new favorite,0.3919
+wifi decent,0.3915
+favorite period,0.3908
+everyone expensive,0.3904
+two coffee,0.3898
+pastry super,0.3886
+chocolate mix,0.3882
+designed well,0.3817
+phone translator,0.3798
+rude service,0.3792
+tropical,0.378
+coffee coxinhas,0.3765
+water unforgivable,0.3764
+food beverage,0.3763
+american meal,0.3753
+closed pm,0.3749
+chicken cheese,0.3747
+business unreliable,0.3711
+girl cashier,0.3704
+fried egg,0.3689
+allergic dairy,0.3682
+coffee within,0.3665
+leave restaurant,0.3625
+cake,0.3611
+restaurant reason,0.3607
+chocolate paid,0.3594
+absolutely delicious,0.3587
+cake wait,0.3564
+mocha,0.3535
+glad neighborhood,0.3533
+watery clear,0.3531
+went breakfast,0.3515
+nice outdoor,0.3491
+missed brazil,0.3488
+restaurant first,0.3481
+food bay,0.3469
+last week,0.3457
+caf san,0.3442
+natural orange,0.3427
+staff marvelous,0.3424
+restaurant,0.3421
+try restaurant,0.3416
+guarana soda,0.341
+plenty table,0.3394
+snack yesterday,0.3378
+back december,0.3373
+dense wifi,0.3353
+coffee stayed,0.3353
+cake tried,0.3329
+soda try,0.3322
+dry mistake,0.3264
+bucket many,0.3245
+flavorsome,0.324
+excellent experience,0.3239
+cashier super,0.3235
+girlfriend,0.3233
+got cheese,0.321
+delicious everything,0.3209
+restaurant try,0.3157
+brazil ever,0.3145
+ten coxinhas,0.314
+quality breakfast,0.3073
+customer strange,0.3025
+hd video,0.3008
+expensive,0.2997
+food forgot,0.2817
+rude treat,0.2736
+lady rude,0.2651
+order rude,0.256
+cashier,0.249
+filling coffee,0.2469
+available everyone,0.2384
+pm lady,0.2051
+ordering person,0.1633
+since allergic,0.159
+grab brazilian,0.1465
+dairy wanted,0.1311

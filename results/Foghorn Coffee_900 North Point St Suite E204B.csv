@@ -1,86 +1,118 @@
 keyword,weight
-coffee,4.2579
-overpriced,1.2454
-thank,1.1831
-service,1.1274
-chocolate,0.9777
-friendly,0.9643999999999999
-hot,0.9572
-great,0.9188000000000001
-caramel,0.9132
-hours,0.7844
-cup,0.7568
-cocoa,0.7167
-perfect,0.6926
-12oz,0.6262
-money,0.6243
-slow,0.6108
-closed,0.5767
-decent,0.5532
-tea,0.5406
-went,0.5212
-iced,0.5091
-difficult,0.5061
-sweets,0.5022
-convenient,0.4924
-big,0.4653
-allsizesmatter,0.4636
-sizes,0.4443
-open,0.4394
-charlie,0.4258
-waste,0.4145
-don,0.3761
-starbucks,0.3565
-approved,0.3459
-mocha,0.3397
-touristy,0.3336
-asking,0.3317
-tasting,0.33
+coffee,3.6725
+great coffee,1.7085
+hot chocolate,1.5436
+cup coffee,1.4764
+caramel,1.0291000000000001
+thank much,1.0
+perfect coffee,0.9811
+thank,0.9705
+hour closed,0.9245
+chocolate,0.913
+money overpriced,0.908
+hot cocoa,0.8689
+coffee slow,0.8666
+size allsizesmatter,0.8519
+difficult finish,0.8338
+big difficult,0.8192
+much,0.8117
+best caramel,0.7989
+overpriced,0.7682
+hour,0.7584
+waste money,0.7517
+open hour,0.7434
+overpriced starbucks,0.7372
+difficult,0.7271
+tasting coffee,0.7241
+size oz,0.7037
+best coffee,0.698
+closed,0.6962
+iced tea,0.6895
+iced latte,0.6889
+cocoa,0.6864
+enjoying mocha,0.6842
+caramel macchiato,0.6817
+caramel latte,0.6785
+slow service,0.667
+really big,0.6591
+convenient location,0.6566
+coffee bad,0.6477
+decent cup,0.6461
+asking size,0.6458
+big,0.6401
+picture perfect,0.6394
+nice coffee,0.6336
+allsizesmatter,0.6279
+coffee lover,0.6202
+coffee service,0.6192
+friendly service,0.6139
+starbucks certainly,0.61
+soda sister,0.6043
+ice coffee,0.5996
+best tasting,0.5962
+also convenient,0.5957
+friendliest barista,0.5909
+perfect,0.5899
+nice iced,0.5872
+coffee went,0.5868
+bottled iced,0.5847
+friendly,0.5749
+thank enjoying,0.5713
+approved hot,0.5707
+service great,0.5688
+chocolate decent,0.5677
+waste,0.5612
+close coffee,0.5576
+oz like,0.5525
+went,0.552
+convenient,0.5516
+consistent quality,0.5499
+latte typical,0.5458
+italian soda,0.5426
+keep consistent,0.5362
+coffee white,0.5349
+friendly staff,0.5335
+starbucks,0.5307
+coffee area,0.5293
+money,0.5283
+tea offer,0.5264
+charlie approved,0.5191
+chocolate delightful,0.5093
+enjoying,0.5032
+tea,0.4938
+open coffee,0.478
+cup tap,0.4769
+coffee ordered,0.4755
+cream italian,0.4744
+creation caramel,0.4715
+tea latte,0.47
+best latte,0.4539
+mother enjoyed,0.4448
+little overpriced,0.4265
+book lover,0.4224
+price tourist,0.4211
+hot,0.4111
+chai tea,0.4056
+male barista,0.4045
+sister mother,0.4039
+lazy weekend,0.3987
+iced,0.3986
+chocolate amazing,0.3933
+happy male,0.3884
+wait customer,0.3848
+menu look,0.3777
+server,0.3763
+mocha perfect,0.3737
+friendly barista,0.3689
+one server,0.3537
+expected touristy,0.3498
+perfect lazy,0.3453
+early morning,0.3353
+perfect stroll,0.334
+server long,0.3272
 picture,0.3187
-lover,0.3084
-good,0.3069
-believe,0.2782
-enjoying,0.2738
-finish,0.2681
-barista,0.2534
-latte,0.2416
-black,0.2359
-bitter,0.2197
-server,0.2126
-location,0.2114
-menu,0.2092
-quality,0.2037
-long,0.1991
-soda,0.1935
-best,0.1926
-tourist,0.1871
-weekend,0.1756
-weekends,0.1709
-macchiato,0.1664
-friendliest,0.1655
-tap,0.1622
-desperately,0.1568
-bad,0.1539
-sarcastic,0.1507
-nice,0.149
-morning,0.1418
-staff,0.1405
-ingredients,0.1361
-sips,0.1359
-taste,0.1288
-milk,0.1002
-sister,0.0991
-customer,0.0805
-lattes,0.0792
-fast,0.0731
-lazy,0.0698
-ice,0.0675
-yesterday,0.0672
-shops,0.0605
-italian,0.0589
-doubt,0.0417
-rush,0.0405
-drinks,0.0326
-machine,-0.0067
-fresh,-0.0131
-early,-0.0312
+sarcastic thank,0.3117
+go three,0.3082
+great pick,0.2927
+thanks service,0.2204
+drinks ok,0.1635

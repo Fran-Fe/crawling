@@ -1,381 +1,661 @@
 keyword,weight
-coffee,23.9945
-wifi,7.3469
-great,6.9437
-cafe,6.4221
-good,3.9506
-work,3.3592
-bank,3.2586999999999997
-awesome,3.1306000000000003
-free,2.9826
-tea,2.7455
-nice,2.3856
-internet,2.3488
-clean,2.2967
-cool,2.1181
-feedback,1.8157
-friendly,1.6168
-café,1.6137000000000001
-downtown,1.5529000000000002
-drink,1.5466
-laptop,1.5188
-love,1.4519000000000002
-peet,1.3903999999999999
-thanks,1.3128
-place,1.2970000000000002
-card,1.2805
-capitol,1.2218
-tables,1.2208999999999999
-seating,1.1898
-perfect,1.1626
-happy,1.1498
-space,1.1400000000000001
-banking,1.0964
-hannah,1.0943
-ajs,1.0825
-idea,1.0328
-restrooms,1.0219
-coworking,0.9874999999999999
-staff,0.9856
-rest,0.9189
-loved,0.9138999999999999
-spot,0.9123
+coffee,19.4359
+cafe,4.8729
+wifi,4.7418
+coffee shop,3.6113999999999997
+great,3.2554000000000003
+peet coffee,3.2048
+tea,3.0183
+good coffee,2.963
+great coffee,2.6679
+free wifi,2.5562
+coffee great,2.2543
+coffee capital,2.151
+great cafe,1.9335
+clean,1.9281000000000001
+bank,1.8295
+awesome,1.7189999999999999
+coffee pastry,1.6319
+great idea,1.5724
+peets coffee,1.5603
+great wifi,1.5545
+coffee tea,1.5436
+cafe work,1.5131999999999999
+wifi good,1.3566
+capitol one,1.3127
+staff friendly,1.2989
+lot seating,1.2564
+coffee work,1.2355999999999998
+drink,1.2339
+coworking space,1.2304
+good,1.2214
+right folk,1.1949
+coffee perfect,1.1899
+nice coffee,1.17
+internet,1.1677
+work good,1.1078000000000001
+downtown,1.0931
+discounted coffee,1.0659
+caffeine,1.0553
+work wifi,1.0149
+interesting specialty,1.0
+slow wifi,1.0
+loved,1.0
+warning peet,1.0
+temporary closed,1.0
+average coffee,1.0
+cool hangout,0.9725
+free waffle,0.9707
+bank one,0.9628
+hot coffee,0.9388000000000001
+san francisco,0.9214
+warning,0.9202
+awesome else,0.9134
+helpful professional,0.9113
+startup,0.9092
+use bank,0.9061
 closed,0.9036
-vibe,0.8812
+interesting,0.8998
+specialty,0.8989
+first impression,0.8895
+bank waffleaccomplished,0.8759
+seating good,0.8751
 temporary,0.8748
-nw,0.8708
-half,0.853
-neat,0.8524
-helpful,0.8452
-caffeine,0.8412
-sit,0.8287
-interesting,0.8268
-city,0.8256
-specialties,0.8224
-atmosphere,0.8223
-drinks,0.8182
+clean clean,0.874
+croissant coffee,0.8734
+waffleaccomplished,0.8704
+impression positive,0.8701
+fresh clean,0.8671
+homer lol,0.8661
+peet,0.8614
+good vibe,0.8612
+cool cafe,0.8605
+clean dr,0.8575
+coffee nice,0.8548
+credit card,0.8545
+else say,0.8491
+else,0.8482
+coffee clear,0.8408
+clean restroom,0.8386
+hangout spot,0.8343
+free coworking,0.8312
+cool,0.8251
+work drink,0.8213
+wifi work,0.8205
+stopping ryan,0.8198
+tea coffee,0.8184
+roomy wifi,0.8162
+positive,0.8158
 hangout,0.8141
-slow,0.8046
-pastries,0.7854
-fresh,0.7632
-professional,0.7562
-shop,0.755
-waffleaccomplished,0.7447
-connection,0.7403
-delicious,0.7345999999999999
-positive,0.7317
-warm,0.7305
-meet,0.7266
-heard,0.7229000000000001
-spacious,0.7004
-francisco,0.6985
-got,0.6969000000000001
-working,0.6960999999999999
-waffles,0.6914
-food,0.6900000000000001
-favorite,0.6898
-friend,0.6884
-warning,0.6863
-terrible,0.6857
-caffeinating,0.6722
-batter,0.6613
-sticky,0.6551
-location,0.655
-impressions,0.6395
-friends,0.6359
-accurate,0.6258
-helping,0.6191
-better,0.6156
-fourth,0.6032
-cozy,0.5931
-roomy,0.5929
-cappuccino,0.5716
-experience,0.5697
-say,0.569
-relaxing,0.5662
-soon,0.5635
-quiet,0.5571
-day,0.5539999999999999
-inside,0.5508
-stopping,0.5466
-croissants,0.5464
-greet,0.5461
-fun,0.5446000000000001
-unstable,0.5443
-sunny,0.5354
-modern,0.5281
-study,0.5048
-covered,0.4974
-average,0.4882
-crowded,0.4875
-thank,0.4866
-discounted,0.48479999999999995
-amazing,0.4773
-ryan,0.4771
-atm,0.47709999999999997
-use,0.4743
-business,0.4722
-knowledgeable,0.4721
-pretty,0.4681
-bathroom,0.4663
-360,0.4645
-iced,0.4591
-cooler,0.4551
-comfortable,0.4504
-cecilia,0.4478
-mornings,0.4397
-environment,0.437
-wonderful,0.4341
-atms,0.4339
-dream,0.4319
-downstairs,0.4302
-polite,0.4291
-50,0.42860000000000004
-happiness,0.4282
-espresso,0.4263
-noisy,0.4255
-livin,0.4175
-sf,0.4148
-ll,0.4124
-homer,0.4117
-second,0.4102
-couldn,0.4098
-desk,0.4002
-proud,0.3975
-safe,0.3953
-pillow,0.3943
-startups,0.3879
-coffeeshop,0.3873
-browse,0.3812
-shopping,0.3795
-customer,0.3774
-afternoon,0.3759
-party,0.375
-lend,0.3746
-ice,0.3707
-fine,0.3667
-supporters,0.3657
-arguments,0.3646
-transactions,0.3638
-financial,0.3622
-shirley,0.3599
-lol,0.3595
-bakeries,0.3521
-impossible,0.3513
-brewing,0.3476
-glad,0.3394
-greets,0.3387
-meeting,0.3381
-terrific,0.3346
-lots,0.3345
-locks,0.333
-usually,0.3321
-hidden,0.3319
-heat,0.331
-summer,0.3263
-documented,0.3244
-bay,0.3242
-agree,0.3234
-startup,0.3228
-vs,0.3219
-things,0.3103
-key,0.306
-huge,0.3057
-rename,0.3031
-agendas,0.3031
-cash,0.3004
-dr,0.2993
-bathrooms,0.2979
-wait,0.2941
-discounts,0.2929
-shaie,0.2923
-ms,0.2918
-duo,0.2909
-eat,0.2895
-jm,0.2848
-insane,0.2845
-friendcisco,0.2833
-fuzzies,0.2829
-problems,0.282
-jialing,0.282
-talented,0.2816
-decent,0.2793
-watch,0.2762
-effective,0.2728
-option,0.2724
-best,0.2704
-like,0.2668
-doc,0.2655
-case,0.2643
-lady,0.2633
-giving,0.2617
-soup,0.2607
-giant,0.2604
-coaster,0.2592
-google,0.259
-outside,0.2586
-bart,0.2579
-email,0.2566
-discount,0.2559
-online,0.2511
-wasn,0.2495
-quick,0.2484
-brew,0.2464
-accounts,0.2454
-corporations,0.2444
-writing,0.2441
-built,0.2435
-yogurt,0.2363
-taco,0.2356
-gratitude,0.23380000000000004
-complain,0.2338
-flipside,0.2324
-loud,0.2313
-waffle,0.2304
-gets,0.23
-taking,0.2293
-dug,0.226
-seats,0.226
-loudest,0.2256
-pay,0.2255
-monthly,0.2254
-pass,0.225
-credit,0.22369999999999998
-cafés,0.2224
-trendy,0.2221
-welcoming,0.22099999999999997
-paypal,0.2165
-couches,0.21330000000000002
-office,0.2128
-closing,0.21050000000000002
-2nd,0.2097
-clients,0.2088
-price,0.2087
-priced,0.2086
-worst,0.2038
-pastry,0.2032
-chocolate,0.1961
-cheese,0.1946
-classy,0.1935
-ipad,0.1907
-sweet,0.1906
-recharge,0.1899
-convenient,0.1898
-bonus,0.1898
-capital,0.1887
-stale,0.1867
-sandwiches,0.1849
-leadership,0.1827
-coaching,0.1818
-cowork,0.1813
-running,0.1799
-corporate,0.1771
-grouchy,0.177
-menu,0.1755
-money,0.17509999999999998
-serving,0.1749
-coolest,0.1728
-bummed,0.1726
-posting,0.1713
-digs,0.1703
-taste,0.1669
-peggy,0.1641
-bills,0.1606
-lunchtime,0.1587
-flowing,0.1585
-stressful,0.1577
-cup,0.157
-electricity,0.1563
-located,0.1563
-minutes,0.1563
-savings,0.1558
-scones,0.154
-40,0.154
-cards,0.1523
-fast,0.144
-needing,0.1432
-variety,0.1423
-uncommon,0.1404
-punishment,0.1372
-screwed,0.1371
-inconsiderate,0.1323
-cashier,0.1317
-disgusting,0.131
-denominations,0.1286
-hard,0.1269
-salads,0.121
-energetic,0.1207
-hour,0.1202
-did,0.1201
-impressed,0.1187
-deals,0.1187
-woman,0.1184
-home,0.11810000000000001
-market,0.1175
-teams,0.1157
-beverages,0.1151
-cheaper,0.115
-larger,0.1128
-tomorrow,0.1082
-team,0.1068
-month,0.1059
-customers,0.1053
-bright,0.104
-july,0.1039
-pop,0.1033
-hear,0.1032
-store,0.1032
-sitting,0.1016
-big,0.0971
-push,0.0929
-bootstrap,0.0911
-robot,0.0911
-mentoring,0.0891
-drinking,0.089
-unsweetened,0.0854
-everyday,0.0846
-repeatedly,0.0841
-mess,0.0838
-tasty,0.0811
-marketing,0.0808
-disputing,0.0801
-hours,0.0774
-today,0.0766
-app,0.076
-lover,0.0727
-ambassador,0.0717
-mezzanine,0.0702
-tech,0.0687
-lattes,0.0686
-weekends,0.0683
-friday,0.0675
-muffin,0.0668
-lengthy,0.0647
-favorites,0.0641
-baristas,0.0572
-pregnancy,0.0535
-unfortunately,0.0529
-plethora,0.0519
-metropolitan,0.0518
-weeks,0.0494
-informative,0.0484
-august,0.0455
-cafes,0.0452
-homemade,0.0437
-cardholder,0.0387
-earphones,0.0385
-affected,0.0338
-breach,0.0267
-bbb,0.0246
-enjoyable,0.0244
-dismayed,0.0237
-large,0.0233
-drove,0.0194
-trip,0.0158
-tiring,0.0047
-faster,-0.0099
-banks,-0.0185
-parking,-0.0286
-awful,-0.0609
-missing,-0.0628
-neighborhood,-0.0735
+terrible wifi,0.8126
+homer,0.8091
+cafe location,0.8064
+crowded coffee,0.8061
+friendly also,0.8027
+favorite place,0.7995
+case coffee,0.7958
+idea,0.7935
+good tea,0.7901
+third fourth,0.7898
+atmosphere coffee,0.7828
+card coffee,0.7827
+friend peet,0.7821
+great experience,0.7803
+nice caf,0.7766
+friendly,0.776
+pastry wonderful,0.7757
+deal coffee,0.7753
+co caffeinating,0.7743
+one,0.773
+batter bank,0.773
+half capitol,0.7723
+stale coffee,0.7719
+thanks stopping,0.7709
+delicious coffee,0.77
+peet friend,0.7699
+first,0.7628
+vibe,0.7614
+friend neat,0.7597
+one card,0.7568
+slow,0.7567
+waffle,0.7554
+city coffee,0.753
+coffee proud,0.7516
+awesome brewing,0.7508
+good study,0.7502
+neat nw,0.7494
+morning every,0.7465
+agree ajs,0.7465
+experience keep,0.7464
+cafe good,0.7355
+half,0.734
+good cappuccino,0.7327
+caf banking,0.7319
+cozy coworking,0.7309
+place awesome,0.7307
+iced tea,0.7307
+restroom without,0.7307
+clear cecilia,0.7294
+keep capitol,0.7286
+coffee much,0.7285
+ice tea,0.7275
+perfect coffee,0.7264
+work home,0.7263
+plenty table,0.7256
+friend,0.7243
+fourth well,0.7232
+least espresso,0.7217
+hidden agenda,0.7211
+laptop meeting,0.7194
+clean environment,0.717
+decent internet,0.7156
+impression,0.7145
+accurate transaction,0.7139
+tea drink,0.7128
+better duo,0.7111
+use,0.7094
+second third,0.7092
+caffeinating got,0.7092
+beverage deal,0.7069
+half coffee,0.7064999999999999
+average,0.7063
+batter,0.703
+environment quiet,0.7024
+free desk,0.702
+priced coffee,0.7007
+located downtown,0.6993
+caffeinating,0.6991
+staff,0.6982
+great place,0.6978
+banking option,0.6976
+serving coffee,0.6969
+spacious coffee,0.6967
+always happy,0.6964
+cool capital,0.696
+card,0.6956
+good table,0.6954
+lol agree,0.695
+fourth,0.695
+coffee coffee,0.6946
+drink clean,0.6931
+every day,0.6901
+helping hannah,0.6899
+modern bank,0.6896
+flipside pillow,0.6872
+professional thank,0.6864
+third,0.6815
+keep caffeine,0.6804
+perfect iced,0.6802
+usually unstable,0.6765
+amazing helpful,0.6747
+excellent customer,0.6735
+shop sunny,0.6726
+helpful coffee,0.6682
+got free,0.6681
+cafe free,0.6678
+one complain,0.6651
+tea free,0.6644
+business great,0.6626
+quiet place,0.6623
+happy lend,0.6589
+nice spot,0.6573
+start morning,0.6555
+bright cafe,0.6553
+fresh,0.6516
+transaction hidden,0.6501
+stopping,0.6477
+argument thanks,0.6461
+roomy,0.6454
+offer discount,0.6452
+best atms,0.6433
+office thanks,0.6429
+assured documented,0.6424
+ajs,0.6415
+work laptop,0.6415
+internet connection,0.6412
+pillow heat,0.64
+thanks taking,0.6394
+card pretty,0.6386
+coffee providing,0.6372
+browse internet,0.6334
+name better,0.632
+internet work,0.632
+glad hear,0.631
+morning,0.6296
+coffee plenty,0.6265
+pretty neat,0.6249
+sf tables,0.6242
+hannah truly,0.623
+table internet,0.6226
+thanks looping,0.6223
+day staff,0.6216
+warm fuzzies,0.6202
+little sticky,0.6196
+banking,0.6191
+wifi feedback,0.6179
+good location,0.614
+desk,0.6138
+caffeine classy,0.6123
+bathroom friendly,0.6123
+free,0.6111
+great relaxing,0.6104
+spot,0.6081
+dream livin,0.6074
+covered nw,0.6064
+heard dr,0.6063
+happiness dream,0.6059
+pastry,0.6056
+cafe conveniently,0.6052
+polite professional,0.604
+caffeine electricity,0.6038
+documented feedback,0.6029
+folk voice,0.601
+space good,0.6008
+espresso gratitude,0.6005
+option built,0.5999
+side thanks,0.5996
+peets beverage,0.5994
+working bathroom,0.5986
+relaxing atmosphere,0.5972
+grab drink,0.5967
+going thanks,0.5941
+cooler flipside,0.592
+tech startup,0.5897
+yep caffeine,0.5888
+clear,0.5883
+noisy one,0.5863
+restroom,0.5848
+email shopping,0.5841
+doc ensure,0.5835
+free coffee,0.5823
+accurate,0.5822
+place pretty,0.5811
+pay inside,0.5807
+bit noisy,0.5807
+helpful,0.5798
+coffee house,0.575
+seating option,0.5745
+good banking,0.574
+scone croissant,0.5735
+rename city,0.5723
+delicious scone,0.5723
+wifi problem,0.5718
+tables little,0.5718
+whether co,0.571
+money account,0.5702
+representatives polite,0.5688
+meet greets,0.5675
+neat,0.5673
+unstable,0.5669
+nice,0.5665
+cozy,0.5661
+screwed ice,0.5661
+lend helping,0.5657
+nw,0.5656
+work spacious,0.565
+work great,0.5646
+startup today,0.5643
+happy,0.563
+relaxing,0.5626
+muffin always,0.5625
+place work,0.5625
+ryan ajs,0.5624
+sunny comfortable,0.5622
+heard ajs,0.5611
+fuzzies ajs,0.5599
+thanks posting,0.5597
+space coffee,0.5591
+staff delicious,0.5577
+sticky,0.5572
+startup needs,0.5563
+work sf,0.556
+wait jm,0.5556
+impossible work,0.555
+hannah cafe,0.555
+peet love,0.555
+hear giving,0.5529
+coffee use,0.5516
+thanks,0.5514
+cafe offer,0.5509
+energetic startup,0.5502
+taco tasty,0.5494
+definitely vibe,0.5491
+coffee chocolate,0.5489
+shop decent,0.5489
+love happiness,0.5475
+awesome service,0.5463
+hidden,0.5458
+atm nothing,0.5434
+happy report,0.5422
+financial party,0.5422
+stop downtown,0.5421
+rest assured,0.5405
+croissant,0.5401
+idea good,0.5398
+terrific place,0.5395
+fine business,0.5385
+financial awesome,0.5367
+duo shaie,0.534
+wifi connection,0.5333
+espresso,0.5332
+perfect meet,0.533
+pillow,0.5321
+laptop friendly,0.5316
+sit people,0.5315
+discounted peet,0.5313
+better,0.5312
+warm perfect,0.531
+coffee seemed,0.5306
+coolest coffee,0.5299
+feedback key,0.527
+head feedback,0.5245
+corporate coffeeshop,0.5235
+get coffee,0.5231
+wifi space,0.5229
+giving warm,0.5216
+cash check,0.5211
+work done,0.5187
+bank coffeeshop,0.5162
+order coffee,0.5116
+wave thanks,0.5116
+staff stale,0.5114
+thinking rename,0.5103
+restroom coffee,0.51
+atms give,0.509
+grouchy staff,0.5085
+post doc,0.5062
+inside also,0.5059
+online bank,0.5057
+peet drink,0.5054
+pastry loved,0.5049
+tea wi,0.5045
+get wifi,0.5012
+speak english,0.5
+crowded,0.4976
+spent summer,0.497
+providing atm,0.4969
+worst ever,0.4953
+tea mess,0.4947
+coffee offer,0.494
+properly modern,0.4937
+lover coffee,0.4936
+wifi speed,0.4923
+good call,0.4922
+coffee wifi,0.4899
+coffee still,0.4894
+small bakery,0.4893
+always enjoyable,0.4886
+unsweetened ice,0.4882
+east coaster,0.4873
+make impossible,0.4856
+atms,0.4846
+corporation coffee,0.4846
+needing time,0.4844
+work cafe,0.4842
+peet inside,0.4837
+coffee plop,0.4832
+greets side,0.483
+cafe internet,0.483
+open weekend,0.4808
+free coaching,0.4806
+also,0.4804
+friendly bank,0.4801
+coffee lower,0.4799
+helping client,0.4797
+great atmosphere,0.4793
+terrible,0.4792
+recharge phone,0.4783
+vault coffee,0.4761
+plug laptop,0.476
+best cafe,0.4758
+cafe table,0.4741
+deposit cash,0.474
+coffee good,0.4722
+work city,0.4721
+bank cafe,0.472
+shop good,0.4711
+email ad,0.4687
+playing giant,0.4686
+leadership nw,0.4673
+getting money,0.4659
+work meet,0.4636
+sometimes internet,0.4625
+cafe really,0.4613
+cafe informative,0.4611
+nice capital,0.4592
+posted google,0.4582
+working coffee,0.4572
+rick welcoming,0.4568
+website app,0.4567
+stay charged,0.4562
+staff awesome,0.4558
+amused cafe,0.4538
+party understand,0.452
+drink nice,0.4518
+floor cafe,0.4515
+fun bank,0.4511
+downtown plenty,0.4511
+check capital,0.4495
+great location,0.4493
+right eye,0.4484
+coffee wish,0.448
+work bonus,0.4466
+price coffee,0.4465
+bummed missed,0.4465
+cardholder discounted,0.4462
+cafe called,0.4451
+coffeeshop peet,0.4432
+coffeeshop peculiar,0.4425
+fun visited,0.4424
+major metropolitan,0.4424
+wifi peet,0.4407
+email box,0.4405
+yogurt salad,0.4389
+something cafe,0.4386
+plenty seating,0.4358
+pastry yogurt,0.4341
+fast friendly,0.4339
+discount pay,0.4339
+minute website,0.4338
+coming email,0.4336
+lock downstairs,0.4316
+friday july,0.4313
+enjoyable service,0.4311
+love pastry,0.431
+awesome discounted,0.431
+right team,0.4309
+coffee served,0.4307
+coffee san,0.429
+life financial,0.4277
+shop work,0.4267
+modern,0.4252
+loved meeting,0.4244
+banking solution,0.423
+closing account,0.4207
+well priced,0.4206
+discount lots,0.4198
+caf leadership,0.4188
+summer place,0.4182
+cafe awesome,0.4176
+homemade soup,0.4176
+review front,0.416
+summer,0.4159
+check pastry,0.4159
+clean bathroom,0.4153
+coffee menu,0.4147
+wifi plenty,0.4125
+cafe concept,0.4124
+salad sandwich,0.4114
+party,0.41
+desk downtown,0.41
+cowork free,0.4098
+pastry source,0.4092
+internet drop,0.4049
+dutch company,0.403
+discount peets,0.4024
+giant jenga,0.4008
+money terrible,0.4006
+coffee latte,0.4004
+checking account,0.4002
+receive email,0.3999
+talented people,0.3996
+client thanks,0.3996
+bakery really,0.3981
+great talented,0.3972
+lady came,0.3971
+liege waffle,0.3967
+drink sometimes,0.3967
+free bootstrap,0.3958
+huge branch,0.394
+pretty bummed,0.394
+email,0.3933
+talking hannah,0.3924
+inconsiderate customer,0.3918
+large coffee,0.3911
+closing helping,0.3906
+ensure mobile,0.3904
+cafe seem,0.3903
+room coffee,0.3902
+woman work,0.3901
+business caf,0.3893
+cafe bank,0.3888
+pop store,0.3881
+cafe capital,0.388
+space work,0.3871
+location,0.3862
+spacious cafe,0.3851
+work drop,0.3838
+august drink,0.3824
+company marketing,0.3811
+ambassador hannah,0.3802
+google,0.3798
+coffee attended,0.3775
+folk working,0.3773
+converted cafe,0.3765
+coffee next,0.3744
+nice construction,0.3744
+cafe downtown,0.37
+best caf,0.3689
+choco taco,0.3677
+coffee half,0.3666
+dig peggy,0.3661
+coffee offering,0.3648
+neighborhood cafe,0.3641
+metropolitan city,0.3627
+shop awesome,0.3593
+good variety,0.3566
+coffee meet,0.3554
+best customer,0.3553
+robot found,0.355
+cafe flagship,0.3546
+packaged food,0.3545
+money,0.3541
+work,0.3541
+tech model,0.3541
+made friend,0.3529
+drink coffee,0.3529
+every friday,0.352
+got,0.3515
+shop bank,0.3514
+staff stopped,0.3511
+cool atmosphere,0.35
+every major,0.3499
+work ipad,0.3479
+bank teller,0.3477
+stopped coffee,0.3477
+assured slid,0.3476
+wifi fairly,0.3455
+cafe sponsored,0.345
+coffee right,0.3448
+story cafe,0.3444
+people watching,0.3441
+right online,0.343
+work free,0.3425
+new account,0.3422
+offering cafe,0.3422
+cafe staff,0.342
+downtown free,0.3395
+considering closing,0.3381
+comfortable restroom,0.3374
+atm free,0.3342
+data breach,0.3339
+team spent,0.3336
+july august,0.3336
+online,0.3327
+space,0.3321
+coffee also,0.3305
+loyal customer,0.33
+happy hour,0.3284
+website,0.325
+around lunchtime,0.3239
+else leave,0.3232
+digital cash,0.3213
+drinking star,0.3194
+leave review,0.3171
+perfect spending,0.3166
+one worst,0.3154
+coffee anyone,0.3148
+bathroom pregnancy,0.3139
+menu includes,0.3118
+half priced,0.3108
+pete coffee,0.3102
+worst,0.3093
+place coffee,0.3091
+hour impossible,0.3035
+discount drink,0.3029
+couch outlet,0.2991
+space lovely,0.2987
+space couch,0.2956
+monthly event,0.2942
+declined greatly,0.2938
+paypal,0.2911
+cafe serving,0.2899
+talk robot,0.2883
+taco,0.2869
+wi fi,0.2834
+searching cafe,0.2811
+stressful day,0.28
+experiential pop,0.278
+pretty sweet,0.278
+buy coffee,0.276
+cashier always,0.2757
+latte taste,0.2756
+couch ever,0.2752
+best coffice,0.2727
+team impressed,0.2711
+service declined,0.2707
+plus atm,0.2649
+downtown weekday,0.2643
+marin tomorrow,0.2619
+long stressful,0.2601
+ipad get,0.249
+hard time,0.2489
+deposit impossible,0.2444
+fast trick,0.2433
+missing credit,0.2421
+ipad,0.2409
+music unfortunately,0.2401
+job thank,0.2381
+person cafe,0.2332
+coffee shaie,0.2328
+space free,0.2321
+three floor,0.2317
+greater customer,0.2294
+tiring day,0.2275
+job capital,0.2219
+cafe great,0.2193
+floor last,0.2184
+food capital,0.2177
+tomorrow going,0.2147
+egg cheese,0.2123
+span three,0.2087
+far coolest,0.1966
+tomorrow,0.1962
+basement bathrooms,0.1957
+robbed buy,0.1952
+went wifi,0.1939
+really slow,0.1852
+city plenty,0.177
+pet coffee,0.1536
+best free,0.1512
+faster work,0.1305

@@ -1,206 +1,327 @@
 keyword,weight
-food,7.4073
-nice,3.2161999999999997
-waitress,3.213
-good,2.703
-chinese,2.6878
-bad,2.6487
-service,2.3862
-chinatown,2.3703000000000003
-tea,1.971
-chicken,1.7288000000000001
-cafe,1.7071
-lunch,1.5666
-coffee,1.5504
-rude,1.4838
-terrible,1.4723000000000002
-expensive,1.386
-worst,1.3820000000000001
-delicious,1.3812
-great,1.3252
-enjoy,1.1984
-rip,1.1357
-place,1.0258
-scam,1.0225
-restaurant,0.9858
-rice,0.971
-wrong,0.9367
-recommend,0.9085000000000001
-beef,0.8825
-overcharged,0.8622000000000001
-decent,0.8596
-menu,0.8547
-caffee,0.8516
-tasteless,0.8382
-awful,0.8128
+food,4.8690999999999995
+chinese food,2.6478
+fried rice,2.4313000000000002
+chinatown,2.2203
+waitress,2.1702
+terrible food,1.9243000000000001
+chinese,1.8406000000000002
+bad food,1.7896999999999998
+cafe,1.6968999999999999
+bad,1.6117
+tea,1.6033
+coffee,1.5976
+nice cafe,1.5859
+food decent,1.4938
+cafe nice,1.4761
+good food,1.4677
+great food,1.4367999999999999
+nice,1.4058
+good,1.3869
+food good,1.3541
+chicken fried,1.3108
+order wrong,1.2610000000000001
+expensive,1.2139
+terrible service,1.0655999999999999
+rude,1.0167
+bad service,1.0
+good experience,1.0
+amazing food,1.0
+enjoy caffee,0.9815
+awful staff,0.9669
+lunch nice,0.9529
+tasteless recommend,0.9449
+starters tasteless,0.9207
+waitress yelled,0.9089
+food nothing,0.9053
+enjoy food,0.9024
+completely ripped,0.8985
+delicious chinese,0.8976
+caffee,0.8929
+option coffee,0.8857
+nice little,0.8845
+menu small,0.8797
+avoid cost,0.8651
+coffee taste,0.865
+excellent food,0.861
+ripped,0.8552
+good expensive,0.8459
+nothing special,0.8425
+tasteless,0.8395
+food always,0.8385
+rip avoid,0.8308
+drink coffee,0.8247
+crappy food,0.8246
+wrong,0.8222
+normal food,0.8198
+spot lunch,0.8177
+horrible milktea,0.8141
+food service,0.8138
+little place,0.8098
 experience,0.8044
-small,0.7718
-little,0.7522
-ripped,0.7206
-tip,0.7159
-eating,0.7149000000000001
-avoid,0.713
-crappy,0.7005
-hot,0.6912
-rubbish,0.6906
+rubbish scam,0.8037
+stomach infection,0.7986
+sick eating,0.7973
+avoid,0.7938
+little,0.7936
+lunch,0.7934
+nothing,0.7921
+scam money,0.7888
+awful,0.7849
+day cool,0.7837
+manager rude,0.7803
+food fast,0.7753
+owner rude,0.7693
+pure,0.7653
+refreshing tea,0.7647
+best strawberry,0.764
+friendly cozy,0.763
+rice chicken,0.7628
+hot day,0.7621
+pure rip,0.757
+place hang,0.7454
+chicken mushroom,0.7435
+sesame chicken,0.7421
+worst service,0.736
+cool friendly,0.7358
+cozy place,0.7347
+bill carefully,0.7345
+strawberry milkshake,0.7313
+great menu,0.7305
+bit worse,0.7277
+food chinatown,0.7275
+chinese cafe,0.7258
+scam,0.7229
+love pork,0.7213
+relax eat,0.7196
+nice service,0.7172
+visit enjoy,0.7118
+better expected,0.7032
+watch bill,0.7016
+got order,0.7009
+thing bad,0.6942
+service crappy,0.6938
+chicken chicken,0.6936
+small place,0.6935
+claypot rice,0.6918
+worse,0.6892
+good desert,0.688
+menu,0.688
+small,0.6879
+fish rib,0.6871
 amazing,0.687
-fried,0.6595
-normal,0.6271
-sick,0.6267
-taste,0.6225
-dissapointed,0.6161
-dish,0.5903
-eat,0.5891
-soup,0.5872999999999999
-better,0.5856
-order,0.5632
-cozy,0.5618
-option,0.5603
-dim,0.5602
-completely,0.5539
-pure,0.5427
-overpriced,0.5409999999999999
-friendly,0.5337
-forced,0.5337
-snacks,0.5317
-horrible,0.5289
-got,0.5283
-fish,0.5283
-services,0.5209
-staff,0.5185
-strawberry,0.5185
-fast,0.5129
-worse,0.5109
-costs,0.5096
-money,0.5064
-hang,0.5042
-excellent,0.5025
-visit,0.5007
-wifi,0.4951
-infection,0.4874
-relax,0.4838
-starters,0.4834
-expected,0.4728
-cold,0.47250000000000003
-cool,0.4575
-thief,0.4388
-special,0.4352
-attitude,0.4297
-pork,0.42279999999999995
-milkshake,0.4224
-eatery,0.4132
-mediocre,0.4131
-owner,0.41059999999999997
-items,0.41
-day,0.4071
-lady,0.4048
-leave,0.3863
-thing,0.3841
-feel,0.3787
-pancake,0.3765
-walking,0.3734
-simple,0.3733
-spot,0.3711
-rib,0.3696
-sesame,0.3652
-wasn,0.3594
-drink,0.35829999999999995
-like,0.3516
-claypot,0.3515
-steam,0.347
-stomach,0.3433
-milktea,0.3194
-tasty,0.3158
-roast,0.30200000000000005
-deserts,0.3013
-ice,0.2985
-quick,0.2966
-watch,0.2828
-rushed,0.2824
-manager,0.2804
-noodle,0.2711
-really,0.2687
-pay,0.2679
-expect,0.2652
-carefully,0.2648
-cooked,0.2629
-welcoming,0.2622
-frustrating,0.2552
-harass,0.254
-salted,0.248
-price,0.2438
-milk,0.2402
-affordable,0.2402
-kong,0.2388
-watery,0.2369
-yelled,0.236
-charge,0.2342
-chasing,0.2267
-passionfruit,0.2258
-going,0.2187
-francisco,0.2183
-vegetarians,0.2118
-salty,0.2046
-ridiculous,0.2032
-duck,0.1983
-mushroom,0.1975
-waiter,0.1933
-refused,0.1924
-swindlers,0.1896
-appalling,0.1867
-polite,0.1804
-hassled,0.1742
-squid,0.1695
-messed,0.1681
-love,0.1558
-cash,0.1544
-rubbery,0.1537
-appetizer,0.1501
-cashier,0.1495
-slammed,0.1487
-impatient,0.1484
-free,0.1399
-eaten,0.1352
-liked,0.1323
-desperate,0.131
-buds,0.1309
-best,0.1309
-flee,0.1303
-bullied,0.1294
-refreshing,0.1222
-complain,0.1194
-mongolian,0.1185
-prices,0.1044
-rudest,0.1013
-covid,0.095
-café,0.0933
-powder,0.0867
-waste,0.0795
-horrific,0.079
-poorly,0.0747
-quickly,0.0662
-bullying,0.0636
-husband,0.0522
-sweet,0.0405
-dishes,0.0311
-sf,0.0281
-perfect,0.0278
-shop,0.027
-rushes,0.021
-questionable,0.0187
-incomprehensible,0.0178
-argument,0.0154
-demands,0.0136
-charged,0.0113
-ignored,0.0086
-dollars,0.007
-complaining,0.0062
-kindness,0.0048
-ate,-0.0008
-dirty,-0.0087
-10,-0.0092
-lied,-0.0136
-kicks,-0.0219
-litterally,-0.0284
-clients,-0.0358
-thought,-0.0703
+service great,0.6842
+got sick,0.6807
+normal,0.68
+chinese snack,0.6792
+steam fish,0.6775
+cafe good,0.6764
+nice enjoy,0.6723
+dissapointed feel,0.672
+delicious chicken,0.662
+dissapointed,0.6604
+soup beef,0.6597
+rib dish,0.6554
+order,0.6545
+enjoy,0.6541
+expensive food,0.6511
+eatery drink,0.65
+food terrible,0.6497
+simple eatery,0.6496
+nice chinese,0.649
+chinatown chinese,0.6485
+good restaurant,0.6485
+item better,0.6459
+beef noodle,0.6452
+worst milk,0.643
+like completely,0.6421
+eating forced,0.6402
+chinese restaurant,0.6397
+rudest waitress,0.6349
+ridiculous restaurant,0.634
+rice delicious,0.6272
+ordering eating,0.623
+decent,0.6228
+poorly chinese,0.6222
+pork delicious,0.6209
+great option,0.6195
+pay double,0.6168
+fast service,0.6152
+better,0.6138
+broccoli beef,0.6091
+tip owner,0.6055
+sick,0.6046
+liked food,0.6036
+questionable waitress,0.6035
+passionfruit tea,0.6033
+mediocre food,0.6022
+waitress demand,0.598
+ordered chicken,0.5975
+food messed,0.5963
+food chicken,0.5912
+got,0.591
+double price,0.59
+chicken,0.588
+food desperate,0.5832
+abundantly waitress,0.579
+rice broccoli,0.5783
+milkshake ever,0.577
+crappy,0.5737
+service,0.5711
+noodle great,0.5655
+expense worst,0.5609
+overcharged expect,0.5574
+visit,0.555
+carefully going,0.5545
+worst,0.5536
+lunch chinatown,0.5529
+menu lunch,0.5529
+along chinatown,0.5524
+meat tasty,0.5474
+good spot,0.5465
+cold overpriced,0.5453
+yelled thought,0.541
+staff attitude,0.5397
+dish good,0.539
+rushed ordering,0.5368
+serve food,0.5338
+strawberry,0.5308
+mushroom salted,0.5306
+milktea waitress,0.5288
+chinese client,0.525
+chicken dish,0.5228
+fish,0.5222
+always,0.5216
+tea hot,0.5197
+watch,0.5191
+thought thief,0.5157
+great,0.5156
+overcharged bill,0.5144
+eat covid,0.5124
+cold refreshing,0.5119
+good tea,0.5118
+wrong overcharged,0.5114
+bowl fried,0.5108
+crispy pancake,0.5091
+option,0.509
+waitress demanded,0.5086
+food amazing,0.5068
+pancake delicious,0.5033
+horrible,0.5033
+food charge,0.5008
+client worst,0.4996
+delicious price,0.499
+owner follow,0.4984
+environment lunch,0.4932
+staff,0.493
+desperate owner,0.4928
+yelled,0.4888
+recommend,0.4875
+middle chinatown,0.4874
+choice walking,0.4871
+infection,0.4856
+chicken cashew,0.484
+price leave,0.483
+tea served,0.4809
+owner complain,0.4804
+portion price,0.48
+get ice,0.4755
+tip included,0.4748
+american chinese,0.474
+really excellent,0.4734
+chinatown san,0.4731
+love passionfruit,0.4726
+food cold,0.4718
+worst caf,0.4712
+lunch appetizer,0.4711
+worst thing,0.471
+flee flee,0.4699
+enjoyable waitress,0.4698
+always leave,0.4676
+appetizer cold,0.4673
+relatively expensive,0.4639
+next delicious,0.4632
+ice cold,0.4595
+milkshake,0.4587
+mongolian beef,0.4582
+really terrible,0.4576
+otherwise delicious,0.4567
+beef,0.4556
+bill hassled,0.4547
+restaurant tipped,0.454
+mediocre,0.4538
+option vegetarian,0.4528
+cooked expense,0.4513
+also affordable,0.4505
+service terrible,0.4469
+choose flee,0.4466
+style chinese,0.445
+food rip,0.4438
+affordable quantity,0.4412
+covid waitress,0.4404
+waitress nearby,0.44
+tasted bad,0.4345
+eating,0.4332
+nice people,0.4329
+experience tea,0.4287
+treated poorly,0.4284
+order lunch,0.4264
+flee found,0.4217
+sour soup,0.4207
+roast duck,0.4201
+starters,0.4132
+milk tea,0.4071
+waitress served,0.4013
+tea mongolian,0.4006
+attitude,0.4002
+assistance waitress,0.3992
+walking along,0.3988
+vegetarian,0.3974
+mandatory tea,0.3946
+flee,0.3897
+food overpriced,0.3883
+amazing roast,0.3808
+tip cashier,0.3744
+tourist bullied,0.3683
+lady super,0.3629
+away appalling,0.3532
+menu paid,0.3509
+even bullying,0.3502
+duck delicious,0.349
+service waiter,0.3471
+nice welcoming,0.3464
+terrible wanted,0.3424
+waitress raised,0.3376
+called chinese,0.3365
+waitress force,0.3364
+belittled chinese,0.3303
+tea ever,0.3249
+counter waitress,0.3162
+cash charged,0.3103
+waiter noticed,0.3066
+people bad,0.3
+part waitress,0.2973
+tip horrific,0.2885
+hot watery,0.2878
+food want,0.2864
+horrific service,0.2833
+bad forced,0.2808
+must frustrating,0.2805
+cash demanded,0.2784
+raised price,0.2781
+snatched bill,0.2757
+customer receipt,0.2746
+bill waste,0.274
+let drink,0.2614
+bullying really,0.2532
+waiter,0.253
+dirty food,0.2528
+bullying,0.2501
+dine rude,0.2465
+restaurant quality,0.2414
+maggies first,0.2389
+husband stopped,0.225
+waste money,0.2247
+overpriced enough,0.2211
+taste bud,0.2023
+nice never,0.1878

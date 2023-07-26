@@ -1,136 +1,202 @@
 keyword,weight
-cafe,3.1196
-coffee,2.7624
-thanks,2.6274
-safe,2.5433
-welcome,2.4861
-food,2.1121
-appreciated,2.0148
-nice,1.876
-lunch,1.5892
-great,1.4325
-tea,1.0627
-place,0.9872000000000001
-favorable,0.942
-salad,0.898
-tasty,0.8913
-restaurant,0.8718
-healthy,0.8063
-loved,0.7769
-california,0.7737
-break,0.6904
-waitress,0.6803
-vegan,0.6584
-drinks,0.6482
-happy,0.6384000000000001
-espresso,0.6336
-light,0.6002000000000001
-priced,0.5982
-enjoyable,0.591
-staff,0.5863
-friendly,0.5709
-stars,0.5657
-taste,0.5374
-stay,0.5311
-quality,0.5295
-organic,0.5255
-fairly,0.5233
-健康有機的料理,0.5119
-食物新鮮美味,0.5111
-menu,0.5084
-lovely,0.4938
-fresh,0.4833
-chicken,0.4729
-unfortunate,0.4597
-cashier,0.44980000000000003
-meet,0.4483
-museum,0.4403
-machine,0.424
-caramel,0.4205
-people,0.4179
-operate,0.4141
-good,0.4074
-acknowledgement,0.3908
-review,0.3907
-cafe5,0.38760000000000006
-hope,0.3789
-edwin,0.3726
-soup,0.3722
-space,0.3682
-qualification,0.3668
-intuitive,0.3655
-sweets,0.3652
-pastries,0.3547
-delicious,0.3479
-rating,0.3437
-improving,0.3394
-kind,0.3381
-cheddar,0.3358
-rain,0.3315
-baked,0.3161
-yannic,0.3137
-worst,0.3098
-excellent,0.3083
-sandwich,0.3069
-apologies,0.3
-café,0.2993
-expensive,0.2986
-feisty,0.2965
-cakes,0.2814
-absolutely,0.2654
-kayla,0.2631
-kitchen,0.2577
-meal,0.2495
-beautiful,0.2443
-sunshine,0.2442
-perfume,0.2432
-patio,0.2421
-bakery,0.2416
-cake,0.2401
-tables,0.23420000000000002
-pork,0.2336
-trout,0.2326
-thank,0.2098
-drank,0.2095
-better,0.2033
-manager,0.2013
-raspberry,0.1967
-sandwiches,0.1959
-cheesecake,0.1916
-citrus,0.1748
-rooftop,0.1711
-inconvenience,0.1612
-mushrooms,0.1578
-eating,0.1506
-rudely,0.1489
-poor,0.1467
-preference,0.1461
-clientele,0.1458
-kitchend,0.1365
-invite,0.1157
-2022,0.1126
-counter,0.1119
-eve,0.1097
-cheese,0.1061
-awful,0.1034
-helps,0.1026
-amazing,0.1021
-ambiance,0.1003
-weather,0.0985
-milk,0.0948
-goers,0.0844
-strawberry,0.0774
-unpleasant,0.07250000000000001
-boiling,0.0659
-efficient,0.0654
-service,0.0637
-plate,0.0629
-chinese,0.0547
-hosts,0.0455
-rude,0.0434
-scolded,0.0279
-star,0.0195
-indoor,0.0066
-rest,0.006
-cater,0.0056
-benefit,-0.0137
+welcome back,3.9143999999999997
+cafe,3.0544000000000002
+nice cafe,1.9817
+coffee,1.8317
+favorable feedback,1.3944
+tasty california,1.3580999999999999
+restaurant tasty,1.3554
+lunch,1.3542
+nice,1.3536000000000001
+appreciated look,1.3321999999999998
+much appreciated,1.3031
+california food,1.2643
+thanks favorable,1.2641
+favorable review,1.2503
+rooftop restaurant,1.1804000000000001
+great coffee,1.0
+staff friendly,0.8886
+experience cafe,0.8816999999999999
+vegan food,0.8654
+take break,0.8546
+priced drink,0.8466
+stay safe,0.8458
+espresso machine,0.842
+operate espresso,0.8364
+fairly priced,0.8194
+friendly taste,0.8146
+healthy organic,0.8086
+espresso,0.807
+great food,0.8036
+vegan,0.7759
+safe well,0.774
+safe,0.7738
+nice space,0.771
+break,0.7617
+food great,0.7601
+nice place,0.7586
+taste good,0.7406
+coffee excellent,0.74
+excellent coffee,0.7318
+delicious healthy,0.7276
+appreciated hope,0.7142
+thanks acknowledgement,0.7027
+friendly,0.6952
+positive feedback,0.6926
+thanks yannic,0.6877
+order food,0.6864
+meanwhile stay,0.6821
+soup cheddar,0.674
+kayla thanks,0.6708
+interesting food,0.6701
+welcome,0.6696
+fresh delicious,0.6681
+worst cashier,0.6649
+salad chicken,0.6603
+food light,0.6591
+pea soup,0.6516
+knew operate,0.6361
+space fairly,0.6361
+priced nice,0.6358
+jo thanks,0.6328
+nice lunch,0.6267
+donut salad,0.6267
+caramel aubeurresale,0.6235
+drank coffee,0.6178
+sweet baked,0.616
+nice star,0.6146
+coffee ate,0.6121
+dax thanks,0.6116
+place,0.6112
+baked good,0.6106
+perfume caramel,0.6104
+lunch menu,0.6072
+food excellent,0.6069
+aubeurresale tea,0.6058
+lentil salad,0.6036
+salad donut,0.5943
+food option,0.5919
+cake coffee,0.5912
+excellent food,0.5895
+coffee cake,0.589
+great service,0.5877
+donut delicious,0.5846
+feisty counter,0.5834
+recommend fresh,0.5816
+lunch reasonable,0.5814
+loved great,0.5808
+milk latte,0.5791
+taste,0.5771
+tea large,0.5762
+awful chicken,0.5759
+great,0.5733
+rating perhaps,0.5722
+operate,0.5715
+crew happy,0.5692
+loved pea,0.5688
+ate sweet,0.567
+cakes expensive,0.5658
+happy read,0.5626
+villacis unfortunate,0.5518
+beautiful patio,0.5515
+organic,0.5498
+sandwich ice,0.5476
+decent coffee,0.5465
+appreciated thanks,0.5456
+tea oat,0.5451
+chicken sandwich,0.544
+forward welcome,0.5436
+absolutely loved,0.5358
+citrus cake,0.5348
+choice lunch,0.5332
+desperate tea,0.5327
+trout salad,0.5307
+mallory thanks,0.5306
+expensive delicious,0.5274
+review rating,0.5254
+note lunch,0.5219
+better cafe,0.5179
+airport food,0.5171
+better airport,0.5139
+note review,0.5105
+attitude lunch,0.5082
+unfortunate note,0.5074
+lunch food,0.5071
+staff kind,0.5062
+space host,0.5058
+great museum,0.5018
+lunch dish,0.4973
+cafe look,0.4969
+museum cakes,0.4947
+museum food,0.4945
+menu pastry,0.4931
+coffee break,0.4926
+great review,0.491
+coffee good,0.4889
+cafe offer,0.4884
+lunch however,0.4867
+restaurant,0.4835
+healthy safe,0.4834
+singer thanks,0.4808
+potato salad,0.4803
+food,0.4763
+nice food,0.476
+cafe soon,0.4757
+sandwich best,0.4735
+good food,0.4704
+tea,0.47
+lovely space,0.469
+variety menu,0.4665
+cafe enjoyed,0.4665
+food cashier,0.4642
+food pretty,0.4605
+tepid tea,0.4573
+tomato broccoli,0.4566
+maxeno thanks,0.4558
+visit cafe,0.4517
+food surprisingly,0.4512
+soup,0.4505
+salad asparagus,0.4405
+bagel sandwich,0.4402
+factory salad,0.439
+waitress asked,0.4369
+waitress attitude,0.4351
+lunch exceeding,0.4342
+moma food,0.4339
+though waitress,0.4271
+waitress,0.4217
+salad served,0.4165
+keep kitchen,0.4073
+tea barely,0.4042
+acceptable setting,0.4028
+overshadowing poor,0.4019
+cafe appreciate,0.4006
+cashier wait,0.3995
+steelhead trout,0.3955
+satisfying option,0.3938
+menu selection,0.3937
+time waitress,0.3889
+service worst,0.3862
+tea hot,0.3824
+coffee pretty,0.3776
+salad topped,0.3756
+cup tea,0.3712
+sponge tasty,0.3683
+kitchen,0.3655
+menu decent,0.3582
+help apology,0.3575
+entered cafe,0.3487
+strawberry sponge,0.34
+jeong happy,0.3394
+appreciated apologies,0.3292
+condition favorable,0.3267
+apology giving,0.3192
+cashier,0.3126
+good strawberry,0.3096
+rather coffee,0.3063
+protocol rain,0.3061
+lady rudely,0.2819
+price high,0.2775
+guest waiting,0.2762
+unpleasant lady,0.2418
+food always,0.2379

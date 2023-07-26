@@ -1,136 +1,228 @@
 keyword,weight
-coffee,12.4001
-breakfast,3.3456
-cafe,3.2944999999999998
-cozy,2.672
-sandwiches,2.196
-friendly,2.0741
-sandwich,2.0727
-great,1.9407999999999999
-wifi,1.6766
-tasty,1.6492
-food,1.6379
-latte,1.6297
-quiet,1.5676999999999999
-good,1.5023
-morning,1.4015
-oatmeal,1.2688
-5pm,1.1656
-comfortable,1.1037
-avocado,0.9843
-cup,0.9312
-cute,0.9202999999999999
-bagels,0.9188000000000001
-place,0.9180999999999999
+coffee,7.82
+good coffee,3.5269
+cup coffee,2.7655
+bagel sandwich,1.9279
+coffee shop,1.6885
+great coffee,1.5734
+breakfast bagel,1.4983
+bagel breakfast,1.4263
+cafe,1.3437000000000001
+cozy,1.2816
+cozy little,1.2702
+breakfast,1.2454
+coffee good,1.2035
+sandwich,1.1719
+good cafe,1.0589
+sweet maple,1.0202
+go,1.0
+sick latte,1.0
+food pretty,0.9762
+close pm,0.9663
+morning coffee,0.9431
+free wifi,0.9279
+coffee friendly,0.9276
+best caramel,0.9038
 sick,0.8879
-love,0.8475
-bagel,0.8372999999999999
-nice,0.8163
-delicious,0.8041
-30pm,0.7802
-shop,0.7478
-fresh,0.7445999999999999
-seating,0.7383
-smoothies,0.6994
-clean,0.6828
-snack,0.667
-slow,0.6574
-calm,0.6368
-work,0.6197
-inexpensive,0.6169
-caramel,0.6085
-starbucks,0.6042
-flavor,0.5521
-reasonable,0.5361
-wrong,0.5062
-service,0.4842
-pleasant,0.4699
-microdosing,0.4698
-lettuce,0.4524
-little,0.451
-environment,0.4468
-sweet,0.4416
-muffins,0.4196
-lobby,0.3894
-cheese,0.3821
-variety,0.3799
-café,0.377
-unassuming,0.3729
-decent,0.3725
-laptops,0.3723
-endearing,0.3716
-lounge,0.3675
-toast,0.3583
-order,0.3403
-oj,0.338
-experience,0.3362
-squeezed,0.3332
-excellent,0.3264
-onion,0.3247
-pretty,0.3143
-atmosphere,0.3115
-solid,0.3099
-close,0.3023
-small,0.2955
-yummy,0.2951
-prices,0.2941
-gloomy,0.2863
-fruit,0.28459999999999996
-drinks,0.2809
-got,0.2807
-strong,0.2775
-quality,0.2607
-macchiato,0.2587
-lunch,0.2546
-favorite,0.2531
-caffeinated,0.2468
-cream,0.2464
-wonderful,0.2413
-commendable,0.2382
-cocktail,0.2285
-pastries,0.2227
-eating,0.2163
-maple,0.2154
-laptop,0.213
-beans,0.2055
-best,0.1949
-closes,0.1887
-day,0.1871
-perfect,0.185
-chicken,0.1822
-tea,0.1804
-murano,0.1798
-locals,0.1796
-people,0.1787
-robust,0.1786
-corporate,0.1771
-offerings,0.1756
-ambiance,0.1745
-barista,0.169
-veggies,0.1593
-chill,0.1485
-relaxed,0.1482
-weird,0.1289
-roaster,0.1265
-gross,0.1264
-working,0.1192
-life,0.1191
-soufflé,0.1119
-high,0.1104
-roast,0.1005
-stars,0.0995
-vibe,0.0923
-early,0.0897
-expensive,0.0859
-special,0.0838
-flavorful,0.0571
-poured,0.0562
-fast,0.041
-hummus,0.026
-songwriter,0.0206
-winter,0.0127
-nodded,0.0124
-egg,0.0117
-tinny,0.0095
-ok,-0.0285
-quick,-0.0294
+tasty smoothy,0.8855
+tasty,0.8791
+coffee endearing,0.876
+great sandwich,0.8652
+cafe good,0.8647
+pm pm,0.8544
+smoothy cute,0.8432
+slow got,0.8409
+caramel macchiato,0.8357
+seating calm,0.8187
+decent atmosphere,0.8168
+cute spot,0.8115
+latte delicious,0.8046
+slow,0.8043
+pm,0.7981
+pleasant experience,0.7976
+reasonable price,0.7928
+oatmeal great,0.7889
+quiet place,0.7885
+coffee clean,0.7838
+order wrong,0.7819
+calm environment,0.7755
+quiet,0.7746
+overall pleasant,0.7715
+snack breakfast,0.7681
+work done,0.7615
+little coffee,0.758
+nice cozy,0.758
+inexpensive food,0.7566
+coffee crowded,0.7532
+work,0.7479
+avocado toast,0.7437
+cafe perfect,0.7405
+experience decent,0.7384
+coffee great,0.7315
+get work,0.7313
+coffee fresh,0.7278
+pleasant,0.7261
+food bagel,0.7248
+calm,0.7209
+place love,0.7195
+cute coffee,0.7173
+quality coffee,0.7129
+caramel,0.7078
+shop tasty,0.7063
+wrong,0.7056
+strong flavor,0.6992
+friendly service,0.6979
+delicious bagel,0.6974
+comfortable lobby,0.6953
+love,0.6948
+coffee sandwich,0.6948
+lobby friendly,0.6945
+coffee offering,0.6932
+morning,0.69
+small breakfast,0.6826
+toasted onion,0.6808
+variety snack,0.6807
+way avocado,0.6763
+great fresh,0.6748
+avocado cream,0.6741
+good inexpensive,0.6661
+onion bagel,0.6661
+flavor good,0.6659
+sandwich would,0.6653
+coffee dark,0.6653
+breakfast quiche,0.6606
+bagel excellent,0.6591
+nice coffee,0.6527
+yummy muffin,0.6505
+nice sandwich,0.6504
+friendly,0.6467
+fresh squeezed,0.6457
+outlet friendly,0.6445
+ala coffee,0.6439
+food wifi,0.6439
+friendly staff,0.6438
+tasty drink,0.6399
+great latte,0.6376
+coffee fairly,0.6347
+avocado,0.6317
+commendable coffee,0.6316
+sweet people,0.6315
+starbucks peets,0.63
+subpar coffee,0.6269
+close,0.6251
+twice lettuce,0.625
+sandwich bagel,0.625
+snack,0.6208
+got order,0.6163
+drink food,0.6153
+gross eating,0.6101
+cafe attracts,0.6051
+tasty sandwich,0.6037
+cream cheese,0.6015
+food,0.5996
+sandwich huge,0.5959
+community cafe,0.595
+sandwich nice,0.5917
+choice coffee,0.5856
+starbucks,0.5844
+coffee fine,0.584
+great also,0.5813
+breakfast option,0.5804
+squeezed oj,0.5747
+clean establishment,0.5718
+awesome bagel,0.5689
+excellent staff,0.5665
+comfortable coffee,0.5654
+food coffee,0.5639
+people cozy,0.5621
+latte,0.5596
+favorite neighborhood,0.5577
+handy restroom,0.5573
+staple coffee,0.556
+coffee tasty,0.5556
+unappealing breakfast,0.5554
+quick breakfast,0.5528
+coffee neighbourhood,0.5435
+delicious,0.5432
+coffee perfect,0.5398
+flavor,0.5392
+breakfast sandwich,0.5382
+little cafe,0.535
+coffee coming,0.531
+coffee robust,0.5295
+fresh mozzarella,0.5286
+turnover coffee,0.5279
+gloomy customer,0.5275
+breakfast amazed,0.5257
+crowded giving,0.5189
+grab cup,0.5187
+lettuce nodded,0.5143
+cup,0.5104
+roast breakfast,0.5092
+working laptop,0.5061
+coffee service,0.5003
+coffee roaster,0.499
+sandwich coffee,0.4955
+yummy bagel,0.4951
+coffee amazing,0.4917
+made coffee,0.4892
+good breakfast,0.4858
+cafe quiet,0.4834
+seating cafe,0.4823
+quick cup,0.4755
+offering food,0.4753
+coffee full,0.4734
+oatmeal good,0.4723
+want lounge,0.4703
+clean table,0.4701
+wifi awesome,0.47
+fresh bean,0.4666
+huge oatmeal,0.4666
+stopped latte,0.4665
+frill coffee,0.4661
+macchiato life,0.466
+everything coffee,0.4618
+toast,0.4611
+laptop finding,0.4588
+well extracted,0.4574
+cafe enjoy,0.4542
+crowded,0.4519
+best oatmeal,0.4514
+preparation coffee,0.4513
+coffee soda,0.4466
+coffee waiting,0.4365
+friend cocktail,0.4326
+toast ok,0.4324
+get coffee,0.4283
+sandwich selection,0.4234
+bean clean,0.4213
+clean handy,0.4191
+october cafe,0.4189
+breakfast interior,0.4138
+laptop enjoy,0.4109
+endearing,0.4079
+really cafe,0.4077
+good cup,0.4075
+try breakfast,0.4065
+house coffee,0.4042
+friendly food,0.4027
+caf murano,0.3985
+love customer,0.3983
+caf free,0.3947
+mocha tasted,0.3946
+chill yummy,0.3938
+reading cafe,0.3882
+wifi huge,0.3821
+macchiato,0.3819
+bagel good,0.3811
+got breakfast,0.3795
+morning also,0.3723
+lunch quick,0.3716
+cafe close,0.3668
+got coffee,0.3659
+coffee background,0.3539
+one day,0.351
+quick coffee,0.3277
+another one,0.3174
+lunch,0.2743
+came lunch,0.2561

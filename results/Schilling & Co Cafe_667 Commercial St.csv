@@ -1,92 +1,140 @@
 keyword,weight
-food,6.5153
-breakfast,4.4033999999999995
-thank,3.9264
-good,2.291
-delicious,2.2729
-tasty,2.0556
-service,2.0514
-sandwiches,1.6669
-flavorful,1.3965999999999998
-rich,1.1442999999999999
-salads,1.0365
-toast,0.8788
-lunch,0.8667
-clean,0.8399
-excellent,0.7856
-bacon,0.7796
-fresh,0.7457
-eat,0.7097
-beautiful,0.6902
-brunch,0.6522
-bread,0.6353
-burger,0.6336
-pleasant,0.6196
-amazing,0.6168
-decor,0.5943
-sausages,0.5526
-great,0.5488
-atmosphere,0.5365
-impeccable,0.5231
-elegant,0.5134
-coffee,0.5005
-friendly,0.4828
-calming,0.4757
-nice,0.4578
-dessert,0.4492
-quick,0.4458
-light,0.4456
-enjoy,0.4365
-best,0.4303
-francisco,0.42700000000000005
-caaaaamooonnnn,0.4153
-beautifully,0.4087
-foods,0.4042
-healthy,0.3701
-incredible,0.3686
-impressed,0.3497
-enjoyed,0.3483
-table,0.348
-inexpensive,0.3351
-tea,0.3299
-kind,0.3291
-absolute,0.306
-salmon,0.3031
-spices,0.2962
-chicken,0.2888
-thoroughly,0.2879
-undercooked,0.2749
-worst,0.2736
-hot,0.2667
-hotel,0.2518
-teas,0.244
-pricey,0.2408
-divine,0.2357
-florentine,0.2268
-smiles,0.217
-exceptional,0.2039
-vibe,0.1915
-eggs,0.1844
-love,0.1823
-rice,0.1805
-french,0.1752
-cutlery,0.175
-thai,0.1744
-fried,0.1685
-thanks,0.1669
-american,0.1449
-chinatown,0.142
-30,0.1352
-tasted,0.132
-cooked,0.1308
-people,0.1305
-tasting,0.1238
-march,0.1221
-cafe,0.122
-comfortable,0.1213
-cute,0.1207
-awhile,0.1006
-quiche,0.0936
-favorite,0.0897
-cup,0.0326
-ve,0.0141
+thank,4.0
+breakfast,2.2156000000000002
+tasty,2.0476
+good,1.8328
+food,1.8085999999999998
+tasty food,1.7758
+french toast,1.7409
+food rich,1.6213
+amazing food,1.5288
+food delicious,1.4939
+flavorful,1.4285
+breakfast food,1.3726
+delicious,1.2199
+rich,1.1643
+food good,1.1436
+service good,1.0
+good good,0.9943
+burger best,0.9236
+best salad,0.9006
+breakfast bacon,0.8914
+quick sandwich,0.8868
+bacon sausage,0.8814
+food great,0.8769
+food pleasant,0.8636
+fresh tasty,0.863
+food nice,0.8601
+enjoyed breakfast,0.8439
+sandwich caaaaamooonnnn,0.8423
+burger,0.8348
+delicious brunch,0.8114
+enjoy food,0.8075
+food beautifully,0.7892
+delicious worker,0.7836
+bacon,0.7745
+need flavorful,0.7654
+fantastic breakfast,0.7644
+excellent customer,0.7603
+food atmosphere,0.7444
+food beautiful,0.7427
+prepared flavorful,0.7367
+friendly staff,0.7341
+service,0.7295
+worst coffee,0.7245
+sandwich,0.7232
+elegant table,0.7215
+sandwich hot,0.7076
+sausage quiche,0.6895
+pleasant environment,0.6853
+breakfast florentine,0.6802
+flavorful absolute,0.6761
+super tasty,0.6722
+salad sandwich,0.6681
+nice light,0.659
+clean calming,0.6568
+beautiful clean,0.6543
+impeccable incredible,0.6521
+good breakfast,0.6453
+come breakfast,0.6438
+exceptional brunch,0.6403
+basil chicken,0.6369
+beautifully prepared,0.6356
+service elegant,0.6344
+good people,0.6342
+atmosphere decor,0.6331
+food service,0.6257
+sandwich salad,0.6197
+lunch dessert,0.6188
+great service,0.6143
+decor service,0.6103
+food breakfast,0.5932
+cutlery worst,0.5907
+good mood,0.5883
+lunch good,0.5875
+fried rice,0.5866
+salad,0.5858
+quality food,0.5852
+breakfast lunch,0.5827
+cold sandwich,0.5807
+american breakfast,0.5798
+impeccable,0.5796
+healthy food,0.5764
+clean inside,0.5755
+smile thanks,0.5725
+homemade sourdough,0.5649
+delicious fried,0.5546
+food fresh,0.5526
+cute clean,0.5518
+best awhile,0.5491
+mood smile,0.5451
+option salad,0.5435
+chicken perfect,0.5431
+rice basil,0.5411
+smoked salmon,0.527
+comfortable seat,0.5236
+homemade bread,0.5217
+sourdough bread,0.5208
+march comfortable,0.5204
+breakfast brunch,0.5185
+superb food,0.5179
+cafe homemade,0.5103
+rich best,0.51
+breakfast twice,0.5065
+san francisco,0.5049
+coffee sensible,0.5029
+table soft,0.5021
+dessert everything,0.5018
+hot food,0.4964
+breakfast thai,0.4962
+delicious beautiful,0.4938
+food perfect,0.4871
+quality breakfast,0.4828
+fabulous breakfast,0.4748
+brunch surprisingly,0.473
+good food,0.4711
+fresh delicious,0.4673
+nice tea,0.4672
+everything delicious,0.4629
+cup coffee,0.4609
+great tasting,0.4484
+impressed exceptional,0.4481
+florentine divine,0.4461
+caaaaamooonnnn,0.4359
+distance breakfast,0.4307
+egg benedict,0.4304
+quick,0.4294
+inexpensive satisfying,0.4265
+best tasted,0.4153
+sunday brunch,0.414
+best,0.4029
+selection tea,0.3886
+delicious projection,0.3838
+undercooked egg,0.3805
+awhile,0.3727
+eat everything,0.3593
+love spicier,0.3578
+cooked perfectly,0.3556
+delicious hollandaise,0.3392
+coffee ever,0.3237
+plate cutlery,0.3102

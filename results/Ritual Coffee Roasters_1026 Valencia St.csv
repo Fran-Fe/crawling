@@ -1,667 +1,1650 @@
 keyword,weight
-food,61.944
-breakfast,50.9447
-pizza,40.9583
-great,35.9035
-thanks,28.9303
-good,20.27
-delicious,19.4135
-coffee,16.7566
-nice,15.9657
-brunch,15.164
-cafe,13.479800000000001
-service,12.8324
-tasty,9.6479
-place,9.4284
-excellent,9.029399999999999
-menu,8.9313
-glad,8.823599999999999
-enjoyed,7.3157
-lunch,7.199
-friendly,6.7466
-love,6.5804
-thank,6.5372
-pizzas,6.3661
-feedback,6.2791999999999994
-hear,5.7706
-amazing,5.7065
-appreciate,5.6162
-italian,5.3774
-cozy,5.3043
-salmon,4.9627
-sandwich,4.9572
-kind,4.8452
-wine,4.8144
-pasta,4.6885
-staff,4.5745000000000005
-dinner,4.437
-happy,4.3111
-pastries,4.2257
-dining,4.149
-experience,4.1136
-waitress,3.9821999999999997
-bread,3.7661000000000002
-restaurant,3.7593
-hi,3.6565
-favorite,3.6167
-toast,3.5722
-overpriced,3.4303
-ambiance,3.3061
-potatoes,3.2934
-eggs,3.2409999999999997
-wonderful,3.182
-beautiful,3.0872
-dessert,2.9612
-fresh,2.8714
-meal,2.8239
-chicken,2.6912
-best,2.6318
-salad,2.5808
-quaint,2.5602
-better,2.556
-cosy,2.5456000000000003
-awesome,2.5113
-tea,2.5028
-pudding,2.4715
-atmosphere,2.4650000000000003
-expensive,2.4584
-bad,2.4132
-laurie,2.3783
-neighborhood,2.3133
-flavor,2.3080999999999996
-eat,2.2199999999999998
-sausage,2.2042
-outstanding,2.1596
-sorry,2.152
-rich,2.1322
-sandwiches,2.0921
-french,2.0404
-italy,1.924
-lovely,1.8289
-busy,1.7705000000000002
-bacon,1.7110999999999998
-business,1.6941
-dishes,1.6828
-slow,1.6775
-comfortable,1.6639
-outdoor,1.6508
-pretty,1.6425999999999998
-breakfasts,1.6257000000000001
-garlic,1.6225
-rose,1.5747
-solid,1.5356999999999998
-restaurants,1.5341
-waiter,1.5095
-lemonade,1.496
-polite,1.4578
-relaxed,1.4527
-apple,1.432
-sunday,1.423
-vibe,1.405
-decent,1.3681999999999999
-little,1.3319
-recommend,1.3235000000000001
-pricey,1.318
-francisco,1.298
-overhyped,1.2909
-going,1.2904
-dog,1.2652
-yummy,1.2607
-clean,1.2427000000000001
-sunny,1.2131
-fantastic,1.2016
-bakery,1.1929
-table,1.1875
-disappointed,1.1846999999999999
-cook,1.1573
-gem,1.1508
-cheese,1.1494
-ok,1.1411
-soup,1.1324999999999998
-bistro,1.1288
-cute,1.1265999999999998
-chocolate,1.0807
-diner,1.0775000000000001
-baked,1.0678999999999998
-rude,1.0603
-friends,1.0063
+breakfast pizza,46.8785
+pizza,39.7186
+breakfast,35.3991
+food,32.1381
+thanks much,21.1488
+thanks,20.4665
+great,15.1103
+great food,13.121
+good food,11.3709
+coffee,11.1491
+great breakfast,9.8023
+glad,9.623
+delicious,9.1968
+good,9.0756
+food great,8.7191
+nice,8.6178
+excellent food,7.6533
+food good,7.59
+kind word,6.8508
+brunch,6.8506
+enjoyed,6.7459
+food service,6.4557
+thank,6.359999999999999
+place,5.87
+glad enjoyed,5.6144
+lunch,5.4298
+cafe,5.135
+much,5.1215
+french toast,4.9008
+good coffee,4.8911999999999995
+tasty,4.8399
+rose cafe,4.7702
+delicious breakfast,4.459
+nice place,4.3842
+happy,4.2494
+great hear,4.1251999999999995
+appreciate feedback,3.9326
+menu,3.9253
+great service,3.9132000000000002
+excellent,3.8948
+much glad,3.764
+thank much,3.7373
+breakfast place,3.6443
+salmon pizza,3.6206
+love,3.6124
+sandwich,3.4947
+restaurant,3.4943
+delicious food,3.4709
+place breakfast,3.3522
+pizza delicious,3.3003
+waitress,3.2609000000000004
+service,3.2529
+happy hear,3.2455
+excellent breakfast,3.2426
+pizza great,3.0896
+overpriced,3.0839
+good service,2.9518
+italian,2.9493
+word appreciate,2.9267
+flavor,2.8984
+brunch lunch,2.8971999999999998
+pasta,2.8821
+food nice,2.8137
+bad,2.8091999999999997
+food delicious,2.7988
+lunch dinner,2.7862999999999998
+italian food,2.7773
+best breakfast,2.7180999999999997
+good breakfast,2.6509
+food friendly,2.6425
+friendly staff,2.6381
+overpriced food,2.6317
+feedback glad,2.5876
+great brunch,2.5661
+pastry,2.5643000000000002
+dinner,2.5556
+turkey sandwich,2.5532
+glad hear,2.5052
+appreciate business,2.4467
+love place,2.4415
+great coffee,2.4357
+salmon,2.4109
+chicken sausage,2.3838
+much feedback,2.365
+good wine,2.3227
+glad good,2.3079
+garlic potato,2.3067
+thank laurie,2.2868
+thanks feedback,2.2857000000000003
+delicious pizza,2.2841
+service food,2.2663
+appreciate,2.2521
+great staff,2.2509
+food excellent,2.2453
+breakfast menu,2.2298999999999998
+brunch great,2.2279999999999998
+meal,2.2199
+always great,2.2029
+review glad,2.175
+wine,2.166
+pizza good,2.1177
+fresh tasty,2.1098
+cozy,2.1083
+food tasty,2.0973
+amazing,2.0745
+better,2.0663
+smoked salmon,2.0652
+food coffee,2.0545
+service delicious,1.9798
+nice breakfast,1.9712
+favorite,1.9588
+food amazing,1.9421
+lavender lemonade,1.9341
+coffee good,1.9313000000000002
+food fresh,1.9247999999999998
+delicious brunch,1.8921000000000001
+wonderful breakfast,1.8448
+service tasty,1.8128000000000002
+brunch menu,1.7913000000000001
+place eat,1.7849
+hear thanks,1.7841
+outdoor dining,1.7738
+great dessert,1.7663000000000002
+awesome breakfast,1.7635999999999998
+address staff,1.7571999999999999
+pizza amazing,1.7044000000000001
+love food,1.6982
+eat,1.6972
+excellent service,1.6799
+try breakfast,1.6742
+bread pudding,1.6583999999999999
+salmon sandwich,1.6562999999999999
+word glad,1.6421999999999999
+good experience,1.6352
+good pasta,1.6122
+thanks kevin,1.6093
+comfort food,1.5989
+great italian,1.5985
+pizza tasty,1.5887
+pizza ever,1.5866
+scrambled egg,1.5839
+breakfast excellent,1.5705
+dining,1.5651
+fresh food,1.5586000000000002
+disappointed food,1.5548
+favorite breakfast,1.549
+expensive,1.5485
+enjoyed visit,1.5402
+coffee great,1.5373
+diner,1.5291
+pizza pasta,1.5190000000000001
+much kind,1.5176
+good place,1.4954
+experience,1.492
+great menu,1.4738
+sausage polenta,1.4601
+feedback,1.4558
+happy enjoyed,1.4545
+taste,1.4541
+highly recommend,1.4432
+chicken,1.4354
+awesome,1.4334
+caramelized apple,1.4172
+tasty food,1.396
+breakfast lunch,1.3901
+pizza excellent,1.3844
+great pastry,1.3824
+rose,1.3807
+hear laurie,1.3798
+pizza sandwich,1.3767
+loved breakfast,1.365
+great experience,1.3638
+egg sandwich,1.3513000000000002
+interesting menu,1.3489
+bad experience,1.3393
+brunch breakfast,1.3296000000000001
+great place,1.3201
+nice polite,1.3177
+wine great,1.3139
+pizza garlic,1.313
+sunday brunch,1.3063
+wonderful place,1.3058999999999998
+amazing service,1.3056999999999999
+place beautiful,1.3031000000000001
+sorry bad,1.2974
+ham pizza,1.2955999999999999
+slow food,1.2949
+service great,1.291
+cafe great,1.2768000000000002
+feedback address,1.2709000000000001
+excellent place,1.2612
+pizza breakfast,1.2610999999999999
+rich,1.2501
+yummy,1.2431
+wine list,1.2384
+dessert,1.2342
+best pizza,1.2316
+nothing special,1.2301
+pizza section,1.2268
+little cafe,1.2231
+pizza sausage,1.2081
+beautiful,1.2035
+good meal,1.1999
+delicious coffee,1.199
+delicious menu,1.1968999999999999
+cozy atmosphere,1.1963
+vegan,1.1909
+breakfast sandwich,1.1888
+pasta dish,1.1725
+bistro,1.1717
+breakfast food,1.1677
+food always,1.1632
+salmon breakfast,1.1543
+place brunch,1.1482999999999999
+good latte,1.1435
+italy,1.1294
+pizza brunch,1.1197
+soft scrambled,1.1136
+nice staff,1.1099999999999999
+friendly,1.1080999999999999
+nice atmosphere,1.107
+great people,1.1044
+strawberry shortcake,1.0979
+food union,1.0908
+toast,1.0889
+breakfast spot,1.0876
+pudding,1.0848
+pizza get,1.0716
+breakfast brunch,1.0612
+afternoon,1.0574
+food decent,1.0529
+potato great,1.0192
+dog friendly,1.0027
+arugula breakfast,1.0016
+simply best,1.0
+enjoyed experience,1.0
+overpriced overhyped,1.0
+lovely place,1.0
+loveeed,1.0
+amazing taste,1.0
+pretty good,1.0
+neighborhood gem,1.0
+breakfast better,1.0
+rich coffee,1.0
+terrible coffee,1.0
+drank coffee,1.0
+fun brunch,1.0
+thanks darrell,1.0
 ugh,1.0
-priced,0.9954999999999999
-comfort,0.9836
-apples,0.9734
-flavorful,0.9706
-casual,0.9613
-words,0.9575
-weekday,0.9528000000000001
-afternoon,0.9389000000000001
-cooked,0.9372
-private,0.9179999999999999
-underwhelmed,0.9108
-tastes,0.9091
-taste,0.896
-loveeed,0.8869
-smaller,0.8868
+superb brunch,1.0
+awesome pastry,1.0
+nice pizza,1.0
+getting going,1.0
+ok,1.0
+like italy,0.9982
+salad,0.9849000000000001
+fresh delicious,0.9844999999999999
+pastry coffee,0.9827
+staff,0.9798
+decent food,0.9763
+yay thanks,0.9698
+smaller huge,0.9671
+pretty,0.9667
+better rose,0.9633
+polenta breakfast,0.9564
+best,0.9556
+waitress nice,0.9522
+tasty bite,0.9508
+enough favorite,0.9492
+bakery cozy,0.9467
+nice hear,0.9447
+thank kind,0.9443
+delicious everything,0.9406
+beautiful waitress,0.9382
+food cozy,0.9357
+john happy,0.9353
+bad food,0.9324
+cappellini delicious,0.9316
+good attention,0.9316
+lovely,0.9313
+margherita pizza,0.9309
+super delicious,0.9302
+wonderful food,0.9298
+breakfast burrito,0.9265
+food bad,0.9249
+brian appreciate,0.9246
+salmon cozy,0.9227
+great daytime,0.9225
+fantastic dinner,0.9222
+nice bakery,0.9208
+coffee excellent,0.9195
+exquisite good,0.9167
+dinner lovedddd,0.9135
+great customer,0.9123
+going,0.9121
+delicious service,0.9101
+pleased waitress,0.9085
+amazing apple,0.9068
+excellent pastry,0.9063
+krista appreciate,0.906
+eclectic yet,0.9018
+love dog,0.901
+pizza champagne,0.9007
+rosalie glad,0.9
+tasty olive,0.8955
+overhyped,0.8954
+chilies pizza,0.8953
+tasty calamari,0.8953
+michael thanks,0.8946
+clean restaurant,0.8931
+getting,0.8915
+daytime meetup,0.8914
+amazing hear,0.8907
+breakfast incredible,0.8872
+puzzle egg,0.8871
+exquisite,0.887
+thank sharing,0.8869
+outstanding food,0.8862
 eclectic,0.8859
-regular,0.8808
-yogurt,0.8788
-seating,0.8752
-hamburgers,0.8646
-healthy,0.8395
-strawberries,0.8328
-nightly,0.8322
-superb,0.8311
-exquisite,0.8298
-people,0.8220000000000001
+thanks brian,0.8844
+amazing pizza,0.8828
+good brunch,0.8808
+food outstanding,0.8802
+kevin great,0.8798
+best chicken,0.8793
+yet consistent,0.8783
+restaurant friendly,0.877
+relaxed dining,0.8763
+great french,0.8735
+healthy dish,0.8732
+afternoon lunch,0.8731
+awesome lunch,0.8725
+daniel thanks,0.872
+food beautiful,0.8715
+brunch food,0.8712
+brunch nice,0.869
+jim thanks,0.8682
+pernille thanks,0.8668
+feedback happy,0.8646
+experience thank,0.8643
+much jamie,0.8637
+breakfast delicious,0.8636
+jamie,0.8613
+pizza croissant,0.8593
+always,0.8565
+mediocrely priced,0.855
+carlos great,0.8537
+filling brunch,0.8521
+rachel happy,0.8518
+simply,0.85
+vinay thanks,0.8475
+staff nice,0.846
+favorite restaurant,0.841
+lunch nice,0.841
+thanks carlos,0.841
+much great,0.8409
+thanks rachel,0.8408
+eaten amazing,0.8384
+kind comment,0.8384
+coffee terrific,0.8381
+vibe coffee,0.8374
+attention recommended,0.8371
+breakfast choice,0.8369
+rude staff,0.8367
+menu friendly,0.8362
+toast breakfast,0.8356
+breakfast sf,0.8345
+yay,0.8343
+get better,0.8326
+table sticky,0.8318
+delicious potato,0.8306
+excellent people,0.8287
+bread tasty,0.8276
+cozy place,0.8271
+polite,0.8261
+place returning,0.8261
+fun,0.8239
+little brunch,0.8228
+thanks great,0.8205
+breakfast friendly,0.8204
+neighborhood cozy,0.82
+food mediocrely,0.8176
 consistent,0.8166
-orange,0.8163
-ambience,0.8156
-worth,0.8147
-jamie,0.8078
+location beautiful,0.8165
+great outdoor,0.8163
+salmon excellent,0.815
+great location,0.8114
+coffee watered,0.8087
+good enough,0.808
+good tea,0.8076
+calabrian chilies,0.8072
 daytime,0.807
-returning,0.8014
-salads,0.7993
-vegan,0.7953
-darrell,0.7891
-pastry,0.7865
-eaten,0.7794
-yay,0.7787
-fun,0.7728
-burger,0.7628
-diners,0.7626
-review,0.7481
-bar,0.7466999999999999
-juice,0.7452
-roses,0.7425
-outside,0.7416
-cheery,0.7376
-café,0.7362
-simply,0.7339
+experience wait,0.8062
+solid food,0.8054
+italian soda,0.8053
+breakfast love,0.805
+decent wine,0.8044
+neighborhood,0.8034
+taste good,0.8028
+returning,0.8022
+place decent,0.802
+coffee orange,0.8017
+tom thanks,0.7996
+love neighborhood,0.7995
+bad service,0.7994
+place good,0.798
+cosy disappointed,0.7978
+rich food,0.7968
+appreciate comment,0.7963
+offer breakfast,0.7958
+food atmosphere,0.7951
+thanks appreciate,0.7947
+restaurant rome,0.7944
+sammi thanks,0.7941
+service comfortable,0.7934
+going pizza,0.793
+service excellent,0.7926
+naja thanks,0.7919
+nice location,0.7916
+sandwich prosciutto,0.7914
+good flavor,0.7911
+cosy food,0.791
+baking staff,0.7893
+always reliable,0.7892
+friendly employee,0.7889
+great sandwich,0.788
+coffee come,0.7878
+brunch spot,0.786
+smaller,0.7835
+outstanding ambiance,0.7831
+intolerably slow,0.7825
+quaint place,0.7815
+much amazing,0.7814
+vegan pastry,0.781
+little bistro,0.7802
+loved casual,0.7801
+weekday afternoon,0.7798
+tasty everyone,0.7784
+cozy relaxed,0.7763
+menu nightly,0.7756
+gem,0.7728
+closed fpr,0.7713
+thanks lisa,0.7697
+egg top,0.7694
+lisa great,0.7692
+relaxed vibe,0.7688
+staff ambiance,0.7669
+best cheesecake,0.7668
+kevin appreciate,0.766
+food love,0.7655
+hi michael,0.7652
+great enjoyed,0.765
+darrell,0.7646
+wonderful weekday,0.7641
+yummy filling,0.7638
+restaurant good,0.7634
+italian cuisine,0.763
+food taste,0.7622
+potato hash,0.7614
+lunch served,0.7613
+seating amazing,0.7609
+mitch thank,0.7608
+apple berry,0.7601
+strange food,0.7588
+berry crisp,0.7587
+pizza item,0.7585
+flavorful zucchini,0.7555
+beautiful outdoor,0.7552
+food cosy,0.755
+superb,0.7549
+hi jim,0.7543
+liked breakfast,0.7538
+tea good,0.7537
+love breakfast,0.7535
+amazing brunch,0.7532
+underwhelmed much,0.753
+feedback baking,0.7527
+enjoyed rose,0.7511
+quaint,0.7509
+dining experience,0.7503
+menu changed,0.7472
+comfortable relaxed,0.7466
+private party,0.7457
+nice diner,0.7453
+breakfast pastry,0.7452
+store delicious,0.7425
+lots pizza,0.7419
+food chicken,0.7418
+great bread,0.7418
+pasta great,0.7415
+pizza learned,0.7399
+comparable restaurant,0.7396
+beautiful place,0.7392
+great server,0.7388
+underwhelmed,0.7385
+pizza lived,0.7384
+feedback laurie,0.7383
+superb dinner,0.7374
+hi daniel,0.7372
+cheese brunch,0.7365
+edwin thanks,0.7363
+hungry food,0.7356
+nice neighborhood,0.7353
+food expensive,0.7351
+fpr private,0.7349
+service helpful,0.7344
+soda orange,0.7343
+service worst,0.7334
+better thank,0.7331
+pastry freshly,0.7329
+orange bun,0.7326
+coffee quaint,0.7319
+french,0.7314
+helpful nice,0.7313
+coffee authentic,0.7313
+michael,0.73
+loved burger,0.7299
+get breakfast,0.7292
+really nice,0.7289
+business,0.7281
+pasta salad,0.7269
+nice cafe,0.7268
+really appreciate,0.726
+delicious sandwich,0.7255
 terrible,0.7254
-espresso,0.7184999999999999
-weekends,0.7162
-portions,0.7147
-burritos,0.7124
-uncomfortable,0.7085
-recommended,0.7082
-egg,0.7063
-mediocrely,0.7015
-attention,0.7005
-getting,0.6965
-loved,0.6890000000000001
-helpful,0.6785
-bowls,0.6779999999999999
-location,0.6763
-highly,0.6762
-latte,0.6597999999999999
-spaghetti,0.6588
-pleasant,0.6588
-croissants,0.6567
-detergent,0.6507
-chef,0.6505
-spinach,0.6487
-intolerably,0.6464
-manager,0.6456000000000001
-beer,0.6417
-comments,0.6406000000000001
-interesting,0.6317
-strawberry,0.6307
-pork,0.6293
-special,0.6247
-super,0.6243
-reliable,0.624
-address,0.6138
-unreasonably,0.609
-changed,0.6042
-spot,0.599
-closed,0.5988
-kitchen,0.5972
-brian,0.5936
-daniel,0.5932
-olives,0.5907
-dined,0.5900000000000001
-sf,0.5895999999999999
-classy,0.5887
-just,0.5883999999999999
-chilies,0.5878
-hungry,0.5831
-michael,0.5798
-doesn,0.5796
-carlos,0.5783
+great pizza,0.7252
+ambiance excellent,0.7251
+sun food,0.7247
+wait,0.7244
+champagne brunch,0.7243
+unreasonably expensive,0.7242
+caught salmon,0.7242
+yet,0.7232
+coffee friendly,0.7215
+puzzle,0.7209
+pudding french,0.7207
+recommend breakfast,0.7205
+used better,0.7202
+hear hope,0.72
+waited waitress,0.7197
+busy friendly,0.7197
+food staff,0.7196
+place interesting,0.7195
+classy casual,0.7194
+ambiance also,0.7181
+high price,0.7173
+lunch recently,0.7169
+sandwich great,0.7166
+provencal potato,0.7165
+feel better,0.7159
+service slow,0.7156
+disappointed,0.7151
+clean great,0.7149
+staff rude,0.7147
+pizza focaccia,0.7146
+waitress service,0.7141
+love love,0.7132
+love rose,0.7128
+italy northern,0.7121
+casual meal,0.7119
+beautiful ambiance,0.7118
+pizza life,0.7111
+fabulous breakfast,0.7109
+kind,0.7108
+egg,0.7104
+word happy,0.7102
+pizza reasonable,0.7102
+hope feel,0.7096
+grossest food,0.7095
+bakery,0.7084
+loved cafe,0.7081
+breakfast salmon,0.7079
+delicious waiter,0.7077
+breakfast little,0.7068
+food classic,0.7062
+pizza chicken,0.7055
+late lunch,0.7054
+customer regular,0.7053
+nice dog,0.7052
+chicken town,0.7047
+slow unreasonably,0.7046
+favorite aunt,0.7043
+egg tasted,0.7039
+sandwich based,0.7031
+pizza thank,0.7023
+bennett sorry,0.7022
+waiter nice,0.7015
+homemade pastry,0.7013
+breakfast great,0.7009
+nice pastry,0.7007
+delicious fresh,0.7006
+great bellinis,0.7003
+huge portion,0.6991
+fantastic food,0.6987
+excellent coffee,0.6986
+comfortable breakfast,0.6971
+free coffee,0.6969
+food safety,0.6969
+wait go,0.6958
+benji thanks,0.6941
+chef feedback,0.6936
+breakfast amazing,0.6928
+yummy great,0.6928
+loved spaghetti,0.6927
+good selection,0.6926
+mediocrely,0.6926
+spaghetti,0.6924
+cuisine memorable,0.6922
+cafe close,0.692
+eleanor thanks,0.6902
+anything coffee,0.6901
+wonderful italian,0.6891
+best italian,0.6891
+neighborhood flavor,0.6886
+enjoyed meal,0.6885
+private,0.6883
+best food,0.6881
+potato delicious,0.6878
+perfect breakfast,0.6876
+pizza dine,0.6875
+fabulous flavor,0.6865
+sausage fantastic,0.6862
+apple,0.6861
+table uncomfortable,0.6858
+great price,0.6836
+burrito,0.6823
+bar breakfast,0.682
+nice vibe,0.6812
+clean,0.6812
+comfortable,0.6801
+closed,0.6791
+reasonable coffee,0.6789
+greasy spoon,0.6789
+fresh outdoor,0.6787
+drank,0.6782
+detergent,0.6782
+food delightful,0.6769
+rest cook,0.6761
+lunch menu,0.6749
+stunning service,0.674
+salad delicious,0.674
+rose favorite,0.6732
+safe dining,0.673
+dinner great,0.6728
+experience breakfast,0.6723
+solid italian,0.6721
+chocolate cake,0.6721
+food pretty,0.672
+daniel,0.6713
+add pizza,0.6712
+everything eaten,0.6712
+pizza dinner,0.6703
+nice food,0.6702
+manager please,0.6702
+enjoy ingredient,0.6697
+favorite pizza,0.669
+mom dining,0.6689
+egg bacon,0.6688
+ambiance,0.6681
+place cheery,0.6676
+salad ambiance,0.6669
+brian,0.6667
+bread butter,0.6663
+potato amazing,0.6661
+intolerably,0.6656
+like detergent,0.6654
+nice weather,0.6648
+pizza mimosa,0.6636
+tasty pleasant,0.6624
+breakfast well,0.6623
+pizza popular,0.6616
+cow hollow,0.6613
+dreamy cafe,0.6594
+list pizza,0.6594
+somehow pizza,0.6592
+pizza margerhita,0.6589
+juice fresh,0.6587
+piece italy,0.658
+kind food,0.6575
+regular nothing,0.6567
+pasta date,0.6565
+vintage cafe,0.6561
+care laurie,0.656
+pizza girlfriend,0.656
+francisco delicious,0.6551
+lunch friend,0.6537
+bread olive,0.6536
+inflexible food,0.6528
+nice store,0.6524
+server good,0.6523
+wine better,0.6519
+deliver thank,0.6518
+potato,0.6514
+pizza hot,0.6513
+definitely going,0.6511
+quite overpriced,0.6509
+crisp dessert,0.6505
+expensive quality,0.6504
+breakfast neighborhood,0.65
+nice outdoor,0.6496
+staff great,0.6496
+pizza rguesas,0.6488
+private meal,0.6486
+casual dining,0.6485
+outstanding pizza,0.6473
+wrong sorry,0.6468
+sandwich pointe,0.6468
+waitress menu,0.6467
+dinner delicious,0.6467
+bacon vegetable,0.6466
+outdoor,0.6465
+sandwich awesome,0.6464
+food disgusting,0.6464
+reliable great,0.6455
+bistro always,0.6454
+turned pizza,0.6453
+solid always,0.6451
+bread friendly,0.6444
+favorite place,0.6443
+mimosa sunday,0.6434
+neighborhood food,0.6433
+amazing tea,0.6433
+meal love,0.6429
+competition restaurant,0.6429
+address team,0.6427
+sticky strange,0.6426
+hamburger,0.6418
+unfortunately food,0.641
+mustard avocado,0.6403
+weather good,0.6399
+full burger,0.6391
+interesting,0.6384
+cute cafe,0.6384
+followup thank,0.6375
+rguesas hamburger,0.6371
+ordered pizza,0.637
+minute food,0.6364
+peperoni calabrian,0.6363
+original healthy,0.636
+appreciate happy,0.6356
+top yum,0.6355
+garlic roasted,0.6344
+pasta beer,0.6336
+meal past,0.6331
+much flavor,0.633
+toast pizza,0.6325
+still hungry,0.6323
+pizza full,0.6318
+service always,0.6313
+meet breakfast,0.6309
+cold garlic,0.6305
+brunch absolutely,0.6305
+bake bread,0.6305
+food look,0.6304
+bay coffee,0.6302
+worst,0.63
+reservation busy,0.6293
+great atmosphere,0.6288
+neighborhood bistro,0.6286
+local lunch,0.6279
+tourist lunch,0.6275
+huge,0.6269
+breakfast bacon,0.6263
+brunch sun,0.626
+breakfest friend,0.6245
+dining food,0.6245
+baking,0.6238
+delicious bakery,0.6236
+breakfast champion,0.6236
+delicious salmon,0.6235
+excellent sunday,0.6232
+weekend lunch,0.6231
+good nothing,0.6229
+classic breakfast,0.6225
+service love,0.6222
+great definitely,0.6221
+pizza quite,0.6219
+welcoming atmosphere,0.6195
+pizza turkey,0.6193
+staff thank,0.6192
+portion,0.6191
+hungry,0.6188
+pastry granola,0.6181
+italian comfort,0.618
+food inspiring,0.6176
+spoke manager,0.6176
+lovely experience,0.6166
+pizza would,0.6165
+nothing,0.6162
+chocolate coffee,0.616
+prosciutto delicious,0.6151
+chicken bbq,0.615
+salad overpriced,0.6149
+food wine,0.6145
+homemade bread,0.6143
+nice restaurant,0.6142
+bbq sandwich,0.614
+kind breakfast,0.6135
+italian brunch,0.6127
+breakfast favorite,0.6126
+neighborhood breakfast,0.6126
+pork allergy,0.6125
+carbonara good,0.6124
+service welcoming,0.6117
+breakfast especially,0.6116
+give chef,0.6114
+excellent waiter,0.6113
+pastry good,0.6112
+pizza hamburger,0.6108
+slow,0.6108
+carbs cheese,0.6106
+lovedddd back,0.6104
+fantastic breakfast,0.6099
+sunny sidewalk,0.6097
+dine outside,0.6094
+favorite granola,0.6091
+pizza disappointed,0.6083
+waitress enjoyable,0.6079
+marco sorry,0.6073
+hash brown,0.6072
+union good,0.607
+waitress polite,0.6069
+dog cook,0.6063
+gone year,0.6063
+review appreciate,0.6062
+strong salad,0.6053
+delightful staff,0.6052
+house coffee,0.6051
+coffee get,0.6023
+spinach egg,0.6019
+pizza die,0.6018
+ham pork,0.6018
+dog,0.6017
+pizza pork,0.6017
+sausage chicken,0.6013
+get,0.6005
+warm cozy,0.6005
+great classy,0.6003
+great restaurant,0.6002
+extremely high,0.5997
+lovely breakfast,0.599
+spot cow,0.5988
+enjoy dessert,0.5986
+steak party,0.5982
+tell pasta,0.5979
+flavorful wine,0.5978
+business laurie,0.5978
+barista espresso,0.5974
+disappointed waitress,0.5973
+reliable,0.5968
+burger fried,0.5965
+decent coffee,0.5963
+went wrong,0.596
+recommend hash,0.5959
+food though,0.5958
+breakfast limited,0.5952
+better breakfast,0.5951
+delicious neighborhood,0.595
+calm dreamy,0.593
+pizza food,0.5929
+food okay,0.5929
+toasted bread,0.5924
+juicy caramelized,0.5921
+baked daily,0.5921
+little restaurant,0.5921
+neighborhood cafe,0.5918
+expensive good,0.5916
+cari thank,0.5911
+cute breakfast,0.5907
+cream pasta,0.5904
+friend breakfast,0.5903
+good dessert,0.5898
+facebook loved,0.5897
+cow,0.5895
+friendliest bartender,0.5892
+huge cafe,0.5888
+glad stopped,0.5887
+prepared sandwich,0.5887
+coffee refill,0.588
+priced staff,0.5876
+seafood pasta,0.5875
+dear marco,0.5872
+sandwich perfect,0.5871
+spot marina,0.5871
+chilies,0.5869
+food honestly,0.5866
+cozy cafe,0.5866
+moka coffee,0.5866
+sauce chili,0.5865
+egg spinach,0.5865
+pizza egg,0.5865
+nightly,0.5864
+lunch spot,0.5859
+bone waitress,0.5854
+friendly great,0.5849
+solo diner,0.5845
+great fresh,0.5844
+cafe service,0.5843
+potato poem,0.5843
+green salad,0.5842
+good chairs,0.5841
+kitchen team,0.5837
+outstanding service,0.5835
+pizza rather,0.5831
+table weekend,0.5828
+pizza asked,0.5826
+perfect brunch,0.5825
+roasted turkey,0.582
+enjoying calm,0.5814
+shop restaurant,0.5813
+one vegan,0.5808
+dined address,0.5804
+seating heat,0.5795
+polenta delicious,0.5788
+diner like,0.5781
 meetup,0.5779
-san,0.5708
-sodas,0.5666
-sticky,0.5583
-jim,0.554
-kevin,0.5537
-customers,0.55
-huge,0.5479999999999999
-mimosas,0.5456
-hash,0.5453
-loud,0.5435
-champagne,0.5427
-breakfest,0.5418
-bites,0.5387
-visit,0.5384
-biscuit,0.5357000000000001
-welcoming,0.5353
-caramelized,0.5327
-sun,0.5325
-salty,0.5313
-greasy,0.5308
-spoon,0.5255
-warm,0.5253
-cow,0.5246999999999999
-krista,0.5243
-vanilla,0.5214
-services,0.5174
-hope,0.5143
-servers,0.5118
-calabrian,0.5102
-potato,0.5079
-disgusting,0.5024
-high,0.5012
-customer,0.5006
-berry,0.4998
-worst,0.4978
-employees,0.4857
-lattes,0.4797
-soft,0.47809999999999997
-lisa,0.4762
-vinay,0.4684
-john,0.4666
-bathtub,0.4641
-used,0.4604
-premium,0.4571
-weekend,0.4555
-sharing,0.4543
-heartbeat,0.4543
-crowded,0.4528
-puzzle,0.4518
-courteous,0.4486
-marina,0.4474
-strange,0.4464
-naja,0.4462
-bellinis,0.4454
-chairs,0.4454
-baking,0.445
-neat,0.4447
-lovedddd,0.4445
-prices,0.438
-lamps,0.4379
-cuisine,0.4375
-filling,0.4365
-rachel,0.4347
-rome,0.4319
-crisp,0.4309
-definitely,0.4295
-wait,0.425
-cool,0.4233
-stunning,0.4226
-really,0.4205
-butter,0.4177
-selection,0.4169
-drank,0.4159
-party,0.4153
-quality,0.411
-daily,0.4108
-shops,0.4058
-set,0.405
-store,0.4034
-avocado,0.4018
-pernille,0.3951
-menus,0.3951
-disappointing,0.3943
-wrong,0.3899
-ate,0.3884
-weather,0.388
-calm,0.384
-northern,0.382
-heat,0.3802
-comparable,0.3787
-tasted,0.3762
-fpr,0.376
-oil,0.37549999999999994
-exciting,0.3739
-tables,0.3727
-chilly,0.3721
-rosalie,0.3666
-grossest,0.3664
-vibrant,0.3654
-wifi,0.3609
-flavors,0.3588
-bathroom,0.3565
-incredible,0.3553
-peperoni,0.3552
-union,0.3506
-work,0.35
-barista,0.35
-bake,0.35
-ll,0.34640000000000004
-facebook,0.3464
-bun,0.3456
-peppers,0.3437
-serving,0.3415
-dentist,0.3404
-cappellini,0.34
-dinners,0.3399
-cheesecake,0.3399
-shrimp,0.3399
-recently,0.3396
-girlfriend,0.3391
-chili,0.3384
-day,0.33599999999999997
-provencal,0.335
-team,0.3335
-comes,0.3327
-classic,0.3322
-partner,0.332
-mimosa,0.3309
-garden,0.3309
-learning,0.3296
-cake,0.3285
-aunt,0.3255
-reservations,0.3252
-authentic,0.325
-easy,0.3233
-wish,0.323
-dine,0.3226
-care,0.3179
-plentiful,0.3144
-pompous,0.3131
-pm,0.3124
-exceptional,0.3122
-fabulous,0.3115
-ketchup,0.3106
-benji,0.3094
-ingredients,0.3093
-nearby,0.309
-morning,0.3074
-quiet,0.3057
-safe,0.3041
-google,0.3036
-prosciutto,0.30269999999999997
-late,0.3024
-eleanor,0.3015
-attentive,0.3011
-hot,0.3002
-hours,0.2995
-tasteful,0.2989
-cinnamon,0.2989
-mediocre,0.297
-carbonara,0.2969
-commuting,0.2964
-looks,0.2964
-marco,0.2957
-years,0.2957
-homemade,0.2887
-trout,0.2875
-pacific,0.2868
-mushrooms,0.286
-enjoy,0.2848
-chandeliers,0.2846
-desserts,0.2845
-poem,0.2839
-hollow,0.2833
-heaters,0.2828
-pointe,0.2826
-coworkers,0.2797
-enjoying,0.2797
-traditional,0.2788
-olive,0.2761
-yum,0.2757
-girlfriends,0.2743
-fav,0.274
-granola,0.2738
-vacation,0.2725
-muffins,0.2719
-delightful,0.2716
-friend,0.2704
-bowl,0.2685
-odd,0.2673
-scrambled,0.2666
-nasty,0.2653
-darrin,0.2651
-setting,0.265
-christmas,0.2633
-fleetweek,0.2627
-toasted,0.2597
-crispy,0.2589
-ordered,0.258
-mitch,0.2565
-mushroom,0.2558
-cooled,0.2552
-awful,0.2551
-offer,0.2539
-meals,0.252
-hard,0.2515
-longstanding,0.2514
-perfect,0.25060000000000004
-burnt,0.2497
-browns,0.249
-steak,0.2456
-restaursnt,0.2454
-waiters,0.2443
-young,0.2413
-calamari,0.2405
-live,0.24
-stopped,0.2375
-nacho,0.2365
-reservation,0.2338
-selections,0.2337
-sad,0.2329
-asians,0.2326
-thought,0.2325
-liked,0.2323
-choices,0.2316
-cokes,0.2313
-fast,0.2311
-ingredient,0.2292
-bland,0.2289
-norway,0.2287
-impressed,0.2269
-decadent,0.2232
-dear,0.2214
-tom,0.221
-naples,0.22
-tourist,0.2194
-meet,0.2177
-roast,0.2174
-cup,0.2158
-clams,0.2144
-cafés,0.2132
-watching,0.2111
-options,0.2101
-watered,0.2083
-eating,0.20679999999999998
-pricy,0.2038
-grape,0.2037
-ve,0.203
-way,0.2023
-flyovers,0.2022
-cheapest,0.2019
-lettuce,0.2016
-onions,0.2014
-dogs,0.2003
-cleaning,0.2001
-dough,0.1947
-money,0.1932
-20,0.193
-jillian,0.1908
-thoughtful,0.1897
-burned,0.1896
-server,0.1883
-beef,0.1854
-bartender,0.184
-light,0.1837
-toxic,0.182
-past,0.1814
-terrific,0.1785
-wines,0.1779
-freshly,0.1771
-seafood,0.1755
-die,0.1743
-indoors,0.1736
-allergy,0.1735
-served,0.1734
-nicest,0.1722
-trying,0.1719
-china,0.1706
-wacky,0.1698
-moka,0.1694
-yukon,0.16920000000000002
-pliny,0.1684
-reasonable,0.1667
-victor,0.1662
-make,0.166
-riccardo,0.1635
-unwelcoming,0.1634
-overcooked,0.1619
-iced,0.1614
-quite,0.1607
-lived,0.1605
-zucchini,0.1573
-numerous,0.1568
-melbournian,0.1564
-buzzing,0.1559
-popsicles,0.1556
-patio,0.1544
-cheddar,0.1539
-saved,0.1508
-rare,0.1505
-bottle,0.1498
-mournful,0.1496
-bliss,0.1491
-inspiring,0.149
-ham,0.1477
-10,0.1467
-hype,0.1458
-waffle,0.1454
-postcards,0.1436
-evening,0.1424
-covid,0.1419
-knowledgeable,0.1418
-25,0.1409
-absolutely,0.1403
-stay,0.1379
-cappuccino,0.1377
-charm,0.1361
-office,0.136
-pleased,0.135
-favourite,0.1337
-ordering,0.1335
-heartburn,0.132
-year,0.1317
-caught,0.1297
-limited,0.1284
-popularity,0.1281
-fruit,0.1255
-order,0.1249
-places,0.1246
-treat,0.1243
-croissant,0.1236
-cleaned,0.1219
-snack,0.1218
-asparagus,0.1199
-manners,0.1186
-small,0.1183
-minutes,0.1139
-chorizo,0.1133
-pay,0.1118
-rolls,0.1118
-blah,0.1101
-unfortunately,0.1094
-a1,0.1091
-saturday,0.1067
-easily,0.103
-riot,0.1029
-fancy,0.1022
-fruits,0.0997
-fran,0.0993
-mrs,0.0987
-bussers,0.0981
-did,0.0978
-glass,0.0978
-easier,0.0961
-expert,0.096
-milk,0.095
-easter,0.095
-fried,0.0921
-dreadful,0.0921
-learned,0.0902
-monday,0.0896
-overcharged,0.0894
-toasty,0.0851
-home,0.0835
-rushed,0.0833
-talk,0.083
-wild,0.0804
-surprised,0.0803
-costs,0.0785
-relaxing,0.078
-linguine,0.0766
-misunderstanding,0.0764
-date,0.0757
-unfair,0.0742
-waiting,0.0704
-bummer,0.0683
-lemon,0.0681
-drinks,0.0677
-police,0.0669
-virus,0.0667
-seasonal,0.0656
-extra,0.0641
-plate,0.0628
-town,0.0589
-favorites,0.058
-like,0.0559
-rain,0.0556
-drizzle,0.0536
-paris,0.0517
-mother,0.0515
-couches,0.0473
-cellphones,0.0469
-zhou,0.0428
-plates,0.0423
-life,0.0411
-bite,0.0408
-focaccia,0.0372
-overprice,0.0369
-assaulting,0.0365
-wasn,0.0332
-currant,0.0312
-sacramento,0.031
-annoying,0.0257
-items,0.0249
-windy,0.0248
-drink,0.0238
-boiled,0.0234
-turkey,0.0213
-dish,0.0168
-mom,0.0148
-margherita,0.0104
-aren,0.0103
-soups,0.0091
-wife,0.0057
-pandemic,0.0047
-100,0.004200000000000001
-group,0.0042
-bbq,0.003
-lavender,0.0023
-mistake,-0.0007
-sauce,-0.0053
-30,-0.006599999999999995
-faucet,-0.0115
-50,-0.0223
-rguesas,-0.0273
-parking,-0.0337
-cause,-0.0368
-linguini,-0.0411
-arugula,-0.0585
-nancy,-0.0644
-meeting,-0.0694
-juicy,-0.072
-individual,-0.0727
-rest,-0.0746
-family,-0.0923
-woman,-0.1051
-spotty,-0.1284
+crust pizza,0.5777
+cafe nice,0.5776
+corner cafe,0.5773
+dining heater,0.577
+sticky,0.5766
+baked egg,0.5763
+sorry,0.5758
+bowl odd,0.5756
+love french,0.5754
+loud excellent,0.5753
+soda,0.5741
+fav little,0.5738
+crisp strawberry,0.5737
+breakfast basket,0.5736
+cafe italian,0.5735
+many customer,0.5734
+potato lemonade,0.5733
+food selection,0.5733
+comfortable table,0.5732
+restaurant san,0.5731
+right pizza,0.5731
+spaghetti spaghetti,0.5726
+area excellent,0.5722
+roasted potato,0.5721
+cup coffee,0.5713
+breast sandwich,0.5708
+butter preserve,0.5707
+italian cafe,0.5706
+rome,0.5699
+actually pudding,0.5699
+individual pizza,0.5697
+cleaning professionally,0.5696
+toast bacon,0.5695
+regular french,0.5691
+nice environment,0.5687
+sandwich latte,0.5685
+cool vibe,0.5685
+ordered chicken,0.5683
+cooked absolutely,0.5682
+scale cafe,0.5678
+mimosa brunch,0.5676
+bacon toast,0.5674
+lettuce salad,0.5674
+lovedddd,0.5671
+staff amazing,0.5667
+dinner healthy,0.5667
+business partner,0.5665
+cleaned nightly,0.5665
+first restaurant,0.5659
+diner best,0.5659
+restaurant ordered,0.5657
+breakfast polenta,0.5652
+awesome desserts,0.565
+staff sunny,0.5648
+cheese salad,0.5646
+cafe sidewalk,0.5644
+well pizza,0.5643
+breakfast get,0.5642
+apple crisp,0.5636
+loved dish,0.5635
+cook,0.5634
+pudding good,0.5629
+sandwich focaccia,0.5628
+dessert unacceptably,0.5628
+spinach great,0.5626
+mean breakfast,0.5612
+always good,0.561
+polenta tasty,0.5609
+dinner consistently,0.5607
+granola wonderful,0.5604
+cafe potato,0.5603
+ever breakfast,0.5602
+menu bit,0.5596
+delightful neighborhood,0.5595
+huge menu,0.5594
+vibrant neighborhood,0.5582
+sandwich friend,0.5579
+cafe joint,0.5578
+cost gone,0.5576
+wonderful wonderful,0.5574
+victor sorry,0.5574
+cosy set,0.5571
+full bar,0.5568
+pizza short,0.5563
+uniquely delicious,0.5563
+granola chicken,0.5562
+pastry ideal,0.5558
+chicken sandwich,0.5553
+way overpriced,0.5547
+cook meal,0.5546
+patty shrimp,0.5545
+pasta perfectly,0.5525
+mr espresso,0.5523
+olive,0.552
+chili pepper,0.5515
+best brunch,0.5515
+dish delicious,0.5514
+beat salad,0.5511
+freshly baked,0.5507
+cafe cute,0.5506
+salty pasta,0.5506
+northern san,0.55
+hash anything,0.5497
+everything rich,0.5497
+cosy,0.5492
+dog treat,0.5485
+italy vanilla,0.5484
+impressive menus,0.5484
+salad diner,0.5481
+amazing coffee,0.5479
+quaint italian,0.5476
+try pizza,0.5476
+dining work,0.5471
+pointed waiter,0.5469
+rude,0.5469
+burger bread,0.5463
+available coffee,0.5462
+service bar,0.5461
+magnificent breakfast,0.546
+pizza smoke,0.5455
+scrambled spinach,0.5453
+spoon definitely,0.5453
+pizza hash,0.5447
+decent overpriced,0.5444
+italy everything,0.5441
+breakfast delicate,0.5436
+coffee arrived,0.5435
+every restaurant,0.5432
+avocado toasted,0.5429
+bread atmosphere,0.5426
+incredible setting,0.5424
+menu delicious,0.542
+prepared delicious,0.5407
+bacon egg,0.5403
+nasty egg,0.5397
+unfair juice,0.5397
+tea excellent,0.5395
+bread divine,0.5395
+past year,0.5394
+ketchup homemade,0.5394
+changed used,0.5393
+wine enjoyed,0.5389
+brunch french,0.5387
+cafe selection,0.5387
+heard pizza,0.5385
+tasty friendly,0.5385
+cafe food,0.5378
+favorite brunch,0.5365
+cafe local,0.5364
+spaghetti bolognese,0.5359
+toast everything,0.5358
+toast amazing,0.5355
+quaint cafe,0.5348
+wine option,0.5344
+perfect food,0.5343
+vanilla latte,0.5341
+mediocre food,0.5341
+christmas light,0.5339
+brunch dish,0.5334
+breakfast ham,0.5328
+latte flavor,0.5326
+sandwich better,0.5325
+seasoned pizza,0.5321
+enjoyed dinner,0.5319
+creamy yogurt,0.5319
+sf restaurant,0.5318
+excellent menu,0.5311
+cute spot,0.5309
+bread delicious,0.5307
+food breakfast,0.5305
+potato soup,0.5305
+fresh ingredient,0.5302
+food hot,0.5298
+customer service,0.5295
+awesome sandwich,0.5294
+cafe air,0.5292
+brunch sunday,0.5284
+pastry pretty,0.5283
+trout fresh,0.5281
+shared vegan,0.528
+cooked comfort,0.528
+food laurie,0.5279
+vegan offering,0.5273
+table enjoy,0.5269
+delicious folk,0.5263
+pudding cinnamon,0.5262
+high,0.5259
+bone chicken,0.5258
+best soup,0.5258
+fairly loud,0.5254
+breakfast cocktail,0.525
+prepared italian,0.5249
+battered breakfast,0.5248
+inspired cafe,0.5247
+serve coffee,0.5243
+pizza wonderful,0.5239
+staff food,0.5239
+weekend food,0.5236
+slice salmon,0.522
+always best,0.5218
+bacon cold,0.5215
+food cost,0.5215
+pizza outside,0.5214
+neighborhood plenty,0.5213
+yogurt drizzle,0.5211
+pizza ham,0.5211
+coffee fantastic,0.521
+team thank,0.5209
+sunday lunch,0.5207
+strongly bacon,0.5203
+get coffee,0.52
+best place,0.5196
+cafe delightful,0.5195
+easy walk,0.5191
+yogurt bill,0.519
+google map,0.5186
+used tasty,0.5181
+pizza truffle,0.518
+chocolate sauce,0.5178
+go heartbeat,0.5177
+came weekday,0.5174
+lemonade freshly,0.517
+nice server,0.5166
+times changed,0.5164
+sandwich beet,0.5162
+hour day,0.516
+loved asparagus,0.5151
+orange,0.5147
+salad pizza,0.5142
+italian wine,0.5142
+funky restaurant,0.514
+european cafe,0.5138
+kristen waitress,0.5133
+spinach awesome,0.5131
+menu choice,0.513
+rich great,0.5123
+casual italian,0.5121
+staff pleasant,0.5119
+wonderful dessert,0.5113
+ready breakfest,0.511
+work happy,0.5108
+vanilla bean,0.5104
+house waitress,0.5101
+check roast,0.5097
+go salmon,0.5095
+burnt toast,0.5093
+cuisine,0.5092
+recommended dentist,0.5089
+food ok,0.5089
+spinach delicious,0.5088
+loved apple,0.508
+freshly made,0.5079
+full dinner,0.5078
+onion cheddar,0.5076
+outstanding,0.5074
+shared pizza,0.5074
+dish flavor,0.5074
+iced tea,0.5073
+professionally cleaned,0.507
+great provencal,0.5065
+popular salmon,0.5064
+follow kitchen,0.5063
+coffee average,0.5063
+body pizza,0.5059
+dinner classic,0.5058
+ingredient daily,0.5052
+cooled food,0.505
+service waiter,0.5049
+egg delicious,0.504
+good nice,0.5037
+fantastic waitress,0.5037
+serving thank,0.5034
+coffee check,0.5033
+strong tea,0.5033
+allergy ham,0.5031
+salad apple,0.5029
+service pretty,0.5022
+bacon whole,0.5021
+espresso get,0.5015
+dinner big,0.5011
+bar pleasant,0.5006
+wifi enjoy,0.4998
+food comforting,0.4997
+coffee bowl,0.4994
+butter lettuce,0.4993
+priced,0.4981
+watching food,0.4978
+meal outside,0.4977
+pastry finished,0.4975
+table serving,0.4971
+weekday perhaps,0.4966
+brunch restaursnt,0.4965
+serving food,0.4964
+egg toast,0.4959
+greasy,0.4958
+crowded though,0.4956
+wonderful meal,0.4954
+wine salad,0.4945
+cafe san,0.4935
+premium price,0.4933
+egg tasty,0.4932
+sunny,0.4932
+eat anything,0.4932
+cheese focacia,0.4928
+egg pizza,0.4926
+asparagus potato,0.4925
+garlic,0.4924
+saved money,0.492
+bread,0.4919
+tasted like,0.4916
+marina breakfast,0.4912
+friend,0.491
+rich decadent,0.4909
+outside dining,0.4906
+slow service,0.4904
+made coffee,0.4898
+quality brunch,0.4897
+tasty enough,0.4892
+nice bottle,0.4891
+quality food,0.4891
+flavorful,0.4886
+recommended coffee,0.4884
+fairly disappointing,0.4884
+pay charm,0.4884
+sunday afternoon,0.4884
+salad great,0.4883
+food would,0.4881
+surprised food,0.488
+food better,0.4878
+sandwich glad,0.4871
+italy service,0.4868
+add bathtub,0.4867
+plentiful waitstaff,0.4865
+favorite neighborhood,0.4861
+worth visit,0.4859
+latte approved,0.4859
+beet salad,0.4852
+tea nice,0.4848
+fruit yogurt,0.4848
+bathtub would,0.484
+better brunch,0.4839
+nothing pizza,0.4832
+great flavor,0.4829
+berry,0.4827
+wondering dined,0.4825
+breakfast gentrified,0.4822
+whipcream strawberry,0.4822
+served soup,0.4814
+flavor bummer,0.4812
+bake,0.4812
+delightful food,0.4811
+lemonade roses,0.481
+food seems,0.4806
+opted breakfast,0.4804
+neighborhood little,0.4803
+vibe,0.4802
+enough breakfast,0.4798
+friendly proffesional,0.4798
+olive oil,0.4796
+slightly premium,0.4795
+ordering food,0.4793
+food hard,0.4786
+bread good,0.4783
+outdoors dining,0.4782
+sf,0.4776
+pizza drip,0.4776
+dough crispy,0.4773
+san francisco,0.4768
+feeling food,0.4763
+pizza prosciutto,0.4763
+cafe brunch,0.4762
+friend three,0.476
+apple richly,0.4753
+toast burnt,0.4753
+always tasty,0.475
+stopped food,0.4747
+wine menu,0.4744
+chewy toast,0.4742
+excellent meal,0.4739
+accommodate pork,0.4735
+food slightly,0.4734
+bathtub,0.4734
+kale soup,0.4733
+pizza additionally,0.4725
+ordered tasty,0.4724
+juice apple,0.4723
+free breakfast,0.4721
+fashioned diner,0.4719
+overpriced even,0.4716
+find chorizo,0.4714
+customer busy,0.4709
+disappointing given,0.4703
+chocolate amazing,0.4698
+live nearby,0.4694
+lunch lot,0.4691
+much unfortunately,0.4689
+cheese totally,0.4687
+strip cozy,0.4687
+food attentive,0.4685
+waitress poached,0.468
+espresso,0.4677
+neat place,0.4672
+thoughtful table,0.467
+coffee food,0.4669
+indoors though,0.4663
+nice nice,0.466
+traditional food,0.4658
+lemonade,0.4658
+seating indoors,0.4657
+pizza try,0.4651
+got breakfast,0.4649
+word food,0.4648
+bottle wine,0.4647
+mug breakfast,0.4647
+eating replacement,0.4647
+freaking love,0.4642
+pizza miss,0.4641
+cinnamon caramelized,0.4635
+consistently delicious,0.4633
+soup awesome,0.463
+busy weekend,0.4629
+coffee pastry,0.4621
+egg ham,0.4616
+service menu,0.4616
+change menu,0.4615
+great soup,0.4614
+sweet china,0.4613
+breakfast restaurant,0.4613
+beef cooked,0.461
+burger,0.4609
+bacon,0.4605
+salmon worth,0.4605
+side bacon,0.4601
+sandwich made,0.46
+plenty customer,0.4598
+food bland,0.4596
+beautiful restaurant,0.4595
+amazing french,0.4593
+egg cooked,0.4589
+absolute grossest,0.4581
+salad blue,0.458
+learning service,0.4579
+delicious egg,0.4578
+jillian sorry,0.4576
+hit chocolate,0.4568
+salty overcooked,0.4566
+chilly sitting,0.456
+lunch food,0.4559
+guest dog,0.4558
+cheapest disgusting,0.4554
+one favorite,0.4554
+nightly work,0.4553
+year favorite,0.4548
+nacho sorry,0.4546
+food want,0.4546
+rushed talk,0.4545
+restaurant feeling,0.454
+service perfect,0.4539
+outdoor dinning,0.4536
+roses cafe,0.4533
+classic ambiance,0.4533
+server terrific,0.4529
+diner food,0.4528
+nice evening,0.4528
+trying food,0.4528
+extra egg,0.4528
+skeptical breakfast,0.4523
+latte superb,0.4521
+food delish,0.4519
+brown,0.4515
+lovely soft,0.4513
+pizza deserves,0.4513
+blue cheese,0.4506
+espcially brunch,0.4505
+food chef,0.45
+home cooked,0.4498
+food true,0.4496
+brunch difficult,0.4487
+breakfast perfect,0.4487
+yummy apple,0.4485
+excellent delicious,0.4484
+priced food,0.448
+belong facebook,0.448
+food fine,0.4475
+sandwich adjust,0.4463
+pizza really,0.4459
+clam pasta,0.4454
+china loved,0.4453
+potato shame,0.4451
+menu order,0.4448
+pizza seasonal,0.4443
+food around,0.4441
+atmosphere wine,0.444
+delicious plentiful,0.4438
+chicken tarragon,0.4436
+afternoon seated,0.4435
+dollar overcharged,0.4432
+sandwich also,0.4427
+coffee huge,0.4426
+everyone happy,0.4419
+bathroom designed,0.4414
+wonderful,0.4407
+pork however,0.4406
+ambiance wacky,0.4405
+toast soooo,0.4398
+cafe adorably,0.4398
+hash,0.4394
+egg chicken,0.4392
+greatest waffle,0.4382
+day tea,0.4374
+price pay,0.4368
+steelhead nice,0.4367
+brunch weekend,0.4366
+breakfast good,0.4347
+replaced dish,0.4344
+coffee toast,0.4338
+tea first,0.4329
+staff trying,0.4323
+savory latte,0.4317
+house biscuit,0.4316
+enjoyed breakfast,0.4315
+flavor food,0.4312
+time dinner,0.4311
+breakfast always,0.4306
+enjoyed smoked,0.4304
+chili,0.4303
+place best,0.4303
+listed menu,0.4299
+dentist office,0.4283
+dining well,0.4283
+offer omelet,0.428
+atmosphere pizza,0.4276
+priced menu,0.4273
+table coffee,0.4273
+brunch always,0.4267
+cappuccino croissant,0.4257
+tasted,0.4249
+fried egg,0.424
+pilgrimage mrs,0.4237
+food cons,0.4237
+shared dinner,0.4229
+pizza ended,0.4226
+mrs doubtfires,0.422
+shrimp quiche,0.4218
+everything fresh,0.4217
+place google,0.4217
+better waitress,0.4214
+stronger bread,0.4201
+salad ok,0.4201
+boring food,0.42
+strawberry french,0.4199
+needed coffee,0.4184
+rib tasty,0.4181
+annoying food,0.417
+dinner chatting,0.4166
+granola fruit,0.4162
+menu location,0.4161
+potato fried,0.4154
+red currant,0.4152
+cream decadent,0.415
+waiter,0.4147
+ordered breakfast,0.4139
+pizza price,0.4139
+wine selection,0.4137
+egg onion,0.4134
+thank everyone,0.4131
+pizza soft,0.4129
+filling,0.4128
+coffee undrinkable,0.412
+shrimp fish,0.4117
+little gem,0.4117
+delicious french,0.4114
+quaint brunch,0.4106
+breakfast hash,0.4103
+breakfast cup,0.4101
+wished saved,0.4098
+menu simple,0.4095
+pizza certainly,0.4092
+cafe rose,0.4091
+ordering coffee,0.409
+client waiter,0.4084
+disgusting sorry,0.4077
+food san,0.4076
+brunching girlfriend,0.4075
+good dinner,0.4068
+pizza server,0.4065
+delicious yukon,0.4065
+lovely brunching,0.4055
+people waiting,0.4054
+busy,0.4045
+waitress want,0.4037
+toast bread,0.4034
+delicious fave,0.4031
+regarding cleaning,0.403
+little breakfast,0.4017
+coffee really,0.4002
+eaten fresh,0.3995
+breakfast lot,0.3991
+excellent spaghetti,0.3989
+refilled coffee,0.3987
+friendly people,0.3983
+service good,0.3971
+waitress constantly,0.3966
+yogurt,0.3958
+ate delicious,0.3952
+zucchini soft,0.3946
+rose year,0.3944
+recommend going,0.3939
+week shrimp,0.3939
+talk team,0.3939
+ate lovely,0.3938
+tasty favorite,0.3928
+easter food,0.3917
+try salmon,0.3915
+recommend potato,0.3915
+tea great,0.3914
+toast menu,0.3914
+paying diner,0.3911
+coffee poured,0.391
+dish ham,0.391
+food ambiance,0.3906
+soooo rich,0.3902
+give breakfast,0.3897
+crispy savory,0.3896
+pizza scared,0.3888
+biscuit bowl,0.3875
+food took,0.387
+district live,0.3864
+employees bad,0.3858
+menu seasonal,0.3837
+worked well,0.3834
+weekend try,0.3832
+rain food,0.3823
+sunday,0.3823
+pizza soooo,0.3821
+top brunch,0.382
+egg polenta,0.3814
+oil fish,0.3795
+food group,0.3774
+cup tea,0.3768
+apple slice,0.3765
+restaurant meal,0.3755
+facebook,0.3747
+notch highly,0.3738
+food tasted,0.3736
+different menu,0.3735
+best margherita,0.3735
+pizza unique,0.3735
+morning brunch,0.373
+shade sunny,0.3721
+vacation,0.3693
+restaurant union,0.3692
+nice dish,0.3679
+spaghetti pepper,0.3677
+vegetable potato,0.3675
+one breakfast,0.366
+food somewhat,0.365
+opera thank,0.3632
+heated peaceful,0.3627
+strawberry definitely,0.3625
+brunch easter,0.3619
+next table,0.3618
+waiter attentive,0.3604
+half chicken,0.3586
+best fruit,0.3579
+riccardo sorry,0.3568
+hash mushroom,0.356
+pizza mean,0.3549
+staff wonderful,0.354
+cozy environment,0.3528
+love longtime,0.3527
+sandwich bread,0.3526
+callback food,0.3513
+waiter got,0.3511
+rare warm,0.3496
+eat rose,0.342
+strawberry,0.3419
+fleetweek flyover,0.3414
+bachelor tasty,0.3409
+unwelcoming reservation,0.339
+biscuit worth,0.3383
+got dish,0.3372
+cafe filled,0.3345
+tea america,0.3341
+flag waitress,0.334
+piece bacon,0.3337
+protocol impressive,0.3336
+coffee signature,0.3281
+zhou sorry,0.3269
+sidewalk lunch,0.3251
+menu daily,0.3228
+manager review,0.3212
+eating great,0.3196
+food recommended,0.3184
+sweet breakfast,0.3183
+super salty,0.3102
+lived hype,0.3081
+tea,0.3072
+food terrible,0.3068
+waffle ever,0.3005
+wildly overpriced,0.2991
+fast service,0.2977
+like vacation,0.2953
+empty tables,0.2931
+waitress treated,0.2894
+changing menu,0.288
+server lived,0.2816
+get two,0.2783
+chicken absolutely,0.2735
+meal since,0.2728
+pointe,0.2661
+find parking,0.2615
+way waitress,0.2608
+wanted drink,0.2587
+cafe instead,0.2518
+every day,0.247
+choose menu,0.2464
+boiled empty,0.2414
+food night,0.2387
+waffle deep,0.2309
+pepper eaten,0.2295
+mother day,0.2292
+mom mother,0.2276
+beer served,0.2271
+regret never,0.2098
+helpful bussers,0.2008
+drink took,0.198
+never eating,0.1976
+faucet carafe,0.1893
+water bottle,0.1817
+tender juicy,0.1688
+scurried woman,0.1607
+manager blonde,0.1549

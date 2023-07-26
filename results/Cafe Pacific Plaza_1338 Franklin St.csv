@@ -1,124 +1,228 @@
 keyword,weight
-food,9.757
-breakfast,7.99
-lunch,6.8608
-good,5.4317
-friendly,4.388
-great,3.1153
-service,2.4824
-delicious,2.3077
-nice,2.2696
-korean,2.197
-cheap,2.0492
-flavorful,1.4969000000000001
-prices,1.4913
-tasty,1.4537
-sandwiches,1.3066
-sandwich,1.1600000000000001
-amazing,1.1142
-excellent,1.0808
-love,1.0221
-customers,0.964
-cafe,0.9329
-local,0.8839
+breakfast,6.6815999999999995
+food,4.5153
+lunch,3.8032000000000004
+good food,3.3797
+breakfast lunch,3.2873
+good price,3.1067
+good service,2.8486000000000002
+great food,2.1019
+cheap,2.0786
+korean food,2.0326
+good,1.8962
+food great,1.8254000000000001
+korean,1.7876
+food good,1.7549000000000001
+food cheap,1.7435999999999998
+nice people,1.6691
+lunch great,1.5278
+amazing food,1.5101
+tasty,1.4781
+friendly,1.4149
+sandwich,1.3545
+best lunch,1.3378999999999999
+excellent food,1.2290999999999999
+food always,1.1815
+spicy pork,1.1229
+spot breakfast,1.0692
+live,1.0
+like breakfast,1.0
+awesome breakfast,1.0
+exelent service,1.0
+portion flavorful,0.9611
+flavorful,0.9589
+delicious food,0.9508
+everyone friendly,0.9226
+price good,0.8997
+salad good,0.8971
+decent meal,0.8941
+service delicious,0.8873
+korean family,0.8857
+perfect lunch,0.8809
 exelent,0.8805
-polite,0.8604
-best,0.8377
-decent,0.8241
-quick,0.768
-portions,0.7435
-foods,0.7134
-meals,0.69
-fast,0.6708000000000001
-people,0.6571
-live,0.639
-family,0.637
-pork,0.6154
-big,0.6142
-menu,0.5981
-vegan,0.5871
-salad,0.5549
-clean,0.5448999999999999
-nicely,0.5268
-regular,0.519
-day,0.48540000000000005
-awesome,0.4756
-variety,0.4755
-cheerful,0.4702
-perfect,0.4693
-like,0.4597
-recommend,0.4509
-prepared,0.4462
-soup,0.4418
-wide,0.4407
-price,0.4189
-tuna,0.4163
-spicy,0.4051
-ma,0.3957
-helpful,0.3907
-attentive,0.39049999999999996
-going,0.3613
-professional,0.3577
-serve,0.3489
-got,0.3307
-staff,0.3261
-business,0.3221
-hungry,0.3198
-spot,0.3191
-hawaiian,0.3187
-owners,0.3144
-speedy,0.3029
-affordable,0.2948
-bibimbap,0.2897
-breakfasts,0.2885
-don,0.288
-near,0.2853
-bacon,0.275
-quality,0.2527
-neighborhood,0.2509
-gem,0.2505
-cpmc,0.249
-dishes,0.2479
-equal,0.2452
-brunching,0.2446
-hidden,0.2338
-brunch,0.2335
-coffee,0.2317
-week,0.2308
-nicest,0.2298
-meats,0.2218
-closed,0.2205
-later,0.2167
-serves,0.2132
-earlier,0.2119
-priced,0.2044
-hoped,0.2035
-started,0.2025
-vegetables,0.1999
-easy,0.1958
-inn,0.1945
-opened,0.1702
-condiments,0.1649
-rice,0.1568
-eatery,0.1559
-homey,0.1418
-ingredients,0.1379
-weekly,0.1305
-toast,0.1232
-pacific,0.1221
-pleasant,0.1205
-english,0.1203
-eating,0.1179
-city,0.1098
-favourite,0.1084
-melt,0.1028
-bomb,0.1007
-appétit,0.0991
-eat,0.0955
-morning,0.0832
-ribs,0.0745
-afternoon,0.0713
-tupperware,0.0498
-flavor,0.0372
-100,0.0082
-smile,-0.0252
+cheap price,0.8792
+everything good,0.8408
+variety food,0.8403
+good lunch,0.8402
+food tasty,0.8336
+nicely prepared,0.8325
+portion tasty,0.8131
+people good,0.8086
+sandwich delicious,0.8074
+best soup,0.8024
+local breakfast,0.7935
+cafe helpful,0.7902
+earlier breakfast,0.7868
+price nicely,0.7808
+service good,0.7801
+meal recommend,0.7777
+cheap perfect,0.7608
+service,0.759
+wide variety,0.7584
+service everyone,0.7569
+delicious,0.7544
+great korean,0.7487
+serves breakfast,0.7473
+professional food,0.743
+lunch spot,0.7383
+soup sandwich,0.7373
+cheap cheerful,0.7336
+great,0.7317
+friendly staff,0.7264
+great portion,0.7224
+salad,0.7216
+ordering breakfast,0.7191
+food flavorful,0.7151
+quick cheap,0.7129
+price nice,0.711
+get salad,0.7028
+lunch family,0.702
+nice local,0.6997
+lunch delicious,0.6967
+sandwich combo,0.6937
+served breakfast,0.6919
+local decent,0.6909
+little breakfast,0.6903
+decent vegan,0.688
+amazing,0.687
+best korean,0.6852
+meal,0.6803
+staff excellent,0.6794
+food people,0.6762
+breakfast brunch,0.674
+brunch lunch,0.6672
+food pretty,0.666
+hawaiian breakfast,0.6644
+breakfast fast,0.6513
+breakfast sandwich,0.649
+vegan option,0.6474
+priced lunch,0.6459
+variety,0.6458
+tuna melt,0.6433
+serve well,0.6367
+breakfast beginning,0.6363
+great price,0.6358
+frill cafe,0.635
+pork bibimbap,0.6308
+everything,0.6285
+nice go,0.6272
+well friendly,0.6158
+bacon crispy,0.6156
+neighborhood cafe,0.6094
+food tuna,0.606
+breakfast later,0.602
+vegan,0.5961
+variety breakfast,0.5941
+breakfast stop,0.5873
+quality meat,0.5856
+flavorful decent,0.584
+portion,0.5816
+ordered coffee,0.5786
+big breakfast,0.5778
+lunch item,0.5758
+choose breakfast,0.5748
+brunching staff,0.5571
+sandwich ordered,0.5541
+coffee good,0.5506
+city sandwich,0.5495
+back week,0.5464
+breakfast breakfast,0.5456
+need food,0.5438
+food super,0.5363
+family got,0.5353
+meat vegetable,0.5352
+polite complaint,0.5351
+sandwich perfect,0.5342
+bite owners,0.5304
+week later,0.5299
+like,0.529
+lunch bring,0.5289
+perfect bacon,0.5273
+good quality,0.5253
+sandwich afternoon,0.5248
+business brunching,0.5245
+delicious korean,0.5228
+lunch service,0.5187
+opened earlier,0.5186
+big,0.5184
+tuna,0.517
+tasty menu,0.5143
+gem delicious,0.5124
+regular customer,0.5095
+sandwich lunch,0.5045
+deli sandwich,0.5034
+soup,0.5031
+fast professional,0.5005
+reasonable lunch,0.4984
+attentive polite,0.4982
+lunch city,0.4939
+lunch yummy,0.4931
+service friendly,0.4917
+pork,0.4909
+awesome,0.487
+family,0.4858
+food lot,0.4841
+place lunch,0.4811
+cafe,0.4798
+love spicy,0.4794
+going clean,0.4792
+variety sandwich,0.4737
+sandwich rice,0.4732
+style breakfast,0.4725
+toast sausage,0.4695
+half customer,0.4676
+food delicious,0.4656
+delicious reasonably,0.4653
+friendly fast,0.4652
+later closed,0.4604
+breakfast deli,0.4593
+neighborhood spot,0.4556
+speedy friendly,0.4522
+place friendly,0.4503
+owners friendly,0.447
+beginning day,0.4413
+eatery incredible,0.4399
+surprise delicious,0.4355
+customer name,0.4351
+quality,0.4319
+going breakfast,0.4311
+fry toast,0.4303
+staff extremely,0.4272
+korean bbq,0.4199
+spicy,0.4179
+time sandwich,0.4148
+blt sandwich,0.4077
+home fry,0.4063
+homey korean,0.4059
+near cpmc,0.4045
+nicest people,0.4014
+best,0.4013
+great service,0.3973
+vegetable ingredient,0.3907
+kind eatery,0.3893
+friendly local,0.3892
+breakfast morning,0.3879
+meat,0.3868
+menu served,0.386
+came breakfast,0.3824
+electrofrying eclectic,0.3818
+breakfast found,0.3749
+lunch shelter,0.3717
+week,0.365
+got going,0.3645
+hidden gem,0.3628
+plaza nicest,0.3543
+love pacific,0.353
+owner always,0.3502
+value friendly,0.3471
+breakfast house,0.347
+pork hungry,0.3359
+went back,0.3278
+every week,0.3011
+construction eat,0.2879
+rice bowl,0.2856
+always greets,0.2608
+favourite place,0.2409
+hungry bon,0.2358
+one favourite,0.2248
+rib spicy,0.2145

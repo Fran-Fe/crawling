@@ -1,169 +1,301 @@
 keyword,weight
-breakfast,11.5844
-coffee,6.032
-food,5.8285
-nice,4.8242
-thank,4.2044
-friendly,3.6744
-great,2.8829000000000002
-delicious,2.8468999999999998
-burrito,2.7316
-tasty,2.676
-bless,2.6132999999999997
-sandwich,2.1734
-god,2.1252
-cafe,2.1189999999999998
-excellent,2.0624000000000002
-good,1.9555
-recommend,1.8861999999999999
-mexican,1.7886
-sandwiches,1.7551
-happy,1.7163
-awesome,1.4972
-favorite,1.462
-place,1.3046
-spacious,1.2713999999999999
-attention,1.0904
-best,1.0507
+breakfast,5.8492999999999995
+breakfast burrito,5.7068
+thank,4.441
+coffee,3.1538
+god bless,2.9244
+thank god,2.8884
+bless,2.7708
+food,2.7584
+friendly staff,2.5442
+tasty breakfast,2.4983
+god,2.3736
+great coffee,2.261
+great breakfast,2.2035
+cafe,1.9843
+tasty,1.9827
+nice,1.8429
+delicious,1.8247
+friendly,1.7475
+sandwich,1.7391
+carnitas sandwich,1.6034
+coffee breakfast,1.5171999999999999
+awesome food,1.5116999999999998
+good coffee,1.5070999999999999
+sandwich excellent,1.5058
+excellent coffee,1.4871
+happy,1.4258
+mango smoothie,1.3828999999999998
+fresh juice,1.347
+favorite,1.31
+good espresso,1.2499
+cafe food,1.2367
+staff nice,1.2103000000000002
+spacious,1.1927
+burrito hot,1.1893
+hot sauce,1.1078000000000001
+great,1.0511
+mango,1.0171000000000001
+great cafe,1.0
 gumballs,1.0
 magnificent,1.0
-wifi,0.9687
-meals,0.9101
-espresso,0.9001000000000001
-mango,0.8765000000000001
-homeless,0.8683000000000001
-little,0.7909999999999999
-staff,0.7834000000000001
-hot,0.7805
-fresh,0.7782
-liked,0.7603
-love,0.7594000000000001
-day,0.7375
-ladies,0.7081999999999999
-hours,0.7004
-menu,0.6816
-shop,0.6747
-free,0.6715
-appreciate,0.6676
-sauce,0.6623
-cheese,0.6597
-cafecito,0.6494
-corazon,0.6437
-cafeteria,0.6142
-warmfull,0.6077
-prefer,0.6057
-juices,0.5795
-today,0.5666
-biscuit,0.557
-serve,0.5509
-closed,0.5463
-burritos,0.5433
-generous,0.5392
-girls,0.5387
-grab,0.5328999999999999
-authentic,0.5255
-flavor,0.5028
-operating,0.496
-tacos,0.4919
-roasted,0.4917
-girl,0.4856
-service,0.4818
-loved,0.4782
-clean,0.4722
-croissant,0.4648
-bagel,0.4509
-restaurant,0.4473
-restaraunt,0.4389
-friend,0.432
-went,0.4313
-local,0.4298
-latte,0.4269
-butter,0.4251
-slow,0.425
-smoothie,0.4184
-pretty,0.4159
-taste,0.4144
-carnitas,0.4132
-rude,0.412
-fancy,0.4061
-rare,0.4007
-comment,0.4
-mangoladas,0.3942
-drinks,0.3859
-people,0.3716
-affordable,0.3699
-breadpudding,0.3658
-price,0.3583
-prepared,0.3568
-warm,0.354
-served,0.3505
-nicest,0.3437
-quickly,0.3368
-courteous,0.3158
-home,0.3117
-thanks,0.3036
-nicer,0.2928
-latino,0.2874
-flavour,0.2841
-crispy,0.284
-beggars,0.2798
-right,0.2781
-chocolate,0.2732
-start,0.2693
-turkey,0.269
-perfect,0.2678
-flavored,0.261
-okay,0.2587
-foods,0.2585
-essentials,0.2582
-small,0.2552
-workers,0.2535
-avocado,0.2488
-rich,0.2405
-reasonable,0.2243
-meal,0.2223
-learn,0.2143
-tables,0.2135
-cream,0.2111
-quesadilla,0.2061
-spicy,0.1977
-welcome,0.1961
-ranch,0.1942
-options,0.1917
-stock,0.1911
-cozy,0.1773
-50,0.1757
-cafeto,0.1627
-ice,0.1603
-homemade,0.1602
-icecream,0.1575
-friendliness,0.1552
-tamale,0.1538
-sketchy,0.1508
-favorito,0.1443
-salsa,0.1426
-told,0.1289
-mom,0.1213
-juice,0.1211
-prices,0.1195
-girlfriend,0.1193
-egg,0.1098
-die,0.1016
-veggie,0.1002
-pricey,0.0992
-amazing,0.0929
-coming,0.0883
-stars,0.0879
-tijuana,0.0826
-tenderloin,0.0785
-ham,0.0725
-sendiwich,0.0649
-customer,0.0617
-eats,0.061
-francisco,0.0549
-reviews,0.046
-super,0.0409
-nervous,0.0311
-incorrect,0.029
-kind,0.015
-items,-0.0014
+roasted tasty,0.9765
+appreciate liked,0.9745
+breakfast warmfull,0.9592
+corazon happy,0.9541
+thank appreciate,0.9411
+generous breakfast,0.9406
+coffee friendly,0.935
+free wifi,0.9305
+hour closed,0.9301
+mexican breakfast,0.9241
+grab breakfast,0.9221
+liked,0.9014
+coffee strong,0.8943
+thank much,0.8887
+nice attention,0.888
+cafeteria tasty,0.8877
+good place,0.8849
+food recommend,0.8826
+place nice,0.8822
+coffee tasty,0.8822
+prefer corazon,0.8695
+breakfast go,0.8693
+affordable breakfast,0.8616
+food great,0.8552
+attention recommend,0.8453
+sandwich delicious,0.8406
+breakfast fresh,0.8375
+food delicious,0.8367
+juice friendly,0.8366
+great people,0.8344
+little coffee,0.8308
+appreciate,0.8279
+burrito,0.8271999999999999
+girl friend,0.8265
+cafe essential,0.8257
+local cafe,0.815
+authentic food,0.8108
+delicious breakfast,0.8107
+attention food,0.8032
+delicious authentic,0.803
+comment serve,0.8029
+coffee shop,0.7943
+serve,0.7876
+meal roasted,0.7818
+excellent mexican,0.7752
+maximum star,0.7703
+much comment,0.7674
+nice food,0.7672
+food okay,0.7654
+corazon,0.7591
+sandwich mango,0.7589
+good sandwich,0.7556
+love cafe,0.7556
+excellent taste,0.7533
+burrito awesome,0.7524
+breakfast menu,0.751
+delicious happy,0.7444
+spacious free,0.7439
+nice breakfast,0.7369
+egg cheese,0.7346
+butter bagel,0.7337
+breakfast reasonable,0.7324
+wifi,0.7295
+excellent croissant,0.7233
+closed,0.7232
+lady mango,0.7187
+nice area,0.7173
+burrito friendly,0.7066
+operating hour,0.706
+breakfast tl,0.7035
+nice restaurant,0.7016
+excellent,0.7003
+food start,0.7003
+tamale tasty,0.7
+warmfull place,0.6958
+welcome rude,0.6934
+prefer,0.6933
+delicious meal,0.6865
+excellent sandwich,0.6845
+coffee amazing,0.6838
+favorite mangoladas,0.6798
+favorite coffee,0.6797
+homemade biscuit,0.6787
+espresso great,0.6749
+latino food,0.6704
+ham egg,0.6668
+meal,0.6651
+little cafeteria,0.6636
+biscuit sendiwich,0.6624
+friendly service,0.6622
+juice,0.6621
+hour,0.6583
+bagel small,0.6574
+star item,0.6571
+breakfast sandwich,0.6549
+went today,0.6525
+warmfull,0.6511
+food excellent,0.6497
+spacious good,0.6497
+chorizo breakfast,0.649
+mexican,0.6481
+breakfast homemade,0.6458
+meal recommended,0.645
+cheese staff,0.6427
+told girl,0.6414
+meal sweetest,0.6396
+always clean,0.6351
+excellent breakfast,0.6314
+sandwich hot,0.6304
+girl,0.63
+breakfast option,0.6262
+ranch sandwich,0.6252
+burrito excellent,0.6222
+people food,0.6219
+roasted,0.621
+maximum,0.6196
+cafeteria,0.6184
+star,0.6178
+prepared served,0.6163
+free,0.6119
+burrito stuffed,0.6118
+latte quickly,0.6108
+looked pretty,0.6106
+best fresh,0.6103
+friendly mexican,0.6092
+excellent attention,0.6084
+item menu,0.6073
+glad neighborhood,0.607
+got butter,0.6052
+shop,0.6024
+breakfast burittos,0.6017
+love breakfast,0.6015
+great price,0.6007
+reg coffee,0.6003
+nice little,0.5988
+slow crowded,0.5975
+coffee place,0.5941
+reasonable price,0.5926
+croissant latte,0.5915
+good turkey,0.5914
+sandwich fresh,0.5868
+usual cafe,0.5804
+hand delicious,0.5793
+great sandwich,0.5789
+great meal,0.5785
+price rare,0.5782
+start day,0.5776
+day right,0.5766
+girl serve,0.5766
+burrito amazing,0.5737
+taco carnitas,0.5737
+turkey ranch,0.5729
+quesadilla delicious,0.5694
+biscuit,0.5677
+nothing fancy,0.567
+recommend carnitas,0.5669
+friend,0.5663
+taste music,0.565
+hot crispy,0.5644
+excellent lady,0.5618
+plenty table,0.5613
+food coffee,0.5577
+neighborhood friendly,0.5573
+tasty girl,0.5563
+taste,0.5506
+service warm,0.5496
+staff might,0.5489
+support breadpudding,0.5459
+good,0.5449
+icecream mexican,0.5423
+espresso,0.5417
+delicious tried,0.5416
+mexican chocolate,0.5412
+mangoladas veggie,0.5404
+bagel best,0.5345
+restaraunt nice,0.5336
+juice coffee,0.5314
+sketchy food,0.5305
+little local,0.5303
+chocolate refreshing,0.5288
+loved place,0.5271
+best customer,0.5265
+mexican treat,0.5254
+cafecito good,0.5253
+breadpudding occasionally,0.5245
+asiago cheese,0.5234
+coffee good,0.5211
+egg sandwich,0.5196
+quiet homeless,0.5193
+thank welcome,0.5192
+perfect start,0.5184
+hot chocolate,0.5153
+worker learn,0.5152
+pricey breakfast,0.5136
+get slow,0.5128
+slow,0.5123
+quickly prepared,0.51
+clean feel,0.5098
+flavored latte,0.5085
+avocado burrito,0.5046
+place grab,0.503
+say thank,0.5023
+mocha breakfast,0.5009
+loved breakfast,0.5008
+happy support,0.5003
+cheese bagel,0.4993
+serve nice,0.4946
+strong flavor,0.4942
+clean,0.4926
+quick breakfast,0.4925
+sauce great,0.491
+food choice,0.4862
+little restaraunt,0.4861
+nicest people,0.4854
+coffee reasonable,0.4822
+grab,0.4782
+flavor food,0.4758
+mangoladas,0.4725
+rude,0.4706
+mexican mocha,0.4698
+oj perfect,0.4663
+great mom,0.4643
+several beggar,0.4636
+local,0.455
+grab affordable,0.4541
+get sandwich,0.4525
+favorito cafecito,0.451
+enjoyed mexican,0.4506
+food drink,0.4448
+affordable,0.4422
+loved,0.4415
+cafecito treasure,0.441
+salsa friendly,0.4391
+cheese,0.4322
+burrito mexican,0.4311
+incorrect wifi,0.4267
+smoothie die,0.4198
+hot drink,0.4149
+breakfast service,0.4145
+chronic homeless,0.4116
+food good,0.4091
+sandwich large,0.4089
+good recommend,0.4063
+carnitas,0.4006
+neighborhood coffee,0.3989
+homeless people,0.3934
+cafecito en,0.3861
+got avocado,0.3812
+people,0.3776
+nice lady,0.3748
+cream counter,0.3745
+ice cream,0.3743
+mom pop,0.3707
+bunko live,0.3638
+homeless housed,0.3628
+homeless,0.3615
+old eats,0.356
+breakfast san,0.3425
+pop shop,0.3251
+place breakfast,0.3244

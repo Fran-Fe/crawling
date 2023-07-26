@@ -1,393 +1,785 @@
 keyword,weight
-coffee,36.5009
-thanks,20.3827
-cafe,12.1816
-pastries,11.4377
-thank,10.5439
-great,8.695
-delicious,4.815
-friendly,4.8100000000000005
-good,4.7132
-appreciate,3.9672
-nice,3.5484
-beer,3.3731999999999998
-tasty,3.3054
-happy,3.118
-baked,2.8879
-love,2.3731
-neighborhood,2.3183
-lovely,2.2812
-favorite,2.1426
-glad,2.0602
-chocolate,2.0271
-food,2.008
-beans,1.9822
-kind,1.841
-place,1.834
-atmosphere,1.7563
-cute,1.7277
-best,1.6871
-drinks,1.6711
-wine,1.6207
-shop,1.5869
-sandwiches,1.5675000000000001
-amazing,1.5469
-outdoor,1.5058
-pastry,1.4524
-croissant,1.4274
-expensive,1.4193
-flat,1.4072
-review,1.3558
-indoor,1.3345
-slow,1.3298
-coming,1.2847
-sunny,1.2604
-service,1.2359
-solid,1.2155
-donuts,1.1895
-white,1.1779
-espresso,1.1277
-cappuccino,1.1172
-hot,1.0907
-awesome,1.0569000000000002
-cafes,1.0306
-street,1.0293999999999999
-perfect,1.0105
-david,1.0075
-really,1.0006
-treats,0.9917
-jennifer,0.9916
-lively,0.9567
-appreciates,0.9523999999999999
-snacks,0.9357
-dogs,0.9221999999999999
-warm,0.9105000000000001
-roaster,0.9096
-cool,0.9093
-beautiful,0.8818999999999999
-mary,0.8729
-welcoming,0.8685
-christian,0.8464
-ciaran,0.8437
-avocado,0.8395999999999999
-crowded,0.8386
-gil,0.8339
-victor,0.8302
-faraz,0.8295
-courtney,0.8267
-sima,0.825
-roast,0.8157
-kostas,0.8088
-milk,0.808
-thomas,0.8029
-lola,0.8019
-god,0.8006
-clean,0.8002
-little,0.7897000000000001
-nachiket,0.7874
-barista,0.7828
-rachel,0.7825
-simple,0.7783
-vegan,0.772
-guillaume,0.7704
-enjoying,0.7693
-loved,0.7688
-michael,0.7642
-rainy,0.762
-liked,0.7617
-afternoon,0.7562
-favorites,0.7533000000000001
-sanchez,0.7422
-cookies,0.7414000000000001
-rafael,0.7385
-whites,0.7362
-empanadas,0.7348
-preston,0.7322
-wonderful,0.732
-customer,0.7317
-tea,0.7135
-team,0.7026
-indoors,0.7024
-bakers,0.6958
-mimosa,0.6914
-send,0.6789
-excellent,0.673
-lisa,0.6695
-club,0.6656
-local,0.6633
-yummy,0.6627000000000001
-staff,0.6415
-friends,0.6365
-iced,0.6348
-alexander,0.6273
-safe,0.6224
-brighten,0.6134
-worse,0.613
-yifat,0.6125
-stopping,0.6121
-26th,0.6098
-mark,0.6019
-social,0.6016
-shops,0.5995999999999999
-gourmets,0.5968
-walk,0.5966
-free,0.5882000000000001
-cocktail,0.5845
-people,0.5831
-cappuccinos,0.5779
-hangout,0.577
-sun,0.5732
-velvety,0.5661
-seating,0.5626
+coffee,24.251
+thanks,17.0549
+great coffee,10.0669
+thank,7.6671000000000005
+coffee pastry,6.1379
+cafe,6.0489
+good coffee,4.8370999999999995
+coffee shop,4.73
+pastry,4.6272
+best coffee,4.4611
+baked good,3.9274
+really appreciate,3.7698
+thanks much,3.617
+coffee great,3.588
+appreciate,3.5401
+neighborhood cafe,3.2865
+thank much,3.2159
+great,3.0281000000000002
+love coffee,2.9503
+favorite coffee,2.8846
+cafe great,2.7557
+much,2.6061
+delicious coffee,2.4696
+delicious,2.4304
+food coffee,2.3075
+beer,2.2104
+good,2.1788
+delicious pastry,2.1755999999999998
+lovely neighborhood,1.9868999999999999
+kind review,1.9196
+happy,1.9085
+flat white,1.7504
+thank coming,1.7426
+coffee atmosphere,1.7008999999999999
+tasty,1.6930999999999998
+favorite,1.6911
+always great,1.6398000000000001
+wine beer,1.6305999999999998
+thank kind,1.6275
+awesome review,1.6105
+delicious empanadas,1.6095000000000002
+coffee good,1.5894
+nice coffee,1.5711
+cute cafe,1.5471
+chocolate,1.5191000000000001
+white,1.4769
+place,1.456
+coffee beautiful,1.4553
+gluten free,1.4466999999999999
+tasty pastry,1.4243999999999999
+beer great,1.4167999999999998
+pastry friendly,1.4146
+coffee treat,1.4031
+coffee friendly,1.3977
+great see,1.3904999999999998
+best,1.3285
+good pastry,1.3084
+awesome,1.282
+hot chocolate,1.2673
+roaster cafe,1.2637
+baked,1.222
+favorite cafe,1.197
+sandwich coffee,1.1754
+avocado toast,1.145
+indoor seating,1.1442999999999999
+milk latte,1.1426
+pastry nice,1.139
+pastry delicious,1.1375000000000002
+beautiful cafe,1.1353
+amazing cappuccino,1.1276
+warm pastry,1.1249
+iced latte,1.1094
+local coffee,1.1082
+hotdog,1.1057000000000001
+pastry coffee,1.0728
+favorite well,1.0665
+one favorite,1.0253
+good sandwich,1.0229
+love cafe,1.0027
+thanks gil,1.0
+thanks kostas,1.0
+thanks jennifer,1.0
+thanks mary,1.0
+thank nachiket,1.0
+thanks faraz,1.0
+crowded lively,1.0
+thank guillaume,1.0
+thank thomas,1.0
+tasty expensive,1.0
+thanks david,1.0
+thanks courtney,1.0
+thanks ciaran,1.0
+simple delicious,1.0
+thanks christian,1.0
+superb coffee,1.0
+worse starbucks,1.0
+thanks victor,1.0
+thanks rafael,1.0
+top,1.0
+thanks sima,1.0
+michael appreciate,0.9709
+yifat thank,0.9687
+thanks michael,0.9665
+god send,0.9658
+little coffee,0.9565999999999999
+emily happy,0.9537
+glad liked,0.9513
+quality coffee,0.9461
+good customer,0.9429
+solid flat,0.9403
+thank lisa,0.9282
+arun glad,0.9269
+heat pastry,0.9225000000000001
+place god,0.9219
+sunny day,0.9177000000000001
+thanks mark,0.9135
+christian,0.9081
+yummy baked,0.907
+nice place,0.9053
+loved empanadas,0.9033
+crowded,0.8993
+thanks emily,0.8984
+expensive,0.8967
+everything bagel,0.8932
+star steve,0.8925
+god,0.8913
+mary,0.887
+lively,0.8869
+nice,0.8842
+stopping yannis,0.8825
+victor,0.8787
+marvin thanks,0.8766
+excellent pastry,0.8745
+coffee tasty,0.8713
+faraz,0.8691
+solid,0.8687
+lisa coming,0.8678
+quietly sun,0.8676
+much lola,0.8628
+david,0.8604
+gil,0.859
+ciaran,0.8587
+amazing espresso,0.8564
+slow walk,0.8556
+lola,0.8551
+flat,0.8539
+simple,0.8521
+miles brighten,0.8521
+grabbing beer,0.8469
+coffee wonderful,0.8466
+beer weekend,0.8462
+glad,0.8452
+much rachel,0.8436
+nagy awesome,0.8428
+happy neighborhood,0.8404
+jennifer,0.8402
+great review,0.8378
+rachel,0.8357
+liked,0.8347
+sima,0.8346
+outdoor seating,0.8341
+enjoying cafe,0.8339
+little cafe,0.8335
+velvety coffee,0.8315
+katie thanks,0.8311
+send,0.8306
+kostas,0.8302
+rafael,0.8292
+milk,0.8268
+thomas,0.8265
+empanadas coffee,0.8249
+cute place,0.8241
+pastry amazing,0.8213
+much preston,0.8208
+place loved,0.8183
+bagel croissant,0.8159
+neighborhood thank,0.8118
+coffee quick,0.8116
+tony thanks,0.8114
+friendly barista,0.811
+courtney,0.8108
+amazing cafe,0.8085
+coffee quality,0.8073
+preston,0.8061
+michael,0.8055
+wine,0.8051999999999999
+support year,0.8026
+spot slow,0.8017
+thanks arun,0.8004
+nachiket,0.7994
+coming alexander,0.7986
+much stopping,0.7974
+brighten day,0.797
+thanks star,0.7968
+coffee lovely,0.7951
+guillaume,0.7947
+perfect flat,0.7933
+donut,0.7919
+stopping,0.7917
+compliment staff,0.7903
+cocktail beer,0.79
+place hang,0.7885
+jennifer happy,0.7878
+thank miles,0.786
+social club,0.7859
+drink indoor,0.7842
+pastry recommend,0.7841
+slow,0.784
+cafe beautiful,0.7836
+lovely cafe,0.7816
+service perfect,0.7777
+specialty coffee,0.7774
+thanks great,0.7771
+thanks pablo,0.7755
+coffee roaster,0.7754
+cute,0.775
+fantastic coffee,0.7719
+hang,0.7714
+hot coffee,0.7704
+thanks nagy,0.7697
+staff favorite,0.769
+got coffee,0.7658
+great pastry,0.7648
+beautiful pastry,0.7647
+hotdog great,0.764
+thanks support,0.7637
+much compliment,0.7636
+coffee really,0.763
+shop happy,0.7623
+friendly gluten,0.7617
+lots yummy,0.76
+lisa,0.7598
+glad cappuccino,0.7589
+coffee baked,0.7583
+good bean,0.7574
+free baked,0.7573
+steve,0.7548
+coffee nice,0.7502
+recommend gourmet,0.7492
+people hangout,0.748
+fav coffee,0.7469
+coffee pastries,0.7457
+chocolate nutella,0.7442
+thank bonny,0.7428
+cafe nice,0.7407
+yifat,0.7374
+alexander,0.7344
+cafe excellent,0.7333
+brighten,0.7292
+truly appreciates,0.7277
+muffin chocolate,0.727
+good drink,0.7262
+appreciate oven,0.7251
+loved,0.722
+mark really,0.7219
+pablo always,0.7214
+coffee friendliest,0.7177
+cafe bright,0.7162
+best cookies,0.7162
+sun th,0.7161
+day come,0.7116
+friendly staff,0.7105999999999999
+tea ever,0.7067
+shop lovely,0.7058
+starbucks,0.7042
+loveliest pastry,0.7033
+roast bean,0.7032
+enjoying coffee,0.7021
+guest happy,0.702
+safe street,0.698
+parklet slow,0.698
+karen cookie,0.6971
+david glad,0.6955
+good option,0.6951
+sun,0.6947
+perfect,0.6932
+enjoyed much,0.6924
+high,0.6918
+thank jennifer,0.6913
+cookie kitchen,0.6891
+marvin,0.6877
+gourmet,0.6871
+raffaella glad,0.6861
+compliment,0.6853
+cafe gathering,0.6776
+rude employee,0.6768
+pastry roast,0.672
+customer service,0.6706
+slow street,0.6706
+donut amazing,0.6705
+thank welcoming,0.67
+little neighborhood,0.6694
+service coffee,0.6691
+delicious food,0.669
+excellent coffee,0.6687
+shop pastry,0.6678
+espresso,0.6674
+cappuccino donut,0.6671
+tasty empanadas,0.6654
+chai tea,0.6652
+cool vibe,0.6639
+bagel,0.663
+cookies muffin,0.663
+smooth velvety,0.6629
+little high,0.6622
+banana bread,0.661
+quiet safe,0.661
+whole team,0.6592
+quietly,0.6582
+new croissant,0.6568
+outdoor sitting,0.6562
+city good,0.6558
+pastry offered,0.6545
+indoor,0.6536
+grab cocktail,0.6528
+cocktail,0.6525
+much coming,0.6522
+staff delicious,0.6516
+make pastry,0.6492
+tasty americano,0.6468
+lot team,0.6467
+drink hotdog,0.6453
+seating delicious,0.6445
+institution pleasantly,0.6444
+pastry good,0.644
+scott really,0.6436
+beautiful outdoor,0.6425
+thanks awesome,0.6411
+coffee tempting,0.6409
+glad enjoying,0.6408
+price,0.6405
+much scott,0.6404
+drink food,0.6386
+neighbor coffee,0.6385
+worse,0.6371
+jason whole,0.6366
+club,0.6363
+local baker,0.6362
+approved italians,0.636
+kosher hotdog,0.6355
+got ethiopian,0.6332
+star,0.633
+italian approved,0.6322
+amazing coffee,0.6317
+fresh coffee,0.6313
+pour enjoyed,0.631
+dog outdoor,0.6308
+croissant,0.6306
+walk sanchez,0.6304
+blend coffee,0.6301
+dad ehh,0.6291
+best avocado,0.6278
+chip banana,0.6278
+average coffee,0.626
+donut awesome,0.6255
+really appreciates,0.6251
+emily,0.6247
+people coffee,0.6229
+pleasantly quiet,0.6227
+seating fantastic,0.6221
+coffee love,0.6211
+okay price,0.6202
+friendly cappuccino,0.6179
+vibe good,0.6174
+almond milk,0.6152
+atmosphere staff,0.6143
+fantastic hot,0.611
+walk,0.6093
+service,0.6093
+clear vegan,0.6079
+coffee favorite,0.6073
+favourite cafe,0.6072
+oven really,0.6066
+employee ended,0.6045
+coffee roasted,0.6043
+ray sunny,0.6038
+customer,0.6035
+great sandwich,0.6031
+coffee bonus,0.603
+kid dog,0.603
+corner cafe,0.602
+cappuccino baked,0.6019
+easy brunch,0.6014
+thursday taco,0.6011
+vegan gluten,0.6009
+sunny solid,0.6005
+coffee think,0.5993
+tea,0.5989
+social,0.597
+biscuit delicious,0.5965
+joy thank,0.5962
+solid coffee,0.596
+coffee food,0.5958
+spritz mimosa,0.5944
+enjoyed,0.5935
+buzzing cafe,0.5923
+best cafe,0.5914
+worst cafe,0.5913
+empanadas amazing,0.5903
+favorite biscuit,0.5864
+ethiopian,0.5862
+staff amazing,0.5856
+velvety,0.5848
+much jason,0.5845
+coffee amazing,0.5828
+coffee delicious,0.5822
+phenomenal pastry,0.5812
+good quality,0.5812
+chocolate wife,0.5811
+review carol,0.581
+fresh pastry,0.5806
+atmosphere,0.5798
+lovely local,0.5793
+cafe convenient,0.579
+best chai,0.5787
+figured trick,0.5784
+scott,0.577
+taco delicious,0.5766
+aisha thank,0.5766
+perfect neighborhood,0.5757
+atmosphere friendly,0.5755
+hot,0.574
+mimosa moving,0.5729
+iced coffee,0.5723
+carol really,0.5719
+friendly clean,0.5715
+excellent service,0.5712
+brian glad,0.5708
+popular coffee,0.5708
+sunny,0.57
+light sandwich,0.5695
+roastery cafe,0.5693
+favorite foodie,0.5692
+love strolling,0.5684
+nice cafe,0.5679
+hangout,0.5678
+carol,0.5676
+warm hot,0.5667
+food,0.5627
+weekend kosher,0.5623
 superb,0.5621
-cookie,0.5603
-pleasantly,0.5565
-friendliest,0.5542
-breakfast,0.5487
-rude,0.538
-compliment,0.5357
-late,0.5324
-starbucks,0.5321
-yannis,0.5313
-quietly,0.5247
-ambience,0.5226
-bagel,0.517
-hang,0.5095
-oven,0.5008
-vibe,0.4998
-strive,0.4946
-enjoyed,0.4906
-quiet,0.4906
-spot,0.4872
-parklet,0.487
-gluten,0.48329999999999995
-pablo,0.4813
-day,0.4796
-stars,0.4789
-years,0.4785
-almond,0.4756
-quality,0.4748
-italian,0.4678
-laptops,0.4639
-city,0.4624
-zoo,0.4621
-tacos,0.46009999999999995
-café,0.4585
-adorable,0.4583
-spritz,0.4553
-steve,0.4546
-fantastic,0.4542
-ethiopian,0.4539
-aperol,0.4521
-marvin,0.451
-support,0.4485
-weekends,0.4471
-high,0.4464
-hotdogs,0.443
-toast,0.4313
-hotdog,0.4296
-americano,0.42929999999999996
-eat,0.4272
-smooth,0.4252
-carol,0.4233
-croissants,0.4167
-sitting,0.4162
-employee,0.416
-rose,0.4142
-banana,0.4124
-kids,0.4079
-dad,0.4056
-picturesque,0.4025
-jason,0.4002
-leaving,0.3982
-fav,0.3953
-caffeine,0.3945
-cold,0.3942
-heartier,0.389
-arun,0.3888
-quick,0.3867
-goods,0.3833
-tony,0.3833
-wifi,0.3823
-helpful,0.3815
-tomorrow,0.3784
-patio,0.3764
-kitchen,0.3749
-baristas,0.3725
-mice,0.3723
-katie,0.3633
-bad,0.3621
-ended,0.3608
-pour,0.3593
-recommend,0.3576
-options,0.3561
-worst,0.352
-miles,0.352
-emily,0.3496
-roastery,0.3462
-sweet,0.3423
-lattes,0.3411
-feels,0.3375
-prices,0.3363
-bonny,0.3325
-saturday,0.3306
-henry,0.3287
-cozy,0.327
-ethiopia,0.321
-cinnamon,0.3182
-average,0.316
-morning,0.3158
-grabbing,0.3153
-gems,0.315
-try,0.3138
-james,0.3136
-italians,0.3136
-laptop,0.3102
-come,0.3081
-scott,0.3036
-joy,0.3024
-kosher,0.3022
-bakeries,0.2976
-blend,0.296
-rich,0.2947
-work,0.2933
-chefs,0.2881
-salads,0.285
-sandwich,0.2818
-ambiance,0.2814
-juice,0.27890000000000004
-phenomenal,0.2775
-vibes,0.2771
-lunches,0.2768
-guests,0.2762
-strolling,0.2737
-chai,0.2733
-nagy,0.2727
-menu,0.269
-trendy,0.2669
-drink,0.26080000000000003
-buying,0.26
-instagram,0.2574
-single,0.2573
-bright,0.257
-odd,0.2544
-tuned,0.2509
-rain,0.25029999999999997
-roasted,0.2501
-specialty,0.2492
-pretty,0.2475
-penny,0.2467
-better,0.2467
-biscuits,0.2466
-karen,0.2462
-friday,0.2441
-lot,0.2422
-origin,0.2418
-welcome,0.2417
-loveliest,0.2401
-expanding,0.2377
-cafés,0.2361
-cashier,0.2358
-iris,0.2346
-puppies,0.2332
-terrible,0.232
-bit,0.2319
-impresses,0.231
-area,0.2272
-flavor,0.2237
-dirty,0.222
-muffins,0.2216
-space,0.2205
-stylish,0.2185
-fr,0.2177
-new,0.2161
-dolores,0.2135
-remodel,0.2094
-jen,0.2063
-bread,0.2026
-taco,0.2009
-working,0.2
-thursdays,0.1984
-tuesday,0.1982
-tables,0.198
-sf,0.1957
-nutella,0.1915
-seattle,0.1915
-esther,0.1821
-cocktails,0.18
-ve,0.1788
-cutest,0.1773
-bagels,0.1748
-dining,0.1714
-refreshed,0.1695
-ehh,0.1688
-onion,0.1653
-garbage,0.1642
-overpriced,0.1637
-easy,0.1634
-unusably,0.1634
-busier,0.1633
-grab,0.162
-neighbor,0.1575
-lemon,0.1555
-posh,0.1544
-uncomfortable,0.1542
-huge,0.153
-standoffish,0.1525
-growing,0.1519
-fans,0.1428
-weekend,0.1421
-windy,0.1416
-foodie,0.1386
-oatmilk,0.1332
-trick,0.1329
-cake,0.1327
-sludge,0.1251
-thursday,0.1202
-afternoons,0.1199
-smart,0.1162
-loudly,0.1138
-gathering,0.1126
-tasted,0.1077
-napkins,0.1047
-big,0.0981
-cheese,0.0969
-milks,0.0967
-bar,0.0943
-taste,0.0937
-carrot,0.0931
-tasting,0.0848
-attention,0.0819
-brew,0.0768
-artificial,0.0748
-bulldog,0.073
-steep,0.0712
-latte,0.0688
-1pm,0.0635
-impressed,0.0618
-festival,0.0567
-clientele,0.056
-wrong,0.055
-raining,0.0544
-downtown,0.0489
-cocoa,0.0481
-fun,0.0441
-10,0.0419
-renovation,0.0382
-favourite,0.0381
-afford,0.0302
-fizz,0.028
-pop,0.022
-neighbors,0.0179
-mocha,0.016
-haven,0.0131
-storefront,0.0092
-sticky,0.0033
-black,-0.0062
-eating,-0.0106
-daily,-0.0119
-plastic,-0.017
-warmest,-0.0176
-shocked,-0.0189
-followers,-0.0446
-french,-0.0589
+white iced,0.5612
+sanchez well,0.5611
+making better,0.5608
+thanks karen,0.5606
+sandwich salad,0.557
+tuned thank,0.5567
+dog,0.5559
+treat must,0.5551
+great tasted,0.5549
+cafe noe,0.5544
+welcoming warm,0.5544
+croissant tasty,0.5542
+pastries staff,0.5539
+great cappuccino,0.5539
+croissant option,0.5531
+tasty almond,0.552
+actual coffee,0.5518
+cappuccino like,0.5513
+cafe coffee,0.5506
+mouse running,0.5504
+nice staff,0.5499
+cozy patio,0.5499
+latte cinnamon,0.5498
+posh cafe,0.5498
+love people,0.5497
+eat,0.5482
+pastry love,0.5471
+cold rainy,0.5468
+thank fr,0.5461
+enjoyed milk,0.5459
+thanks kunal,0.5457
+croissant pastry,0.5448
+vegan,0.5438
+kitchen really,0.543
+new breakfast,0.5428
+appreciate constantly,0.5428
+cafe outside,0.5427
+walk coffee,0.5411
+pastry also,0.5402
+bean,0.5401
+jen thanks,0.5398
+taco thursdays,0.5393
+pastry please,0.5388
+neighborhood spot,0.5381
+great customer,0.5366
+happy zoo,0.5358
+cafe impress,0.5348
+iris thank,0.5343
+selection pastries,0.5342
+food drink,0.5341
+cappuccino good,0.5335
+tasty treat,0.5331
+canned beer,0.533
+nutella croissant,0.5329
+delicious cappuccino,0.5322
+katie,0.5321
+taco thursday,0.5312
+amazing barista,0.5302
+clean service,0.5296
+kind comment,0.5294
+favorite cooky,0.5291
+bit eat,0.5289
+wonderful setting,0.5265
+baker remodel,0.5256
+hot almond,0.5251
+best cookie,0.5248
+caf almond,0.5247
+drink snack,0.5241
+city donut,0.5239
+tasty lemon,0.5232
+black coffee,0.5231
+little gem,0.5228
+enjoying,0.5223
+pastries,0.5219
+month delicious,0.5218
+bright sunny,0.5211
+beer served,0.5205
+baker favorite,0.5192
+thanks kind,0.5191
+beer selection,0.5188
+little mouse,0.5184
+rainy weather,0.5176
+everything cafe,0.5176
+friendliest baristas,0.5154
+pastry quite,0.5149
+beer debut,0.5139
+service tasty,0.5127
+coming,0.5125
+italians,0.5124
+awesome coffee,0.5124
+large parklet,0.5112
+tasting bbq,0.5112
+coffee neighborhood,0.5111
+great ambience,0.5105
+good espresso,0.5105
+spot friendly,0.5103
+inconsistency coffee,0.5102
+space indoors,0.5097
+great vibe,0.5095
+pastry great,0.508
+cafe warmest,0.5077
+set indoor,0.5038
+rich white,0.5037
+cookie,0.5036
+coffee cocktail,0.5034
+cup coffee,0.5031
+better one,0.5027
+selection drink,0.5002
+love,0.5
+best caf,0.4996
+leaving buying,0.4992
+good selection,0.499
+neighborhood favorite,0.4982
+like food,0.4973
+friendliest staff,0.4963
+coffee always,0.4959
+serve wine,0.4939
+one lovely,0.4936
+oat milk,0.4933
+trick making,0.4932
+sf loveliest,0.4927
+happy customer,0.4924
+cafe refreshed,0.4916
+white family,0.4914
+shocked beer,0.4906
+always delicious,0.4898
+one rude,0.4896
+best baked,0.489
+back tomorrow,0.4876
+coffee super,0.4875
+cafe whole,0.4853
+instagram nice,0.4852
+mouse,0.4847
+favorite menu,0.4845
+medium roast,0.4835
+coffee fantastic,0.4832
+friendly helpful,0.4829
+terrible drink,0.4823
+free pastry,0.4821
+breakfast sandwich,0.4808
+love space,0.4806
+time love,0.4802
+great beer,0.4798
+empanadas sandwich,0.4781
+great food,0.4774
+pastry favorite,0.475
+chef kiss,0.4747
+serf wine,0.4744
+tasted average,0.4744
+place love,0.4738
+new storefront,0.4732
+couple new,0.4723
+pastry barista,0.4719
+stay tuned,0.4709
+folk kid,0.4699
+pop coffee,0.4694
+odd experience,0.4684
+average drink,0.4656
+taste bad,0.4645
+barista friendly,0.4608
+latte waiting,0.46
+decent pastry,0.4588
+cafe neighborhood,0.4577
+dog working,0.4567
+delicious partner,0.4565
+coffee best,0.4559
+breakfast empanadas,0.4555
+white surcharge,0.4551
+strive amazing,0.4545
+kids dog,0.4533
+worst life,0.4529
+cafe open,0.4527
+tomorrow,0.4524
+loved cappuccino,0.4519
+everything,0.4518
+coffee tea,0.4517
+coffee sweet,0.4517
+coffee tasted,0.4501
+rude,0.4486
+coming grabbing,0.4479
+pastry highly,0.4467
+hotdog omnomnom,0.4458
+wine tasting,0.4453
+rainy morning,0.4394
+excited beer,0.4389
+pastry breakfast,0.4378
+coffee people,0.4343
+specialty latte,0.4342
+roast staff,0.434
+added couple,0.4338
+local cafe,0.4337
+every pastry,0.4334
+milk lattes,0.4327
+french bulldog,0.4312
+kind expensive,0.431
+friday worthwhile,0.4303
+stale cafe,0.4301
+indoors wfh,0.43
+price rich,0.4292
+salad miss,0.4288
+saturday afternoon,0.4287
+morning beer,0.4282
+cafe downtown,0.4279
+including wine,0.4274
+coffee latte,0.4271
+stopped rainy,0.427
+family afford,0.4266
+pastry cashier,0.4256
+good bagel,0.4255
+cashier standoffish,0.4254
+almond croissant,0.4251
+show indoor,0.4249
+neighborhood coffee,0.4243
+morning friendly,0.4239
+thursday awesome,0.4232
+seattle bar,0.4228
+morning coffee,0.422
+leash french,0.4216
+carrot cake,0.4215
+want indoors,0.4202
+coffee downright,0.4199
+street cafe,0.4188
+incredible carrot,0.4181
+follower instagram,0.4179
+zoo great,0.4163
+coffee espresso,0.4162
+drink fantastic,0.4158
+great baked,0.4156
+rainy,0.4153
+delicious beverage,0.4139
+espresso always,0.4132
+wfh laptop,0.412
+ask coffee,0.4118
+tea cocoa,0.4116
+free delicious,0.411
+never indoor,0.4083
+pastries delicious,0.408
+wonderful renovation,0.4076
+wine treat,0.4071
+tuesday dog,0.4052
+happy hour,0.4051
+croissant old,0.4049
+wonderful cafe,0.4038
+flavor,0.4038
+everything delicious,0.4007
+festival price,0.3988
+chocolate chip,0.3972
+savory favorite,0.3972
+lemon scone,0.397
+flavor really,0.3945
+pastry boot,0.3936
+uncomfortable drinks,0.3927
+cafe money,0.3908
+open indoor,0.3906
+warm patient,0.3894
+coffee bean,0.3892
+thursdays awesome,0.3889
+neighbor pastry,0.3886
+sprinkled magic,0.387
+standard roast,0.3869
+latte great,0.3864
+spritz coffee,0.3863
+coffee matcha,0.386
+staff tasty,0.3844
+friday afternoon,0.3829
+limited menu,0.3825
+garbage recycle,0.3816
+iced,0.3805
+cafe especially,0.3803
+served plastic,0.3793
+service average,0.3779
+choice coffee,0.3769
+great pastries,0.3766
+tried pastry,0.3766
+ethiopia excited,0.3758
+good drinks,0.373
+coffee snack,0.3728
+many bakery,0.3722
+cold seat,0.3717
+menu includes,0.3704
+fun saturday,0.3703
+serving croissant,0.368
+coffee gluten,0.3679
+awesome baked,0.3672
+juice couple,0.3666
+empanadas,0.3653
+gem coffee,0.3649
+wine afternoon,0.3633
+pastry look,0.3631
+love sticky,0.3629
+pop food,0.3622
+food day,0.3614
+croissant shelf,0.3583
+selection pastry,0.3575
+americanos favorite,0.3514
+afternoon great,0.3498
+roaster reasonable,0.3495
+sort chocolate,0.3492
+dining atmosphere,0.347
+working laptop,0.3467
+cream cheese,0.346
+ambiance green,0.3449
+beloved local,0.3444
+bar nice,0.3419
+growing community,0.3407
+cake locally,0.3406
+cold brew,0.3383
+sandwich also,0.3329
+green plant,0.3319
+beer wine,0.3303
+spilling cafe,0.3303
+dirty nice,0.3271
+cafe seems,0.3248
+variety pastry,0.3228
+drink pastry,0.3176
+get coffee,0.3162
+coffee something,0.3153
+pastry drink,0.3149
+work friday,0.3143
+find coffee,0.3134
+new coffee,0.3114
+found cafe,0.3102
+price friendly,0.3099
+empanadas loved,0.3083
+dog owner,0.3067
+brew bad,0.2994
+looking pastry,0.2994
+oh chef,0.2979
+sweet snooty,0.2961
+pouring rain,0.2948
+neighborhood vibe,0.2939
+find garbage,0.2937
+big bernese,0.281
+dog bowl,0.281
+standoffish impatient,0.2807
+hours wrong,0.2738
+iced little,0.2694
+mid coffee,0.2647
+oatmilk also,0.2589
+eating pastry,0.2574
+bottom cold,0.2563
+slow wifi,0.2339
+yelling loudly,0.2231

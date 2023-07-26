@@ -1,174 +1,276 @@
 keyword,weight
-breakfast,7.7522
-food,5.075
-sandwiches,3.1422
-coffee,2.98
-friendly,2.8789
-sandwich,2.7302999999999997
-nice,2.3776
-tasty,2.2287
-delicious,2.2081
-awesome,1.939
-great,1.9295
-good,1.8251
-service,1.6636
-doughnuts,1.3887
-bakery,1.3702
-cheap,1.3365
-staff,1.1852
-place,1.1174
-horrible,1.0939999999999999
-lady,1.073
-cafe,1.0606
-pastries,0.9967999999999999
-price,0.9852
-reasonable,0.9307000000000001
-donuts,0.9228000000000001
-quiet,0.907
-croissant,0.8560000000000001
-pricey,0.8407
-yummy,0.8163
-best,0.8033999999999999
-small,0.7888
-goodies,0.7658
-vietnamese,0.7485999999999999
-clean,0.6636
-year,0.6391
-chocolate,0.6101
-simple,0.5911
-portions,0.5905
-thanks,0.5863
-fair,0.5685
-cafè,0.5301
-mile,0.5272
-caffe,0.5261
-apple,0.5258
-busy,0.5181
-smoothies,0.4936
-waffle,0.48960000000000004
-doughnut,0.4854
-variety,0.4813
-square,0.4762
-tea,0.465
-quick,0.4637
-radius,0.4565
-rude,0.4509
-juice,0.4446
-baking,0.4306
-recommend,0.4238
-quality,0.4235
-soda,0.4184
-bad,0.4121
-prices,0.4003
-pancake,0.3965
-stale,0.396
-burger,0.3842
-wife,0.3691
-pancakes,0.3637
-bacon,0.363
-homeless,0.362
-lazy,0.3593
-refused,0.3498
-cheese,0.3492
-chicken,0.345
-taste,0.3401
-unpleasant,0.3373
-efficient,0.3341
-fresh,0.32
-highly,0.315
-meat,0.3129
-better,0.3103
-victor,0.3038
-dessert,0.3035
-plate,0.2997
-trendy,0.2969
-waffles,0.2908
-options,0.2907
-hot,0.2881
-tables,0.2747
-lunch,0.2742
-american,0.2693
-burnt,0.2672
-favorite,0.2592
-annette,0.2587
-cafes,0.2586
-deserving,0.251
-large,0.2467
-dining,0.24
-sweetest,0.2347
-hope,0.2331
-fruit,0.2236
-excellent,0.2235
-staffed,0.2234
-menu,0.218
-welcoming,0.2139
-neat,0.2081
-usual,0.2065
-inspiring,0.2054
-tidy,0.2052
-hashbrowns,0.2036
-donut,0.1999
-meal,0.1961
-customer,0.1939
-nearby,0.1908
-family,0.185
-decades,0.1794
-croissants,0.1774
-open,0.1727
-baked,0.1703
-restaurant,0.1647
-love,0.1645
-google,0.1594
-buy,0.1567
-shop,0.1475
-mccallister,0.1461
-deli,0.1405
-napkins,0.1377
-catering,0.1355
-oatmeal,0.1345
-filling,0.1332
-affordable,0.1291
-bland,0.1244
-pasties,0.123
-tourists,0.1072
-places,0.1069
-customers,0.1059
-happy,0.097
-pretty,0.0937
-sister,0.0931
-loved,0.0892
-frosted,0.087
-atmosphere,0.0752
-trying,0.0744
-75,0.07
-dish,0.0686
-subway,0.0648
-bride,0.0642
-disappointed,0.064
-francisco,0.0532
-half,0.0521
-veggies,0.0505
-owners,0.0492
-99,0.0453
-vacation,0.0442
-low,0.0441
-turkey,0.0436
-amazing,0.0429
-police,0.0308
-new,0.0178
-sells,0.017
-bahn,0.0103
-5am,0.0048
-extra,0.0035
-day,0.0018
-50,-0.0013
-uber,-0.007
-tried,-0.009299999999999989
-makes,-0.0119
-walking,-0.0145
-restaurants,-0.0226
-rest,-0.0245
-work,-0.0265
-intimidate,-0.0397
-drug,-0.0699
-ahead,-0.0931
+breakfast sandwich,5.9067
+sandwich,5.0235
+breakfast,4.42
+food,3.3510999999999997
+coffee,2.3724
+friendly staff,2.041
+delicious,1.9263
+awesome,1.5306000000000002
+good food,1.4759
+nice,1.4729
+reasonable price,1.4577
+tasty,1.3431
+vietnamese sandwich,1.3162
+sandwich good,1.2526000000000002
+good breakfast,1.2437
+staff good,1.2029999999999998
+love cafe,1.1789
+sandwich great,1.1652
+food good,1.13
+friendly,1.1139000000000001
+nice quiet,1.0
+yummy cheap,1.0
+awesome place,1.0
+small pricey,0.9686
+coffee food,0.9589
+quiet,0.9563
+tasty goody,0.9555
+cheap,0.949
+awesome food,0.9463
+service tasty,0.9415
+simple breakfast,0.9282
+breakfast reasonable,0.9216
+portions small,0.9141
+chocolate,0.9132
+nice service,0.9058
+cheese croissant,0.9021999999999999
+breakfast recommend,0.9003
+delicious pastry,0.8968
+fair breakfast,0.8915
+small,0.8804
+pastry friendly,0.8714
+great food,0.8709
+sandwich coffee,0.8679
+food great,0.8677
+tasty breakfast,0.8503
+delicious place,0.8374
+excellent breakfast,0.8329
+last year,0.8315999999999999
+ham cheese,0.8265
+breakfast bad,0.822
+yummy,0.8209
+square mile,0.8207
+tried doughnut,0.8157
+great sandwich,0.8149
+doughnut friendly,0.8109
+mile radius,0.8073
+thanks rating,0.8067
+quality food,0.8043
+sandwich croissant,0.8031
+friendly lady,0.8023
+quality doughnut,0.7995
+best hongha,0.793
+food nice,0.7901
+really delicious,0.7808
+chicken delicious,0.7725
+great price,0.7705
+food busy,0.7621
+price square,0.7609
+food service,0.7609
+great variety,0.7567
+doughnut,0.7521
+place,0.7503
+burnt styrofoam,0.7375
+pricey,0.7374
+simple doughnut,0.7348
+delicious option,0.7304
+lady always,0.7268
+awesome price,0.7208
+coffee service,0.7198
+great customer,0.7192
+fresh delicious,0.7177
+stale bread,0.7143
+variety food,0.714
+bakery table,0.7036
+best smoothy,0.7035
+radius,0.7004
+delicious breakfast,0.6975
+doughnut menu,0.6968
+horrible everything,0.6949
+fair,0.6884
+turkey breakfast,0.6867
+coffee quick,0.6844
+chocolate apple,0.6803
+simple coffee,0.6791
+deli breakfast,0.6686
+caf bakery,0.6658
+option awesome,0.665
+food friendly,0.6639
+within walking,0.662
+menu tasty,0.6612
+rude staff,0.661
+awesome breakfast,0.6588
+chocolate frosted,0.6582
+loved waffle,0.6568
+work sell,0.6553
+soda refused,0.6527
+portions,0.6511
+sell bahn,0.651
+bad compared,0.6493
+best coffee,0.6478
+nothing hashbrowns,0.6464
+croissant sandwich,0.6398
+great coffee,0.6398
+waffle nothing,0.639
+breakfast good,0.6386
+pastry,0.6368
+buy soda,0.6306
+food overpriced,0.6287
+burnt,0.6274
+american breakfast,0.6274
+usual coffee,0.6215
+custom burger,0.6207
+walking distance,0.62
+half waffle,0.6194
+hot chocolate,0.6148
+horrible,0.6133
+bakery love,0.6114
+sandwich lots,0.6091
+bahn mi,0.6074
+smoothy,0.605
+unprofessional lazy,0.6029
+bacon taste,0.6028
+history baking,0.6019
+overpriced cafe,0.6015
+food plate,0.6012
+burger clean,0.5975
+pancake delicious,0.5971
+bakery family,0.5968
+service good,0.5959
+cafe sweetest,0.5942
+freshly baked,0.594
+coffee baked,0.5911
+lot homeless,0.5904
+sandwich chicken,0.5897
+good quality,0.5885
+bad,0.5873
+favorite breakfast,0.5856
+pancake freshly,0.5777
+pastry breakfast,0.574
+food okay,0.5703
+town chocolate,0.5703
+breakfast croissant,0.5695
+best donut,0.5648
+great,0.5627
+nice staff,0.5567
+lazy rude,0.5549
+mi sandwich,0.552
+good taste,0.5495
+wife going,0.5457
+price find,0.5453
+baked pastry,0.5428
+tea great,0.5365
+lovely dining,0.5351
+good vietnamese,0.5348
+liked pancake,0.533
+large croissant,0.5318
+clean restaurant,0.5308
+sandwich nice,0.5304
+best waffle,0.5298
+lots meat,0.5297
+juice food,0.5265
+brioche croissant,0.5217
+doughnuts site,0.5192
+wife,0.518
+baking system,0.517
+make doughnuts,0.5166
+croissant beagle,0.5165
+clean neat,0.5157
+thought coffee,0.5147
+get breakfast,0.5138
+breakfast rest,0.5124
+year victor,0.5123
+waffle sister,0.5039
+soda,0.5036
+homeless corner,0.5004
+fresh fruit,0.498
+great deli,0.4959
+staffed excellent,0.495
+homeless,0.4947
+french food,0.4925
+apple fritters,0.4921
+bakery,0.4919
+lady staffed,0.4916
+accommodating well,0.4914
+plus coffee,0.4886
+clean place,0.4877
+baking,0.4875
+place food,0.486
+fruit juice,0.4851
+croissant filling,0.4821
+breakfast spot,0.4812
+freshly fried,0.4811
+meat,0.4791
+amazing apple,0.4769
+coffee juice,0.4765
+perfect breakfast,0.4761
+roll tasty,0.4753
+good simple,0.473
+strip bacon,0.4729
+made pastry,0.4707
+neighborhood bakery,0.4695
+food bland,0.4676
+year annette,0.4656
+welcoming woman,0.4643
+delicious milk,0.4591
+service,0.4588
+simple,0.4576
+doughnuts,0.4567
+croissant,0.4546
+fancy lady,0.4536
+lady serving,0.4518
+sweetest lady,0.4494
+coffee nothing,0.4481
+average coffee,0.4448
+good cafe,0.4445
+waffle service,0.4435
+cafe area,0.4365
+subway napkin,0.4296
+burger,0.4292
+taste,0.4271
+got donut,0.4248
+bacon,0.4244
+tea,0.4192
+moda coffee,0.417
+apple,0.4124
+refused service,0.4094
+sandwich anything,0.4093
+meal suggestion,0.4092
+service food,0.4057
+victor ever,0.4022
+eat thank,0.4016
+tried buy,0.4003
+going caffe,0.3966
+tasty food,0.3939
+annette hope,0.3925
+uber ride,0.3921
+new owner,0.3798
+ago caffe,0.3693
+bland priced,0.364
+google open,0.3564
+food average,0.3553
+juice definitely,0.3444
+go breakfast,0.3432
+low food,0.3357
+glazed donut,0.3352
+google,0.3332
+donut super,0.3312
+day vacation,0.3249
+satisfy customer,0.3218
+stated google,0.3177
+good coffee,0.3147
+overwhelmed food,0.3143
+took uber,0.3052
+bride loved,0.3051
+everything service,0.2994
+nice people,0.2992
+dish love,0.2979
+drug dealer,0.2889
+customer craving,0.2889
+sell coffee,0.2794
+coffee unfortunately,0.2772
+cafe near,0.2556
+place breakfast,0.2555
+coffee shop,0.2193
+excellent,0.2062

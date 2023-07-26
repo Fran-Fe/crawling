@@ -1,153 +1,260 @@
 keyword,weight
-coffee,8.1229
-thank,3.1438
-happy,2.9228
-holidays,2.7899
-serving,2.6447
-friendly,2.6009
-2022,2.4642
-sandwiches,2.2751
-coffeesmith,1.781
-hello,1.7488
-appreciate,1.5928
-breakfast,1.5891000000000002
-great,1.5875000000000001
-soon,1.425
-good,1.2569
-food,1.2566000000000002
-sandwich,1.072
-bagel,0.9612
-kind,0.9595
-year,0.9362999999999999
-love,0.876
-service,0.8292999999999999
-cheers,0.8103
-tea,0.753
-lunch,0.702
-ms,0.641
-visit,0.634
-lady,0.6326
-best,0.6206
-lovely,0.6005
-review,0.5933999999999999
-jang,0.5809
-excellent,0.5736
-apology,0.5515
-email,0.5244
-nice,0.5099
-rating,0.46930000000000005
-stars,0.4688
-care,0.4489
-everyday,0.4442
-tax,0.4384
-wondful,0.4342
-menu,0.4206
-owner,0.41750000000000004
-pastry,0.4094
-passport,0.3967
-shops,0.3953
-salad,0.395
-staff,0.39390000000000003
-hope,0.385
-waitress,0.3823
-super,0.3785
-house,0.3768
-ordered,0.3666
-tuna,0.3633
-reasonable,0.3551
-close,0.3519
-shop,0.3498
-cheese,0.3491
-butter,0.3428
-18,0.3272
-amber,0.3268
-bagels,0.31889999999999996
-kindly,0.3112
-thanks,0.3091
-espresso,0.3079
-cafe,0.3077
-john,0.3056
-brewing,0.3048
-appreciation,0.3034
-reply,0.2978
-glad,0.2945
-services,0.2887
-week,0.2853
-address,0.2774
-organic,0.2749
-eggssmith,0.2746
-michael,0.274
-easy,0.2718
-coffees,0.2699
-enjoyed,0.2685
-priced,0.2684
-busy,0.2654
-mr,0.265
-late,0.2635
-pride,0.2605
-morgan,0.2575
-family,0.2466
-patron,0.2416
-rice,0.2385
-german,0.2373
-stop,0.2349
-valuable,0.2333
-fresh,0.2323
-macaroons,0.2255
-francesca,0.225
-salads,0.2249
-quick,0.2212
-official,0.2122
-taste,0.2112
-north,0.2021
-cappuccino,0.1955
-david,0.1942
-homeless,0.1912
-max,0.1911
-times,0.1901
-honor,0.1735
-serve,0.1691
-appreciated,0.167
-hungry,0.1593
-convince,0.1526
-compassionate,0.1517
-powerful,0.1516
-maria,0.1511
-customer,0.1485
-daily,0.1441
-delicious,0.1436
-reach,0.1417
-milk,0.1389
-eve,0.1289
-latte,0.12210000000000001
-encouraging,0.1196
-flavor,0.1155
-cookie,0.1152
-chinese,0.1055
-uplifting,0.0992
-excited,0.0975
-small,0.0881
-girls,0.0831
-home,0.0795
-cup,0.0776
-jen,0.0761
-almond,0.0745
-bbq,0.0731
-trip,0.0715
-lucky,0.053
-kindness,0.0386
-francisco,0.0378
-covid,0.0349
-friendship,0.0306
-colleagues,0.0289
-gas,0.02
-spooky,0.0146
-peace,0.0039
-foods,-0.0011
-thrives,-0.0067
-leaf,-0.0078
-vendor,-0.0177
-drill,-0.0202
-evacuation,-0.0279
-chilled,-0.0855
-disaster,-0.1028
+happy holidays,5.727
+coffee,5.6492
+holidays,2.945
+serving soon,2.7327
+good coffee,2.471
+coffeesmith,2.1924
+breakfast sandwich,2.018
+thank,1.9177
+friendly staff,1.8316000000000001
+happy,1.8255
+great food,1.7426
+sandwich,1.6242999999999999
+great coffee,1.4594
+bagel coffee,1.2593999999999999
+excellent coffee,1.2404000000000002
+coffee great,1.215
+rating coffeesmith,1.2056
+bagel sandwich,1.1981000000000002
+coffee taste,1.1629
+friendly,1.1595
+star rating,1.1354
+food love,1.1062
+holidays look,1.0868
+appreciate review,1.0623
+serving year,1.0426
+coffeesmith always,1.0324
+cup coffee,0.9863
+kind review,0.9518
+lovely person,0.8405
+david thank,0.8234
+kindly star,0.8189
+morgan thank,0.8143
+official email,0.8056
+tuna sandwich,0.7979
+ordered great,0.7907
+best sandwich,0.7839
+coffee excellent,0.7771
+coffee reasonable,0.7705
+soon cheers,0.7533
+coffee experience,0.7461
+email address,0.7408
+house coffee,0.7398
+service lady,0.7389
+excellent service,0.736
+thank kindly,0.7273
+major coffee,0.7233
+coffee breakfast,0.7193
+place friendly,0.719
+everyday week,0.7176
+thank much,0.712
+owned coffee,0.7119
+apology late,0.7098
+lunch coffee,0.7092
+email,0.7069
+coffeesmith jang,0.7055
+time review,0.7047
+food happy,0.6964
+lovely waitress,0.6945
+good place,0.6943
+sandwich spot,0.6904
+much time,0.688
+serving everyday,0.6868
+cheers,0.686
+best breakfast,0.6833
+love bagel,0.6731
+rice happy,0.6709
+food coffee,0.6702
+tax quick,0.668
+coffee sandwich,0.6616
+place lovely,0.66
+soon happy,0.6582
+coffee shop,0.6548
+enjoyed food,0.6517
+saki thank,0.648
+soon year,0.6445
+nice people,0.6443
+late reply,0.641
+lamboglia appreciate,0.6374
+rating thank,0.6364
+price friendly,0.6356
+also tuna,0.6334
+serving jang,0.6321
+five star,0.6316
+watters thank,0.6296
+family enjoyed,0.6283
+sandwich amazing,0.6269
+review hope,0.6245
+others appreciation,0.6232
+service great,0.6228
+xavier happy,0.6223
+coffee pastry,0.6161
+hope often,0.613
+waitress thanks,0.6127
+great service,0.6097
+john reach,0.6076
+thanks max,0.6075
+cheese bagel,0.602
+latte cheese,0.599
+lovely,0.5982
+close visit,0.596
+serving next,0.5956
+stop chance,0.5945
+holidays jang,0.5923
+appreciation jang,0.5888
+michael appreciate,0.5872
+salad menu,0.5859
+great owner,0.5848
+please stop,0.5839
+chris happy,0.5811
+quick easy,0.5778
+appreciate five,0.5777
+appreciate rating,0.5743
+next visit,0.5743
+kind rating,0.5741
+reach official,0.573
+coffee love,0.5696
+sandwich love,0.5691
+bagel butter,0.5687
+thank appreciate,0.5678
+sandwich town,0.5674
+leaf salad,0.5665
+super nice,0.5653
+holidays beyond,0.5645
+family owned,0.5623
+fran coffee,0.5622
+nice eggssmith,0.5613
+salad lunch,0.5612
+hello amber,0.5581
+best house,0.5573
+apology,0.5567
+khan appreciate,0.5565
+bagel owner,0.5556
+tea latte,0.5549
+breakfast every,0.554
+cristo appreciate,0.5509
+iced coffee,0.5501
+best coffee,0.5497
+espresso bbq,0.5458
+everyday,0.5447
+wondful super,0.5424
+good,0.5414
+fresh organic,0.5407
+lee happy,0.5404
+coffee fresh,0.5402
+tuna,0.5386
+easy,0.5376
+star customer,0.5367
+stopping coffeesmith,0.5366
+good breakfast,0.5362
+add tea,0.5343
+butter nice,0.5288
+appreciate kind,0.5284
+bagel breakfast,0.5263
+bagel cappuccino,0.526
+also friendly,0.5205
+appreciate spending,0.5189
+great,0.5176
+owner also,0.5165
+convince others,0.5075
+cafe coffee,0.507
+taste brewing,0.5052
+coffeesmith last,0.4993
+passport,0.4992
+hello ms,0.4976
+passport photo,0.4952
+bao friendly,0.4949
+excellent bao,0.4936
+patron miss,0.4931
+food cheers,0.4924
+ordered bagel,0.4908
+adjust coffee,0.4888
+black coffee,0.4884
+coffee lox,0.4878
+nice,0.4864
+coffeesmith customer,0.4854
+salad,0.4851
+food great,0.4834
+packaged salad,0.4833
+maria appreciate,0.4794
+breakfast sf,0.4788
+owner jen,0.4775
+amber much,0.4761
+milk latte,0.4724
+max kind,0.4711
+occasional breakfast,0.4702
+eggssmith bagel,0.4681
+delicious food,0.4672
+service love,0.4637
+star review,0.4624
+coffee shot,0.4604
+building north,0.4571
+review coffeesmith,0.4537
+made bagel,0.4501
+adam khan,0.4455
+week,0.4438
+jen best,0.4402
+friendly service,0.4381
+spooky homeless,0.4381
+pride make,0.4354
+german hope,0.4345
+sandwich never,0.4328
+friendly owner,0.4311
+hope family,0.4292
+khanna thank,0.4277
+five,0.4203
+flavor location,0.4198
+eve happy,0.418
+new year,0.418
+review patron,0.4131
+coffee bagel,0.4124
+take pride,0.409
+highly recommended,0.4081
+best drink,0.4067
+tea leaf,0.4051
+lovely family,0.4026
+homeless town,0.4015
+brewing seriously,0.3979
+food vendor,0.3972
+waitress,0.394
+year daily,0.3927
+year eve,0.3845
+rating happy,0.3823
+happy new,0.382
+hungry person,0.3798
+happy opportunity,0.3797
+grab coffee,0.3727
+behalf coffeesmith,0.3724
+coffee independent,0.3714
+federal building,0.3674
+almond milk,0.3658
+milk mocha,0.3605
+thank stopping,0.3585
+food ordering,0.3548
+soon jang,0.3467
+north,0.3443
+see soon,0.339
+oat milk,0.3385
+made food,0.3281
+peace world,0.3237
+especially german,0.3227
+new routine,0.3215
+town delicious,0.3179
+lovely people,0.3156
+francisco special,0.3103
+honor star,0.3099
+evacuation drill,0.309
+francisco safe,0.3071
+customer happy,0.3035
+disaster evacuation,0.3026
+compassionate encouraging,0.2992
+german,0.2906
+free ticket,0.2838
+love thank,0.2834
+homeless,0.2816
+happy feed,0.2794
+home auf,0.279
+darlene love,0.2764
+hoang apology,0.269
+reply thank,0.2609

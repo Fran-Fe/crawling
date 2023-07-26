@@ -1,45 +1,59 @@
 keyword,weight
-coffee,1.1218
-vegetarian,0.8532
-sandwich,0.8271
-love,0.6864
-enjoyed,0.6775
-thanks,0.5878
-food,0.49169999999999997
-hear,0.4236
-lemonade,0.4159
-cheese,0.384
-soup,0.3741
-pizzas,0.3671
-ali,0.3379
-mushroom,0.329
-cafe,0.3282
-sandwiches,0.2981
-salads,0.2938
-favorite,0.2727
-vegan,0.265
-creamy,0.2595
-menu,0.2536
-jazz,0.2427
-ambiance,0.2267
-drinks,0.2267
-charming,0.2186
-salad,0.2081
-enjoying,0.1804
-grilled,0.1802
-cute,0.1669
-bread,0.1545
-coffees,0.1506
-espresso,0.1062
-restaurant,0.1055
-8am,0.0807
-baristas,0.0573
-months,0.0235
-wifi,0.023
-eat,0.0204
-beetloaf,0.0182
-morning,0.016799999999999995
-50,0.0166
-gym,0.0131
-revamp,0.0082
-serving,-0.1369
+sandwich,1.1083
+hear enjoyed,0.8563
+ali love,0.847
+coffee,0.8326
+sandwich salad,0.8259
+love hear,0.8177
+thanks ali,0.8126
+beetloaf sandwich,0.8087
+salad coffee,0.8012
+enjoyed,0.7862
+cheese sandwich,0.703
+vegan sandwich,0.6917
+stronger cheese,0.6506
+salad,0.6463
+mushroom coffee,0.643
+vegetarian vegan,0.6315
+grilled cheese,0.6235
+excellent coffee,0.6115
+coffee nice,0.6106
+salad wonderful,0.6064
+ginger lemonade,0.5954
+favorite cafe,0.5734
+cute coffee,0.5481
+serving soup,0.525
+good coffee,0.5213
+vegetarian friendly,0.518
+surprise soup,0.5024
+lemonade strongly,0.4987
+cheese,0.486
+vegan,0.479
+soup bread,0.478
+pizza additionally,0.4718
+drink good,0.4615
+nice food,0.4442
+good food,0.4398
+smooth creamy,0.432
+container soup,0.4258
+vegetarian,0.4248
+morning barista,0.4226
+soup regular,0.4101
+often soup,0.4086
+food menu,0.4078
+soup make,0.4018
+staple cafe,0.3958
+surprised vegetarian,0.3894
+coffee gone,0.3805
+oz soup,0.374
+night jazz,0.3729
+serve espresso,0.3698
+soup,0.3626
+quality coffee,0.3587
+jazz band,0.3579
+vegetarian try,0.3433
+coffee shop,0.341
+espresso drink,0.3394
+food delicious,0.33
+revamp month,0.3221
+coffee came,0.2962

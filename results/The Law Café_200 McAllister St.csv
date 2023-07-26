@@ -1,34 +1,36 @@
 keyword,weight
-lunch,0.443
-café,0.4067
-breakfast,0.4018
-cookies,0.3664
-affordable,0.3453
-soups,0.3338
-warm,0.3291
-chocolate,0.3233
-snacks,0.3115
-inexpensive,0.2516
-snack,0.2501
-clean,0.25
-meals,0.2497
-sweets,0.24
-food,0.214
-love,0.1971
-pm,0.1734
-delicious,0.1688
-friendly,0.1675
-pretty,0.1649
-cafe,0.1516
-mediterranean,0.1498
-cosmetic,0.1497
-drinks,0.1459
-security,0.1459
-fan,0.1346
-hours,0.1146
-student,0.0976
-college,0.0933
-upstairs,0.0892
-desk,0.0888
-open,0.07040000000000002
-incorrect,-0.0513
+breakfast lunch,0.5831
+th pm,0.5527
+famous chocolate,0.5498
+hour listed,0.5328
+pm,0.5228
+open pm,0.5105
+lunch option,0.5007
+hour,0.4997
+sweet staff,0.4977
+variety breakfast,0.4949
+lunch,0.4563
+snack sweet,0.4534
+winter break,0.4411
+meal mediterranean,0.4297
+warm cold,0.4179
+amazing aoli,0.4131
+wonderful establishment,0.4086
+packed meal,0.4071
+breakfast,0.3832
+delicious price,0.381
+love wrap,0.374
+arrangement warm,0.3734
+welcoming food,0.3711
+low cost,0.3653
+chocolate chip,0.3637
+law cafe,0.3618
+food drink,0.3247
+quick snack,0.3238
+security desk,0.3208
+variety food,0.312
+school visitor,0.2788
+closed summer,0.2742
+cosmetic update,0.2673
+caf closed,0.2576
+checking security,0.2537

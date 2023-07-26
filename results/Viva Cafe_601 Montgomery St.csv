@@ -1,150 +1,266 @@
 keyword,weight
-food,15.8576
-delicious,4.1961
-lunch,3.5346
-breakfast,3.2315
-amazing,2.7242
-chef,2.5358
-friendly,2.3152
-tasty,2.181
-excellent,2.0107
-good,1.8615
-great,1.7846
-generous,1.7778999999999998
-salmon,1.77
-cafe,1.6380000000000001
-best,1.5122
-vegetarian,1.4296
-love,1.3435000000000001
-nice,1.173
-affordable,1.1612
-chicken,1.0401
-flavor,1.0135
-inside,0.8153999999999999
-rice,0.7933
-fresh,0.7735000000000001
-quality,0.7609
-super,0.7165
-beautiful,0.7032
-hearty,0.7012
-meals,0.6804
-burritos,0.6596
-service,0.6562
-restaurant,0.6540999999999999
-pleasant,0.6065
-hard,0.5697
-price,0.5472
-burger,0.5445
-cooking,0.5372
-homestyle,0.5261
-loved,0.5243
-fantastic,0.5185
-staff,0.5182
-app,0.5023
-sandwiches,0.5
-sf,0.4925
-mealpal,0.4889
-wizard,0.4881
-superb,0.4831
-talented,0.4809
-coffee,0.44179999999999997
-location,0.4367
-cooked,0.4367
-presentation,0.4358
-meal,0.4196
-wholesome,0.4041
-tastes,0.4036
-lunchspot,0.4019
-building,0.3995
-sauces,0.3895
-toogood,0.3861
-gem,0.3857
-little,0.384
-tucked,0.3746
-discovered,0.3729
-taste,0.3724
-flavorful,0.3654
-hungry,0.3639
-cappuccinos,0.3614
-mediterranean,0.3441
-favorite,0.3393
-owners,0.3358
-armenian,0.3342
-period,0.3322
-people,0.332
-10,0.3245
-dishes,0.3237
-elevators,0.3223
-unfortunately,0.3199
-homely,0.3153
-hidden,0.3138
-tiny,0.3128
-dinner,0.3084
-glorious,0.3078
-hsbc,0.3062
-insane,0.2953
-bank,0.2862
-highly,0.2828
-cool,0.2788
-vegetables,0.2784
-owner,0.276
-cuisine,0.2682
-potatoes,0.2647
-quick,0.264
-salads,0.2637
-working,0.2617
-fridge,0.2518
-vegan,0.2448
-gourmet,0.2444
-salad,0.2378
-regret,0.2356
-seasoned,0.2322
-tamales,0.2296
-pastry,0.2219
-stars,0.2151
-secret,0.2146
-happy,0.2107
-teriyaki,0.205
-yesterday,0.2038
-beans,0.202
-healthy,0.1977
-marinated,0.1909
-appetite,0.1886
-wonderfully,0.1817
-eating,0.1814
-office,0.1771
-rich,0.1758
-discovery,0.169
-pastries,0.1564
-participate,0.1529
-dudes,0.1481
-bowl,0.1418
-lot,0.1351
-napoleon,0.1302
-place,0.1161
-downtown,0.1151
-napoleons,0.1145
-assumptions,0.1137
-tasted,0.1092
-ingredients,0.1068
-fidi,0.1067
-lemon,0.1008
-week,0.0985
-eaten,0.0957
-elevator,0.0945
-alive,0.094
-meats,0.0928
-live,0.0927
-toogoodtogo,0.0786
-kept,0.074
-sauce,0.0655
-morning,0.0624
-lobby,0.0444
-customers,0.0333
-fruit,0.0284
-whipped,0.0245
-opened,0.0137
-served,0.0122
-cream,0.0096
-absolutely,0.0089
-surprising,-0.0455
+food,7.4437
+amazing food,4.8703
+delicious,2.831
+delicious food,2.5153
+breakfast,2.1436
+tasty,2.0197000000000003
+great food,1.8740999999999999
+best food,1.8208
+salmon,1.6905
+tasty food,1.5881
+food generous,1.4701
+breakfast bowl,1.4334
+lunch,1.4249
+food excellent,1.4096
+excellent food,1.4020000000000001
+loved food,1.3192
+friendly,1.2508
+super friendly,1.1591
+vegetarian,1.1559
+food best,1.1507
+food delicious,1.1223
+chef,1.0596
+owner great,1.0446
+healthy food,1.0045
+love,1.0
+food beautiful,0.9413
+talented chef,0.9348
+delicious give,0.9134
+always tasty,0.9014
+food friendly,0.8969
+absolutely delicious,0.8967
+fantastic food,0.8963
+price quality,0.8721
+friendly staff,0.8633
+cooking wizard,0.8535
+nice food,0.8523
+delicious meal,0.8437
+cafe great,0.8423
+breakfast burrito,0.837
+great guy,0.8184
+lunch generous,0.8051
+salmon burger,0.8046
+teriyaki salmon,0.8034
+beautiful presentation,0.7993
+quality,0.7991
+mediterranean dish,0.7957
+insane breakfast,0.7922
+food toogood,0.79
+lunch spot,0.7804
+homestyle food,0.7708
+good,0.7637
+glorious breakfast,0.7614
+breakfast fresh,0.7593
+food amazing,0.755
+also affordable,0.7539
+give star,0.7451
+hearty homestyle,0.744
+discovered app,0.7413
+burrito good,0.7377
+excellent service,0.7369
+homely lunch,0.7364
+vegetarian option,0.7354
+star could,0.734
+friendly people,0.7322
+great flavor,0.7313
+quality tasty,0.7299
+chef delicious,0.7281
+food tasty,0.724
+food hard,0.7217
+gem discovered,0.7215
+cappuccino excellent,0.7199
+pleasant service,0.7167
+amazing breakfast,0.709
+little cafe,0.7084
+staff delicious,0.7055
+affordable,0.703
+tasty affordable,0.6979
+dude cooking,0.6961
+food also,0.6932
+price,0.6818
+good go,0.6782
+wholesome food,0.6779
+food period,0.6747
+hidden gem,0.6714
+dish superb,0.6644
+food always,0.6632
+tiny lunch,0.6632
+chicken burrito,0.6628
+good food,0.6619
+friendly chef,0.6581
+beautiful,0.6558
+cafe,0.6551
+mediterranean,0.6492
+hearty,0.6465
+fidi lunch,0.6459
+best lunch,0.6456
+best salmon,0.6455
+app,0.64
+salmon rice,0.6395
+go mediterranean,0.6359
+service excellent,0.6258
+vegetarian salad,0.6222
+food cool,0.6221
+staff wonderfully,0.6183
+little vegetarian,0.6153
+mealpal meal,0.6129
+food fresh,0.6096
+burrito,0.6063
+food cappuccino,0.6042
+flavor sauce,0.5985
+vegetarian always,0.5959
+great owner,0.5946
+salad lemon,0.5946
+spot vegetarian,0.5936
+burger,0.5911
+breakfast good,0.5863
+lunch downtown,0.5855
+gem,0.585
+building amazing,0.5832
+delicious man,0.5822
+affordable middle,0.5802
+legit breakfast,0.5747
+soul delicious,0.5715
+food owner,0.5691
+cuisine dinner,0.5682
+food greasy,0.5649
+lunch counter,0.564
+right food,0.5596
+superb quality,0.5591
+cooking,0.5586
+tucked inside,0.5585
+awesome food,0.5584
+great chef,0.5582
+cool talented,0.5542
+lovely chef,0.5493
+hard find,0.5479
+bowl delicious,0.5459
+chef food,0.5436
+food great,0.5418
+super nice,0.54
+lemon rice,0.5394
+participate good,0.5318
+inside,0.5306
+custom vegetarian,0.5275
+inside hsbc,0.5262
+always,0.5259
+quick service,0.5249
+got chicken,0.5245
+love teriyaki,0.5215
+fresh delicious,0.5185
+inside hncb,0.5175
+amount food,0.5173
+simple food,0.5169
+secret lunch,0.5158
+amazing flavor,0.5127
+flavor,0.5124
+best,0.5087
+tamales bbq,0.5066
+wizard,0.5057
+tasty healthy,0.5052
+full sf,0.503
+customize breakfast,0.5008
+highly recommend,0.4987
+custom breakfast,0.4953
+deal salmon,0.4948
+great tasty,0.4904
+food price,0.4888
+seasoned staff,0.487
+owner super,0.4857
+fantastic,0.4831
+rice roasted,0.4827
+best cash,0.4824
+huge salad,0.4823
+restaurant eat,0.4773
+food okay,0.4755
+burrito bowl,0.4739
+breakfast lunch,0.4716
+expectation amazing,0.4697
+serve breakfast,0.4694
+chicken potato,0.4685
+hsbc bank,0.4676
+working counter,0.4628
+flavorful rich,0.4592
+armenian soul,0.4559
+delicious generous,0.4543
+chef friendly,0.4539
+great full,0.4539
+sausage sandwiches,0.4527
+toogood,0.4522
+place love,0.4489
+wonderfully friendly,0.4489
+good line,0.4486
+especially chicken,0.4481
+sandwiches menu,0.4478
+flavor lunch,0.4471
+delicious healthy,0.4432
+amazing,0.4425
+style chicken,0.442
+expecting food,0.4399
+well seasoned,0.4391
+food passionately,0.4376
+meal freshly,0.4376
+business restaurant,0.4369
+sandwiches chicken,0.4365
+cooked gourmet,0.4362
+francisco food,0.4357
+staff chef,0.4348
+fridge chicken,0.4308
+fruit toogoodtogo,0.4307
+lebanese chicken,0.4286
+great place,0.4252
+vegan bowl,0.423
+bank building,0.4222
+cafe downtown,0.4214
+chicken rice,0.4195
+bean vegetarian,0.4155
+food tasted,0.4145
+chicken green,0.4142
+taste food,0.414
+gourmet meal,0.4113
+enormous sandwich,0.4105
+kind friendly,0.4102
+behind elevator,0.4098
+dinner recommended,0.4088
+grabbed lunch,0.4088
+food bought,0.4086
+meat veggie,0.4083
+come restaurant,0.4078
+food phenomenal,0.407
+delicious bowl,0.4055
+green sauce,0.4023
+elevator office,0.3955
+potato cooked,0.3948
+vegetarian polenta,0.3889
+place food,0.3886
+flavorful food,0.3849
+guy highly,0.3805
+praise coffee,0.3788
+made armenian,0.3769
+croissant sandwich,0.3724
+lunch day,0.3714
+cooked perfection,0.3666
+salmon teriyaki,0.3642
+pastry made,0.3591
+kind sauce,0.3561
+sample pastry,0.3549
+really hungry,0.3485
+toogoodtogo super,0.3483
+tasted amazing,0.344
+food skimp,0.3347
+homemade food,0.3325
+black coffee,0.332
+sandwich lunch,0.3293
+customer skimp,0.3284
+hungry,0.3188
+around hungry,0.3116
+last week,0.3115
+friendly owner,0.2803
+week came,0.2684
+asked food,0.2668
+asked pastry,0.2588
+half eaten,0.2583
+pastry,0.2524
+elevator waiting,0.2507
+period,0.2503

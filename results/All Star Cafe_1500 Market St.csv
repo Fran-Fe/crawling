@@ -1,146 +1,235 @@
 keyword,weight
-food,5.6459
-donuts,4.01
-great,3.6599999999999997
-breakfast,2.7857000000000003
-good,2.5106
-sandwiches,2.1271
-best,2.1182
-coffee,1.8149000000000002
-doughnuts,1.7958
-cafe,1.5158
-rude,1.4373
-nice,1.2511
-staff,1.2061
-morning,1.1506
-variety,1.1339000000000001
-favorite,1.0796000000000001
-clean,1.0159
+food,3.0862
+food great,2.9732000000000003
+good food,2.3726000000000003
+breakfast sandwich,2.2908
+donut,1.6778
+good,1.6608
+best,1.6313
+great food,1.6200999999999999
+great staff,1.5606
+always,1.3993
+sandwich,1.3469
+coffee,1.3178999999999998
+nice,1.2850000000000001
+breakfast,1.229
+love place,1.1795
+morning,1.163
+favorite,1.1298
+best donut,1.1035
+always curtious,1.0
+best doughnuts,1.0
+expected cafe,1.0
+really good,1.0
 mlm,1.0
-lunch,0.9756
-delicious,0.9311
-awesome,0.8643
-cheese,0.8611
-love,0.8581000000000001
-curtious,0.8091
-tasty,0.7801
-bacon,0.7435
-away,0.7358
-quick,0.7126
-6am,0.6944
-home,0.6932
-wish,0.6890000000000001
-fantastic,0.6718
-friendly,0.6585
-quality,0.6569
-wide,0.6459
-kitchen,0.6189
-really,0.6131
-apple,0.5927
-comfort,0.5766
-space,0.572
-racist,0.5707
-welcomed,0.5585
-expected,0.5536
-fresh,0.546
-steak,0.5409
-smile,0.5406
-mo,0.5364
-fries,0.5142
-avocado,0.4899
-dine,0.4822
-burgers,0.4818
-sweets,0.476
-takeout,0.4753
-served,0.475
-curry,0.4714
-bagel,0.4681
-pricey,0.4522
-burger,0.4412
-alnpaso,0.436
-toasted,0.4282
-dirty,0.4183
-chicken,0.4063
-hamburgers,0.3908
-die,0.383
-sf,0.3812
-hangout,0.3749
-poisoned,0.3636
-sandwich,0.36160000000000003
-effective,0.3527
-poisoning,0.3515
-worker,0.3497
-working,0.3421
-urine,0.3349
-customer,0.3286
-attentive,0.3269
-service,0.3242
-9th,0.3162
-open,0.3114
-shop,0.3079
-employees,0.3013
-moco,0.2969
-loco,0.2942
-disrespectful,0.2791
-mushrooms,0.2759
-sleeping,0.2684
-cutlet,0.2653
-garlic,0.2649
-2am,0.2647
-homeless,0.2638
-slow,0.2583
-community,0.2574
-pastries,0.2534
-turkey,0.25260000000000005
-evolve,0.2504
-pharm,0.2445
-bite,0.2441
-bomb,0.2425
-eating,0.2354
-francisco,0.228
-urban,0.2211
-grow,0.1992
-crullers,0.1974
-pregnant,0.1953
-glazed,0.1935
-american,0.1834
-hot,0.182
-people,0.1787
-impatient,0.1773
-polite,0.1751
-try,0.1734
-toast,0.1656
-me1,0.1647
-new,0.1583
-terrible,0.1553
-melt,0.1539
-pass,0.1481
-sacramento,0.1473
-friday,0.1402
-excellent,0.138
-pride,0.1238
-eat,0.1235
-kinds,0.1227
-store,0.118
-menu,0.1142
-auntie,0.1114
-san,0.1093
-bob,0.097
-picky,0.0967
-hotel,0.0905
-happy,0.0901
-loved,0.0849
-ladies,0.0822
-donut,0.0774
-huge,0.066
-stories,0.056
-guy,0.0525
-downtown,0.0504
-philly,0.0465
-rice,0.0366
-flies,0.0361
-helpful,-0.0015
-countless,-0.0032
-gagged,-0.0121
-eaten,-0.0316
-time,-0.0499
+rude customer,0.9629
+kitchen away,0.925
+favorite mo,0.9171
+served fresh,0.916
+worker rude,0.9144
+nice clean,0.8961
+food fantastic,0.8733
+always nice,0.8674
+clean,0.8609
+cheese steak,0.856
+coffee apple,0.8545
+curtious,0.8463
+really,0.8458
+great breakfast,0.8316
+mo best,0.8193
+home,0.8158
+cafe,0.8148
+alnpaso food,0.805
+away home,0.8029
+bagel toasted,0.8023
+fantastic staff,0.8015
+best served,0.7966
+great doughnut,0.7906
+cruller die,0.7851
+space quality,0.7823
+good morning,0.7803
+glazed donut,0.7666
+sweet tasty,0.7652
+takeout dine,0.7618
+kitchen,0.7549
+doughnuts,0.7509
+comfort food,0.74
+otherwise delicious,0.7397
+effective chicken,0.7375
+nice variety,0.7375
+rude,0.733
+donut try,0.7324
+welcomed smile,0.7311
+great use,0.7289
+apple fritter,0.7263
+racist urine,0.726
+fresh,0.7129
+great comfort,0.7116
+fresh around,0.7083
+wide variety,0.7016
+sandwich staff,0.6997
+tasty,0.6991
+chicken cutlet,0.6984
+plus welcomed,0.6888
+excellent breakfast,0.6864
+option great,0.6819
+try cruller,0.6814
+poisoned food,0.6791
+away,0.6697
+die,0.6671
+breakfast happy,0.6653
+doughnut well,0.6652
+morning hangout,0.6631
+coffee anyone,0.663
+apple,0.6601
+american breakfast,0.6596
+quick good,0.6581
+delicious,0.6524
+steak,0.6511
+dine,0.6496
+dine otherwise,0.6488
+good service,0.648
+variety option,0.6477
+bacon omelette,0.6454
+rude racist,0.6447
+food kind,0.6423
+friendly morning,0.6388
+food poisoning,0.6349
+breakfast san,0.6348
+staff rude,0.6337
+never pas,0.6319
+mocha bacon,0.628
+donut disappointed,0.6263
+love bacon,0.6261
+expected,0.6225
+food delicious,0.6209
+lover breakfast,0.6174
+awesome place,0.6172
+cutlet curry,0.6157
+breakfast lover,0.6145
+food burger,0.6132
+avocado sandwich,0.6128
+love,0.6105
+philly cheese,0.6104
+getting burger,0.6062
+great price,0.6053
+burger fry,0.6039
+employee handle,0.6037
+great cafe,0.6036
+comfort,0.6004
+clean donut,0.5969
+still awesome,0.5917
+quick bite,0.5857
+actually poisoned,0.5853
+guilty eating,0.576
+awesome loco,0.5746
+kind sweet,0.5743
+place wish,0.5739
+hotel coffee,0.5702
+keto breakfast,0.5678
+chicken,0.5672
+racist,0.5666
+never,0.5663
+place employee,0.566
+dirty staff,0.5614
+eating turkey,0.5608
+doughnut lunch,0.5574
+lunch time,0.5568
+place breakfast,0.5545
+service food,0.5535
+urban pharm,0.5525
+turkey melt,0.5521
+cheese sandwich,0.5514
+sandwich avocado,0.5513
+working best,0.5501
+variety,0.5492
+careful donut,0.5485
+doughnut,0.5484
+fry lunch,0.5467
+turkey avocado,0.5464
+lunch,0.5451
+employee,0.5441
+breakfast eating,0.5433
+donut tempt,0.5385
+area shop,0.5369
+cheddar cheese,0.5358
+bomb food,0.533
+cafe great,0.5291
+bacon egg,0.5272
+food terrible,0.5251
+poisoning place,0.523
+pharm closed,0.5218
+bacon,0.5204
+friendly food,0.5202
+best american,0.5181
+great service,0.5172
+poisoned,0.517
+coffee service,0.5133
+donut flawless,0.513
+pastry always,0.5116
+grilled mushroom,0.5114
+til urban,0.5068
+get donut,0.5023
+food make,0.4996
+curry recommendation,0.4985
+mo,0.4957
+even slow,0.4955
+san francisco,0.4846
+slow one,0.4799
+white cheddar,0.4797
+lunch sandwich,0.4765
+egg cheese,0.4759
+owner sweet,0.4712
+new glazed,0.4638
+cheese grilled,0.4586
+top favorite,0.4546
+donuts friday,0.4543
+favorite place,0.4526
+fantastic,0.4434
+food quite,0.4426
+worker,0.4394
+tasty always,0.4392
+clean bob,0.4366
+business worst,0.4342
+rude disrespectful,0.431
+fresh tasty,0.4303
+quite pricey,0.4291
+eat downtown,0.4279
+wish open,0.4258
+frequent cafe,0.4252
+sandwich served,0.4212
+people sleeping,0.4209
+sandwich french,0.4203
+garlic aioli,0.419
+best great,0.4185
+coffee sandwich,0.4175
+open til,0.4175
+satisfied eating,0.4145
+breakfast lunch,0.414
+sleeping inside,0.4137
+pricey,0.4125
+donut coffee,0.3972
+turkey egg,0.3934
+bob best,0.3927
+hot delicious,0.3901
+customer,0.3897
+worst experience,0.3891
+best cook,0.3741
+large coffee,0.3696
+croissant tasted,0.3583
+pregnant gagged,0.3559
+walked homeless,0.3519
+delicious every,0.3515
+cheese croissant,0.3457
+sleeping,0.3428
+stop eat,0.3334
+donut large,0.3258
+awesome polite,0.3201
+sandwich rice,0.3195
+great donut,0.3101
+changing menu,0.2987
+gagged every,0.2808
+due pregnant,0.2434
+complete suck,0.2412
+suck due,0.1793
+great,0.1767

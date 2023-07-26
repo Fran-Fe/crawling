@@ -1,332 +1,567 @@
 keyword,weight
-starbucks,26.0937
-coffee,14.7318
-good,12.5286
-staff,6.7767
-place,6.2536000000000005
-friendly,5.8001000000000005
-restrooms,5.5397
-great,4.4378
-busy,4.133
-restroom,4.0658
-service,3.982
-nice,3.686
-bathroom,3.4436
-clean,3.0667999999999997
-excellent,2.6509
-location,2.3986
-crowded,2.3864
-convenient,1.8468
-dirty,1.7075
-work,1.51
-rude,1.4851
-perfect,1.4576
-slowest,1.4396
-atmosphere,1.4216
-spacious,1.3822
-lovely,1.33
-fast,1.287
-snacks,1.2404000000000002
-need,1.2113
-love,1.1913
-long,1.177
-slow,1.1425
-consistently,1.1312
-wifi,1.1168
-employees,1.0668
-morning,1.0568
-unfortunately,1.0483
-tasty,1.048
-quick,1.0175999999999998
-racism,1.0
+starbucks,29.4094
+coffee,13.2531
+restroom,9.9837
+good,8.8269
+bathroom,4.9498999999999995
+good coffee,4.686
+friendly staff,4.5571
+place,4.5397
+nice starbucks,3.3355
+staff,3.2182
+friendly,2.976
+great,2.754
+busy,2.4311000000000003
+excellent,2.2595
+always,2.1654
+convenient,1.8956
+restrooms,1.8813
+good place,1.8759000000000001
+crowded,1.8549
+great starbucks,1.8355000000000001
+spacious starbucks,1.7691
+good starbucks,1.7490999999999999
+lovely place,1.7141
+starbucks restroom,1.6907
+slowest,1.6897000000000002
+service,1.6569
+starbucks coffee,1.6383
+regular starbucks,1.6192
+unfortunately restroom,1.597
+coffee boost,1.5627
+lovely,1.5418
+atmosphere,1.5223
+coffee always,1.5173
+perfect,1.5136
+busy starbucks,1.4815
+helpful staff,1.4470999999999998
+coffee shop,1.4416
+page http,1.4348
+location,1.4322
+service good,1.3998
+clean,1.37
+review appreciate,1.3648
+nice,1.344
+else,1.3382
+dirty,1.323
+thanks taking,1.3006
+standard starbucks,1.2985
+order,1.2931
+friendly helpful,1.2894
+good wifi,1.258
+chocolate,1.2526
+star,1.2442000000000002
+hello thanks,1.2344
+everywhere,1.2213
+need,1.2118
+thanks,1.1898
+starbucks top,1.1893
+appreciate look,1.174
+drink wrong,1.1621000000000001
+feedback thank,1.1142
+never,1.1086
+public restroom,1.0994
+baristas,1.0634000000000001
+grateful shared,1.0622
+clerk kind,1.0182
+great staff,1.0
+excellent location,1.0
+nice place,1.0
+everywhere else,1.0
+perfect need,1.0
+perfect restroom,1.0
 approx,1.0
-hot,0.9782
-comfortable,0.9709
-inside,0.9630000000000001
+well coffee,1.0
+racism,1.0
+convenient work,1.0
+restroom service,1.0
+starbucks starbucks,1.0
+pleasant atmosphere,1.0
+another starbucks,1.0
+caf starbucks,1.0
+crowded central,1.0
+get coffee,0.9954999999999999
+comfortable place,0.9855
+quite comfortable,0.9852
+nice spacious,0.9756
+mm coffee,0.9692
+comfortable,0.966
+lousy starbucks,0.9596
+great place,0.9547
 pleasant,0.9526
-store,0.9306
-chocolate,0.9178
-appreciate,0.9034
-star,0.8992
-plenty,0.8925000000000001
-thanks,0.8854
-helpful,0.8757
-relaxed,0.8708
-grateful,0.8664
-noisy,0.8649
-hangout,0.861
-warm,0.854
-cozy,0.8449
-mediocre,0.8425
-baristas,0.838
-thank,0.8378
-inviting,0.8075
-free,0.7979
-quite,0.7896
-coffe,0.7824
-wait,0.7755
-orders,0.7667999999999999
-efficient,0.7649
-milk,0.7618
-predictable,0.7486
-boost,0.7183999999999999
-café,0.7127
-central,0.7013
-patio,0.6957
-levi,0.6879
-away,0.6832
-park,0.6774
-pitiful,0.651
-mocking,0.6464
-kind,0.6360999999999999
-order,0.6319
-home,0.6254
-distracted,0.6187
-expresso,0.6174
-building,0.6146
-toilet,0.6136
-review,0.6128
-break,0.6081
+excellent staff,0.9525
+free sampling,0.951
+fast efficient,0.9468
+favorite starbucks,0.9438
+restrooms levi,0.9427
+add bathroom,0.9423
+healthy snack,0.9392
+excellent service,0.9375
+starbucks beautiful,0.9346
+starbucks accompanies,0.9263
+good treatment,0.9257
+warm inviting,0.9243
+coffee latte,0.9185
+lid full,0.9135
+good warm,0.9122
+noisy busy,0.9111
+staff pleasnt,0.9053
+away home,0.901
+starbucks bathroom,0.8994
+great take,0.8994
+hello grateful,0.8934
+bathroom mabye,0.8837
+nice coffee,0.8837
+normal starbucks,0.8829
+basic starbucks,0.8805
+busy dirty,0.8784
+starbucks everywhere,0.8744
+place hangout,0.8742
+starbucks know,0.8738
+warm,0.8685
+cozy free,0.8667
+grateful,0.864
+tasty coffee,0.8633
+take coffe,0.863
+rest room,0.8548
+noisy,0.8509
+white girl,0.8506
+coffe,0.8504
+cup lid,0.8485
+eat inside,0.8478
+star rest,0.847
+hangout,0.8465
+tea latte,0.8459
+mocking employee,0.8447
+efficient,0.8429
+dirty rude,0.8418
+starbucks friendly,0.8387
+care starbucks,0.8316
+plenty seating,0.8312
+consistently mediocre,0.8269
+service friendly,0.8268
+coffee hot,0.8265
+always busy,0.8221
+impersonal fast,0.8207
+typical starbucks,0.8205
+inviting predictable,0.8179
+starbucks close,0.8129
+need starbucks,0.8098
+starbucks none,0.8066
+need coffee,0.8058
+excellent coffee,0.8024
+unfortunately,0.8003
+never disappointed,0.7996
+buckd coffee,0.7992
+laptop nice,0.7976
+restroom though,0.7969
+central,0.7964
+free,0.7959
+clean facility,0.7954
+relaxed atmosphere,0.7952
+bathroom electrical,0.7942
+inviting,0.794
+super clean,0.7931
+staff distracted,0.7928
+never cleaned,0.7921
+place away,0.7915
+every day,0.7913
+starbucks clean,0.7906
+pleasnt order,0.7894
+star deduction,0.7884
+deduction toilet,0.788
+roast weekend,0.7864
+mediocre service,0.785
+use bathroom,0.7846
+place restroom,0.7841
+starbucks good,0.7834
+service restroom,0.7822
+many white,0.7806
+slowest sb,0.7774
+seating patio,0.7771
+fast,0.7766
+starbucks business,0.7745
+place location,0.77
+kind impersonal,0.7692
+away,0.7692
+mediocre,0.769
+cup,0.7689
+relaxed,0.7681
+quality starbucks,0.7654
+full,0.7643
+home,0.7638
+taking order,0.7607
+work,0.7579
+great location,0.7552
+busy location,0.7539
+busy store,0.7529
+starbucks support,0.7499
+crowded inconvinient,0.748
+slowest service,0.7478
+tables never,0.7469
+toilet,0.7469
+quite,0.7469
+friendly baristas,0.7469
+coffee cold,0.7436
+helpful,0.7421
+staff bathroom,0.7412
+starbucks variety,0.741
+plenty seat,0.7367
+lid,0.7361
+dirty tables,0.7323
+break coit,0.7317
+service mocking,0.7302
+dark roast,0.7292
+speak english,0.7287
+coit tower,0.7277
+really slow,0.7276
+expresso always,0.7276
+good staff,0.7252
+bathroom reserved,0.7239
+bathroom inside,0.7234
+coffee tea,0.7213
+one slowest,0.7209
+sort place,0.7198
+take,0.7195
+option healthy,0.7192
+starbucks able,0.7182
+love much,0.7123
+starbucks actually,0.7093
+pitiful service,0.7091
+recommended eat,0.7088
+local coffee,0.7071
+employee error,0.7071
+reserved employee,0.7068
+snack,0.7068
+crazy busy,0.7065
+outlet sucks,0.7061
+english well,0.7054
+staff rude,0.705
+fabulous coffee,0.704
+well starbucks,0.6992
+coming every,0.6978
+slow,0.6973
+rest,0.697
+roomy unlike,0.6957
+chill monday,0.6926
+location plenty,0.6912
+wireless recharge,0.6902
+white chocolate,0.6897
+always need,0.6885
+place break,0.6875
+slowest store,0.6873
+walking sad,0.6866
+coffee chicken,0.6802
+starbucks beverage,0.6802
+clean well,0.6796
+coffee regular,0.6786
+starbucks service,0.6773
+good customer,0.6769
+cozy,0.6758
+going starbucks,0.6757
+levi building,0.6741
+break,0.6732
+order starbucks,0.6719
+inside,0.6703
+pleasnt,0.6695
+sweating walking,0.6693
+patio,0.6687
+love option,0.6679
+tea small,0.6671
+baristas good,0.6624
+large starbucks,0.662
+always plenty,0.6609
+cool location,0.6606
+staff service,0.6563
+mobile online,0.6514
+tower,0.6503
+starbucks experience,0.6483
+starbucks pretty,0.6474
+eat,0.647
+coffee could,0.6462
+serve coffee,0.6458
+english,0.6458
+white,0.6457
+nice clean,0.6431
+love,0.642
+space coffee,0.6411
+friendly relaxing,0.641
+person taking,0.6378
+quiet saturday,0.637
+mocking,0.6366
+restroom found,0.636
+know going,0.6351
+healthy,0.634
+spacious recommended,0.6332
+tea,0.6321
+coffee sit,0.63
+one person,0.6297
+starbucks use,0.6286
+done starbucks,0.6277
+service great,0.627
+distracted something,0.6269
+well organized,0.6266
+starbucks around,0.6263
+store patience,0.6258
+building,0.6258
+add,0.6253
+long,0.6249
+even mobile,0.6238
+caf,0.6235
+recharge table,0.6232
+useful work,0.623
+inconvinient,0.6191
+staff friendly,0.6188
+work laptop,0.6184
+sit park,0.6183
+busy work,0.6183
+starbucks near,0.6176
+slow charge,0.6158
+weird felt,0.6146
+really lousy,0.6145
+distracted,0.6142
+roomy,0.614
+mabye,0.6136
+could better,0.6121
+mmmm mm,0.6115
+age baristas,0.6109
+rude people,0.6104
+starbucks wonderful,0.6101
+atmosphere weird,0.6093
+monday min,0.6084
 lousy,0.6079
-pleasnt,0.6058
-latte,0.6049
-healthy,0.6028
-regular,0.6005
-tea,0.5992
-favorite,0.597
-required,0.5949
-standard,0.5943
-add,0.5923
-mmmm,0.585
-monday,0.5846
-street,0.5818
-weekend,0.5784
-patience,0.5773
-white,0.5752
-seating,0.5661
-sucks,0.5634
-mm,0.5601
-mabye,0.5558
-sampling,0.5534
-teas,0.5498
-eat,0.5413
-roomy,0.5388
-impersonal,0.5381
-girls,0.5371
-taking,0.5334
-cool,0.5299
-weird,0.5228
-30,0.5211
-feedback,0.5096
-mobile,0.5084
-odd,0.5081
-interested,0.5032
-treatment,0.5021
-share,0.5016
-doesn,0.487
-inconvinient,0.4838
-touch,0.4836
-error,0.4784
-cold,0.4774
-coit,0.4766
-roast,0.4757
-accommodating,0.475
-sort,0.4741
-sweating,0.4672
-wrong,0.4634
-relaxing,0.4628
-10,0.4582
-coffees,0.4557
-day,0.4527
-tables,0.4496
-laptop,0.4481
-useful,0.444
-recommended,0.4426
-tower,0.438
-super,0.4368
-recharge,0.4357
-better,0.4327
-ignored,0.4297
-drinks,0.4269
-customer,0.4265
-rest,0.424
-room,0.4213
-reserved,0.4205
-coming,0.4166
-say,0.4107
-organized,0.4014
-online,0.3936
-friendley,0.3881
-socially,0.3865
-foreigner,0.3818
-crazy,0.3801
-fabulous,0.3781
-hour,0.3778
-spot,0.377
-shop,0.3769
-drink,0.374
-students,0.3716
-cups,0.37079999999999996
-wireless,0.3666
-pandemic,0.3646
-moving,0.3585
-beautiful,0.3545
-just,0.3529
-eye,0.3527
-cleaned,0.3513
-sf,0.3485
-electrical,0.3482
-cute,0.3473
-lukewarm,0.347
-know,0.3436
-sugar,0.3416
-price,0.3372
-diabetes,0.3357
-washroom,0.333
-10am,0.3326
-clerk,0.3274
-going,0.3269
-option,0.3197
-command,0.3181
-really,0.3165
-manager,0.31420000000000003
-sit,0.3136
-saturday,0.3126
-space,0.3123
-safety,0.3
-cashier,0.2993
-plaza,0.2974
-business,0.287
-sad,0.2864
-bathrooms,0.2856
-allowed,0.2824
-table,0.2823
-buckd,0.2816
-food,0.2804
-busier,0.2746
-lobby,0.2743
-wayyyyy,0.2706
-decent,0.2665
-person,0.2659
-lid,0.2657
-disappointed,0.2652
-assistance,0.265
-seats,0.2645
-homeless,0.2618
-liked,0.2611
-outlets,0.2576
-variety,0.2564
-poor,0.2549
-ages,0.2544
-public,0.2539
-chill,0.2534
-taste,0.2525
-deduction,0.2513
-moldy,0.2511
-telegraph,0.2494
-cappuccino,0.2465
-basic,0.2419
-menu,0.2388
-quiet,0.2367
-customers,0.2328
-normal,0.2276
-meeting,0.2274
-fantastic,0.2269
-team,0.226
-wonderful,0.2253
-typical,0.2246
-polite,0.2228
-holiday,0.2195
-dark,0.2194
-lacks,0.2184
-world,0.2171
-hike,0.2144
-cakes,0.2133
-sharing,0.2092
-unless,0.2078
-office,0.2071
-english,0.1991
-contact,0.1972
-dismissive,0.1964
-don,0.1949
-ice,0.1939
-closing,0.1934
-decoration,0.1921
-uplifting,0.1915
-afternoon,0.181
-leave,0.1793
-brewing,0.1752
-chicken,0.1742
-little,0.1734
-annoying,0.173
-hult,0.1688
-sundays,0.1566
-pretty,0.1529
-perfectly,0.1519
-breathtaking,0.1483
-mop,0.1449
-accompanies,0.1363
-sb,0.1332
-comments,0.1323
-cubes,0.1314
-juice,0.1288
-businesses,0.1272
-friendliest,0.1251
-incorrectly,0.1197
-nasty,0.1164
-flavor,0.1149
-outside,0.1148
-soy,0.1124
-garbage,0.1119
-croissants,0.11
-apple,0.1067
-alcatraz,0.104
-terrible,0.0972
-lady,0.0964
-minutes,0.0962
-bus,0.0922
-gorgeous,0.0921
-smile,0.0849
-guest,0.0824
-messed,0.0788
-speak,0.0772
-sip,0.0771
-experienced,0.0721
-sidewalk,0.0686
-nearby,0.0681
-half,0.0673
-close,0.0663
-americano,0.0653
-care,0.0623
-pouches,0.0603
-welcoming,0.0576
-worth,0.0569
-best,0.0506
-horrible,0.0449
-delicious,0.0437
-watery,0.0424
-late,0.0384
-99,0.0371
-picking,0.0333
-cordial,0.0325
-personality,0.0281
-minus,0.0253
-wandering,0.024
-supervisor,0.0175
-costumers,0.0118
-courteous,0.0096
-charging,0.0047
-pink,-0.0001
-dining,-0.0003
-queue,-0.0094
-100,-0.0147
-passable,-0.0222
-ambience,-0.0337
-point,-0.0339
-speedy,-0.0344
-homey,-0.0385
-instantly,-0.0387
-accident,-0.0477
-able,-0.0482
-growled,-0.0581
-iced,-0.1041
+sucks,0.6071
+may required,0.6057
+room,0.6053
+tasty,0.605
+good price,0.6016
+gave coffee,0.6012
+always clean,0.6006
+morning,0.6001
+weekend,0.5999
+garbage starbucks,0.5975
+clean friendly,0.597
+cold drink,0.5948
+long wait,0.5929
+inconvinient unless,0.5913
+hot chocolate,0.5911
+drip coffee,0.5907
+everyone smile,0.5896
+online order,0.5894
+like morning,0.5855
+sad,0.5849
+super rude,0.5846
+starbucks claim,0.5837
+electrical outlet,0.5837
+sweating,0.5831
+morning since,0.5823
+tell starbucks,0.5821
+every,0.5818
+always crowded,0.5788
+chocolate milk,0.5762
+go starbucks,0.5761
+organized socially,0.576
+beautiful decoration,0.5705
+required,0.57
+sampling,0.5697
+coffee standard,0.5689
+better,0.5686
+great slow,0.5684
+roast,0.5661
+else say,0.5653
+starbucks world,0.5651
+levi,0.5649
+starbucks ambience,0.5644
+wait even,0.5629
+since busy,0.5628
+starbucks bit,0.5622
+hult student,0.5608
+boost long,0.5605
+expect starbucks,0.5595
+girl,0.5586
+going get,0.5577
+crowded need,0.5543
+baristas really,0.5535
+friendly accommodating,0.5532
+starbucks standard,0.5526
+monday,0.551
+uplifting personality,0.5506
+bottom telegraph,0.5504
+rude every,0.55
+employee never,0.5498
+know,0.5497
+plenty,0.5484
+customer service,0.5476
+experienced starbucks,0.5472
+rude dismissive,0.5454
+saturday good,0.5452
+nothing interesting,0.5451
+sundays hike,0.5445
+well,0.5444
+latte,0.544
+hot staff,0.5433
+mmmm,0.5423
+everywhere comment,0.541
+closing mlk,0.5405
+recharge,0.5366
+service starbucks,0.536
+rude made,0.5354
+make starbucks,0.534
+green tea,0.5308
+staff wonderful,0.5298
+always nasty,0.5295
+great customer,0.5287
+people morning,0.5272
+nasty table,0.5235
+min closing,0.522
+even restroom,0.5219
+decent store,0.5214
+lobby attendant,0.5165
+consistently,0.5156
+grab coffee,0.5155
+starbucks arrive,0.5126
+mm,0.5126
+bathroom nice,0.5112
+starbucks long,0.5112
+friendliest staff,0.5108
+service cute,0.5092
+however restroom,0.5089
+deduction,0.5056
+diabetes cup,0.5037
+way clerk,0.5028
+appreciate sharing,0.5027
+everyone space,0.4969
+food nice,0.4964
+time meeting,0.4963
+say good,0.4947
+turnover annoying,0.4932
+coffee like,0.493
+leave order,0.4926
+variety food,0.4916
+hour,0.491
+wayyyyy many,0.4905
+else coffee,0.4899
+cappuccino hot,0.4884
+lack washroom,0.4861
+replacement sugar,0.4857
+long fast,0.4854
+hour get,0.4851
+rude,0.4827
+disappointed coffee,0.4824
+slow service,0.4786
+open sundays,0.4782
+chocolate given,0.4737
+morning take,0.4735
+tasty wifi,0.4713
+allowed everyone,0.4623
+cold,0.4615
+positive uplifting,0.46
+functioning starbucks,0.4591
+regular menu,0.4576
+gave cashier,0.4571
+customer,0.4569
+another,0.4567
+drink milk,0.4566
+mean rude,0.4559
+clean busy,0.4554
+got ignored,0.4553
+soy milk,0.4538
+student,0.4518
+milk extra,0.4504
+milk cordial,0.4495
+alcatraz best,0.4443
+starbucks location,0.4439
+hot,0.4415
+friendley staff,0.4398
+staff odd,0.4363
+bathroom saying,0.4359
+outside coffee,0.4351
+sugar second,0.435
+actually lobby,0.4339
+coffee waiting,0.4338
+afternoon empty,0.4324
+dose diabetes,0.4322
+back starbucks,0.4307
+ignored,0.4302
+white mocha,0.427
+beautiful,0.4268
+homeless,0.4267
+order nasty,0.4255
+use restroom,0.4252
+iced tea,0.4229
+cashier,0.4203
+accompanies hult,0.4201
+washroom,0.4186
+never use,0.4184
+rest ice,0.4175
+busier employee,0.4174
+literally nothing,0.4171
+place dark,0.4158
+restroom minus,0.4135
+assistance team,0.4131
+team please,0.4121
+favorite,0.4103
+http sbux,0.4095
+brownie cake,0.4086
+bathroom customer,0.4062
+levi plaza,0.4055
+empty store,0.4052
+incredibly slow,0.405
+ice cube,0.4035
+closest coffee,0.4033
+brew terrible,0.4032
+store great,0.4021
+tea apple,0.4002
+way starbucks,0.3996
+work taste,0.3972
+terrible operationally,0.3952
+mean employee,0.3944
+uplifting,0.3938
+cake also,0.3923
+paid cold,0.3906
+friendly family,0.3885
+homeless people,0.3813
+cold brew,0.3811
+need eat,0.3802
+poor quality,0.38
+staff gets,0.379
+time bathroom,0.3761
+great food,0.3723
+regular,0.369
+monday typically,0.3658
+apple juice,0.361
+pouch sugar,0.3578
+picking ice,0.3555
+staff correct,0.3553
+wireless charging,0.3511
+star buckd,0.3487
+six croissants,0.3477
+park nearby,0.3432
+basic,0.341
+passion tea,0.3394
+disappointed,0.3381
+cube drink,0.3323
+taste usually,0.3265
+coffee lines,0.3251
+shes manager,0.3245
+sugar ask,0.3221
+sugar crystal,0.32
+favorite location,0.3151
+hey starbucks,0.3141
+good drink,0.3127
+welcoming friendly,0.3119
+levi office,0.3065
+mocha good,0.3034
+great personality,0.302
+watery americano,0.3013
+one really,0.3009
+tall latte,0.2979
+store accident,0.29
+different flavor,0.2795
+fine staff,0.2712
+cup beverage,0.2618
+sf,0.2613
+drink ordered,0.2439
+speedy delicious,0.2317
+wonderful worker,0.2195
+ever experienced,0.1701

@@ -1,99 +1,142 @@
 keyword,weight
-friendly,3.1002
-coffee,2.4
-delicious,2.0868
-cafe,1.8538
-food,1.3054000000000001
-sandwiches,1.1249
-chicken,1.0891
-good,1.0438
-lunch,0.9827
-tasty,0.9589
-latte,0.9424999999999999
-great,0.9242
-ethiopian,0.8845
-thank,0.8228
-service,0.8133
-bagels,0.772
-appreciate,0.7394
+friendly,1.7557999999999998
+planet cafe,1.4803
+chicken pesto,1.4415
+friendly service,1.3191000000000002
+coffee good,1.3014000000000001
+chicken,1.2328
+cafe,1.1627
+friendly staff,1.0619999999999998
+great bagel,1.0
+appreciate feedback,0.9461
+thank appreciate,0.9302
+food coffee,0.9212
+thank,0.8903
+food delicious,0.8652
+delicious lunch,0.8459
+appreciate,0.8395
+savory chicken,0.8382
+highly recommend,0.8252
+tasty coffee,0.8103
+bagel,0.8028
+good coffee,0.8019
+salad tasty,0.8014
+feedback,0.7947
+super friendly,0.7889
+friendly food,0.7703
+bread cheap,0.7701
+cafe friendly,0.7677
+junior awesome,0.7569
 planet,0.7297
-nutella,0.7253000000000001
-cheap,0.7074
-feedback,0.6771
-bread,0.6589
-wonderful,0.6567000000000001
-salads,0.6476999999999999
-turkey,0.6438
-cheese,0.591
-outstanding,0.5604
-bomb,0.5313
-love,0.5253
-google,0.5185
-plate,0.4985
-excellent,0.4809
-smoothies,0.4622
-nice,0.4535
-bad,0.4533
-junior,0.4497
-salad,0.4476
-awesome,0.4297
-raise,0.4239
-fast,0.4056
-loveliest,0.4045
-cappuccino,0.4036
-savory,0.4
-avocado,0.3923
-bacon,0.3711
-fr,0.3699
-tasted,0.3693
-menu,0.361
-pesto,0.359
-vegetarian,0.3475
-banana,0.3334
-kind,0.3284
-fav,0.3244
-crepes,0.3212
-hospitable,0.3141
-pork,0.2968
-highly,0.2966
-best,0.2955
-comfortable,0.2954
-snack,0.2923
-beverages,0.2869
-super,0.2771
-hours,0.2745
-small,0.2643
-groceries,0.2601
-eat,0.2563
-eats,0.2562
-staff,0.2553
-snacks,0.2524
-crepe,0.251
-recommend,0.2505
-pastries,0.25
-soups,0.248
-sandwich,0.2391
-enthusiastic,0.2329
-plain,0.2317
-creamy,0.2294
-fw,0.2281
-tea,0.225
-curry,0.2236
-pickled,0.2151
-home,0.2106
-melbourne,0.2089
-casual,0.2004
-easy,0.1747
-pretty,0.1686
-eggplant,0.1673
-loved,0.1671
-fresh,0.1638
-vibe,0.162
-posted,0.1395
-milk,0.1353
-croissant,0.1309
-shop,0.1246
-rich,0.115
-helpful,0.0835
-open,-0.0028
-francisco,-0.0701
+food great,0.7206
+ethiopian plate,0.7203
+service highly,0.7202
+google posted,0.7049
+staff delicious,0.7044
+outstanding friendly,0.7003
+plate outstanding,0.6968
+staff friendly,0.6936
+turkey sandwich,0.6924
+bad vibe,0.6824
+cheese avocado,0.6811
+service good,0.6752
+fast service,0.6738
+good chai,0.6682
+cappuccino tasted,0.6646
+croissant sandwich,0.6638
+nutella banana,0.6553
+coffee delicious,0.6552
+plain turkey,0.655
+food tasty,0.6529
+ethiopian,0.6506
+good eat,0.65
+hour posted,0.6494
+owner delicious,0.647
+friendly fast,0.6435
+posted hour,0.6408
+excellent customer,0.6377
+ethiopian food,0.6342
+awesome lol,0.6331
+delicious,0.6324
+open google,0.6317
+wonderful ethiopian,0.6308
+beverage friendly,0.6306
+bacon cheese,0.6279
+easy ordering,0.6266
+tiny cafe,0.6254
+tasty vegetarian,0.6218
+turkey,0.6184
+latte smooth,0.6145
+lunch option,0.6077
+fav nutella,0.6068
+google,0.6067
+variety bread,0.6054
+great,0.602
+turkey one,0.6019
+banana crepe,0.5986
+delicious crepe,0.5979
+bread many,0.5958
+raise fr,0.5939
+menu snack,0.5931
+junior,0.593
+pretty bad,0.5866
+amazing coffee,0.5859
+eat bread,0.5857
+fresh turkey,0.5829
+bomb nice,0.5818
+egg bacon,0.5793
+eat sandwich,0.5786
+tasty cheap,0.5776
+turkey salad,0.5733
+sandwich definitely,0.5687
+avocado croissant,0.5685
+cheese sandwich,0.5654
+give raise,0.5647
+nutella plain,0.5633
+bad,0.5542
+crepe bomb,0.5443
+fresh bread,0.5438
+coffee,0.5369
+coffee return,0.5361
+cheese salami,0.5348
+tried nutella,0.5337
+crepe delicious,0.5333
+sandwich grilled,0.5258
+soup sandwich,0.5221
+cafe great,0.5183
+great food,0.516
+pork good,0.5146
+melbourne friendly,0.511
+snack display,0.5106
+smooth creamy,0.5072
+grocery curry,0.5043
+coffee eats,0.4972
+cappuccino,0.493
+wonderful service,0.4875
+grilled cheese,0.4868
+salad soup,0.4865
+sandwich,0.4834
+bomb,0.4786
+smoothy excellent,0.4753
+chai latte,0.4693
+amazing turkey,0.4668
+coffee love,0.4664
+staff nice,0.4605
+great lunch,0.4548
+best chai,0.4546
+sandwich typical,0.4538
+unreal coffee,0.4533
+seating small,0.4526
+service best,0.4377
+crepe salad,0.4319
+pork free,0.4304
+coffee flavor,0.4225
+savory,0.4166
+great munchies,0.3883
+milk tea,0.3554
+abundance snack,0.3496
+chain grocery,0.3382
+product abundance,0.3255
+lunch special,0.3197
+samosa pickled,0.3036
+boba milk,0.2928

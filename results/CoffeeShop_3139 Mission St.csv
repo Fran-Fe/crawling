@@ -1,187 +1,349 @@
 keyword,weight
-coffee,24.906
-pastries,9.8384
-croissants,2.6875
-great,2.64
-best,2.5093
-good,2.4761
-excellent,1.8079
-delicious,1.7252999999999998
-breakfast,1.6663000000000001
-chocolate,1.6659
-croissant,1.6183
-friendly,1.538
-love,1.4653
-nice,1.4544000000000001
-latte,1.3238
-iced,1.3061
-cafe,1.2843
-cookies,1.2832
-matcha,1.2259
-pastry,1.2042
-amazing,1.1246
-thai,1.0713
-cappuccino,0.9856
-lattes,0.9384
-cute,0.9162
-town,0.8911
-cheese,0.8492
-barista,0.8467
-highly,0.843
-coffeeshop,0.8273
-shop,0.8240999999999999
-vanilla,0.8195
-chocolat,0.8089999999999999
-greatest,0.8032
-neighborhood,0.7796000000000001
-nicest,0.7286
-buttery,0.7224
-place,0.7171
-awesome,0.6846
-house,0.6814
-wifi,0.6439
-like,0.6306
-phenomenal,0.6185
-hazelnut,0.587
-baked,0.585
-fresh,0.5749
-folks,0.5542
-espresso,0.5445
-store,0.5368
-milk,0.5314000000000001
-savory,0.5289999999999999
-work,0.5242
-bread,0.5241
-wonderful,0.5183
-taste,0.5167999999999999
-owner,0.5155000000000001
-beans,0.4963
-quality,0.4937
-favorite,0.49219999999999997
-roasts,0.4826
-drink,0.4818
-spicy,0.4699
-perfect,0.4503
-ice,0.4409
-oven,0.4397
-roast,0.4289
-mask,0.4122
-cream,0.3987
-ordered,0.3907
-flavorful,0.378
-spot,0.3775
-library,0.3694
-ok,0.3615
-homemade,0.3597
-tables,0.35609999999999997
-dining,0.3419
-recommend,0.335
-seats,0.3338
-vibe,0.3296
-francisco,0.3199
-ambiance,0.3143
-muffins,0.3124
-roasted,0.3116
-lovely,0.3085
-wife,0.3084
-vibes,0.307
-sublime,0.3057
-pumpkin,0.2998
-baker,0.2957
-homeless,0.2953
-vegan,0.2921
-cookie,0.2917
-morning,0.29100000000000004
-tea,0.2906
-just,0.288
-high,0.2844
-roasting,0.2823
-flavorless,0.2758
-pudding,0.2746
-syrup,0.2743
-bakery,0.269
-ve,0.2678
-perfection,0.2632
-worn,0.2566
-chin,0.255
-snack,0.2536
-saturday,0.2531
-outside,0.252
-crafted,0.2498
-light,0.2462
-bakeries,0.2435
-coffees,0.2404
-tastes,0.2269
-businesses,0.2247
-sunlight,0.2176
-bake,0.2171
-baking,0.2161
-simple,0.2161
-insane,0.2151
-cozy,0.2139
-tasty,0.2124
-counter,0.2052
-beautiful,0.1968
-flavor,0.1923
-cappuccinos,0.1906
-hot,0.1855
-point,0.1836
-table,0.1762
-sun,0.1761
-afternoon,0.1742
-super,0.1643
-restroom,0.1634
-dreamy,0.163
-fav,0.1602
-city,0.1596
-ham,0.1579
-roommate,0.1539
-french,0.1495
-welcoming,0.1481
-almond,0.1388
-brew,0.1323
-earth,0.131
-favorites,0.1298
-rich,0.1292
-xmas,0.1149
-10,0.1141
-self,0.1138
-happy,0.1111
-sipping,0.1007
-refreshments,0.0982
-chat,0.0972
-served,0.0934
-cafes,0.0851
-warm,0.0846
-luxurious,0.0826
-pump,0.0806
-airplane,0.0802
-san,0.0751
-adorable,0.0749
-exam,0.0716
-muffin,0.0713
-café,0.0678
-butter,0.0649
-ambience,0.0634
-seating,0.0631
-decadent,0.0568
-stellar,0.0516
-deliciousness,0.0455
-parisian,0.0337
-eve,0.0265
-kindness,0.023
-creamy,0.0222
-blue,0.0085
-drip,0.0009
-cup,-0.0027
-sad,-0.0043
-talented,-0.008
-retailers,-0.008
-business,-0.0099
-better,-0.0147
-old,-0.0182
-pop,-0.0194
-50,-0.0267
-customer,-0.04
-menu,-0.047
-goodies,-0.0484
+coffee,15.3324
+great coffee,6.481
+pastry,6.0136
+best coffee,4.5283999999999995
+coffee pastry,3.9783999999999997
+good coffee,3.6999
+excellent coffee,2.3233
+coffee amazing,2.1897
+thai breakfast,2.1668000000000003
+coffee good,2.0844
+delicious coffee,1.8628
+pastry coffee,1.6668
+matcha latte,1.6365
+great pastry,1.6272
+highly recommend,1.608
+coffee shop,1.5841
+iced coffee,1.5614
+excellent pastry,1.521
+delicious pastry,1.4582000000000002
+neighborhood coffee,1.4213
+good,1.3573
+friendly staff,1.3014000000000001
+coffee town,1.2783
+coffee iced,1.2692
+creamy chocolate,1.2528000000000001
+coffee nice,1.2491
+breakfast,1.1766
+amazing pastry,1.1705999999999999
+milk latte,1.1571
+best croissant,1.1444
+quality coffee,1.1432000000000002
+excellent latte,1.0531000000000001
+iced mocha,1.0129000000000001
+coffee ice,1.0097
+coffee phenomenal,1.0
+like place,1.0
+greatest town,1.0
+coffee roasted,0.9774
+place,0.9696
+town,0.9550000000000001
+ordered coffee,0.9548
+breakfast coffee,0.9543
+coffee ok,0.9424
+like,0.934
+made pastry,0.9294
+nicest folk,0.9184
+brew coffee,0.8872
+favorite coffee,0.8762
+coffee bean,0.8703000000000001
+cafe,0.8427
+greatest,0.8322
+love staff,0.831
+latte,0.8211999999999999
+coffee delicious,0.8062
+perfection coffee,0.8033
+fresh pastry,0.8022
+neighborhood cute,0.7885
+nicest,0.7874
+cafe excellent,0.7824
+roast coffee,0.7806
+roast cappuccino,0.7791
+best ice,0.7783
+flavorful coffee,0.7777
+coffee awesome,0.7765
+staff wonderful,0.7744
+ice coffee,0.7526
+coffee homemade,0.75
+drink coffee,0.7419
+cappuccino delicious,0.7418
+croissant best,0.7392
+lovely pastry,0.7384
+baked croissant,0.732
+coffee croissant,0.7308
+nice coffee,0.7261
+coffee latte,0.7258
+vibe friendly,0.7246
+good pastry,0.7234
+favorite cafe,0.7177
+chocolat great,0.7161
+pastry good,0.7131
+cute vibe,0.7107
+iced matcha,0.7044
+love coffee,0.7019
+amazing coffee,0.7011
+great,0.6938
+store coffee,0.693
+coffee store,0.6921
+crafted pastry,0.6914
+neighborhood cafe,0.6889
+coffee spot,0.687
+another coffee,0.6868
+folk work,0.6861
+good pain,0.6861
+pastry amazing,0.6839
+great address,0.6821
+best matcha,0.6756
+buttery perfection,0.6744
+cheese pastry,0.672
+pastry love,0.6652
+friendly thai,0.6648
+ambiance coffee,0.6635
+barista mask,0.662
+coffee excellent,0.6598
+pastry seat,0.6555
+cream cheese,0.6511
+excellent matcha,0.6505
+pastry great,0.6489
+ham cheese,0.636
+owned coffee,0.6356
+latte ever,0.6355
+awesome owner,0.635
+coffee dimension,0.6346
+croissant good,0.6335
+matcha good,0.6317
+wife baking,0.6266
+pumpkin bread,0.6248
+coffee macha,0.6227
+thai,0.621
+oven morning,0.6196
+amazing spicy,0.619
+vanilla syrup,0.619
+coffee free,0.6188
+amazing staff,0.6187
+delicious chocolate,0.618
+chocolate pudding,0.6158
+nice neighborhood,0.615
+construction buttery,0.6142
+folk,0.614
+cute shop,0.6121
+amazing croissant,0.6113
+spicy chai,0.6099
+baking delicious,0.6079
+buttery,0.605
+mask worn,0.605
+everything quality,0.603
+hot oven,0.6012
+made vanilla,0.6003
+cookie favorite,0.5988
+savory breakfast,0.5978
+nice space,0.5945
+friendly,0.5939
+shop friendly,0.5925
+love,0.5916
+phenomenal,0.591
+iced vanilla,0.5887
+coffee served,0.588
+expect airplane,0.5857
+house roast,0.5852
+ice,0.5815
+perfect croissant,0.5813
+chocolate cookie,0.5756
+hazelnut chocolate,0.5731
+perfectly chocolate,0.5695
+coffee quality,0.5677
+amazing flavorful,0.5651
+shop awesome,0.5639
+delicious latte,0.5588
+hot mocha,0.5542
+san francisco,0.5532
+vanilla latte,0.5502
+nice barista,0.5495
+awesome hand,0.5491
+good french,0.548
+barista always,0.5472
+owner amazing,0.5403
+homemade fresh,0.5403
+store baked,0.5381
+sweet barista,0.5377
+place amazing,0.5365
+recommend cream,0.5363
+cup coffee,0.5339
+latte snack,0.5318
+croissant perfect,0.5297
+best chai,0.5297
+airplane passable,0.5296
+coffee excellently,0.5285
+pastry cooky,0.5284
+slice pumpkin,0.5269
+worn worth,0.5267
+mask around,0.526
+ordered,0.5255
+chocolate croissant,0.5246
+talented baker,0.5244
+flavor coffee,0.5231
+owner nice,0.5208
+breakfast muffin,0.5202
+staff excellent,0.5201
+pastry cup,0.5194
+bake pastry,0.5176
+pastry everything,0.5175
+croissant savory,0.5157
+croissant staff,0.5157
+pastry made,0.5148
+drip coffee,0.5142
+oat milk,0.5136
+coffee customer,0.5114
+free lending,0.5108
+little cafe,0.5108
+made coffee,0.5106
+lovely cappuccino,0.5102
+coffee coffee,0.5094
+cappuccino perfect,0.5085
+breakfast drink,0.5075
+latte matcha,0.5063
+cheese crossiant,0.506
+mask,0.5059
+croissant muffin,0.5055
+ok,0.5038
+hazelnut cookie,0.5033
+friendly owner,0.502
+bummed barista,0.5008
+coffee baked,0.5005
+cheese,0.4995
+good latte,0.4994
+pastry delicious,0.4979
+best almond,0.4928
+business bummed,0.4927
+oven,0.4926
+croissant san,0.4909
+cozy neighborhood,0.4904
+syrup latte,0.49
+chip hazelnut,0.4897
+coffee place,0.4895
+everything croissant,0.4892
+mocha iced,0.4886
+frequent coffeeshop,0.4883
+belgian chocolate,0.4844
+pastry around,0.4842
+lending library,0.4831
+sublime croissant,0.4807
+dining served,0.4792
+latte wonderful,0.4779
+coffe pastry,0.4774
+pastry flavorless,0.4767
+wolf pastry,0.4757
+library inside,0.4721
+iced,0.4703
+family owned,0.4696
+pastry incredible,0.4655
+francisco,0.4651
+adorable neighborhood,0.463
+pastry superb,0.4607
+happening coffee,0.4572
+pastry espresso,0.4552
+delicious belgian,0.4534
+cafe focus,0.453
+staff super,0.4528
+croissant amazing,0.4522
+coffee lovely,0.4518
+super earth,0.4509
+croissant,0.4508
+cafe good,0.4498
+try coffee,0.4488
+cup tea,0.4463
+morning coffee,0.4451
+pastry plenty,0.4399
+pastry baked,0.4387
+chocolate bar,0.4386
+almond croissant,0.4379
+francisco go,0.4375
+vibe pastries,0.4372
+notch coffee,0.4363
+tasty devil,0.4362
+taste fresh,0.4359
+sourced coffee,0.4347
+croissant sat,0.4345
+freshly roasted,0.4318
+freshly baked,0.4313
+cookie tasted,0.4307
+croissant ever,0.4303
+last coffee,0.4297
+perfect oat,0.4269
+coffee great,0.4264
+chocolate chip,0.4261
+local bakery,0.4258
+coffeeshop hidden,0.4256
+matcha,0.4241
+coffee high,0.4232
+love oat,0.4231
+amazing parole,0.4221
+coffee shot,0.4213
+study sipping,0.4193
+smoothest delicious,0.4167
+try cafe,0.415
+roaster coffee,0.4117
+animal homeless,0.4106
+staff amazing,0.4106
+hazelnut,0.4078
+amazing latte,0.4053
+coffee though,0.405
+made espresso,0.4033
+brewed coffee,0.4026
+quiet cozy,0.4017
+drink pastry,0.3951
+nice wife,0.3935
+best,0.3932
+day coffee,0.3929
+iced oat,0.3912
+neighborhood ham,0.3904
+french pastry,0.3901
+work,0.3883
+sample bread,0.3869
+extremely friendly,0.3856
+glad coffee,0.3838
+muffin cooky,0.3798
+coffee rich,0.3796
+espresso drink,0.3779
+vegan berry,0.3766
+pastry house,0.3738
+variety coffee,0.366
+small coffee,0.3652
+sipping cup,0.3641
+coffee go,0.3615
+cappuccino absolutely,0.3606
+service nice,0.3555
+nice place,0.3552
+coffeeshop first,0.3516
+flavor owner,0.3495
+saturday afternoon,0.3463
+excellent,0.3445
+friendly welcoming,0.3431
+coffee san,0.3343
+visited coffeeshop,0.3332
+berry muffin,0.333
+cafe around,0.333
+roast matcha,0.3312
+inside pastry,0.3312
+house coffee,0.3307
+coffee entire,0.3256
+owner wilson,0.3211
+coffeeshop,0.3208
+update vegan,0.3207
+olga stellar,0.3197
+baking,0.3188
+hired great,0.3157
+coffee city,0.3128
+stellar human,0.307
+shop amazing,0.3041
+butter bomb,0.2979
+wife ultra,0.2903
+delicious greeted,0.2901
+great citizen,0.2877
+ukrainian wife,0.2861
+around saturday,0.2844
+baker,0.2725
+delicious goody,0.2629
+pump life,0.2492
+roasting thing,0.2051

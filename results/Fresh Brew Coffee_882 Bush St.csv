@@ -1,362 +1,979 @@
 keyword,weight
-coffee,42.6198
-breakfast,33.4459
-sandwiches,32.0736
-friendly,18.3937
-delicious,16.9004
-sandwich,15.9912
-food,15.8003
-great,14.7551
-good,10.0963
-vietnamese,8.81
-cafe,7.5283999999999995
-mi,7.5239
-tasty,6.3371
-best,6.0333
-avocado,6.0209
-bacon,5.8442
-lunch,5.2532
-cheap,4.9134
-amazing,4.792
-chicken,4.5253
-banh,4.4794
-affordable,4.3407
-bread,4.1633
-service,4.0187
-nice,3.9575
-cheese,3.9306
-bahn,3.8325
-pork,3.7682
-prices,3.2576
-love,3.2119
-place,3.1347
-favorite,3.0391
-excellent,2.9841999999999995
-morning,2.9633000000000003
-owner,2.8849
-super,2.8388999999999998
-cozy,2.8355
-shop,2.7509
-meatball,2.5122999999999998
-tea,2.4142
-fresh,2.3689
-friendliest,2.3273
-crispy,2.305
-fast,2.2751
-owners,2.1817
-reasonable,2.1125000000000003
-iced,2.0067
-yum,1.9596
-fair,1.7999
-nicest,1.7891
-small,1.7566
-bbq,1.6671
-menu,1.6016
-family,1.5454999999999999
-meat,1.5187000000000002
-smoothies,1.4416
-perfect,1.3933
-price,1.3898
-atmosphere,1.3731
-quality,1.3689
-better,1.3634
-inexpensive,1.2736
-smoothie,1.2726
-drinks,1.2559
-loved,1.2102
-awesome,1.1432
-town,1.1316000000000002
-wednesdays,1.1299
-kind,1.1219000000000001
-vietnam,1.1202
-bagels,1.0732
-absolutely,1.0649
-welcoming,1.0455999999999999
-highly,1.042
-francisco,1.008
-eat,1.004
-simple,0.9904
-viet,0.9508000000000001
+sandwich,24.351
+coffee,23.9129
+breakfast sandwich,22.3765
+breakfast,16.086
+vietnamese sandwich,8.6417
+delicious,8.4685
+vietnamese coffee,8.128
+iced coffee,7.6974
+good coffee,6.4322
+great coffee,6.149
+great food,5.8414
+good food,5.7573
+friendly,5.5857
+mi sandwich,5.1108
+sandwich coffee,4.952
+chicken meatball,4.931
+great,4.8172999999999995
+food great,4.6559
+mi,4.1988
+bbq chicken,4.0324
+tasty,3.9323
+cafe,3.9313000000000002
+best breakfast,3.9261
+good,3.8243
+bacon egg,3.6909
+bacon,3.5017
+coffee breakfast,3.458
+food,3.3301
+banh mi,3.2422
+best,3.2273
+bahn mi,3.2207
+breakfast lunch,3.1990999999999996
+sandwich good,3.1887
+great breakfast,3.1338
+super friendly,3.1192
+bbq pork,3.0918
+coffee sandwich,3.0901
+food good,3.0523
+chicken,3.0418000000000003
+sandwich great,3.0293
+egg cheese,2.8944
+coffee shop,2.8782
+good breakfast,2.8458
+bahn,2.7949
+friendly owner,2.6672000000000002
+food coffee,2.6552000000000002
+delicious food,2.5675
+amazing,2.5347
+cheap,2.5303
+coffee friendly,2.4785
+breakfast coffee,2.4685
+fast friendly,2.396
+reasonable price,2.3847
+bacon avocado,2.3726000000000003
+coffee great,2.3557
+friendliest,2.3372
+coffee best,2.3053
+coffee good,2.3016
+delicious breakfast,2.2686
+great sandwich,2.2551
+sandwich shop,2.2151
+coffee delicious,2.209
+lunch,2.2073
+affordable price,2.1599
+banh,2.144
+meatball avocado,2.1398
+viet sandwich,2.1216999999999997
+coffee food,2.0855
+vietnamese iced,2.0811
+amazing breakfast,2.0169
+great place,2.0
+yum,2.0
+excellent,2.0
+breakfast croissant,1.9757
+cheese bagel,1.9729
+excellent breakfast,1.9724
+vietnamese,1.9664000000000001
+best banh,1.9522
+fresh brew,1.9155
+try chicken,1.8923
+sandwich owner,1.8881000000000001
+great bahn,1.8652
+place breakfast,1.8618000000000001
+friendly staff,1.8389
+food delicious,1.8148
+strong coffee,1.8128
+sandwich ever,1.7992000000000001
+sandwich perfect,1.774
+breakfast bagel,1.7674
+tasty food,1.7247
+breakfast best,1.7128
+cup coffee,1.6652
+fast,1.6591
+best sandwich,1.6442
+pork,1.6362999999999999
+meatball bahn,1.6298000000000001
+reasonable,1.6263999999999998
+cafe great,1.6178
+amazing coffee,1.5964
+delicious banh,1.5925
+place,1.5884
+closed wednesdays,1.5788
+service great,1.5651000000000002
+affordable breakfast,1.5433
+bread crispy,1.524
+quick breakfast,1.5179
+cheap good,1.5072
+amazing food,1.4994
+bagel sandwich,1.4745
+sandwich smoothy,1.4739
+coffee nice,1.4722
+favorite place,1.4665
+friendliest owner,1.4664
+boba tea,1.4638
+style sandwich,1.4592
+tasty coffee,1.4536
+affordable,1.4476
+great bread,1.442
+mi breakfast,1.4359000000000002
+iced vietnamese,1.4353
+service good,1.4324
+price,1.4316
+great vietnamese,1.4297
+best bahn,1.4222000000000001
+coffee tasty,1.4198
+sandwich friendly,1.4158
+perfect breakfast,1.4154
+coffee awesome,1.4115000000000002
+service delicious,1.3856
+good service,1.3761
+coffee perfect,1.3393
+good price,1.3377000000000001
+ice coffee,1.3291
+vietnam,1.3215
+great customer,1.3178
+bread,1.3003
+sandwich bread,1.2892000000000001
+green tea,1.2819
+best coffee,1.2664
+friendly people,1.2610999999999999
+tasty breakfast,1.255
+place delicious,1.2518
+quality food,1.2517
+food amazing,1.2448000000000001
+fresh bread,1.2358
+mi delicious,1.2357
+pork sandwich,1.2265
+best vietnamese,1.2257
+one best,1.2182
+cheese breakfast,1.2149
+best bbq,1.1948
+san francisco,1.1912
+breakfast vietnamese,1.1873
+good vietnamese,1.1832
+always delicious,1.1618
+chicken sandwich,1.157
+breakfast city,1.1465
+highly recommend,1.1446999999999998
+food service,1.1444
+bagel breakfast,1.1421000000000001
+delicious affordable,1.1419000000000001
+cheese avocado,1.1395
+avocado,1.1344
+love bacon,1.1331
+egg breakfast,1.1305
+lunch time,1.1303
+shop,1.1078999999999999
+tea,1.1046
+good sandwich,1.1036000000000001
+nicest people,1.0941
+bread nice,1.0752
+coffee excellent,1.0593000000000001
+crispy meat,1.0364
+owner,1.0364
+best customer,1.0343
+meat veggie,1.0276
+brew coffee,1.0191
+friendly family,1.0123
+egg avocado,1.0108000000000001
+coffee sweet,1.0106
+breakfast place,1.0048
+pork great,1.0016
+nothing,1.0
+super intense,1.0
+like,1.0
+cozy,1.0
+corporate coffee,1.0
+best town,1.0
+absolutely great,1.0
+hole walll,1.0
+owner amazing,0.9876
+offer breakfast,0.9725
+cheerful owner,0.9677
+fresh delicious,0.9611
+coffee smoothy,0.9602999999999999
+nicest owner,0.9544
+cheap friendly,0.953
+tasty fast,0.9485
+nice,0.9417
 intense,0.9376
-yummy,0.9238999999999999
-warm,0.9071
-quick,0.903
-hole,0.8971
-wonderful,0.892
-sausage,0.8662
-decent,0.8574999999999999
-try,0.8532
-sweet,0.8436
-walll,0.8335
-brew,0.8246
-ve,0.8141
-cheerful,0.8141
-fantastic,0.7912
-delic,0.7892
-terrific,0.7842
-veggie,0.7737
-strawberry,0.7681
-croissant,0.7663
-city,0.7543
-like,0.743
-taste,0.7318
-sf,0.7103
-impeccable,0.6818
-store,0.6765
-ban,0.6737
-pleasant,0.6696
-baguette,0.6646
-closed,0.6426999999999999
-pastries,0.6416
-smile,0.6343000000000001
-croissants,0.6216
-really,0.6178
-recommend,0.6128
-strong,0.6125
-pretty,0.6104
-seating,0.6092
-donuts,0.6089
-latte,0.6043
-crunchy,0.6004
-want,0.5899
-balles,0.5836
-cup,0.5835
-snacks,0.5831
-neighborhood,0.5783
-flavorful,0.5524
-tasted,0.5514
-outstanding,0.5463
-entertaining,0.545
-corporate,0.5428
-quaint,0.5372
-bagel,0.5309
-trip,0.5295
-mediocre,0.5246
-disappointed,0.5188999999999999
-dishes,0.5165
-vegetarian,0.5079
-years,0.5019
-san,0.4893
-sunday,0.4891
-pay,0.48619999999999997
-lovely,0.48560000000000003
-spicy,0.4822
-left,0.4796
-sammiches,0.478
-saturday,0.4754
-gem,0.475
-almond,0.4747
-yaaaaa,0.4555
-currently,0.4525
-free,0.4454
-ingredients,0.444
-enjoyable,0.4409
-venture,0.4255
-mango,0.4198
-muffin,0.4181
-ago,0.4172
-monday,0.4171
-cash,0.41100000000000003
-homemade,0.4082
-worth,0.4027
-tried,0.3919
-unfriendly,0.3901
-sorry,0.3894
-muffins,0.3886
-energy,0.384
-ideal,0.381
-friend,0.38
-friday,0.38
-hotel,0.376
-hear,0.375
-bad,0.3729
-tomorrow,0.3711
-tuna,0.3701
-come,0.3665
-pickles,0.3664
-incredible,0.366
-tip,0.3649
-00pm,0.3622
-relaxing,0.3575
-wife,0.356
-cute,0.3519
-tasting,0.3515
-pickled,0.3474
-hidden,0.3449
-polite,0.3447
-let,0.342
-milk,0.33740000000000003
-50,0.332
-grest,0.3313
-boba,0.331
-days,0.33030000000000004
-sitting,0.32689999999999997
-soft,0.3258
-exactly,0.32
-intimate,0.3074
-run,0.3068
-glad,0.3049
-regular,0.3022
-tiny,0.2984
-business,0.2964
-toasty,0.2963
-hungry,0.2954
-chocolate,0.2935
-outdoor,0.2916
-closest,0.2864
-caffee,0.2823
-cuisine,0.2818
-efficient,0.2818
-owned,0.2796
-expresso,0.278
-ate,0.2777
-time,0.2776
-sesame,0.2756
-crisp,0.2749
-vinegar,0.2742
-café,0.2719
-divine,0.2701
-sauce,0.2605
-brunch,0.2582
-shots,0.2574
-suddenly,0.257
-eggs,0.2565
-berry,0.252
-restaurant,0.2508
-needs,0.2475
-upbeat,0.2462
-green,0.246
-enjoy,0.2425
-january,0.2375
-enjoyed,0.2343
-vacation,0.23149999999999998
-today,0.231
-delight,0.2263
-flavor,0.2245
-dang,0.2215
-customization,0.2215
-beer,0.2199
-coffees,0.2184
-eatery,0.2184
-swing,0.218
-skimpy,0.2173
-stop,0.2154
-buck,0.2149
-seth,0.2145
-rain,0.2142
-bun,0.2141
-priced,0.2137
-finesse,0.212
-cooked,0.2107
-low,0.2095
-served,0.2089
-steep,0.2071
-stars,0.2055
-taiwanese,0.205
-cappuccino,0.2047
-favourite,0.2044
-regulars,0.2041
-soda,0.2025
-live,0.2018
-storm,0.2012
-customer,0.2
-biggest,0.1998
-employees,0.1988
-starving,0.1987
-helpful,0.197
-open,0.197
-fee,0.1962
-vegetables,0.1887
-caffe,0.1866
-comfortable,0.1853
-surprised,0.1839
-amazingly,0.1824
-2019,0.1783
-care,0.1759
-hardest,0.1757
-downtown,0.1743
-hot,0.1731
-banana,0.168
-highlight,0.1667
-fine,0.165
-espresso,0.165
-dining,0.163
-hyped,0.162
-money,0.1586
-lively,0.1576
-4days,0.1494
-card,0.1464
-herbs,0.1464
-working,0.1444
-bubbly,0.1405
-minutes,0.1401
-bank,0.1372
-bomb,0.136
-vibe,0.1358
-generous,0.1341
-nearby,0.1336
-passion,0.1333
-work,0.1305
-remembers,0.1293
-cost,0.1287
-went,0.1261
-adore,0.1222
-walk,0.12
-danish,0.1167
-freshly,0.1167
-baristas,0.1148
-unicorns,0.1115
-meetind,0.1048
-korea,0.1046
-eric,0.1039
-month,0.1034
-weekend,0.1027
-cambodian,0.1016
-cents,0.0962
-customers,0.0961
-munich,0.0952
-bubble,0.0938
-shops,0.0931
-liked,0.0918
-egg,0.09079999999999999
-combo,0.0867
-girl,0.0858
-van,0.0857
-tables,0.0811
-40mins,0.0795
-deli,0.0795
-happy,0.0793
-friends,0.0784
-caffeine,0.0757
-lots,0.0723
-cilantro,0.0702
-mornings,0.07
-just,0.0691
-positivity,0.0654
-joint,0.0635
-american,0.0634
-happily,0.0634
-brightens,0.0625
-day,0.0599
-worst,0.0584
-blend,0.0582
-daughter,0.0551
-driving,0.0531
-melt,0.0513
-afternoon,0.0463
-mom,0.0459
-paid,0.0442
-mis,0.0373
-pop,0.032
-foods,0.0304
-little,0.0277
-red,0.0203
-eaten,0.0118
-weekends,0.0116
-tucked,0.0099
-10,-0.011199999999999998
-pulled,-0.0219
-scarlet,-0.0357
-hair,-0.0403
-runs,-0.0422
-raved,-0.0516
+sometimes simple,0.9301
+breakfast yaaaaa,0.9294
+family owned,0.9275
+owner affordable,0.9269
+mi delic,0.9247
+delicious coffee,0.9188
+wonderful coffee,0.9168
+viet coffee,0.9103
+made reasonable,0.9095
+hole,0.9084
+absolutely,0.9074
+walll,0.9026
+local cafe,0.8982
+delic,0.8976
+really good,0.8947
+coffee bad,0.8928
+friendly yummy,0.8889
+food friendliest,0.8888
+balles reasonable,0.8867
+ban mi,0.8862
+homemade sandwich,0.8821
+friendly cheerful,0.8782
+clean cozy,0.8779
+owner nice,0.8749
+friendly atmosphere,0.8708
+best tried,0.866
+delicious bagel,0.8641
+excellent service,0.8636
+good balles,0.8615
+lunch sandwich,0.861
+sandwich delicious,0.86
+veggie breakfast,0.8551
+simple better,0.8546
+tea friendly,0.8527
+avocado bacon,0.8492
+menu selection,0.8485
+pulled sandwich,0.845
+well made,0.8436
+place friendly,0.8425
+breakfast excellent,0.8422
+grab coffee,0.8333999999999999
+never left,0.8329
+super,0.8292
+coffee strong,0.8286
+saturday sunday,0.8265
+pork pate,0.8238000000000001
+staff tasty,0.8234
+pm saturday,0.8233
+best strawberry,0.823
+grest sandwich,0.8215
+nice breakfast,0.8211
+tasting sandwich,0.8184
+pleasant cafe,0.8163
+veggie muffin,0.8158
+place nicest,0.8119
+great menu,0.8071
+wednesdays,0.8061
+sometimes,0.8049
+fresh coffee,0.8043
+tasty sandwich,0.8034
+atmosphere excellent,0.8033
+every morning,0.7993
+coffee terrific,0.7983
+better,0.7966
+decent breakfast,0.7946
+bacon favourite,0.7919
+sunday pm,0.7915
+stop sandwich,0.7908
+breakfast lots,0.789
+nicest,0.7882
+favorite breakfast,0.7836
+cheap vietnamese,0.783
+tasted vietnam,0.7825
+people delicious,0.7807
+corporate,0.7805
+incredible food,0.7781
+breakfast joint,0.7761
+coffee inexpensive,0.7758
+yummy,0.7739
+quick coffee,0.7734
+give try,0.7733
+ban,0.7729
+friendliest people,0.7722
+friendly sandwich,0.769
+affordable food,0.768
+freshly made,0.7675
+cheerful,0.7645
+friendly good,0.76
+currently closed,0.7594
+coffee friendliest,0.7584
+food kind,0.7574
+lots breakfast,0.7567
+monday friday,0.7563
+strong caffee,0.7559
+dish affordable,0.7551
+seating friendly,0.7539
+want venture,0.7538
+decent coffee,0.751
+awesome vietnamese,0.7481
+amazing place,0.748
+tiny cafe,0.7446
+service loved,0.7442
+impeccable quality,0.7427
+sandwich highly,0.7427
+food fast,0.7425999999999999
+good banh,0.74
+decent price,0.7397
+food friendly,0.7366
+energy morning,0.7365
+since vietnam,0.7345
+delicious mocha,0.732
+loved breakfast,0.7312
+come free,0.7308
+friendliest employee,0.7301
+shop warm,0.7289
+nice vietnamese,0.7277
+pastry pretty,0.7246
+quick delicious,0.7246
+staff vegetarian,0.7245
+friday pm,0.7231
+simple,0.7225
+cafe friendly,0.7209
+good pickled,0.7198
+mi friendly,0.7191
+hear next,0.7185
+strawberry smoothie,0.7172
+cafe best,0.7169
+delicious vege,0.7159
+almond croissant,0.7133
+delicious snadwitches,0.7125
+delicious meal,0.7117
+combo coffee,0.7116
+sandwich avocado,0.7103
+morning trip,0.7084
+sandwich always,0.7081
+cafe nicest,0.7071
+breakfast food,0.7063
+fantastic sandwich,0.7063
+never,0.7047
+try,0.704
+vietnam us,0.7023
+coffee snack,0.7019
+owner incredible,0.7018
+great banh,0.7014
+city cheap,0.7007
+eat breakfast,0.7005
+food wonderful,0.6981
+kind staff,0.6959
+owned sandwich,0.6942
+sandwich affordable,0.693
+delicious sandwich,0.6912
+divine cheese,0.6908
+nice atmosphere,0.6891
+always friendly,0.6884
+next time,0.6877
+free back,0.6872
+breakfast twice,0.6868
+bagels coffee,0.6865
+really,0.6865
+morning pastry,0.6864
+mocha reasonable,0.6861
+favorite coffee,0.6859
+price friendliest,0.6859
+amazing sandwich,0.6857
+croissant bacon,0.6823
+exactly energy,0.6811
+delicious entertaining,0.6803
+delicious bacon,0.6798
+cheap cash,0.6794
+place decent,0.679
+warm atmosphere,0.6785
+lunch delicious,0.6778
+inexpensive cafe,0.6767
+sandwich service,0.6763
+sammiches viet,0.6744
+breakfast brunch,0.6728
+taiwanese sandwich,0.6725
+delicious homemade,0.6725
+vietnam le,0.6721
+enjoyed breakfast,0.6707
+tuna melt,0.6702
+spicy sandwich,0.6699
+impeccable,0.6695
+coffee served,0.6694
+berry smoothie,0.6683
+bacon avacado,0.6676
+crunchy bread,0.6673
+francisco,0.6666
+absolutely delicious,0.665
+food reasonable,0.6634
+fantastic coffee,0.6628
+breakfast friendly,0.6614
+venture,0.6606
+tasty sausage,0.6605
+super affordable,0.6595
+closed,0.6593
+cafe love,0.6574
+meatball,0.6571
+breakfast great,0.6565
+small food,0.6563
+strong expresso,0.6555
+yummy sandwich,0.6544
+owns cafe,0.6542
+sandwich fresh,0.6535
+trip loved,0.653
+great cup,0.653
+warm,0.6512
+venture tl,0.6507
+croissant absolutely,0.6506
+nice latte,0.6505
+tea starving,0.6504
+owner friendly,0.6492
+quality breakfast,0.6484
+coffee vietnamese,0.648
+small quaint,0.6476
+bread delicious,0.6476
+sandwich amazing,0.6446
+flavorful wife,0.6446
+friendly super,0.6443
+food much,0.6438
+neighborhood cafe,0.6438
+shop good,0.6436
+around lunch,0.6428
+soft drink,0.6423
+simple delicious,0.6417
+cafe make,0.6399
+friendly worker,0.6399
+sandwich cappuccino,0.6379
+little coffee,0.6378
+sweet delicious,0.6373
+wall breakfast,0.6368
+delicious bbq,0.6346
+bread amazingly,0.6345
+free,0.6342
+nice family,0.6338
+affordable great,0.6336
+amazingly crispy,0.6334
+bagel crisp,0.6331
+awesome breakfast,0.633
+decent,0.6324
+spicy bbq,0.6321
+vegetarian banh,0.632
+morning need,0.6311
+fine coffee,0.6307
+lunch enjoyed,0.6304
+pay tip,0.629
+run place,0.6285
+bad bad,0.628
+particularly bacon,0.628
+latte cheese,0.6277
+vegetarian,0.627
+outstanding service,0.6261
+morning,0.625
+great quality,0.6246
+fair price,0.6246
+baguette good,0.6245
+vn sandwich,0.6239
+sandwich fantastic,0.6238
+best bagel,0.6237
+love beer,0.6221
+avocado smoothie,0.6217
+little cafe,0.6209
+cheese meatball,0.6201
+coffee sure,0.6186
+bagel dish,0.6184
+cambodian sandwiches,0.6183
+food drink,0.6177
+sf fresh,0.617
+food super,0.6166
+vietnamese lunch,0.6159
+sandwich city,0.6149
+bagel bacon,0.6145
+delicious got,0.6139
+baguette coffee,0.6127
+sandwich nice,0.6122
+friendly service,0.6118
+ate breakfast,0.6107
+latte sandwiches,0.6107
+owner cafe,0.6106
+pricing coffee,0.6105
+sandwich downtown,0.6104
+breakfast service,0.6097
+super good,0.6095
+sandwich bubble,0.609
+fresh sandwich,0.6088
+coffee even,0.6087
+food highly,0.6083
+shop small,0.6083
+avocado spicy,0.6081
+good veggie,0.6078
+quaint place,0.6074
+coffee dang,0.6071
+sandwich average,0.6065
+baguette crispy,0.6064
+people run,0.6062
+made love,0.6056
+little sandwich,0.6049
+cuisine sandwich,0.6044
+value friendly,0.6037
+tasty vietnamese,0.6035
+awesome affordable,0.6023
+avocado delicious,0.6016
+wonderful food,0.6016
+smoothie divine,0.601
+skimpy meat,0.6004
+people fair,0.6004
+enjoyed lunch,0.6003
+avocado slush,0.6002
+mango smoothie,0.5991
+caffee food,0.599
+chair breakfast,0.5969
+coffee sausage,0.5968
+enjoyed crunchy,0.5958
+cafe quickly,0.5948
+forward breakfast,0.5946
+house coffee,0.5944
+meal soft,0.5936
+town,0.5935
+latte best,0.5931
+amazing cheap,0.5925
+avocado sesame,0.5925
+pretty mediocre,0.5907
+cheese danish,0.5904
+great price,0.5901
+morning open,0.5899
+food biggest,0.5898
+latte flavorful,0.589
+fresh breakfast,0.587
+tea good,0.5869
+great tasting,0.5867
+coffee ok,0.5864
+vacation breakfast,0.5861
+implies coffee,0.5856
+polite owner,0.5832
+sandwich family,0.5826
+eatery breakfast,0.5821
+delicious bread,0.5817
+shop nicest,0.5816
+cafe outdoor,0.581
+surprised delicious,0.5781
+disappointed yet,0.5781
+bad,0.5771
+yet,0.5766
+best ever,0.5761
+vietnamese sandwiches,0.5747
+chicken veggie,0.5733
+mi town,0.573
+strawberry,0.5729
+favorite stop,0.5724
+sandwich spot,0.5723
+brown bacon,0.571
+coffee veggie,0.5707
+dude great,0.5707
+affordable bread,0.5698
+sandwich love,0.5683
+quality ingredient,0.5683
+super kind,0.5678
+kind dude,0.5673
+nicest person,0.5672
+sandwich especially,0.5672
+owner kind,0.567
+dang delicious,0.5668
+year,0.5649
+mediocre,0.5646
+year ago,0.564
+viet,0.5631
+lunch offering,0.5631
+coffee really,0.5623
+bread meat,0.5615
+work lunch,0.5596
+cool customer,0.5592
+viet pork,0.5583
+favorite regular,0.5573
+muffin,0.5566
+love family,0.5562
+favorite cafe,0.5562
+bacon sausage,0.5555
+breakfast fresh,0.555
+nice people,0.555
+almond,0.5543
+sandwich cafe,0.5534
+perfect lunch,0.5531
+bagel delicious,0.5525
+mi amazing,0.5514
+coffee banh,0.5501
+better price,0.5499
+wonderful menu,0.5496
+city nice,0.5489
+mi best,0.5489
+snack fair,0.5488
+iced,0.5486
+amazing bun,0.548
+bubble tea,0.5479
+closest one,0.5471
+recommend bacon,0.5454
+good latte,0.5452
+yaaaaa,0.5444
+welcoming smile,0.5443
+great pork,0.5438
+meat well,0.5437
+fresh food,0.5421
+great sammiches,0.5415
+coffee come,0.5408
+average coffee,0.5405
+bacon coffee,0.5404
+breakfast outstanding,0.54
+coffee lacking,0.5393
+treat everyone,0.539
+friendly smoothies,0.539
+coffee dear,0.5376
+went every,0.5376
+starving quick,0.5373
+veggi breakfast,0.537
+sandwiches sooooo,0.537
+coffee anyhow,0.5367
+croissant,0.5365
+sandwich breakfast,0.5349
+sandwich best,0.5343
+lunch green,0.5319
+delicious nonetheless,0.5316
+coffee ever,0.5314
+breakfast ate,0.531
+delicious family,0.5306
+delicious definitely,0.5304
+sausage egg,0.5302
+bit bacon,0.5296
+tomorrow morning,0.5295
+always remembers,0.529
+great service,0.5279
+vibe cafe,0.5278
+owner sweet,0.5271
+pastry,0.5271
+sandwich really,0.527
+salty sausage,0.5268
+breakfast fare,0.5257
+great donut,0.5252
+american breakfast,0.5252
+tried pork,0.5248
+amazing great,0.5246
+price tuna,0.5236
+well friendliest,0.5224
+welcoming food,0.5223
+customer cool,0.522
+day shop,0.5208
+kinda cheap,0.5204
+sandwich wife,0.52
+full menu,0.5194
+little breakfast,0.5193
+menu,0.519
+sandwich staff,0.5189
+sandwich cilantro,0.5181
+cheap bahn,0.5177
+one tasted,0.5175
+incredibly cheap,0.5172
+sandwich vietnamese,0.5165
+place coffee,0.5161
+heart food,0.5149
+wonderful price,0.5144
+cool employee,0.5134
+lunch friendly,0.5132
+bfast sandwich,0.5131
+group favorite,0.513
+food cozy,0.5128
+drink mocha,0.5122
+expresso shot,0.5113
+perfect,0.5109
+smoothies great,0.5104
+seating great,0.5104
+espresso amazing,0.5096
+bagels also,0.5093
+brew morning,0.5089
+coffee two,0.5088
+cosy cafe,0.5082
+wonderful,0.5076
+viet cafe,0.5062
+pop sandwich,0.5053
+better star,0.5052
+left disappointed,0.5052
+hardest working,0.5048
+delight always,0.5034
+sandwich combo,0.5027
+friendly polite,0.5025
+even better,0.5021
+smoothy coffee,0.502
+time food,0.5018
+delicious made,0.5006
+delicious croissant,0.4999
+also avocado,0.4997
+served warm,0.4993
+coffee latte,0.4991
+breakfast sandos,0.4991
+loved chicken,0.4988
+without thinking,0.4987
+avoid coffee,0.4966
+accommodation went,0.496
+processed meat,0.4958
+always welcoming,0.4946
+caffee,0.4943
+ingredient good,0.4943
+croissant sandwich,0.494
+vietnamese baguette,0.4935
+bbq flavor,0.4928
+food love,0.4924
+breakfast quantity,0.4922
+mi lunch,0.492
+coffee option,0.4916
+breakfast liked,0.4914
+sandwich huge,0.4912
+place stop,0.4911
+try best,0.4902
+friendly store,0.4901
+friendly tasty,0.4899
+boba milk,0.4896
+long walk,0.4888
+hill breakfast,0.4883
+consisting bacon,0.4881
+sesame bacon,0.4873
+yummy coffee,0.487
+egg cheddar,0.4868
+price love,0.4859
+vinegar pickle,0.4842
+good muffin,0.4839
+anyhow sandwich,0.4836
+nice owner,0.4833
+cafe near,0.483
+highlight trip,0.4829
+cafe found,0.4824
+filling delicious,0.4823
+chewy toasty,0.4821
+cheese bacon,0.4819
+ordered pork,0.4819
+fresh,0.4816
+coffee definitely,0.481
+drink friend,0.4805
+tea taro,0.4804
+pork pork,0.4802
+worth every,0.4802
+lovely people,0.4792
+sandwich looked,0.4791
+currently,0.4789
+coffee true,0.4788
+food boba,0.4787
+tuna,0.4787
+meat,0.4765
+sandwich also,0.4757
+third hair,0.4737
+donut coffee,0.4736
+cafe feel,0.472
+staple breakfast,0.4717
+excellent crunchy,0.4715
+sammies breakfast,0.4709
+cheese strawberry,0.4694
+appearance food,0.4694
+starving,0.4675
+business yummy,0.4668
+toasted breakfast,0.4665
+tasty banh,0.4663
+sandwich iced,0.4663
+perfect size,0.465
+style sausage,0.4649
+unfriendly cost,0.4647
+sandwich took,0.4639
+excellent vietnamese,0.4635
+lovely place,0.4633
+pastry pastries,0.4628
+price good,0.4628
+breakfast solid,0.4624
+owner exactly,0.4617
+nice place,0.4611
+coffee greatest,0.4609
+every bite,0.4603
+seth owner,0.46
+coffee pastry,0.4593
+everything breakfast,0.4588
+finesse taste,0.4588
+tasty owner,0.4587
+chewy breakfast,0.4585
+flavorful bread,0.4572
+owner tasty,0.4557
+pleasant,0.4554
+strawberry banana,0.4552
+chicken bbq,0.4548
+menu friendly,0.4543
+american sandwich,0.4539
+sandwich freakin,0.4529
+chocolate milk,0.4527
+make tasty,0.4524
+cheese turkey,0.4517
+breakfast sausage,0.4506
+owner bubbly,0.4502
+sausage patty,0.4492
+good kick,0.4487
+stop,0.4478
+speed mango,0.4473
+cheese,0.4465
+coffee cafe,0.4456
+smoothies,0.4454
+third,0.4452
+sf food,0.4451
+sandwich cheese,0.4442
+food breakfast,0.4426
+pork jalape,0.4423
+worst vietnamese,0.4416
+neighborhood breakfast,0.4407
+pat sandwich,0.4406
+cozy relaxing,0.4406
+everyone right,0.4405
+fast econ,0.4396
+recommend food,0.4395
+amazing family,0.4393
+breakfast everyday,0.4389
+best viet,0.4388
+tasty worth,0.4387
+toasty bagel,0.4385
+store owner,0.4384
+coffee bagels,0.4373
+sandwich seemed,0.4366
+reasonably priced,0.4366
+coffee much,0.4364
+driving hour,0.4356
+food absolutely,0.4356
+korea first,0.4355
+super flavorful,0.4348
+service pretty,0.4346
+eat table,0.4334
+combination pork,0.4327
+love owner,0.4314
+work sandwich,0.4312
+back tomorrow,0.4307
+sandwich come,0.4305
+coffee tea,0.43
+super tasty,0.4299
+sandwich filling,0.4294
+tasted fresh,0.4289
+fairmont beware,0.4284
+sandwich ingredients,0.4273
+people good,0.4267
+chicken chicken,0.4266
+chicken avocado,0.426
+good herbs,0.4252
+eat union,0.4246
+crispy,0.4234
+delicious good,0.4229
+pork bomb,0.4223
+sandwiches banh,0.4223
+smoothy super,0.4206
+vietnamese ice,0.4205
+sandwich bahn,0.4191
+delicious boba,0.4189
+sandwiches,0.4169
+service fast,0.4168
+coffee espresso,0.416
+homemade,0.4155
+cute little,0.4154
+bagel coffee,0.4142
+quite unfriendly,0.4129
+paid sandwich,0.4127
+spot breakfast,0.4124
+coffee along,0.4119
+recommend expensive,0.4115
+shop sandwich,0.4107
+care fresh,0.4098
+work neighborhood,0.4091
+two hardest,0.4091
+banana smoothie,0.4078
+fun conversation,0.407
+crispy outside,0.4064
+food passion,0.4063
+little neighborhood,0.406
+ghirardelli chocolate,0.4056
+done avocado,0.4034
+donut super,0.4014
+prices cheap,0.4005
+lovely family,0.4001
+low price,0.3972
+cream cheese,0.3972
+delicious cheap,0.396
+neighborhood miss,0.395
+sandwich work,0.3935
+swing every,0.3934
+coming breakfast,0.3923
+unfriendly,0.3918
+credit card,0.3901
+upbeat staff,0.39
+cozy food,0.3888
+family friend,0.3884
+crispy filling,0.3865
+price food,0.386
+lunch owner,0.3847
+split breakfast,0.3847
+small breakfast,0.3836
+service sweet,0.3833
+place quick,0.3826
+sandwich boba,0.3822
+sandwich unbelievably,0.3814
+good selection,0.3802
+cent fee,0.3787
+crispy crispy,0.3781
+eating experience,0.377
+cute vietnamese,0.3766
+cafe ducking,0.3748
+owner go,0.3741
+avocado mocha,0.3713
+much taste,0.3702
+gem cafe,0.3681
+relaxing forgot,0.3672
+coffee bagel,0.367
+avocado bahn,0.3653
+small skimpy,0.3643
+filling meatball,0.3632
+warmed crunchy,0.363
+sandwich extra,0.363
+lunch late,0.3622
+store pleasant,0.3607
+bread warm,0.3605
+bite bbq,0.3603
+yummy food,0.3596
+neighborhood coffee,0.356
+restaurant sketchy,0.355
+family run,0.355
+one favorite,0.3524
+got bbq,0.3524
+tasting,0.352
+coffee combo,0.3501
+cafe sandwich,0.348
+sandwich remember,0.3478
+late breakfast,0.3476
+sandwich time,0.3467
+brightens morning,0.3446
+friend house,0.3441
+hardest,0.3434
+would bacon,0.3406
+regular menu,0.3398
+small welcoming,0.3396
+running store,0.3373
+food pretty,0.3349
+coffee including,0.3349
+sweetness milk,0.3342
+sandwich look,0.3326
+french bread,0.3318
+chicken banh,0.3313
+toasted bread,0.3264
+type sandwich,0.3251
+warm bread,0.3243
+small best,0.3243
+sandwich free,0.3233
+breakfast item,0.322
+avocado banh,0.3201
+known delicious,0.3181
+downtown guy,0.3154
+money deli,0.3147
+top viet,0.3109
+bubbly personality,0.3103
+greetings munich,0.3069
+pop coffee,0.3068
+cappuccino great,0.3065
+mom pop,0.3061
+chicken come,0.3058
+best city,0.3005
+avocado viet,0.3001
+sandwich sf,0.2975
+often swing,0.2956
+favorite bahnmi,0.2891
+first time,0.281
+adore mom,0.2804
+store,0.2795
+girl drawing,0.2739
+budget weekend,0.2712
+two day,0.2603
+good cup,0.2498
+shop best,0.2483
+wall family,0.2473
+hair pulled,0.2417
+super yummy,0.2395
+owner passion,0.2391
+baguette make,0.2379
+cafe local,0.2168
+delicious reasonable,0.1929

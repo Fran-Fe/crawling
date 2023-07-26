@@ -1,135 +1,193 @@
 keyword,weight
-coffee,12.1501
-love,2.8655
-nice,2.8279
-friendly,2.4224
-service,2.3247999999999998
-good,2.1677
-best,2.1666
-peets,1.8026
-starbucks,1.6961
-great,1.4545
-super,1.0449
-efficient,0.933
-crowded,0.9317
-fast,0.8519
-favorite,0.7808
-chain,0.7783
-fave,0.6828
-courteous,0.6726
-public,0.6459
-quickly,0.637
-bake,0.6362
-cafè,0.632
-compared,0.6251
-went,0.6216
-francisco,0.5740999999999999
-guys,0.5642
+coffee,10.1068
+good coffee,3.5766999999999998
+love,2.5985
+best,2.3249
+nice,2.2546
+peets,2.0923
+starbucks,1.8329
+great coffee,1.6455
+friendly,1.5924
+service,1.4790999999999999
+peet coffee,1.3986
+good,1.0751
+best coffee,1.0
+super,1.0
+everyone nice,1.0
+excellent coffee,1.0
+top one,1.0
+peets favorite,1.0
+love peets,1.0
+best service,1.0
+friendly efficient,1.0
+efficient,0.9594
+top,0.9541
+still fave,0.935
+coffee superb,0.9221
+service whatever,0.9048
+crowded coffee,0.9032
+went public,0.9022
+favorite,0.9004
+breakfast sandwich,0.8938
+love guy,0.8854
+option starbucks,0.876
+coffee bake,0.8549
+friendly staff,0.8509
+since went,0.8506
+still,0.8505
+whatever compared,0.8458
+fast great,0.8418
+love staff,0.8398
+service quickly,0.8389
+coffee spot,0.834
+caf friendly,0.8309
+awesome customer,0.8272
+coffee usual,0.8211
+compared peets,0.8182
+discount latte,0.8177
+since,0.8162
+one,0.8125
+went,0.812
+coffee great,0.8112
+usual coffee,0.8083
+airport coffee,0.8065
+cook breakfast,0.804
+courteous professional,0.7942
+public,0.7896
+chain,0.7855
+friendly courteous,0.7811
+coffee heart,0.7752
+fave chain,0.7726
+bake good,0.7718
+fast,0.7667
+everybody friendly,0.7645
+coffee shop,0.762
+said love,0.7506
+sf airport,0.7458
+sandwich,0.7418
+everyone,0.7369
+good caf,0.7365
+course coffee,0.7286
+courteous,0.728
+outstanding coffee,0.725
+complain usual,0.7247
+coffee consistent,0.7197
+perfect black,0.7182
+coffee perfect,0.7144
+starbucks coffeebean,0.7112
+basic crowded,0.7037
+san francisco,0.6971
+quickly lot,0.692
+free americano,0.6895
+friendly clerk,0.6726
+nice people,0.6671
+today thanks,0.6655
+quickly,0.6614
+hot cup,0.6595
+breakfast,0.658
+fave,0.6477
+service experience,0.6443
+americano drink,0.6443
+people nice,0.6386
+superb service,0.632
+crowded,0.6278
+drink iced,0.6272
+usual peet,0.622
+open sundays,0.6187
+black tie,0.6184
+nice place,0.6141
+francisco,0.611
+big coffee,0.6039
+like starbucks,0.6036
+awesome,0.5868
+discount,0.5866
+gave discount,0.5863
+never disappoints,0.5841
+baristas excellent,0.5825
+unextraordinary coffee,0.5803
+experience today,0.5765
+cup coffee,0.5761
+need,0.5755
+need said,0.57
+wifi ideal,0.5662
+iced warm,0.5659
+one ferry,0.5651
+bake,0.5625
+option iced,0.5595
 excellent,0.5586
-needs,0.5558
-superb,0.5556
-awesome,0.5531
+one cook,0.5583
+saturday coffee,0.554
+location closed,0.5512
+buy bag,0.5476
+customer starbucks,0.5474
 sf,0.5466
-airport,0.5448
-today,0.5377
-perfect,0.5264
-shop,0.5109
-professional,0.5089
-hot,0.49860000000000004
-usual,0.4978
-thanks,0.4868
-lots,0.4538
-beans,0.4527
-said,0.446
-everybody,0.4444
-sandwich,0.444
-cup,0.4424
-basic,0.4405
-experience,0.4402
-tie,0.4334
-variety,0.4327
-black,0.4237
-clerks,0.4188
-covid,0.3926
-cool,0.3877
-spot,0.3863
-vibe,0.3843
-heart,0.3834
-espresso,0.3783
-san,0.3769
-tea,0.3761
-open,0.3716
-consistent,0.3709
-wifi,0.3701
-staff,0.3617
-people,0.3613
-option,0.3548
-place,0.3447
-coffeebean,0.3191
-photogenic,0.3154
-breakfast,0.3151
-latte,0.2881
-weekend,0.2879
-taste,0.2869
-ocean,0.2732
-cappuccino,0.2668
-sundays,0.2653
-peet,0.2639
-pastries,0.2423
-milk,0.2423
-friends,0.2373
-baristas,0.2352
-light,0.2317
-americano,0.2316
-discount,0.2302
-cook,0.2254
-complain,0.2248
-tealeaf,0.2151
-ferry,0.2128
-free,0.2092
-buy,0.2024
-bag,0.2007
-closed,0.1896
-saturday,0.1848
-rest,0.1673
-blend,0.1613
-coffees,0.1514
-customer,0.1464
-organic,0.1426
-american,0.1408
-embarcadero,0.1286
-batista,0.1281
-iced,0.1275
-mother,0.1258
-delicious,0.125
-big,0.1229
-outstanding,0.1165
-disappoints,0.1143
-reliable,0.1136
-nearby,0.11
-drink,0.1026
-regular,0.1025
-sucks,0.1017
-locations,0.1001
-relax,0.0981
-productivity,0.0831
-ideal,0.0806
-day,0.0743
-holidays,0.0721
-barista,0.0696
-soy,0.0689
-passionate,0.0608
-wish,0.0555
-morning,0.0519
-warm,0.017
-forgot,0.011
-ignoring,-0.0002
-new,-0.0035
-convenient,-0.0087
-frequent,-0.0158
-late,-0.0181
-desperate,-0.0313
-better,-0.0337
-houses,-0.0352
-app,-0.0426
-doesn,-0.1206
+latte coming,0.5445
+iced like,0.5392
+productivity friendly,0.5387
+coffee looking,0.5382
+crowded weekend,0.5379
+tea coffee,0.5355
+closed including,0.5313
+coffee tea,0.5293
+nice option,0.5275
+service always,0.5273
+pastry wish,0.5272
+latte tea,0.5267
+coffee service,0.525
+selection pastry,0.5215
+friend sit,0.517
+cool friendly,0.5149
+extra coffee,0.5138
+always great,0.5086
+superb,0.5034
+enjoy hot,0.5002
+recommend green,0.4982
+latte,0.4965
+milk yay,0.4965
+blend taste,0.4956
+passionate staff,0.4935
+iced,0.4926
+sundays seem,0.4889
+still open,0.4852
+disappoints coffee,0.4841
+photogenic friend,0.4805
+closed,0.478
+coffee prefer,0.4747
+fast service,0.4718
+great light,0.4691
+oat milk,0.465
+sit table,0.465
+americano,0.4635
+friendly passionate,0.4605
+get free,0.4579
+black,0.4516
+tie,0.4487
+chain coffee,0.4487
+reminds espresso,0.4478
+facing ocean,0.4361
+espresso would,0.434
+coffee ordered,0.4213
+ferry building,0.4208
+espresso,0.4184
+american coffee,0.418
+open saturday,0.4152
+coffee hot,0.4117
+get coffee,0.4045
+regular customer,0.4043
+coffee order,0.4032
+mother day,0.3984
+reliable wifi,0.3943
+helpful holiday,0.3865
+perfect every,0.3849
+tea,0.3815
+francisco mother,0.3798
+ordered soy,0.3699
+option,0.3665
+coffee wow,0.3587
+hill coffee,0.3529
+coffee last,0.3378
+like coffee,0.3371
+blend delicious,0.3071
+coffee feel,0.3064
+couple month,0.2205
+good app,0.207

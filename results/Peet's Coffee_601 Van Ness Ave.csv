@@ -1,171 +1,285 @@
 keyword,weight
-coffee,17.6279
-good,5.1215
-service,3.9656
-great,3.712
-friendly,3.4195
-excellent,2.7340999999999998
-love,2.5945
-starbucks,2.5844
-tea,2.4104
-peets,1.8285
-staff,1.7503
-shop,1.7465000000000002
-nice,1.697
-place,1.5406
-public,1.4588
-cafe,1.451
-morning,1.4177000000000002
-open,1.2656
-quick,1.2321
-clean,1.1859
-chocolate,1.1385
-space,1.1239
-people,1.0756000000000001
-average,1.0422
-fast,0.9013
-eduroam,0.8967
-friends,0.8894
+coffee,14.9983
+good coffee,3.4233000000000002
+great,2.8161
+peet coffee,2.7996
+starbucks,2.725
+coffee good,2.5103
+coffee shop,2.3640999999999996
+excellent service,2.3236
+friendly,2.0903
+great coffee,2.0397
+tea,1.6509
+excellent,1.6475
+friendly staff,1.5996000000000001
+cup coffee,1.5546000000000002
+peets,1.4101
+public open,1.3852
+service,1.3536000000000001
+coffee place,1.3498999999999999
+open space,1.3393000000000002
+chocolate,1.3131
+good,1.3072
+place,1.2732
+line,1.2585
+staff,1.2111
+coffee tea,1.2031
+cafe,1.1698
+morning,1.0749
+permanently closed,1.0
+superior starbucks,1.0
+strong coffee,1.0
+get eduroam,1.0
+good crossaints,1.0
+love,1.0
+quick line,1.0
+great service,1.0
+awesome cafe,1.0
+great staff,0.9743
+dirty coffee,0.9699
+best pete,0.9697
+quick,0.9642
+eduroam,0.9366
+good tea,0.9329
+hot chocolate,0.9167
+tea wonderful,0.9138
+friendly people,0.9115
+service friendly,0.9101
+great cookie,0.896
+morning coffee,0.8864
+great place,0.8815
 closed,0.8768
-peet,0.855
-wonderful,0.8543000000000001
+coffee poor,0.8738
+service clean,0.87
+line coffee,0.8691
+get,0.8671
+poor coffee,0.8649
+peets starbucks,0.8645
+chocolate yummy,0.8609
 permanently,0.8486
-pete,0.8155
-drinks,0.7815
-cookie,0.7722
-lines,0.7623
-customers,0.7599
-cup,0.7533000000000001
-crossaints,0.7324
-wifi,0.7319
-watching,0.6982
-best,0.6806
-hangout,0.6512
-warm,0.6358
-poor,0.6283
-aroma,0.6118
-strong,0.6023
-cleanliness,0.5951
-happy,0.5951
-awesome,0.5946
-difference,0.5882
+free coffee,0.8445
+coffee friendly,0.8415
+shop friendly,0.8412
+good environment,0.841
+outlet great,0.8398
+coffee always,0.8373
+hangout friend,0.8363
+advertised wifi,0.8293
+place coffee,0.826
+fast service,0.8194
+downtown coffee,0.8191
+crossaints,0.8182
+three starbucks,0.7955
+wifi working,0.7912
+clean,0.7875
+mocha friendly,0.7849
+wonderful aroma,0.7846
+watching,0.7756
+quickly served,0.7725
+good mocha,0.767
+average downtown,0.7646
+friend,0.7599
+pete,0.756
+service cleanliness,0.7558
+place work,0.7541
+cookie break,0.7524
+people watching,0.7491
+aroma kind,0.7424
+cleanliness store,0.7379
+service quickly,0.7303
+cofee fast,0.7272
+wifi,0.727
+cookie,0.7257
+peet good,0.7209
+green tea,0.7165
+warm welcome,0.7143
+environment hangout,0.7122
+chocolate orange,0.7107
+friendly associate,0.71
+nice place,0.7059
+coffe tea,0.7032
+still coffee,0.7013
+cup,0.7006
+hangout,0.6993
+time excellent,0.6986
+good one,0.6916
+space efficient,0.6908
+local coffee,0.6897
+nice peets,0.6895
+cleanliness,0.6891
+consistent friendly,0.6883
+pete around,0.6863
+coffe taste,0.6832
+next public,0.6791
+coffee snack,0.6784
+dark chocolate,0.6782
+friendly welcoming,0.6778
+poor wi,0.6734
+bit dirty,0.6701
+san francisco,0.6683
+average cofee,0.668
+orange latte,0.6677
+people happy,0.6674
+aroma,0.667
+welcome,0.6657
+make right,0.6656
+peet,0.6644
+coffee great,0.6642
+typical coffee,0.6618
+dirty,0.6613
+coffee bakery,0.6601
+nice,0.6595
+favorite coffee,0.6584
+place cup,0.6572
+wonderful staff,0.6559
+amazing coffee,0.6548
+tea outstanding,0.6541
+welcome soon,0.6528
+cafe satisfied,0.651
+top line,0.6445
+outstanding coffee,0.6427
+peets next,0.6422
+coffee pastries,0.6385
+sit enjoy,0.637
+happy love,0.6324
+best,0.6302
+top,0.6284
+walter service,0.6274
+good bagles,0.6272
+public,0.6271
+starbucks passed,0.6267
+strong,0.6222
+next make,0.6216
+open,0.6172
+fast,0.6168
+taste goog,0.6144
+yummy lol,0.6134
+poor,0.6091
+place morning,0.6085
+pound coffee,0.6078
+sugar matcha,0.6055
+average,0.6031
+every morning,0.6015
+efficient counter,0.5932
+prefer peets,0.5924
+super friend,0.5919
+bagles good,0.5907
+nice coffee,0.5902
+seat customer,0.5881
+coffee ok,0.5877
+coffee pound,0.5869
+baristas always,0.5859
+tea place,0.5829
 downtown,0.5817
-friend,0.5816
-walter,0.5662
-makes,0.5637
-yummy,0.5395
-latte,0.5382
-superior,0.5375
-dirty,0.5277
-francisco,0.5251
-welcome,0.5248
-overpriced,0.5188
-kind,0.5139
-quickly,0.5109
-right,0.5083
-welcoming,0.4886
-snacks,0.4771
-served,0.468
-goes,0.4531
-consistent,0.4479
-line,0.4412
-cofee,0.4336
-expensive,0.4308
-work,0.4266
-break,0.4209
-favorite,0.41879999999999995
-hot,0.4164
-environment,0.4155
-san,0.4051
-bit,0.3987
-remodel,0.3898
-slow,0.3844
-regulars,0.372
-time,0.3699
-counter,0.3428
-taste,0.3352
-milk,0.3287
-efficient,0.3229
-outlets,0.322
-bakery,0.3184
-pastries,0.3175
-local,0.3154
-mocha,0.3135
-helpful,0.3046
-drinkable,0.2971
-tables,0.294
-connected,0.2918
-soon,0.2909
-wi,0.2897
-market,0.28709999999999997
-free,0.2744
-starsomething,0.2651
-enjoy,0.265
-afternoon,0.2619
-polite,0.261
-orange,0.2582
-dire,0.2578
-customer,0.2566
-sugar,0.2561
-baristas,0.2553
-coffe,0.255
-prefer,0.2549
-new,0.2463
-kindly,0.2447
-fi,0.2417
-sidewalk,0.2376
-decent,0.2306
-superb,0.2289
-little,0.2282
-uplifting,0.2279
-caffeine,0.2275
-really,0.227
-seats,0.2259
-huge,0.2234
-walk,0.2188
-street,0.2157
-casual,0.2155
-bagles,0.21
-decor,0.2081
-fun,0.205
-mini,0.1943
-cash,0.1942
-lesbian,0.1883
-green,0.1836
-addicted,0.1801
-buy,0.1755
-chicken,0.1741
-smile,0.1739
-starbuck,0.1688
-easily,0.1648
-working,0.157
-smiles,0.148
-amazing,0.1461
-pound,0.145
-roasted,0.1394
-comfortable,0.1393
-card,0.1353
-impress,0.1352
-light,0.1347
-cream,0.1331
-advertised,0.1304
-dark,0.123
-door,0.1196
-cramped,0.1049
-almond,0.0761
-lol,0.0597
-brew,0.0594
-hour,0.049
-cheap,0.0427
-shops,0.0418
-satisfied,0.041
-daily,0.0376
-women,0.0349
-white,0.0289
-woman,0.0218
-freshly,0.0054
-grind,-0.0008
-bucks,-0.0078
-apartment,-0.0299
-corporate,-0.0303
-getting,-0.045
+however overpriced,0.5745
+buy coffe,0.5718
+great local,0.5691
+milk latte,0.5671
+customize drink,0.5658
+love connected,0.5658
+quality coffee,0.5642
+good people,0.5635
+always good,0.5622
+awesome,0.5619
+starbuck coffee,0.5612
+tea latte,0.5574
+coffee prompt,0.5563
+coffee baristas,0.5559
+pastries nice,0.5548
+quick customize,0.554
+coffee one,0.5532
+hot,0.5514
+staff nice,0.5513
+really good,0.5508
+superior,0.5477
+nice decor,0.5476
+happy,0.5468
+shop typical,0.5464
+free wifi,0.544
+staff always,0.5435
+need remodel,0.5432
+place excellent,0.538
+overpriced,0.5374
+market two,0.5335
+however expensive,0.5326
+competitor starbucks,0.5304
+get coffee,0.5292
+snack selection,0.5202
+coffee friend,0.5199
+space leading,0.519
+better starbucks,0.5181
+goodness space,0.5149
+coffee strong,0.5134
+service fast,0.513
+love location,0.5081
+coffee though,0.5072
+decorated cafe,0.5068
+service nice,0.5062
+brown sugar,0.5047
+staff one,0.5035
+street market,0.5031
+staff friendly,0.5023
+starbucks almond,0.5022
+greet kindly,0.5021
+wifi impress,0.5018
+uplifting son,0.5005
+coffee typical,0.4977
+little slow,0.4967
+daily coffee,0.4946
+walk specialty,0.4906
+coffee pretty,0.4876
+coffee exemplary,0.486
+good place,0.4793
+starbucks like,0.4774
+cafe employee,0.4761
+face morning,0.4732
+remodel,0.4655
+coffee enthusiast,0.4641
+white mocha,0.4609
+decent service,0.4604
+shop serving,0.4592
+coffee date,0.4586
+chicken chorizo,0.458
+oat milk,0.452
+one,0.447
+feel coffee,0.4468
+coffee tee,0.4447
+coffee quite,0.4439
+heard coffee,0.4439
+service table,0.4435
+latte drinkable,0.4401
+grind coffee,0.4399
+welcoming friend,0.4371
+buck coffee,0.4345
+always something,0.4335
+bit,0.4331
+making coffee,0.4314
+ordered coffee,0.4307
+prefer,0.4292
+polite favorite,0.4286
+cream barista,0.4227
+always nice,0.4076
+shop dire,0.4051
+quick coffee,0.3985
+wifi code,0.3931
+photography coffee,0.3912
+leave cafe,0.388
+favorite interior,0.3863
+coffe freshly,0.3804
+milk usually,0.365
+bottle coffee,0.3556
+love peets,0.3537
+coffee work,0.3495
+friendly polite,0.3438
+getting free,0.3416
+always clean,0.3401
+variety drink,0.3376
+break,0.3367
+peets coffee,0.3325
+around,0.3192
+best coffe,0.3157
+sean daughter,0.3133
+michellle love,0.3117
+coffe shops,0.3025
+latte,0.2928
+tripple white,0.291

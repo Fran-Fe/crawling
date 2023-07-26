@@ -1,43 +1,50 @@
 keyword,weight
-coffee,3.012
-good,1.4572
-sit,0.8935
-room,0.8045
-pricey,0.7184
-bad,0.6034
-espresso,0.601
-spacious,0.5888
-lattes,0.5724
-overpriced,0.5275
-lobby,0.5184
-bright,0.4796
-useless,0.4475
-seating,0.4441
-inside,0.4154
-lot,0.4134
-reviews,0.4112
-hours,0.4101
-bar,0.4038
-enjoyed,0.4027
-11am,0.3836
-6am,0.3809
-money,0.3633
-insanely,0.3621
-equator,0.334
-worth,0.279
-work,0.2741
-customer,0.2733
-looked,0.2663
-great,0.2554
-clancy,0.242
-cafes,0.2268
-mediocre,0.2242
-service,0.2168
-isn,0.2082
-mocha,0.2043
-menu,0.1866
-pasties,0.185
-automatic,0.1417
-food,0.126
-muffin,0.0832
-paid,0.0425
+coffee,2.6462
+good coffee,1.589
+coffee lot,1.4362
+room sit,1.3952
+overpriced bad,0.9162
+good latte,0.864
+latte pricey,0.8534
+useless business,0.8352
+coffee good,0.8311
+coffee bright,0.813
+review overpriced,0.8128
+insanely useless,0.8042
+bad,0.7891
+great customer,0.7817
+enjoyed mocha,0.7575
+useless,0.7341
+bar inside,0.7034
+overpriced,0.7018
+equator coffee,0.6993
+inside lobby,0.6966
+pricey,0.6958
+service enjoyed,0.6919
+sit,0.6857
+coffee bar,0.6776
+latte,0.6745
+worth money,0.6659
+spacious setup,0.6416
+bright spacious,0.633
+lobby clancy,0.6323
+lobby,0.6157
+sit around,0.6076
+espresso muffin,0.5999
+insanely,0.5809
+food menu,0.5756
+definitely worth,0.5461
+looked review,0.5444
+enjoyed,0.5382
+good,0.5375
+listed food,0.5352
+menu counter,0.5304
+automatic espresso,0.524
+worth,0.5231
+good espresso,0.5213
+cafe actually,0.5132
+espresso,0.4796
+business hour,0.4633
+customer service,0.4546
+cafe,0.4332
+espresso place,0.4317

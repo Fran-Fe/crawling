@@ -1,215 +1,324 @@
 keyword,weight
-coffee,6.1174
-good,5.4551
-service,3.9339
-smoothies,2.2563
-tamales,2.2109
-friendly,2.0978
-juice,1.8855
-great,1.7719
-cream,1.7176
-juices,1.5469
-food,1.5089
-delicious,1.4206999999999999
-open,1.3805999999999998
-spacious,1.3752
-clean,1.3012000000000001
-best,1.2528000000000001
-wifi,1.2327
-nice,1.2069
-orange,1.199
-sandwiches,1.1821
-excellent,1.1785
-thank,1.0665
+good,4.7214
+good service,4.4518
+service,3.3494
+coffee,3.2226
+orange juice,2.6208
+juice,2.4815
+ice cream,1.8352
+friendly,1.7685
+food,1.5671
+smoothy,1.5198
+delicious,1.3942
+natural orange,1.3345
+thank feedback,1.3266
+excellent coffee,1.246
+sandwich,1.2239
+hot dog,1.0013999999999998
+clean place,1.0
+best,1.0
+delicious appetizing,1.0
+nice,1.0
+quiet,1.0
 mmm,1.0
-quiet,0.9707
-cheese,0.9547
-sandwich,0.8815
-ample,0.8676
-warms,0.8476
-breakfast,0.8442000000000001
+great smoothy,1.0
+opens,1.0
+warms soul,1.0
+friendly people,1.0
+well,1.0
+excellent attention,1.0
+clean,0.9806
+spacious ample,0.9774
+service friendly,0.973
+ample space,0.963
+cream cheese,0.9624
+cheese,0.9598
+good food,0.9526
+excellent,0.9321
+spacious,0.9266
+heccelente good,0.921
+coffee service,0.9127000000000001
+warms,0.9014
+fresh juice,0.9007
+early great,0.8944
+amazing pastry,0.8863
+love dog,0.886
+caramel vanilla,0.8839
+ample,0.8739
+best coffee,0.8728
+juice smoothy,0.8702
+service everything,0.864
+open early,0.8582
+rich coffee,0.8495
+bagel coffee,0.8466
 attention,0.8425
-place,0.8225
-variety,0.8112999999999999
-poor,0.7972
-appetizing,0.7925
-cashier,0.7815
-pastries,0.7737
-soul,0.7644
-homeless,0.7432
-morning,0.7381
-free,0.7368
-early,0.7229
-cafe,0.6399
-people,0.6349
-opens,0.6229
-rude,0.6181
-prices,0.6122
-natural,0.611
-heccelente,0.5906
-noon,0.5813
-smoothie,0.5751
-restroom,0.5616
-bad,0.55
-space,0.5494
-caffeine,0.5469
-fresh,0.5359
-badly,0.5305
-warm,0.5138
-dog,0.5067
-vanilla,0.5059
-caramel,0.5037
-day,0.4946
-feedback,0.48610000000000003
-lunching,0.4735
-cozy,0.4693
-11,0.4678
-lady,0.4677
-afternoon,0.4602
-bagels,0.4564
-saturday,0.4555
-rich,0.4537
-bathroom,0.4511
-earlier,0.4451
-love,0.44
-cheap,0.4374
-cakes,0.4368
-freshly,0.4314
-flavorful,0.4245
-drink,0.4226
-tourists,0.4173
-provide,0.4165
-amazing,0.4144
-peace,0.4049
-shop,0.3912
-needs,0.3894
-treatment,0.3859
-fun,0.3858
-happy,0.38449999999999995
-mornings,0.3817
-chocolate,0.3801
-password,0.3771
-wayyyyyyyyyy,0.3675
-desired,0.3666
-expect,0.3661
-relaxed,0.3658
-relax,0.365
-introduction,0.3629
-meal,0.3606
-starbucks,0.3602
-tasty,0.357
-hungry,0.3512
-menu,0.34819999999999995
-lunch,0.3442
-bless,0.3413
-fast,0.3381
-mission,0.33740000000000003
-internet,0.3316
-ice,0.3315
-lunchtime,0.3315
-microwave,0.331
-sad,0.3291
-sorry,0.3151
-quick,0.3144
-mexican,0.3071
-july,0.3032
-upset,0.3021
-addicts,0.302
-loved,0.29850000000000004
-blueberry,0.2968
-shrimp,0.2914
-beef,0.2868
-taco,0.277
-staff,0.2759
-tea,0.2741
-hope,0.2669
-cavernous,0.2669
-leaves,0.2661
-cleanliness,0.2607
-hot,0.2551
-horrible,0.24810000000000001
-sodas,0.2469
-drug,0.2442
-burned,0.2394
-sweets,0.2309
-chicken,0.2273
-restaurant,0.2265
-picture,0.2259
-forever,0.2253
-pastry,0.2218
-hard,0.2215
-cold,0.2158
-favorite,0.2127
-allergic,0.2103
-disrespectful,0.2088
-employes,0.2051
-cafetazo,0.2035
-diaper,0.2032
-costumer,0.2021
-menus,0.1915
-onion,0.1865
-difficult,0.1861
-00,0.1859
-worth,0.1842
-greasy,0.1821
-tomato,0.179
-unpleasant,0.1785
-apologize,0.1734
-fi,0.1718
-sell,0.1705
-lizzy,0.1626
-punto,0.1623
-need,0.1622
-bagel,0.1578
-beagle,0.1555
-real,0.1543
-mexico,0.1541
-soccer,0.1523
-tasted,0.1504
-change,0.1467
-black,0.1371
-ham,0.1359
-terribly,0.1345
-ate,0.1284
-customers,0.1272
-tirelessly,0.1263
-carrot,0.1255
-welcoming,0.1222
-surprises,0.1208
-smile,0.1201
-work,0.1176
-stale,0.1073
-surprised,0.1066
-wi,0.1054
-cake,0.0969
-easily,0.0907
-pineapple,0.0814
-surprise,0.0799
-apologies,0.0775
-working,0.0752
-latino,0.073
-wasted,0.0693
-7am,0.0691
-sale,0.0641
-week,0.0632
-daytime,0.0631
-taste,0.0619
-spicy,0.0617
-walk,0.042
-wallet,0.042
-counter,0.0403
-condescending,0.027
-carolyn,0.0232
-welcome,0.0217
-distraction,0.0085
-enjoy,-0.0025
-cup,-0.0087
-car,-0.0334
-marina,-0.0421
-old,-0.0432
-sucks,-0.0577
-trash,-0.0684
-customer,-0.0755
-minutes,-0.0798
-cleaning,-0.0829
-employees,-0.0876
+appetizing,0.8319
+variety food,0.8291
+food service,0.8274
+great,0.8201
+early,0.8072
+juice freshly,0.8048
+open,0.8029
+coffee smoothie,0.7981
+cream juice,0.7881
+free coffee,0.7854
+great price,0.7852
+soul,0.7753
+earlier noon,0.7715
+coffee need,0.7587
+noon expect,0.755
+smoothie sandwich,0.7486
+sandwich ice,0.7337
+chicken beef,0.7292
+juice fresh,0.7285
+wayyyyyyyyyy earlier,0.7251
+nice breakfast,0.7236
+dog picture,0.7218
+vanilla,0.7212
+caramel,0.7206
+cold morning,0.7181
+treatment lady,0.7126
+coffee shop,0.7101
+put caramel,0.7097
+service poor,0.7064
+beef tamale,0.7016
+cheese beagle,0.6986
+good bagel,0.6897
+meal coffee,0.6891
+sell caffeine,0.6804
+people,0.6791
+place,0.6728
+noon,0.6719
+caffeine free,0.6703
+loved orange,0.6661
+close wayyyyyyyyyy,0.6622
+saturday afternoon,0.6589
+cozy cold,0.6577
+smoothy ice,0.6547
+lady morning,0.6506
+dog,0.6505
+ordered chicken,0.6493
+free wifi,0.6455
+delicious natural,0.6453
+july apologize,0.6451
+everything,0.6427
+pastry drink,0.6423
+heccelente,0.6412
+morning cuz,0.6372
+service badly,0.6356
+provide good,0.6354
+cream,0.6337
+warm cozy,0.6321
+coffee good,0.632
+pastry excellent,0.628
+sandwich lunch,0.6259
+excellent free,0.6259
+afternoon got,0.6245
+free wi,0.6235
+pastry,0.6212
+wifi warm,0.6187
+smoothy mission,0.6169
+caffeine,0.6161
+service variety,0.6152
+pastry stale,0.614
+fast wifi,0.6121
+feedback love,0.604
+breakfast place,0.6036
+cheese sandwich,0.6034
+freshly squeezed,0.6021
+badly durty,0.5993
+afternoon,0.5989
+lady,0.5989
+microwave taste,0.5985
+service internet,0.5976
+delicious blueberry,0.5949
+surprise bagel,0.5904
+starbucks,0.5894
+breakfast lunching,0.5893
+coffee many,0.587
+poor,0.5867
+restroom employes,0.5836
+rich,0.5833
+coffee god,0.5831
+flavorful cofcee,0.5813
+went saturday,0.5797
+cream pastry,0.5783
+experience morning,0.5729
+coffee mexican,0.5705
+fun pasteries,0.5696
+homeless drug,0.5666
+quick thank,0.5663
+coffee breakfast,0.5642
+service amazing,0.5636
+every day,0.5634
+rude customer,0.5627
+taco bell,0.562
+cup mexico,0.5614
+morning leaf,0.5608
+fresh carrot,0.5584
+lot desired,0.5573
+juice cake,0.5549
+coffee smoothy,0.5527
+starbucks go,0.5502
+shop mission,0.5486
+wi fi,0.5462
+personally loved,0.5458
+heated microwave,0.5436
+bagel cafe,0.5433
+pasteries fast,0.5425
+counter lunchtime,0.541
+lunching,0.5382
+morning important,0.5363
+blueberry smoothie,0.5361
+internet,0.536
+kick starbucks,0.5342
+space,0.5342
+july,0.5338
+breakfast burrito,0.5309
+lunching etc,0.5274
+starting day,0.5214
+week fresh,0.5211
+beagle ham,0.5207
+fresh orange,0.516
+coffee bagel,0.5156
+may soccer,0.5151
+open every,0.5142
+shrimp good,0.5142
+peace samdog,0.5115
+chocolate natural,0.5104
+coffee cake,0.5091
+hungry hoppo,0.5087
+wifi great,0.506
+enjoy meal,0.5056
+pastry sandwich,0.5023
+soccer world,0.4998
+great service,0.498
+tamales many,0.4957
+stuffed cheese,0.4956
+hello hungry,0.4939
+free,0.493
+lunchtime walk,0.4912
+cake hot,0.491
+beef,0.4878
+punto open,0.4876
+juice ice,0.4875
+cashier hot,0.4869
+coffee establishment,0.4862
+daytime tv,0.4845
+hot tea,0.484
+nice food,0.4837
+hot chocolate,0.4836
+need introduction,0.4815
+diaper changed,0.4807
+buzzed cashier,0.4799
+order breakfast,0.4799
+tasty treat,0.4795
+shop,0.474
+cafetazo drink,0.4736
+work tirelessly,0.4735
+overall cleanliness,0.472
+cofcee tasted,0.4711
+tomato employee,0.4698
+product worth,0.4684
+cheese waste,0.4628
+sandwich coffee,0.4626
+strong coffee,0.4623
+smile free,0.4602
+ask cream,0.4573
+piece shrimp,0.4552
+world cup,0.4546
+amazed coffee,0.4522
+great job,0.4509
+afternoon delicious,0.4472
+francisco homeless,0.4408
+needed diaper,0.4368
+host tasty,0.4357
+homeless,0.4351
+try staff,0.4322
+cheap price,0.4312
+customer terribly,0.4294
+make tamale,0.429
+cheese onion,0.4269
+lunchtime,0.4261
+cheese bell,0.4246
+good coffee,0.4242
+sandwich would,0.4226
+change thank,0.422
+bagel bad,0.4213
+bad food,0.4197
+tamales,0.4175
+bagel happy,0.4175
+tamale sandwich,0.416
+sorry sandwich,0.415
+juice plus,0.4139
+bagel,0.4115
+welcoming smile,0.4102
+drug addict,0.4093
+onion tomato,0.4064
+cake wait,0.4036
+chicken,0.4023
+service need,0.4001
+talk staff,0.3978
+realize burned,0.3968
+hoppo sorry,0.3967
+cashier asked,0.396
+owner sad,0.3959
+got surprise,0.3922
+cleanliness,0.3897
+need password,0.3887
+need thank,0.3877
+try coffee,0.384
+horrible experience,0.3833
+carrot juice,0.3827
+bathroom door,0.3822
+sorry tamales,0.3809
+menu counter,0.378
+daniela hard,0.3774
+poor guy,0.3763
+dear lizzy,0.3728
+best customer,0.3725
+want sale,0.371
+morning rude,0.3695
+hungry,0.3689
+sandwich board,0.3658
+diaper asked,0.3635
+mexican style,0.3634
+went cashier,0.361
+place sandwich,0.3601
+lizzy definitely,0.3599
+bite employee,0.3577
+mexico little,0.3491
+difficult managing,0.3447
+coffee pleasant,0.3443
+complex menu,0.3407
+mike sad,0.3348
+hope find,0.3335
+waiting costumer,0.3312
+need cashier,0.3281
+lizzy,0.3279
+hard answer,0.325
+latino guy,0.3148
+homeless secret,0.3113
+place happy,0.3099
+working counter,0.3088
+pineapple smoothie,0.306
+old lady,0.2913
+smoothie allergic,0.2893
+upset serve,0.2888
+complain rude,0.287
+unpleasant treat,0.2788
+bad area,0.2672
+adding pineapple,0.2489
+allergic flat,0.2419
+however latino,0.2408
+latino,0.2395
+extremely rude,0.2342
+disrespectful even,0.2292
+wallet cash,0.2121
+new smoothie,0.2121
+wallet car,0.21
+cash buying,0.2062
+use restroom,0.1957
+open immediately,0.1565
+rude condescending,0.1561
+pineapple,0.1129

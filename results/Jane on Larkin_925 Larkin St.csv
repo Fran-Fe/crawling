@@ -1,543 +1,1230 @@
 keyword,weight
-coffee,52.7275
-food,22.8627
-great,21.7843
-breakfast,20.4544
-good,17.4531
-delicious,13.9399
-nice,13.7286
-bakery,9.8599
-cafe,9.1428
-bread,8.792
-sandwich,6.9538
-avocado,6.8835
-place,6.7515
-baked,6.6662
-cookies,5.7445
-best,5.536099999999999
-sandwiches,5.224
-pastries,4.9649
-friendly,4.9145
-tasty,4.8814
-vegan,4.1199
-toast,4.1025
-brunch,3.7959
-menu,3.6651
-espresso,3.5654
-healthy,3.5533
-amazing,3.4778
-salads,3.477
-tea,3.3135000000000003
-latte,3.2536
-dishes,3.094
-fresh,2.8416
-salad,2.7233
-excellent,2.7115
-pastry,2.6929
-clean,2.5911
-cute,2.3929
-wifi,2.2131
-lunch,2.1452
-cappuccino,2.1372
-butter,2.1253
-awesome,2.037
-pudding,1.9767000000000001
-croissant,1.9698
-environment,1.9666
-perfect,1.9477
-milk,1.9474
-chocolate,1.9419
-banana,1.9353
-expensive,1.9086
-staff,1.8674
-cookie,1.8351
-pricey,1.7902
-coffe,1.7113
-salmon,1.7003
-pretty,1.6373
-quality,1.5655999999999999
-love,1.5356999999999998
-busy,1.4826000000000001
-cinnamon,1.4825
-trendy,1.4807000000000001
-fantastic,1.4434
-yummy,1.4361000000000002
-shop,1.4306
-bad,1.4228
-seating,1.4162000000000001
-eatery,1.4083
-goods,1.3900000000000001
-jane,1.3764
-cozy,1.3276
-nitro,1.3225
-favorite,1.2968
-atmosphere,1.268
-croissants,1.2676
-noisy,1.2675
-homeless,1.2548
-brew,1.2367
-lovely,1.2185000000000001
-vanilla,1.1959
-bacon,1.1955
-gem,1.1918
-decent,1.189
-spot,1.1753
-breads,1.1142
-little,1.1107
-crowded,1.1049
-granola,1.0977
-small,1.0931
-restaurant,1.0739
-bright,1.0685
-service,1.0612
-kitchen,1.059
-café,1.0296
-quiche,1.0151
+coffee,33.0678
+great coffee,21.2951
+breakfast,13.3507
+good coffee,10.9749
+good food,10.019
+good,9.0165
+nice,8.1713
+great,8.1163
+food,8.0664
+delicious,7.8898
+baked good,7.0332
+avocado toast,5.9924
+bakery,5.9763
+sandwich,5.7707999999999995
+great food,5.6957
+coffee delicious,5.2311
+food great,5.1419
+place,4.914
+cafe,4.6188
+best,4.0919
+best coffee,3.9644
+bread,3.9379
+pastry,3.9299999999999997
+coffee good,3.9052
+coffee shop,3.8419
+coffee great,3.7237999999999998
+excellent coffee,3.6771
+nice place,3.6452
+vegan,3.6418
+great breakfast,3.641
+good bread,3.6399
+good breakfast,3.432
+egg sandwich,3.3573
+nice cafe,3.0871
+avocado,2.8644
+good sandwich,2.8365
+tea,2.4881
+salad sandwich,2.4183
+coffee pastry,2.3706
+best bread,2.3399
+amazing food,2.2615
+coffee nice,2.2231
+great bakery,2.0516
+nothing,2.0442
+bread pastry,2.0302
+favorite,1.9626000000000001
+butter banana,1.9487
+delicious food,1.9386999999999999
+avocado mash,1.8611
+menu breakfast,1.8452000000000002
+banana toast,1.8278
+tasty,1.8134000000000001
+chicken salad,1.7871000000000001
+bad,1.7802
+perfect breakfast,1.7549
+delicious cooky,1.7505
+healthy,1.7346
+sausage biscuit,1.7159
+bakery cafe,1.6903000000000001
+favorite coffee,1.6465
+little bakery,1.6202999999999999
+delicious baked,1.6194000000000002
+stumptown coffee,1.6036
+bakery eatery,1.5651000000000002
+coffe,1.5574
+french toast,1.5244
+salmon,1.5213999999999999
+excellent breakfast,1.5056
+latte great,1.5044
+breakfast spot,1.4954
+fantastic coffee,1.4859
+one favorite,1.4821
+green tea,1.4781
+place coffee,1.4747
+excellent avocado,1.4641
+healthy food,1.4627
+vegan dish,1.4559
+espresso,1.4523
+fantastic,1.44
+fresh food,1.4272
+great place,1.4140000000000001
+nitro,1.4083
+awesome,1.405
+best avocado,1.4029
+amazing coffee,1.3900000000000001
+great pastry,1.3848
+bread sandwich,1.3835000000000002
+food good,1.3798
+toast,1.3723
+pastry breakfast,1.3572
+brunch,1.3566
+cozy,1.3526
+friendly,1.3479
+vegan gluten,1.3469
+friendly staff,1.3465
+bread amazing,1.3338
+best croissant,1.327
+always delicious,1.3262
+smoked salmon,1.323
+excellent food,1.319
+cooky,1.3031000000000001
+great sandwich,1.2930000000000001
+breakfast lunch,1.2873999999999999
+coffee cool,1.2858
+muffin cooky,1.2819
+breakfast sandwich,1.2809
+delicious brunch,1.2614
+soup salad,1.2501
+quality food,1.2463000000000002
+bread delicious,1.2452
+decent coffee,1.2355
+vanilla,1.2269999999999999
+mango chicken,1.2183
+bakery great,1.2125
+breakfast nice,1.2123
+nitro coffee,1.1996
+healthy salad,1.1829999999999998
+white sandwich,1.1802000000000001
+tea latte,1.1768
+rice porridge,1.1720000000000002
+food awesome,1.1705
+perfect,1.1676
+salad chicken,1.1497
+croissant,1.1482
+baked egg,1.1431
+bread baked,1.1400000000000001
+chocolate,1.1371
+baked,1.1225
+really good,1.1137
+salad pretty,1.1083
+quick breakfast,1.1031
+breakfast brunch,1.0977000000000001
+jane bakery,1.0960999999999999
+sf,1.0944
+great experience,1.0933
+staff friendly,1.0916000000000001
+black rice,1.0913
+fresh baked,1.0788
+cute,1.0711
+oat milk,1.0359
+healthy breakfast,1.0077
+homeless people,1.0057
+cool place,1.0
+nitro stumptown,1.0
+good pricey,1.0
+go jane,1.0
+good coffe,1.0
+fantastic chai,1.0
+crowded,1.0
+give,1.0
+absolutely delicious,1.0
+nice breakfast,1.0
+good thing,1.0
+good wifi,1.0
+smell good,1.0
 wrong,1.0
-chicken,0.9879
-eggs,0.9876
-tomato,0.9864999999999999
-neighborhood,0.9777
-biscuit,0.9588
-sf,0.9482999999999999
+place gem,1.0
+awesome sandwich,1.0
+overrated,1.0
+still awake,1.0
+sooo good,1.0
+banana,0.9914
+vegetarian,0.9825999999999999
+healthy brunch,0.9752
+delicious environment,0.9739
+chia pudding,0.9730000000000001
+food always,0.9719
+good menu,0.9681
+gem,0.9594
+good tea,0.9569
+coffee also,0.9566000000000001
+breakfast loved,0.9555
+milk,0.9546000000000001
+coffee food,0.9528
+bad nothing,0.9521
+quality breakfast,0.9491
 cool,0.9466
-just,0.9448000000000001
+banana bread,0.9460000000000001
+nothing special,0.9451
+coffee tasty,0.9438
+great cappuccino,0.9436
+favorite glad,0.9427
+lovely bakery,0.9389
+thank support,0.9383
+homeless,0.938
+food sweet,0.9359
+restaurant,0.9324
+nice spot,0.9311
 awake,0.9306
-yogurt,0.9257
-overrated,0.9252
-soup,0.9092
-breakfasts,0.8879
-tuna,0.885
-overpriced,0.8718999999999999
-coffees,0.871
-egg,0.8677
-enjoyed,0.8562000000000001
+biscuit,0.928
+nice team,0.9261
+delish coffee,0.9218
+barista,0.9193
+saturday morning,0.9183
+cinnamon roll,0.9143000000000001
+food decent,0.9135
+coffee maybe,0.9126
+fast friendly,0.9051
+excellent,0.9027000000000001
+pourover good,0.8966
+perfect latte,0.8946
+delicious bread,0.8938
+support kind,0.8932
+team nice,0.8905
+best baguette,0.8891
+pour great,0.8868
+cafe good,0.8856
+yummy food,0.8825999999999999
+pastry nice,0.8824
+dont hesitate,0.8815
+wifi,0.8807
+service clean,0.8805
+good service,0.8801
+salad,0.8795999999999999
+decent seating,0.8778
+nice work,0.877
+light breakfast,0.8769
+kind word,0.8752
+environment great,0.8748
+excellent sandwich,0.8745
+thank,0.8729
+porridge,0.8721
+jane,0.866
+salmon delicious,0.8655
+delicious quiche,0.8653
+food coffee,0.8633
+nothing drinkable,0.8631
+go,0.8597
+glad enjoyed,0.8585
+appreciate love,0.8555
+italian breakfast,0.8554
 chai,0.8543
+sandwich delicious,0.8542
+excellent bread,0.8528
+delicious muffin,0.8526
+busy food,0.8501
+vanilla latte,0.85
+pricey,0.848
+coffee straightforward,0.8466
+tea macha,0.8443
 stumptown,0.8431
-sooo,0.8428
+egg delicious,0.8397
+smoothie bowl,0.8379
+thing,0.8375
+tasty sandwich,0.8374
+something saturday,0.836
+tasty breakfast,0.8354
+coffee service,0.8344
+egg firm,0.8337
+yummy breakfast,0.8331
+cake,0.8324
+amazing dont,0.8312
 smell,0.828
-thank,0.8166
-smoothie,0.8104
-sausage,0.8015000000000001
-barista,0.7858999999999999
-fast,0.7783
-favorites,0.7668
-things,0.7604
-vegetarian,0.756
-sweets,0.7482
-bake,0.7464999999999999
-drinks,0.7382
-cafes,0.7345999999999999
-slow,0.7323999999999999
-rich,0.7272
-french,0.7267
+bake bread,0.825
+try hemp,0.825
+delicious pastry,0.8231
+sexy baristas,0.8216
+love,0.8205
+better food,0.8197
+friendly yummy,0.8189
+sooo,0.8181
+bread town,0.818
+place coffe,0.817
+bakery tasty,0.8147
+rich good,0.8133
+food noisy,0.8131
+courteous food,0.8127
+tasty healthy,0.8116
+best cafe,0.8099
+support,0.8094
+tuna melt,0.8088
+coffee wonderfully,0.8085
+clean,0.8083
+cold brew,0.8075
+espresso acidic,0.8063
+cafe pleasant,0.8056
+good egg,0.8051
+food forget,0.8044
+drink coffee,0.8015
+iced tea,0.7994
+saturday,0.7979
+croissant sandwich,0.7963
+pastry amazing,0.7954
+thanks,0.7945
+tea decent,0.7923
+coffee always,0.7893
+hemp bar,0.7887
+coffee busy,0.7885
+still,0.7876
+awesome vegan,0.7871
+place cozy,0.7869
+try vanilla,0.7862
+solid made,0.7861
+cooky friendly,0.7861
+good pastry,0.7853
+interesting delicious,0.7852
+cozy indoor,0.7851
+yummy,0.7845
+place amazing,0.782
+eatery nice,0.7812
+enjoyed,0.7805
+dish avocado,0.7799
+pastry choice,0.7793
+cozy pretty,0.7716
+shop bake,0.7702
+little cafe,0.7701
+brunch salmon,0.7678
+add cinnamon,0.7665
+salmon rye,0.7664
+brunch option,0.7653
+amazing,0.7644
+toast delicious,0.7624
+tasty food,0.7607
+enjoyed baked,0.7586
+staff delicious,0.7586
+terrible drip,0.7555
+great menu,0.7545
+coffee snack,0.754
+open kitchen,0.753
+granola good,0.7526
+sandwich tomato,0.7519
+food amazing,0.7512
+noisy eat,0.7505
+food bomb,0.7499
+bar good,0.7492
+white cafe,0.7477
+healthy lunch,0.7475
+cappuccino,0.7473
+brew delicious,0.7467
+fi pourover,0.7466
+exceptional crunchy,0.7443
+bagel exceptional,0.744
+although overpriced,0.7419
+cap best,0.7413
+breakfast good,0.7404
+breakfast delicious,0.7391
+great environment,0.7389
+hesitate go,0.7374
+coffee tl,0.7371
+cafe bakery,0.7361
+croissant life,0.7356
+solid,0.7342
+spot pour,0.7327
+coffee house,0.7311
+mash tuna,0.7302
+food baked,0.7292
+service vegan,0.728
+food fresh,0.7267
+staff clean,0.7256
 absolutely,0.725
-glad,0.7025
-porridge,0.6976
-cheap,0.6970000000000001
-cake,0.6894
-kind,0.6869
-tourists,0.6854
-beans,0.6829000000000001
-special,0.6807
-pour,0.6782
-green,0.6717
-muffins,0.6597000000000001
-support,0.657
-courteous,0.655
-baguette,0.6511
-thanks,0.6498
-choices,0.6496
-cashier,0.6435
-cold,0.6434
-pleasant,0.639
-mash,0.6384
-iced,0.6317
-saturday,0.6231
-burrito,0.6216999999999999
-loved,0.6168
-regular,0.6029
-team,0.5906
-regulars,0.5894999999999999
-worth,0.5861
-really,0.5848
-better,0.5845
-free,0.5845
-rude,0.5819
-rough,0.5818
-solid,0.5779
+bread good,0.7249
+heated milk,0.7247
+food beverage,0.7243
+food excellent,0.7242
+good quiche,0.7232
+stopping appreciate,0.7229
+coffee baked,0.721
+bakery close,0.7206
+fast,0.719
+brunch place,0.7188
+lemonade watered,0.7183
+toast bacon,0.7182
+vegetarian vegan,0.7179
+delicious salad,0.7169
+milk creamy,0.7163
+morning,0.7157
+busy chocolate,0.7155
+special,0.715
+decent restroom,0.7146
+place great,0.7139
+wi fi,0.7135
+rough outside,0.713
+coffee best,0.7107
+coffee sf,0.7102
+great cafe,0.7067
+yoke dish,0.7065
+thanks stopping,0.7051
+egg,0.705
+holmes baked,0.7046
+staff courteous,0.7043
+egg yoke,0.7042
+sandwich staff,0.7031
+hemp,0.7014
+sweet,0.7009
+breakfast great,0.6997
+vanilla frappuccino,0.6993
+coffee comfy,0.6961
+drip coffee,0.6956
+vegan coffee,0.6944
+nice modern,0.694
+croissant good,0.6927
+dope coffee,0.6923
+covid paranoia,0.6922
+bread great,0.6921
+nutella cookie,0.6916
+trendy coffee,0.6901
+food french,0.6895
+made food,0.6885
+training barista,0.688
+wonderful staff,0.6875
+cinnamon,0.6849
+small place,0.6837
+baguette sf,0.6835
+loved black,0.6832
+trendy drink,0.6831
+firm suspect,0.6828
+crispy smoked,0.6823
+rude cashier,0.6821
+cute space,0.6816
+ritual pastry,0.6803
+hood coffee,0.6801
+nice staff,0.6793
+yummy peanut,0.6783
+option wait,0.6775
+burrito croissant,0.6774
+peruvian chicken,0.6772
+pourover,0.6766
+breakfast incredible,0.6766
+best cappuccino,0.6764
+chocolate brioche,0.6763
+bakery decent,0.6758
+coffee ok,0.675
+pastry cappuccino,0.6733
+breakfast amazed,0.6719
+juice cheap,0.6714
+space great,0.6699
+nice interior,0.669
+quiche latte,0.6685
+delicious filling,0.6672
+music bright,0.6646
+road brunch,0.6636
+service cozy,0.6628
+breakfast selection,0.6624
+outdoor seating,0.6615
+indoor seating,0.6612
+cake coffee,0.6609
+amazing pastry,0.6607
+healthy great,0.6605
+salad pannini,0.6605
+cold,0.6602
+delicious sausage,0.66
+lemonade,0.6591
+great outdoor,0.6586
+restraint clean,0.6558
+tasty egg,0.6552
+quaint breakfast,0.6552
+awesome customer,0.6541
+sausage sandwich,0.6541
+bar,0.6538
+neighborhood cafe,0.6536
+chocolate delicious,0.6534
+tomato chutney,0.6532
+quiche great,0.6522
+bakery follows,0.6516
+chocolate cooky,0.6502
+decent,0.6498
+big rap,0.649
+sandwich amazing,0.6489
+fresh cinnamon,0.6488
+nice healthy,0.6483
+noisy environment,0.648
+egg bacon,0.6475
+good music,0.6464
+eatery,0.6461
+kitchen,0.6458
+regular food,0.6455
+coffee hit,0.6449
+gluten free,0.6445
+pretty rough,0.6438
+place delicious,0.6434
+ice coffee,0.6434
+cake lemon,0.6431
+sf food,0.6428
+yum coffee,0.6421
+milk cappuccino,0.6421
+nice latte,0.641
+go coffee,0.641
+tomato jam,0.6396
+business studying,0.6395
+croissant coffee,0.6392
+lunch coffee,0.6391
+french bakery,0.6389
+disappointed espresso,0.6388
+wait though,0.6387
+house great,0.6386
+lunch must,0.6383
+sandwich disappointing,0.6382
+salad avocado,0.6378
+waitstaff friendliness,0.6377
+tuna,0.6377
+lemon croissants,0.6374
+bakery coffee,0.6372
+overpriced,0.6367
+cafe wonderful,0.636
+saw nitro,0.6354
+bit busy,0.6339
+tasty fresh,0.6338
+kind coffee,0.6335
+coffee almond,0.6329
+decent menu,0.6328
+latte delicious,0.6327
+jane coffee,0.6327
+great bite,0.6325
+clean space,0.632
+balanced coffee,0.6319
+menu,0.6315
+pickled onion,0.6314
+tomato basil,0.6299
+small coffee,0.6297
+rough,0.6278
+nice coffee,0.6273
+sandwich salad,0.6261
+basil soup,0.626
+coffee definitely,0.6259
+delicious real,0.6255
+really noisy,0.6252
+free wifi,0.625
+many vegan,0.6243
+amazing staff,0.6242
+sf bakery,0.6234
+friendly vegan,0.6232
+environment perfect,0.6226
+smoothy salad,0.6223
+nice atmosphere,0.6214
+bacon,0.6213
+chocolate chip,0.6211
+expensive whether,0.6197
+brunch nice,0.6196
+pork food,0.6196
+wonderful coffee,0.6191
+quality coffee,0.6188
+latte,0.6183
+food reasonable,0.6179
+expensive,0.6178
+banana cake,0.6176
+sandwich excellent,0.6175
+delicious order,0.6169
+coffee tea,0.6165
+good bright,0.6164
+bakery breakfast,0.6161
+sandwich well,0.6159
+cookie also,0.6157
+good cafe,0.6156
+even better,0.6154
+fan tomato,0.6151
+staff great,0.6144
+coffee cappuccino,0.6144
+awesome environment,0.6137
+always enjoy,0.6134
+busy,0.6134
+cheese breakfast,0.6132
+password waitress,0.6131
+forget bring,0.613
+neighborhood pleasant,0.6121
+bit expensive,0.6115
+toffee cookie,0.6112
+coffee caffeinated,0.6111
+best neighborhood,0.6102
+breakfast banana,0.6097
+milk pastry,0.6095
+milk alternative,0.6089
+ordered coffee,0.608
+neighborhood restaurant,0.6078
+diner upscale,0.607
+cost coffee,0.6068
+best banana,0.6063
+environment wonderful,0.6059
+breakfast popular,0.6055
+staff baked,0.6052
+coming coffee,0.6048
+watery flavor,0.6046
+food especially,0.6043
+food even,0.6036
+courteous coffee,0.6036
+spot great,0.6034
+great iced,0.6026
+sandwich soup,0.6025
+best coffe,0.6013
+espresso good,0.5992
+crunchy dense,0.5988
+large menu,0.5987
+location staff,0.5987
+suspect,0.5983
+bomb,0.5983
+egg sausage,0.5978
+sandwich egg,0.5977
+well breakfast,0.597
+coffee cake,0.5969
+bacon seems,0.5968
+great bread,0.5967
+vegan management,0.5957
+crazy cookie,0.5955
+noisy,0.5953
+espresso delicious,0.5952
+coffee block,0.5943
+peanut butter,0.594
+cute place,0.5935
+enjoy visit,0.5934
+good cappuccino,0.5933
+clean staffed,0.5924
+ok coffee,0.5924
+latte avocado,0.5918
+coffee big,0.5909
+paranoia max,0.5907
+drink surprised,0.5905
+courteous,0.5904
+excellent dish,0.5893
+coffee yogurt,0.5892
+toast heavenly,0.5892
+vegan item,0.5892
+crunchy,0.5891
+bakery accolade,0.589
+delicious coffee,0.5886
+forget,0.5885
+whites sandwich,0.5879
+menu jane,0.5874
+third visit,0.5869
+favorite cafe,0.5867
+food although,0.5864
+bowl delicious,0.5859
+tasty place,0.5854
+sausalito excellent,0.5851
+awesome vegetable,0.585
+super cute,0.5843
+biscuit latte,0.5832
+many homeless,0.5831
+icing cake,0.5828
+helpful coffee,0.5823
+delicious excellent,0.5814
+day cafe,0.5802
+brew tasty,0.5801
+baguette,0.5782
+smoked bread,0.5773
+sick,0.5764
+open something,0.5762
+fresh baguette,0.5759
+snack healthy,0.5755
+sf breakfast,0.5754
+excellent croissant,0.5752
+toast outshined,0.5749
+meeting business,0.5749
 terrible,0.5746
-bomb,0.5701
-beverages,0.5675
-happy,0.5666
-cakes,0.5647
-appreciate,0.5599
-work,0.558
-flavor,0.5578
-try,0.5549
-forget,0.5547
-smoked,0.5473
-friendliness,0.5327
-paranoia,0.5283
-indoor,0.5275
-hesitate,0.5254
-sick,0.5217
-bar,0.5164
-hemp,0.5163
-morning,0.5079
-outdoor,0.5047
-lucky,0.4998
-modern,0.4852
-sexy,0.4851
-road,0.4828
-life,0.4811
-crunchy,0.4718
-restroom,0.4667
-dont,0.4626
-macha,0.458
-wonderfully,0.4558
-crispy,0.4543
-light,0.4538
-firm,0.4514
-high,0.4504
-flavors,0.4496
-mango,0.4492
+sandwich iced,0.5743
+coffee wifi,0.574
+atmosphere sexy,0.5739
+cool coffee,0.5738
+apologize waiter,0.5731
+environment,0.5729
+lunch,0.5721
+porridge three,0.5721
+great trendy,0.572
+laminated pastry,0.572
+harassed homeless,0.5717
+cute bakery,0.5716
+brew espresso,0.5714
+coffee staff,0.5706
+coffee getting,0.5685
+sandwich orange,0.5683
+sweet pudding,0.5681
+coffee granola,0.5679
+slow discernable,0.5679
+latte milk,0.5665
+breakfast try,0.5661
+crunch cookie,0.5658
+provolone avocado,0.5657
+cooky well,0.5657
+ordered toast,0.5651
+bread offer,0.5648
+snack price,0.5644
+home yay,0.5643
+lox bagel,0.5643
+tasty eats,0.5637
+coffee needs,0.5634
+pudding amazing,0.5633
+getting sick,0.5633
+buttery spicy,0.5619
+regular coffee,0.5613
+friend spilled,0.5611
+columbian coffee,0.5609
+pastry bread,0.5605
+west coast,0.5594
+salad incredible,0.5592
+white spinach,0.559
+cafe pastry,0.5589
+good latte,0.5586
+eating scam,0.5584
+coffee pretentious,0.5583
+mango salad,0.5581
+spinach avocado,0.558
+creamy service,0.5578
+lunch sandwich,0.5576
+delicious breakfast,0.5573
+small bakery,0.5569
+busy coffee,0.5567
+croissant food,0.5563
+pretty,0.5561
+club sandwich,0.5557
+crossaints chocolate,0.5549
+interesting,0.5546
+paranoia,0.5544
+perfect baguette,0.5542
+like vanilla,0.5538
+coffee fantastic,0.5537
+salad great,0.5536
+served salad,0.5531
+cappuccino excellent,0.5531
+menu cake,0.5523
+granola,0.5523
+coffee quick,0.5522
+wifi password,0.552
+scary neighbourhood,0.552
+cafe quick,0.552
+cafe great,0.5519
+coffee coffee,0.5518
+pastry pastry,0.5514
+colorful breakfast,0.5506
+pudding stuff,0.5503
+excellent espresso,0.5502
+delicious quick,0.5497
+breakfast make,0.5494
+busy lunch,0.5493
+taste coffee,0.5489
+awesome pink,0.5475
+great brunch,0.5472
+yummy coffee,0.5471
+team,0.5471
+love coffee,0.5468
+cafe serving,0.546
+espresso dragonfruit,0.5443
+nostalgic italian,0.544
+salmon toast,0.5432
+delicious fresh,0.5432
+savory buttery,0.5428
+iced coffee,0.5425
+pudding coffee,0.5416
+coffee clean,0.5411
+yummy bakery,0.5408
+orange juice,0.5403
+good croissant,0.5403
+food sooo,0.54
+staying hostel,0.54
+barista also,0.54
+freshly baked,0.5393
+yogurt granola,0.5393
+goooood crema,0.5389
+bread coffee,0.5389
+coffee bakery,0.5385
+cake average,0.5385
+wonderfully fresh,0.5385
+healthy tasty,0.5384
+lunch chicken,0.5377
+frosted cinnamon,0.5374
+homemade avocado,0.5372
+food super,0.5371
+pricey friend,0.5369
+cowboy salad,0.5368
+delicious neighborhood,0.5366
+americano breakfast,0.5363
+many vegetarian,0.5359
+healthy choice,0.5359
+sandwich club,0.5358
+breakfast jane,0.5357
+milk environmentally,0.5356
+deliciousness icing,0.5354
+also barista,0.5352
+better,0.5347
+cooky free,0.5347
+coffee incredible,0.5345
+dragonfruit smoothie,0.5338
+sandwich croissant,0.5338
+lucky great,0.5338
+vegetarian quiche,0.5325
+sandwich toasted,0.5322
+nice pastry,0.5322
+coffee espresso,0.5317
+studying store,0.5311
+smash vegan,0.5307
+bread handmade,0.5304
+iced latte,0.5301
+creamy espresso,0.53
+latte fresh,0.53
+biscuit pair,0.5299
+hostel international,0.5273
+brew coffee,0.5272
+vegetable smoothie,0.527
+bread wonderful,0.527
+spilled drink,0.5267
+coffee amazing,0.5266
+fresh must,0.526
+bakery tenderloin,0.526
+excellent quality,0.5258
+ghost extreme,0.5257
+bread favorite,0.5252
+made pastry,0.525
+busy weekend,0.5245
+bright space,0.5242
+dragon bowl,0.5239
+bacon french,0.5237
+great crew,0.5232
+liked menu,0.5232
+well served,0.5231
+company coffee,0.5226
+inside cafe,0.5226
+pudding,0.5221
+expensive pretty,0.5215
+quick snack,0.5214
+nothing specific,0.5213
+service restaurant,0.5209
+side croissant,0.5208
+milk free,0.5204
+modern,0.5204
+incredible coffee,0.5204
+pink mohawk,0.5179
+begging food,0.5177
+onion poached,0.5176
+fantastic cooky,0.5174
+green,0.5169
+lucky,0.5167
+rap,0.5163
+espresso frosted,0.5159
+lovely delicious,0.5157
+baking bacon,0.5157
+baked bread,0.5156
+coffee however,0.5156
+sprinkle cookie,0.5146
+coffee tap,0.5137
+toast sfo,0.5124
+cake pun,0.5121
+bake good,0.512
+smashed avocado,0.5118
+recommend croissant,0.5116
+almond milk,0.5112
+best atmosphere,0.5111
+trendy,0.5105
+sandwich scramble,0.5102
+lunch hour,0.5097
+delicious charcoal,0.5096
+blob mustard,0.5089
+sandwich good,0.5089
+miss waitstaff,0.5086
+salad wheat,0.5072
+menu appetizing,0.507
+butter jam,0.5068
+slicker salad,0.5063
+loved,0.5063
+upscale brunch,0.5063
+almond butter,0.5059
+pastry delicious,0.5052
+roasted coffee,0.5045
+order third,0.5045
+cooky favorite,0.5042
+berry tasted,0.5037
+higher hitler,0.5035
+coffee received,0.503
+san fran,0.5025
+amazing taste,0.5025
+bakery bread,0.5024
+salad toast,0.5023
+egg white,0.5022
+rave place,0.5021
+mash baked,0.5019
+regret guarantee,0.5016
+cafe counter,0.5015
+bite brunch,0.5014
+coffee pretty,0.4999
+acidic espresso,0.4989
+toast breakfast,0.4985
+toast smoothie,0.4981
+sweet bread,0.4966
+killer cooky,0.4958
+sandwich full,0.4958
+cheap overpriced,0.4957
+cappuccino enjoy,0.4949
+extreme healthy,0.4945
+good granola,0.4944
+coffee take,0.494
+mediocre barista,0.494
+cooky baked,0.4938
+restaurant fill,0.4935
+tasty turmeric,0.4934
+tomato,0.4926
+sandwiche delicious,0.4926
+fruit yogurt,0.4926
+friendly fresh,0.4925
+sweet latte,0.4922
+reasonable price,0.4914
+get coffee,0.491
+yummy bread,0.4909
+sister cafe,0.4903
+service baked,0.4889
+got vegetarian,0.4878
+decaf coffee,0.4877
+processed chicken,0.4876
+coffee swrved,0.4876
+pastry made,0.4874
+modern little,0.4871
+avocado pickled,0.4867
+pudding soup,0.4867
+lovely cafe,0.4865
+best brekkie,0.4855
+crack cocaine,0.4852
+place west,0.4845
+best sprinkle,0.4843
+coffee friendly,0.484
+sandwich cowboy,0.4839
+rich menu,0.4828
+pastry best,0.4828
+cute coffee,0.4826
+menu love,0.4822
+refreshing egg,0.4822
+asian chicken,0.4819
+homemade bread,0.4819
+chicken bowl,0.4819
+espresso drink,0.4811
+new salad,0.481
+chicken tasting,0.4807
+coffee came,0.4806
+using wifi,0.48
+hot dish,0.4798
+bakery item,0.4798
+stop everything,0.4797
+bakery sector,0.4795
+quality healthy,0.4783
+order sandwiche,0.4782
+kid friendly,0.4775
+customer annoying,0.4774
+parking tricky,0.4773
+coffee bread,0.477
+bread often,0.4769
+salad plus,0.4768
+coffee cold,0.4759
+awful chicken,0.4752
+good cooky,0.4746
+burrito ever,0.4746
+asked wifi,0.4744
+shop bakery,0.4743
+cafe excellent,0.4741
+soup amazing,0.474
+toast salad,0.4736
+four star,0.4735
+food fantastic,0.4726
+cooky great,0.4724
+fresh loaf,0.4724
+toast egg,0.4717
+bakery good,0.4714
+good brunch,0.471
+touch shopping,0.4708
+creme cheese,0.4706
+food salad,0.4704
+pastry person,0.4702
+berry creme,0.4701
+operation coffee,0.4698
+delicious latte,0.4694
+brunch smoked,0.4685
+word regret,0.4684
+food wide,0.4681
+menu enough,0.467
+baguette prices,0.4668
+beautifully roasted,0.4667
+coffee served,0.4665
+pastry town,0.4661
+treat flavorful,0.4658
+coffee selection,0.4654
+warm dish,0.4654
+try san,0.4652
+bread loaf,0.4647
+loaf sourdough,0.4638
+breakfast also,0.4636
+granola sweet,0.4631
+drinkable bakery,0.4626
+killer cappuccino,0.4622
+butter spread,0.4622
+austin salad,0.462
+neighborhood bakery,0.462
+granola friendly,0.461
+farm bread,0.4608
+best brunch,0.4602
+smoke salmon,0.4594
+egg croissant,0.4588
+food friendly,0.458
+bread meeting,0.4558
+flavor,0.4557
+home like,0.4555
+said wifi,0.4546
+dose caffeine,0.4545
+brekkie burrito,0.4542
+chicken dragonfruit,0.4536
+amazing baked,0.4532
+place expensive,0.4528
+enjoy pudding,0.4528
+light lunch,0.452
+breakfast come,0.4517
+food drink,0.4517
+shopping picked,0.4514
+cheese brioche,0.4512
+restaurant wifi,0.4506
+rubbery bacon,0.4506
+breakfast san,0.4505
+winning croissant,0.4503
+catering place,0.4493
+delicious french,0.4492
+dish baked,0.4489
+ham delicious,0.4486
+trendy people,0.4486
+fresh coffee,0.4485
+food semi,0.4483
 drip,0.4479
-heavenly,0.4476
-bowl,0.4458
-appetizing,0.4449
-options,0.4431
-stopping,0.4426
-experience,0.4398
-yoke,0.4388
-outside,0.43479999999999996
-comfy,0.4296
-open,0.4288
-waitstaff,0.4252
-pourover,0.4238
-middle,0.4225
-space,0.4202
-donuts,0.418
-baristas,0.4151
-uneven,0.4151
-lemonade,0.4145
-creamy,0.4144
-wi,0.4132
-cheese,0.4129
-house,0.4119
-raps,0.4108
-dope,0.4107
-wonderful,0.4097
-scary,0.40969999999999995
-teas,0.4084
-wait,0.4035
-customer,0.40249999999999997
-almond,0.4008
-words,0.4008
-bite,0.3975
-restaurants,0.3957
-pork,0.3945
-holmes,0.3942
-watery,0.3912
-rice,0.38780000000000003
-instagramable,0.3832
-bagel,0.3829
-gals,0.3824
-ll,0.3806
-interesting,0.3793
-enjoy,0.3782
-caffeine,0.3764
-ghost,0.3758
-oatcake,0.3756
-fi,0.3736
-snacks,0.3721
-big,0.3708
-cocaine,0.3707
-tricky,0.366
-money,0.3607
-catering,0.3594
-rye,0.3586
-brooklyn,0.3582
-peanut,0.3572
-super,0.3569
-drink,0.3546
-italian,0.3539
-cows,0.3534
-everyday,0.3518
-black,0.34740000000000004
-dragon,0.347
-buttery,0.3416
-dangerous,0.3406
-quickly,0.3402
-quick,0.3397
-pasties,0.3397
-lemon,0.337
-price,0.33609999999999995
-ambiance,0.335
-does,0.334
-sandwiche,0.3331
-bathroom,0.3319
-eat,0.3302
-soups,0.32789999999999997
-juices,0.3276
-foodwise,0.3245
-reals,0.3144
-large,0.3123
-diner,0.3117
-west,0.3102
-staffed,0.3088
-covid19,0.308
-snack,0.3072
-melt,0.3019
-rave,0.3005
-berries,0.2991
-acidic,0.2956
-loaf,0.2955
-butteriness,0.2951
-grim,0.2921
-disaster,0.2912
-suspect,0.2908
-foods,0.2893
-whites,0.287
-bothers,0.2863
-macchiato,0.2861
-working,0.2833
-muffin,0.2828
-mr,0.281
-sketchy,0.2802
-training,0.2734
-refresh,0.273
-hearty,0.2701
-friendlier,0.2697
-flavorful,0.2692
-helpful,0.266
-parking,0.2657
-bit,0.2649
-taste,0.2646
-juice,0.264
-home,0.2632
-aeropress,0.2611
-shopping,0.2567
-locations,0.256
-easy,0.254
-eats,0.2504
-straightforward,0.2468
-disappointed,0.2457
-higher,0.24480000000000002
-baguettes,0.2437
-hipster,0.2437
-onions,0.2435
-deliciousness,0.2435
-nutella,0.2426
-inviting,0.2417
-drinkable,0.2411
-heated,0.2404
-new,0.2391
-waitress,0.2367
-extreme,0.2364
-caffeinated,0.236
-favourite,0.2352
-reading,0.2328
-warm,0.2322
-music,0.2312
-perfection,0.2291
-decor,0.2276
-cooked,0.2264
-sun,0.2256
-afternoon,0.2253
-friends,0.2242
-slowest,0.2233
-weirdly,0.2194
-dishonest,0.2173
-saw,0.2168
-fran,0.2151
-pricing,0.215
-traditional,0.2138
-owner,0.2137
-customers,0.2133
-hostel,0.2132
-killer,0.21
-exceptional,0.2099
-miss,0.2091
-boyfriend,0.2063
-crema,0.2063
-waiter,0.2044
-pathetic,0.2031
-frosted,0.2029
-baking,0.2027
-cap,0.2027
-upscale,0.2024
-pm,0.2012
-mustard,0.2008
-priced,0.1993
-recommend,0.1989
-carrots,0.1985
-early,0.1982
-sadly,0.1977
-creame,0.1967
-specific,0.1952
-barking,0.1922
-oregon,0.1921
-harassed,0.1911
-area,0.1905
-streets,0.1902
-covid,0.18630000000000002
-ice,0.1847
-savory,0.1838
-coast,0.1836
-average,0.1824
-americano,0.1816
-dragonfruit,0.18159999999999998
-business,0.181
-toffee,0.1809
-password,0.1808
-humiliated,0.1806
-brioche,0.1796
-annoying,0.1786
-takeout,0.1785
-lady,0.17520000000000002
-spicy,0.1751
-cheerless,0.1747
-wheat,0.1734
-buy,0.173
-season,0.1721
-stevie,0.1721
-grandson,0.1712
-weekends,0.17049999999999998
-bring,0.1693
-peruvian,0.1692
-outshined,0.1673
-frappuccino,0.1668
-mexican,0.1662
-basil,0.1651
-sfo,0.1648
-mushroom,0.1648
-spilled,0.1632
-studying,0.1623
-places,0.1614
-vegetable,0.1603
-sprinkle,0.1574
-15,0.1553
-gabby,0.1551
-contamination,0.1549
-pretentious,0.1543
-friend,0.1534
-treasure,0.1533
-watered,0.1528
-rest,0.1512
-eating,0.1505
-ve,0.1492
-lattes,0.1478
-cinamonroll,0.1472
-variety,0.1467
-scam,0.1459
-town,0.1446
-pink,0.1446
-regrets,0.1442
-environmentally,0.1411
-smoothies,0.1407
-orange,0.1395
-tables,0.1385
-columbian,0.1382
-boss,0.1363
-fan,0.1363
-queue,0.1356
-weirdo,0.1355
-british,0.1347
-laptops,0.1345
-spacious,0.1342
-sweet,0.1334
-laundry,0.1332
-unattractive,0.1328
-suit,0.1326
-12,0.132
-lacklustre,0.1319
-inside,0.1283
-meeting,0.1271
-handmade,0.1243
-hitler,0.1243
-stars,0.1205
-unique,0.1192
-gluten,0.119
-stop,0.119
-pickled,0.117
-olive,0.1123
-relaxing,0.1118
-10,0.1074
-exlusion,0.1054
-meat,0.1048
-meal,0.102
-normal,0.1019
-add,0.0997
-mugs,0.0995
-police,0.0989
-white,0.0975
-hospital,0.096
-icing,0.0958
-toasted,0.0937
-crew,0.0912
-allergies,0.0903
-wave,0.0894
-goooood,0.0885
-farther,0.0885
-30am,0.0876
-tl,0.086
-unprofessional,0.0807
-provolone,0.0805
-gift,0.0803
-oat,0.08
-begging,0.0797
-remembered,0.0784
-sister,0.0774
-prices,0.0767
-outreach,0.0753
-latté,0.0718
-wish,0.0716
-turkey,0.0708
-blob,0.0697
-counter,0.0675
-mean,0.0664
-sector,0.0645
-francisco,0.0635
-longer,0.0633
-tap,0.0633
-walk,0.0585
-smooth,0.0564
-bag,0.0559
-shorter,0.0558
-crunch,0.053
-cockroach,0.0511
-quaint,0.0488
-honey,0.0475
-blocks,0.0468
-dish,0.0447
-surprised,0.0435
-century,0.0432
-guarantee,0.0425
-mohawk,0.0396
-coworker,0.0385
-spinach,0.0315
-nostalgic,0.0286
-alternative,0.0282
-hot,0.0231
-chutney,0.0221
-dollars,0.0185
-chill,0.0177
-ham,0.0168
-visit,0.016
-berry,0.0142
-beware,0.0119
-funky,0.0111
-clear,0.0098
-guests,-0.0049
-plant,-0.0094
-austin,-0.0162
-nose,-0.0201
-company,-0.024
-indulgence,-0.0292
-shops,-0.0402
-kindly,-0.0538
-days,-0.0683
-vibe,-0.0921
-people,-0.135
-person,-0.1515
+work quickly,0.4472
+coffee blonde,0.4466
+place tourist,0.4464
+weekend coffee,0.4462
+snack,0.446
+cafe staff,0.4456
+muffin tourist,0.4454
+ghost,0.4444
+latte specially,0.4433
+warehouse muffin,0.4427
+green smoothie,0.4423
+honey butter,0.4422
+sandwich moronic,0.4416
+sf slowest,0.4411
+cafe saw,0.4406
+mural yummy,0.4405
+quiche dope,0.4402
+menu great,0.44
+great drink,0.4397
+slowest unprofessional,0.4395
+food issue,0.4395
+breakfast surroundings,0.4395
+coffee avo,0.4387
+great yummy,0.4387
+mustard never,0.438
+ordered soup,0.4375
+money shame,0.4368
+great heated,0.4367
+pastry ok,0.4365
+high season,0.4361
+free banana,0.436
+season easy,0.4355
+juice good,0.435
+avocado already,0.4349
+coffee place,0.4348
+spilled,0.4337
+caffeine,0.433
+choice salad,0.4329
+table good,0.4328
+flavor star,0.4321
+spinach provolone,0.4313
+sriracha butter,0.4309
+grandson queen,0.43
+fluffiness butteriness,0.4292
+dish coffee,0.429
+clear food,0.4279
+street restaurant,0.4272
+gf sandwich,0.4265
+hot chocolate,0.426
+bacon lacklustre,0.4256
+high food,0.4252
+quality,0.4251
+barista awesome,0.425
+cookie hand,0.4246
+brew super,0.4239
+experience scary,0.4231
+wheat crouton,0.423
+royal grandson,0.4229
+shop,0.4228
+get salad,0.4223
+business owner,0.4221
+try dragon,0.4219
+interesting menu,0.4218
+slow operation,0.4204
+new hospital,0.4201
+baguette bag,0.4197
+uneven quality,0.4194
+service,0.4191
+breakfast burrito,0.4179
+loved coffee,0.4176
+cappuccino sf,0.4175
+latte smoothie,0.4172
+really,0.4161
+every dish,0.416
+early coffee,0.4159
+shot espresso,0.4157
+food seemed,0.4155
+brunch spot,0.4152
+working great,0.4143
+chocolate decaf,0.4134
+weekend enough,0.4119
+awesome staff,0.4116
+bacon easy,0.4115
+excellent drangonfruit,0.4096
+everyday ritual,0.409
+restaurant hall,0.4078
+grabbing donut,0.4057
+average customer,0.4056
+hitler think,0.405
+love espresso,0.4042
+weirdo outside,0.4041
+always,0.4038
+great afternoon,0.4031
+coffee vibe,0.403
+espresso feel,0.4017
+breakfast light,0.4015
+cashier,0.4011
+publicly humiliated,0.4007
+gals working,0.4004
+cafe probably,0.3995
+police outreach,0.3989
+croissant sell,0.3978
+empty apologize,0.3972
+ordered turkey,0.3969
+cafe stumbled,0.3968
+incredible latte,0.3962
+household latte,0.396
+butter toping,0.3959
+croissant nice,0.3942
+weekly coffee,0.394
+bite last,0.3938
+dishonest jane,0.3931
+picking food,0.3924
+egg cooked,0.3923
+related cafe,0.3919
+chai tea,0.3909
+nice caf,0.3887
+expensive nice,0.3882
+topping bread,0.3881
+bread one,0.3872
+sourdough bread,0.3869
+hidden treasure,0.3865
+cooked perfection,0.3853
+small drink,0.385
+especially avocado,0.3829
+quality expensive,0.3828
+mocha latte,0.3827
+cocaine,0.3812
+brownie cookie,0.3812
+mustard,0.3801
+warm decor,0.379
+meal delicious,0.379
+lucky accidentally,0.3789
+quiche,0.3776
+food best,0.3766
+espresso added,0.3756
+turkey panine,0.3755
+forget eat,0.3753
+mays laundry,0.3751
+offer gift,0.3734
+milk true,0.3715
+butter,0.371
+hearty fan,0.3706
+bread ever,0.3697
+macha,0.3683
+spicy baked,0.3659
+great people,0.3654
+butteriness berry,0.3653
+amazing deliciousness,0.3612
+longer try,0.361
+cookie,0.3584
+black,0.3581
+cafe whilst,0.3567
+cheese,0.3558
+finished boyfriend,0.355
+jarring pastry,0.3549
+based milk,0.354
+gift card,0.3532
+pound cake,0.351
+coffee vienna,0.351
+espresso shot,0.3499
+produce espresso,0.3498
+weekend,0.3495
+three day,0.3484
+try variety,0.3481
+surreal sitting,0.3468
+quiche tasty,0.3448
+shop neighborhood,0.3447
+toast topped,0.3414
+long espresso,0.3405
+full coffee,0.3404
+shame bite,0.3396
+covid opening,0.3377
+food talked,0.3369
+normal coffee,0.3369
+better rest,0.3305
+flakey crust,0.3302
+cafe longer,0.3301
+high clearly,0.3287
+guy buy,0.3265
+pink,0.325
+coffee order,0.3242
+macchitao food,0.3235
+outshined friendly,0.3229
+delicious flat,0.3212
+glad staff,0.3183
+bowl also,0.3174
+town,0.3168
+party four,0.3165
+happy offer,0.3138
+manager disappointed,0.3126
+food many,0.3102
+milk incident,0.3082
+staff nice,0.3081
+burrito,0.3073
+nose rude,0.3071
+cookie regret,0.306
+bread brunch,0.3045
+neighborhood sketchy,0.3039
+sadly turkey,0.3035
+rude today,0.3032
+overpriced dollar,0.3015
+bathroom code,0.3011
+stay longer,0.2997
+coffee bean,0.2996
+lot neighborhood,0.298
+order meal,0.2943
+caf good,0.294
+hospital neighborhood,0.2864
+tl,0.2832
+thank comment,0.2792
+francisco good,0.2768
+almost everyday,0.2742
+boyfriend stopped,0.2701
+staff cheerless,0.2662
+normal hangout,0.2661
+unsurprisingly customer,0.2644
+left boyfriend,0.2619
+love help,0.2598
+buying coffee,0.2592
+wifi though,0.2199
+hospital,0.1876

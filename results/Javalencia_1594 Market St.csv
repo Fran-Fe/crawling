@@ -1,128 +1,189 @@
 keyword,weight
-coffee,10.481
-great,2.8189
-good,2.5060000000000002
-sandwiches,2.0993
-friendly,1.7936
-food,1.3352
-love,1.2574
-breakfast,1.225
-tea,1.2103
-eat,1.1902
-sandwich,1.1792
-just,1.0918
-cafe,1.0714000000000001
-morning,1.0364
-lunch,1.0204
-staff,0.9988999999999999
-yogurt,0.9972
-delicious,0.9726
-expensive,0.9006
-tasty,0.8939
-cheese,0.8603000000000001
-recommend,0.8192
-salad,0.8131999999999999
-closed,0.7963
-priced,0.7778
-place,0.7186
-polite,0.7138
-distancing,0.7034
-supposed,0.6805
-espresso,0.6725
-pastry,0.6441
-close,0.6282
-kind,0.6233
-bit,0.6144
-enjoy,0.6143
-print,0.606
-open,0.5876
-day,0.5777
-pass,0.5727
-social,0.5706
-couple,0.5658
-javalencia,0.5622
-guess,0.5583
-valencia,0.54
-brew,0.5271
-know,0.5136
-cream,0.5123
-sub,0.5082
-wine,0.4989
-lot,0.494
-indigenous,0.4929
-commute,0.4928
-cute,0.4903
-caffeine,0.4869
-translated,0.4599
-excellent,0.4556
-shame,0.43
-slow,0.4292
-daily,0.4113
-warm,0.4083
-sunny,0.4039
-cold,0.39480000000000004
-argentinian,0.3858
-tomato,0.3831
-covid,0.373
-spot,0.3715
-nice,0.3623
-iced,0.359
-twice,0.3555
-bathroom,0.3538
-spanish,0.3465
-quick,0.3395
-beer,0.3378
-newspaper,0.3355
-stop,0.3257
-affordable,0.324
-family,0.3205
-safe,0.3072
-american,0.2984
-stay,0.2972
-parfait,0.293
-19,0.2898
-weekday,0.2883
-sun,0.2834
-tuna,0.2635
-easily,0.2607
-local,0.2563
-shake,0.256
-service,0.2517
-saturday,0.2388
-taste,0.2334
-light,0.2297
-favorite,0.2245
-law,0.2233
-chicken,0.2053
-bagel,0.1927
-menus,0.1892
-easy,0.1862
-croissants,0.1859
-lady,0.1857
-pickles,0.1772
-required,0.1717
-terrific,0.1716
-best,0.1691
-cup,0.1675
-don,0.1625
-ice,0.1608
-mins,0.1569
-coffeeshop,0.1559
-bagels,0.1467
-cuban,0.1463
-cake,0.1378
-clean,0.136
-stars,0.1282
-3pm,0.1103
-almond,0.1062
-bread,0.1046
-trieste,0.0954
-smile,0.0931
-yummy,0.0913
-higher,0.0906
-croissant,0.0706
-decor,0.0653
-carrot,0.0635
-deserved,0.055
-fork,0.0007
-burned,-0.0095
+coffee,5.847
+great coffee,4.7883
+good coffee,2.317
+good,2.1225
+coffee great,2.0217
+sandwich,1.7949
+tasty sandwich,1.5456
+coffee tasty,1.5043000000000002
+coffee tea,1.4476
+great,1.4196000000000002
+breakfast sandwich,1.3396
+cream cheese,1.109
+great food,1.0986
+breakfast,1.0827
+eat print,1.0
+bit priced,1.0
+love delicious,1.0
+kind expensive,0.9587
+cold brew,0.944
+recommend good,0.944
+priced,0.9278
+good place,0.9103
+friendly enjoy,0.9084
+polite friendly,0.9081
+delicious,0.8962
+expensive,0.8904
+eat,0.8869
+closed supposed,0.8869
+coffee yogurt,0.8863
+polite,0.8819
+cute coffee,0.881
+friendly,0.8744
+bit,0.8612
+coffee excellent,0.8602
+recommend,0.8558
+morning stop,0.8526
+love,0.8489
+enjoy sub,0.8321
+coffee food,0.828
+coffee valencia,0.8234
+pas couple,0.8131
+closed,0.8086
+supposed open,0.8057
+yogurt parfait,0.8045
+salad service,0.7918
+close know,0.7898
+social distancing,0.7826
+couple,0.7767
+great staff,0.7742
+good kind,0.7737
+open,0.7703
+sandwich special,0.7668
+yogurt,0.7567
+translated coffee,0.7545
+place,0.7528
+excellent staff,0.7505
+supposed,0.7482
+law shame,0.7421
+side salad,0.7357
+espresso sunny,0.7356
+bathroom required,0.7356
+favorite coffee,0.7342
+print,0.7319
+kind,0.7242
+tea spot,0.7233
+distancing guess,0.7208
+couple day,0.7171
+iced coffee,0.715
+coffee covid,0.713
+tea,0.7108
+parfait pastry,0.7061
+morning,0.706
+close,0.7028
+rueben sandwich,0.699
+slow weekday,0.6974
+cheese friendly,0.6934
+coffee breakfast,0.6932
+spot morning,0.6899
+price coffee,0.6876
+weekday lunch,0.6861
+light breakfast,0.6795
+sunny saturday,0.6721
+place coffee,0.6687
+shake commute,0.6636
+saturday easy,0.6632
+salad,0.6605
+lot social,0.6559
+distancing,0.6548
+recommend cafe,0.6517
+ice coffee,0.6492
+tomato cream,0.6474
+great family,0.6462
+croissant sandwich,0.6437
+sandwich highly,0.636
+beer wine,0.628
+sandwich spicy,0.62
+veggie coffee,0.6196
+social,0.6123
+lunch time,0.6093
+cheese lunch,0.6076
+newspaper daily,0.6068
+cuban sandwich,0.6062
+shame,0.6051
+delicious almond,0.5994
+lunch,0.5977
+javalencia word,0.5912
+non coffee,0.5878
+breakfast brunch,0.5787
+good sandwich,0.5782
+best cup,0.578
+morning coffee,0.5763
+bagel decent,0.5677
+owned eat,0.5633
+south american,0.5622
+quick lunch,0.5601
+tuna sandwich,0.5588
+croissants fresh,0.5583
+dried tomato,0.5565
+morning tuna,0.5556
+sandwich nice,0.5548
+menu clean,0.5535
+american spanish,0.5518
+commute,0.5475
+argentinian south,0.5464
+javalencia,0.5433
+read newspaper,0.5378
+love local,0.537
+sandwich also,0.5362
+wine,0.533
+best cold,0.5323
+wine feel,0.5318
+cheese,0.5264
+cafe,0.5233
+sunny,0.5226
+small cafe,0.5214
+nice family,0.5211
+bathroom,0.5201
+fast menu,0.5187
+incredible slow,0.5165
+friendly business,0.5147
+brew ice,0.5087
+sandwich service,0.5082
+spanish vibe,0.5063
+food,0.5057
+bagel good,0.502
+chicken salad,0.4983
+stay safe,0.494
+atmosphere friendly,0.4924
+almond croissants,0.4922
+covid protocol,0.4919
+love breakfast,0.4906
+fruit yogurt,0.4804
+coffee quick,0.4803
+salad fruit,0.4777
+yogurt cup,0.4776
+required law,0.4667
+family owned,0.463
+coffee everything,0.4626
+food back,0.4581
+coffeeshop sandwich,0.449
+local fave,0.449
+sandwich javalencia,0.4468
+quick service,0.4311
+coffee horrible,0.4309
+cup cold,0.4273
+service great,0.4241
+cheese pickle,0.4239
+excellent,0.4208
+tasty cubano,0.4195
+fork cake,0.4185
+coffee slice,0.4184
+fresh coffee,0.4161
+mug coffee,0.4106
+remember cafe,0.4012
+sf lady,0.3997
+work morning,0.3979
+brew sf,0.3933
+coffee go,0.3879
+great quick,0.3807
+cafe trieste,0.38
+fabulous coffeeshop,0.3796
+ham pork,0.3681
+coffee store,0.3026
+get coffee,0.2973
+star everything,0.2755
+everyone visit,0.2697
+visit coffee,0.2654
+lox bagel,0.2643

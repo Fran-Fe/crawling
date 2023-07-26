@@ -1,164 +1,279 @@
 keyword,weight
-yogurt,4.1370000000000005
-cafe,4.1045
-coffee,4.019
-friendly,3.6518
-nice,3.5940000000000003
-good,3.5477
-cream,2.8606
-tasty,2.7803
-delicious,2.5818
-waffles,2.4874
-tea,2.2173000000000003
-food,2.058
-pastries,1.8621
-breakfast,1.5155
-ice,1.5008
-sandwich,1.4076
-drink,1.316
-place,1.2881
-waffle,1.22
-cute,1.0455999999999999
-useful,0.972
-welcoming,0.9302
-croissants,0.8964
-bacon,0.8829
-sandwiches,0.8817999999999999
-vanilla,0.8746
-drinks,0.8722
-dessert,0.8632
-avocado,0.8577
-amazing,0.8536999999999999
-service,0.8405
-espresso,0.789
-seating,0.7777000000000001
-closed,0.7518
+ice cream,5.0285
+yogurt,3.7395
+friendly staff,2.3618
+cafe,2.3203
+coffee,2.2811
+waffle,1.9221
+waffle ice,1.9117
+nice,1.8569
+breakfast sandwich,1.7874999999999999
+nice place,1.6505
+good coffee,1.5455
+matcha waffle,1.5413000000000001
+yogurt drink,1.3497
+little cafe,1.3277
+green tea,1.2355
+best breakfast,1.2264
+pastry,1.1893
+rice yogurt,1.1778
+cream,1.1684
+milk tea,1.1049
+sandwich,1.0849
+tasty,1.0475
+food,1.0324
+good,1.0
+nice welcoming,1.0
+indoor seating,1.0
+useful,1.0
+tasty yogurt,1.0
+dine offered,1.0
+iced tea,0.9866
+new cafe,0.9742
+charge dollar,0.9725
+june closed,0.9721
+indoor,0.9597
+cute friendly,0.9579
+friendly vibe,0.9475
+dine,0.9466
+welcoming,0.942
+dollar delivery,0.9322
+ambience guest,0.9035
+appeal ambience,0.881
+cafe pastry,0.8801
+tea,0.8775
+dollar,0.8731
+friendly,0.8699
+relax drink,0.8689
+ambience,0.8551
+cute,0.849
+mochi waffle,0.8467
+delicious coffee,0.8408
+delicious sandwich,0.8314
+edgy bar,0.8219
+coffee nice,0.8151
+really appeal,0.8117
+place relax,0.8072
+pastry thing,0.7991
+vanilla ice,0.7987
+waffle insane,0.7985
+visited june,0.7888
+bacon crispy,0.7822
+cream good,0.7735
+waffle chai,0.7715
+guest,0.7646
+relax,0.7638
+place,0.7595
+coffee fast,0.7425
+drink work,0.7412
+good prices,0.7409
+amazing food,0.7407
+girlfriend food,0.7401
+seating,0.7396
 vibe,0.7395
-dine,0.7162
-relax,0.6875
-indoor,0.675
-2022,0.6561
-chocolate,0.6496999999999999
-dollars,0.6458
-insane,0.6171
-fruit,0.5986
-june,0.5953
-chinatown,0.5912999999999999
-flavor,0.5881
-upper,0.5826
-average,0.5785
-fast,0.5705
-strawberry,0.569
-friend,0.5666
-latte,0.5661
-tastes,0.5589
-morning,0.5588
-love,0.5447
-bakery,0.5412
-reasonable,0.5347
-prices,0.5337
-matcha,0.5286
-bar,0.5254
-guests,0.521
-crispy,0.5207999999999999
-icecream,0.5165
-great,0.5145
-charge,0.5004
-offered,0.4934
-work,0.4717
-tuesday,0.449
-bad,0.4466
-clean,0.4408
-bathroom,0.4373
-pickup,0.4367
-thursday,0.4358
-fair,0.4317
-book,0.4215
-cookies,0.4202
-delivery,0.4197
-wonderful,0.4121
-girlfriend,0.4094
-edgy,0.4089
-wednesday,0.4078
-mochi,0.4059
-ambience,0.3883
-holidays,0.3868
-customer,0.3686
-gem,0.3665
-room,0.3621
-quiet,0.3549
-rice,0.3537
-broadway,0.3451
-wait,0.344
-hidden,0.3396
-atmosphere,0.3395
-little,0.3294
-beans,0.329
-interesting,0.3283
-appeal,0.3256
-saturday,0.322
-smoothies,0.3211
-best,0.3063
-taste,0.3031
-long,0.3009
-unassuming,0.3006
-bakerdoe,0.2924
-happy,0.2895
-sipping,0.289
-didn,0.2861
-really,0.2853
-onions,0.2803
-cheese,0.2737
-things,0.2617
-visited,0.2562
-library,0.2479
-disgusting,0.2471
-supper,0.2381
-plates,0.2301
-benefits,0.2271
-green,0.2233
-snacks,0.2228
-smoothie,0.2034
-minutes,0.1973
-filling,0.1966
-charcoal,0.1898
-baked,0.1821
-machine,0.1813
-flavors,0.174
-blue,0.1703
-saddest,0.1642
-loved,0.1614
-helpful,0.1591
-milk,0.1543
-regular,0.1538
-rich,0.1524
-indulgent,0.1518
-mint,0.1453
-menu,0.1425
-energized,0.1312
-misread,0.1308
-creamery,0.1279
-indoors,0.1238
-excited,0.1232
-toast,0.1187
-tortilla,0.1176
-dragon,0.1167
-dry,0.1039
-pretty,0.1028
-brew,0.0986
-space,0.0984
-egg,0.0979
-tables,0.096
-slow,0.0949
-disappointing,0.0947
-saturdays,0.085
-35,0.0846
-quick,0.0723
-chai,0.0705
-especially,0.0695
-50,0.0665
-sip,0.0391
-bagel,0.0344
-popped,0.0021
-ridiculous,-0.0119
-bite,-0.038
+latte tasty,0.7373
+june,0.7365
+charcoal vanilla,0.7312
+made delicious,0.7292
+offered,0.7287
+charge,0.7205
+bad customer,0.7203
+specialize yogurt,0.7171
+great cafe,0.7145
+especially sandwich,0.704
+loaded bacon,0.7035
+crispy sandwich,0.702
+delicious egg,0.7012
+unassuming cafe,0.7008
+gem friend,0.697
+clean bathroom,0.6947
+great yogurt,0.6945
+smoothy espresso,0.6943
+sandwich cappuccino,0.6938
+vanilla,0.6914
+cream amazing,0.6904
+bacon breakfast,0.6891
+cafe great,0.6801
+food friendly,0.6793
+upper average,0.6708
+really coffee,0.6702
+espresso machine,0.666
+great dessert,0.6612
+best ice,0.6611
+food good,0.659
+good friendly,0.6528
+closed,0.6409
+decor friendly,0.6374
+tasty latte,0.637
+coffee food,0.6366
+seating good,0.6353
+croissant coffee,0.6338
+tea ice,0.6328
+taste good,0.6307
+yummy pastry,0.6301
+coffee great,0.63
+bacon egg,0.6297
+delivery,0.6269
+nice decor,0.6265
+tasty coffee,0.6244
+pastry coffee,0.6244
+cream might,0.6243
+friend,0.6225
+everything taste,0.6216
+tuesday wednesday,0.6212
+texture coffee,0.6185
+yogurt filling,0.6178
+waffle croissant,0.6172
+great waffle,0.616
+awesome breakfast,0.6156
+delicious iced,0.6137
+sandwich perfect,0.6051
+yogurt also,0.6009
+delicious,0.5962
+dessert newly,0.5938
+closed holiday,0.592
+fast friendly,0.5918
+bar little,0.5905
+friend suggested,0.5895
+chocolate flavor,0.5886
+tea menu,0.5877
+wake bacon,0.5871
+mochi matcha,0.5866
+good morning,0.5849
+waffle green,0.5848
+cafe changed,0.5842
+bakerdoe yummy,0.5837
+rather upper,0.5817
+bar,0.5809
+friendly service,0.5749
+moffle cookies,0.5744
+cookies cream,0.5737
+thursday friday,0.5729
+cream icecream,0.5722
+fruit yogurt,0.5699
+order bad,0.5582
+yomie yogurt,0.5547
+croissant bakerdoe,0.5531
+chinatown moffle,0.5527
+cafe chinatown,0.5515
+come thursday,0.5503
+anything girlfriend,0.546
+favorite cafe,0.5455
+happy,0.5449
+always amazing,0.5417
+latte pastry,0.5353
+waffle mochi,0.5336
+work fast,0.5327
+wednesday close,0.5293
+taste benefit,0.5251
+sipping red,0.5232
+ordered tea,0.5225
+usually tuesday,0.5219
+quiet atmosphere,0.5213
+interesting edgy,0.5208
+food drink,0.52
+service food,0.5197
+space friendly,0.5159
+ownership quiet,0.515
+try chocolate,0.5114
+tea actual,0.511
+wait pickup,0.5108
+cream outstanding,0.5102
+mint icecream,0.5102
+delicious latte,0.5097
+good happy,0.5095
+moffle delicious,0.5094
+guava smoothie,0.5063
+morning,0.5046
+delicious crispy,0.5037
+croissant saturdays,0.5035
+avocado fresh,0.5015
+avocado toast,0.5011
+cream flavor,0.5004
+bad,0.4997
+cappuccino friendly,0.4992
+sweet breakfast,0.496
+traditional bakery,0.4921
+insane,0.492
+waffle chewy,0.4912
+cafe supper,0.4906
+bakery cafe,0.4878
+complement chocolate,0.4875
+great avocado,0.4875
+brew delicious,0.4864
+cookies,0.4852
+great drink,0.4819
+slow staff,0.4814
+pastry however,0.4791
+drink well,0.4757
+cafe staff,0.4752
+drink reasonable,0.472
+wonderful service,0.4716
+pickup order,0.467
+suppose delicious,0.4653
+tea service,0.465
+tea flavour,0.4618
+chai latte,0.4592
+intelligencia bean,0.4584
+flavor bowl,0.4555
+artisanal bakery,0.4552
+coffee friendly,0.4522
+plus waffle,0.4511
+berry yogurt,0.4511
+tea thinking,0.451
+strawberry flavor,0.4445
+special croissant,0.4443
+pretty tasty,0.441
+food price,0.4392
+bakery owner,0.4379
+icecream ever,0.4369
+loved strawberry,0.4366
+success tasty,0.4352
+nice owner,0.4341
+better strawberry,0.4296
+tea seating,0.427
+visited,0.4265
+best mint,0.4262
+waffle ube,0.4245
+food ice,0.4225
+fast quick,0.422
+get yogurt,0.4213
+everything always,0.4206
+variety seating,0.419
+wonderful space,0.4177
+bakerdoe,0.4169
+hella slow,0.4165
+rich flavor,0.4085
+chinatown happier,0.4069
+honey espresso,0.4038
+delivery saddest,0.4027
+instruction disappointing,0.4016
+hometown creamery,0.4014
+delightful food,0.4001
+amazing especially,0.3962
+onion caper,0.3949
+cafe extremely,0.3907
+thick tasty,0.3844
+also delicious,0.3821
+pastry exceptionally,0.38
+coffee also,0.374
+broadway,0.3739
+broadway tunnel,0.3739
+dry tortilla,0.3707
+saddest lox,0.3698
+delicious fun,0.3653
+quick time,0.3634
+coffee pastry,0.3504
+tea coffee,0.3479
+delivered baked,0.3402
+came onion,0.3347
+absolutely disgusting,0.3286
+danish pastry,0.3179
+disgusting,0.3083
+add avocado,0.3035
+avocado add,0.3004
+popped ordered,0.2888
+minute leave,0.2806
+disappoint love,0.2749
+cold brew,0.2692
+aesthetic employee,0.2551

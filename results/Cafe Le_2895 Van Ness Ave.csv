@@ -1,117 +1,207 @@
 keyword,weight
-breakfast,14.3115
-food,3.4371
-good,3.1806
-coffee,3.1402
-cheap,2.6181
-sandwiches,2.5757000000000003
-delicious,2.4667000000000003
-cafe,2.3427
-friendly,2.1663
-sandwich,2.0329
-small,1.689
-nice,1.6739
-great,1.6709
-pancakes,1.171
-lunch,1.1255
-cozy,1.0543
-inexpensive,0.8457000000000001
-bus,0.8441
-quick,0.7843
-rice,0.7335
-taste,0.7268
-breakfasts,0.7078
-gentle,0.6972
-bacon,0.694
-eggs,0.6928
-café,0.676
-open,0.6302
-best,0.6249
-chicken,0.6186
-francisco,0.5962
-hours,0.5495
-strawberry,0.54
-highly,0.5104
-money,0.4808
-morning,0.48
-pleasant,0.466
-staff,0.4474
-regular,0.4465
-fresh,0.4407
-smoothie,0.4317
-restaurant,0.4095
-american,0.3963
-recommended,0.3919
-budgie,0.3865
-welcoming,0.3763
-edit,0.3732
-yummy,0.3678
-place,0.3621
-bagel,0.358
-sweet,0.3523
-thai,0.3396
-shop,0.3395
-menu,0.3336
-excellent,0.3122
-lunches,0.306
-curry,0.3054
-convenient,0.3022
-rainy,0.2998
-preparation,0.2985
-local,0.28559999999999997
-asians,0.2816
-environment,0.2815
-spicy,0.2719
-lady,0.2715
-operation,0.2701
-town,0.2687
-love,0.2667
-typical,0.255
-ice,0.248
-sit,0.2473
-bathroom,0.2468
-want,0.2222
-big,0.2118
-28,0.206
-hostess,0.2049
-trip,0.2045
-restaurants,0.1977
-uhg,0.1908
-franchises,0.1849
-affordable,0.1809
-recommend,0.1767
-chocolate,0.173
-eat,0.1698
-welcome,0.1683
-ideal,0.1655
-dishes,0.1655
-daily,0.155
-prices,0.1523
-tofu,0.1458
-bread,0.1227
-croissants,0.1219
-ladies,0.119
-100,0.1168
-week,0.1167
-fluffy,0.1105
-years,0.0872
-breads,0.0828
-cranberry,0.0711
-49,0.0685
-white,0.0678
-enjoyed,0.0565
-sunday,0.056
-vacation,0.0545
-inviting,0.0511
-croissant,0.0474
-ramen,0.0414
-flipped,0.0319
-pastrami,0.0201
-bite,0.0199
-tables,0.0111
-insider,0.0106
-served,0.01
-amazing,0.0063
-relationship,0.0047
-fair,-0.0209
-loved,-0.0304
+breakfast,8.280800000000001
+breakfast friendly,3.0921
+good breakfast,2.8043
+great breakfast,2.6122
+delicious breakfast,2.5523
+good cheap,2.362
+food delicious,2.0568
+coffee,1.9078
+cheap,1.8399
+breakfast sandwich,1.7468
+sandwich good,1.5872
+breakfast good,1.5627
+sandwich,1.4963
+pancake,1.3214
+nice staff,1.1911
+delicious,1.1383
+american breakfast,1.1375
+friendly staff,1.1283
+breakfast food,1.0984
+coffee great,1.061
+taste well,1.0
+highly recommended,0.9977
+coffee breakfast,0.9578
+bacon pancake,0.9565
+eggs bacon,0.9369
+best breakfast,0.929
+taste,0.8856
+quick breakfast,0.8746
+gentle management,0.8592
+breakfast pleasant,0.8531
+inexpensive breakfast,0.8525
+best strawberry,0.849
+cafe delicious,0.8454
+food nice,0.8442
+cheap breakfast,0.8377
+price gentle,0.8363
+good food,0.8336
+breakfast town,0.8298
+pancake route,0.8288
+bacon,0.8258
+great cafe,0.8138
+small friendly,0.81
+breakfast quick,0.806
+well,0.8036
+breakfast yummy,0.7988
+edit hour,0.7904
+gentle,0.7849
+strawberry smoothie,0.7846
+excellent breakfast,0.7753
+place coffee,0.7749
+breakfast big,0.7613
+friendly,0.7566
+cozy breakfast,0.7562
+cafe great,0.7472
+superb chicken,0.7408
+food friendly,0.7358
+food good,0.7346
+nice people,0.7333
+pastrami sandwich,0.7297
+enjoyed sandwich,0.7258
+cheap quick,0.7192
+francisco breakfast,0.7103
+spicy tofu,0.7095
+hour operation,0.7054
+chicken curry,0.705
+cheap regular,0.7032
+restaurant ideal,0.696
+great food,0.6939
+great sandwich,0.6916
+cranberry sandwich,0.6884
+ideal breakfast,0.6862
+rice delicious,0.6834
+delicious food,0.6813
+alternative breakfast,0.6813
+great pancake,0.6748
+sandwich coffee,0.6579
+sandwich right,0.6519
+hour,0.6466
+pancake nice,0.6432
+food recommended,0.6418
+delicious highly,0.6396
+quick inexpensive,0.6367
+uhg edit,0.6349
+good sandwich,0.6345
+sandwich owner,0.6332
+sandwich breakfast,0.631
+delicious sandwich,0.6295
+thai ice,0.6283
+family restaurant,0.6217
+breakfast choice,0.6211
+open uhg,0.6211
+white rice,0.6209
+corner cafe,0.62
+strawberry,0.6178
+breakfast several,0.6152
+love thai,0.6147
+cafe breakfasts,0.6136
+fresh preparation,0.6131
+small lunch,0.6126
+sweet shop,0.6095
+breakfast update,0.6078
+fresh sandwich,0.6073
+croissant sandwich,0.6013
+coffee wonderful,0.5997
+curry veggie,0.5996
+sit delicious,0.5987
+daily coffee,0.5987
+breakfast excellent,0.5947
+nice caf,0.5913
+budgie good,0.5894
+shop sweet,0.5873
+breakfast fair,0.5861
+friendly asians,0.5859
+breakfast delicious,0.5851
+sit bus,0.585
+welcoming environment,0.5827
+inexpensive,0.5807
+food,0.5784
+time cheap,0.5758
+cheap like,0.5755
+pleasant welcoming,0.5701
+people food,0.5672
+food cafe,0.5669
+cafe,0.566
+sandwich nice,0.5656
+sandwich cooked,0.5643
+time breakfast,0.5636
+tofu rice,0.5632
+bagel coffee,0.5632
+small place,0.5622
+lunch,0.5579
+great local,0.5568
+coffee expensive,0.5565
+bathroom inviting,0.556
+good price,0.552
+service good,0.5499
+breakfast returned,0.5461
+nice sandwich,0.5446
+fine coffee,0.543
+turkey cranberry,0.542
+enjoy cafe,0.5405
+breakfast affordable,0.5378
+friendly hostess,0.5366
+latte coffee,0.5349
+typical american,0.5322
+watering sandwich,0.5319
+cup coffee,0.5297
+good bagel,0.5277
+cafe breakfast,0.5272
+breakfasts nicely,0.5239
+breakfast served,0.5202
+breakfast top,0.52
+good chicken,0.5115
+owner great,0.5109
+meal lunch,0.5084
+like budgie,0.5079
+breakfast lady,0.5063
+nice lady,0.5053
+sandwich bagel,0.5016
+coffee work,0.5
+bowl lunch,0.4974
+delicousl breakfast,0.4945
+price typical,0.4942
+bus stop,0.4906
+chicken rice,0.4897
+breakfast lunch,0.4889
+awesome breakfast,0.4881
+sandwich cafe,0.4837
+store friendly,0.4819
+breakfast similar,0.4813
+day breakfast,0.481
+place breakfast,0.4805
+great,0.478
+smoothie nice,0.4771
+sandwich pretty,0.472
+right bus,0.4707
+pop breakfast,0.4645
+made sandwich,0.4614
+inexpensive highlight,0.4564
+coffee ham,0.4553
+lot sandwich,0.4526
+lunch special,0.4521
+hot chocolate,0.4474
+chicken,0.4456
+asians,0.4384
+staff sit,0.4369
+delicious craving,0.4339
+hostess fair,0.4336
+breakfast finding,0.4326
+menu coffee,0.4326
+best,0.4288
+rush lunch,0.4249
+least breakfast,0.421
+ice rea,0.4208
+excellent atention,0.4206
+sandwich made,0.4186
+bus,0.416
+cold sandwich,0.4148
+restaurant cafe,0.4057
+coffee really,0.3988
+nice local,0.3929
+looking delicious,0.3836
+good place,0.3776
+positive relationship,0.3621
+town,0.3437
+spicy,0.3054

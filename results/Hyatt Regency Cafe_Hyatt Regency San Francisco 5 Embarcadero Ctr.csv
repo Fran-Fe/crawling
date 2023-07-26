@@ -1,6 +1,6 @@
 keyword,weight
-lobby,0.5693
-lyft,0.4671
-pick,0.3795
-drops,0.3637
-set,0.3177
+lyft pick,0.6581
+near lobby,0.6501
+lobby,0.6221
+pick drop,0.5834
+drop set,0.5379

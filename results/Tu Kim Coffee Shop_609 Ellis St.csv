@@ -1,37 +1,51 @@
 keyword,weight
-coffee,2.7479
-good,1.7308
-porridge,1.6954
-vietnamese,1.2278
-tea,0.7704
-tasty,0.7088
-sandwich,0.6738
-cozy,0.557
+coffee,2.5915999999999997
+good,2.0586
+porridge,1.6552
+vietnamese coffee,1.2908
+tea good,1.0
+tasty porridge,1.0
+good coffee,1.0
+coffee sandwich,0.9305
+tea,0.9125
+porridge really,0.8787
+good vietnamese,0.8778
+vietnamese food,0.8279
+coffee played,0.8193
+serve coffee,0.8114
+place coffee,0.7313
+sandwich,0.72
+tasty,0.698
+cozy dine,0.6943
+clean cozy,0.6543
+dine inside,0.645
+vietnamese,0.6413
+really good,0.5681
+dine,0.5532
+super rude,0.5435
 food,0.5209
-clean,0.5188
-dine,0.5068
-fair,0.4727
-rude,0.4439
-nice,0.4334
-great,0.3695
-place,0.3012
-played,0.2946
-game,0.2883
-lady,0.2787
-serve,0.2738
-language,0.2639
-cafe,0.2623
-rich,0.1394
-menu,0.1335
-cash,0.12
-citrusy,0.1183
-aunties,0.102
-bad,0.0892
-super,0.0705
-really,0.0691
-outdated,0.0661
-yoga,0.0391
-bitter,0.027
-pay,0.0257
-fat,0.0113
-tenderloin,0.0008
+cozy,0.511
+great vietnamese,0.5039
+best porridge,0.4988
+sweet cafe,0.4956
+coffee lady,0.4948
+language game,0.4892
+egg menu,0.4737
+neighborhood cafe,0.4673
+serve,0.4653
+good porridge,0.4534
+menu worker,0.4481
+cafe serving,0.4322
+rude,0.4106
+kick porridge,0.3754
+menu,0.3679
+cash banh,0.3474
+cafe,0.3413
+coffee ever,0.34
+great place,0.3315
+really,0.3308
+mi cash,0.3276
+best vietnamese,0.3245
+enjoyed vietnamese,0.322
+cafe sua,0.2827
+enough sweetness,0.2305

@@ -1,190 +1,348 @@
 keyword,weight
-breakfast,10.776299999999999
-sandwiches,10.472
-sandwich,8.159600000000001
-food,7.6876
-good,6.3716
-coffee,5.603
-great,3.0290999999999997
-friendly,3.0132
-cafe,2.6036
-delicious,2.5982
-service,2.5786
-nice,2.3321
-lunch,2.2141
-cheese,1.9428
-burrito,1.808
-cheap,1.6631
-cute,1.375
-sausage,1.3176
-avocado,1.1962000000000002
-tasty,1.1884000000000001
-menu,1.1499000000000001
-burritos,1.0358
-meal,0.9823999999999999
-wonderful,0.9807
-love,0.9553
-super,0.9252
-staff,0.8915
-turkey,0.8795999999999999
-bagel,0.8196999999999999
-pretty,0.8108
-1416,0.798
-salad,0.7946
-bagels,0.7869
-café,0.7613000000000001
-quieter,0.7545
-bacon,0.7295
-chef,0.6962
-kind,0.6867
-indoor,0.6842
-day,0.679
-vegetarian,0.6721
-inexpensive,0.6611
-polite,0.6504
-favorite,0.6293
-lovely,0.6246
-honest,0.6194
-tea,0.6154999999999999
-waitress,0.6101
-eat,0.5956999999999999
-corner,0.5937
+sandwich,10.4602
+breakfast sandwich,7.7147
+breakfast,6.0389
+breakfast burrito,5.2603
+coffee,4.3664000000000005
+good food,4.3178
+food,3.8293999999999997
+great sandwich,2.4181
+sandwich great,2.1359000000000004
+good,2.0947
+food friendly,1.8274
+delicious sandwich,1.7743
+cheap,1.7222
+good breakfast,1.7195
+egg cheese,1.5937
+lunch,1.5467
+good sandwich,1.5312999999999999
+best sandwich,1.5091999999999999
+sandwich delicious,1.4835
+great food,1.4658
+friendly service,1.464
+friendly,1.4489999999999998
+delicious breakfast,1.4078
+coffee sandwich,1.3466
+cafe,1.2627
+avocado,1.2061000000000002
+friendly staff,1.1955
+ham cheese,1.1886999999999999
+coffee bagel,1.1549
+food service,1.1357
+holiday inn,1.1336
+sandwich made,1.1212
+cheese croissant,1.0170000000000001
+wonderful,1.0
+fantastic breakfast,1.0
+delicious food,0.9946999999999999
+food good,0.9792
+best chef,0.9495
+great coffee,0.9408
+appear restroom,0.9332
+kind staff,0.9313
+salad,0.9272
+cheap lovely,0.9179
+good cheap,0.9097
+corner bush,0.8981
+quieter deserves,0.8948
+restroom,0.8939
+ruben sandwich,0.8886
+spot lunch,0.8843
+sandwich cheapest,0.8782
+cheap good,0.8754
+honest food,0.8727
+good cafe,0.8642
+sausage breakfast,0.8603
+good eats,0.8573
+cozy indoor,0.8562
+friendly kind,0.8495
+vegetarian option,0.8455
+good quieter,0.8395
+love sandwich,0.837
+tuna sandwich,0.8362
+sandwich cool,0.8304
+bush,0.817
+great,0.8164
+sandwich perfectly,0.8147
+nice experience,0.8121
+turkey avocado,0.8107
+sandwich brownie,0.8076
+tasty bagel,0.7987
+best sandwiches,0.7957
+indoor seating,0.7925
+amazing sandwich,0.7911
+favorite coffee,0.7897
+chef customer,0.7876
+service inexpensive,0.7845
+coffee great,0.7789
+favorite sandwich,0.7774
+fire breakfast,0.7755
+bite vegetarian,0.7697
+cute good,0.7677
+around corner,0.7672
+ordinary people,0.7634
+cute,0.7624
+experience good,0.7623
+lovely service,0.7616
+heavy breakfast,0.7604
+super friendly,0.7568
+smoked turkey,0.7544
+lunch sandwich,0.7522
+food day,0.7514
+quieter,0.7489
+chef,0.7483
+moved around,0.7459
+coffee decent,0.7446
+inexpensive thanks,0.7434
+ordered tuna,0.7415
+sandwiches polk,0.7409
+would appear,0.739
+got coffee,0.7373
+people cafe,0.7323
+burrito best,0.7267
+deli sandwich,0.725
+indoor,0.7216
+food great,0.7212
+lunch two,0.7191
+would,0.7186
+dreamforce breakfast,0.716
+service good,0.7148
+moved,0.7132
+outstanding breakfast,0.7127
+sandwich small,0.7105
+super tasty,0.7104
+sandwich sandwich,0.7088
+ham burrito,0.7085
+size meal,0.7046
+bagel coffee,0.702
+star ordinary,0.7008
+iced coffee,0.7001
+added avocado,0.6998
+get lunch,0.6997
+bomb coffee,0.6995
+breakfast brunch,0.6983
+bagel sandwich,0.6971
+burrito salsa,0.6963
+appear,0.6945
+folk love,0.6933
+enjoyed breakfast,0.693
+terrible americano,0.6909
+vegetarian,0.6902
+good service,0.6898
+cheese breakfast,0.6896
+breakfast kid,0.6882
+excellent food,0.6875
+bagel crowded,0.6816
+kind,0.6814
+sandwich breakfast,0.6798
+always good,0.6784
+polite staff,0.6731
+nice,0.6693
+burrito top,0.6667
+sandwich real,0.6651
+sandwich burrito,0.6645
+staff low,0.6639
+menu great,0.6634
+tasty great,0.662
+cafe neighbourhood,0.6613
+friendly breakfast,0.6584
+solid sandwich,0.6584
+sandwich also,0.6578
+cheese turkey,0.6571
+sandwiches,0.6558
+sandwich smoked,0.655
+appreciated breakfast,0.6535
+sandwich accommodating,0.6534
+sausage burrito,0.6524
+cheapest price,0.6521
+prices good,0.6517
+italian soda,0.6516
+good spot,0.6511
+cool decor,0.6499
+avocado sprout,0.6488
+extensive sandwich,0.6479
+great breakfast,0.6459
+nice customer,0.6445
+sandwich good,0.6432
+cheese bacon,0.6426
+vibe cafe,0.639
+sandwich croissant,0.6384
+staff reasonably,0.6379
+shop terrible,0.6376
+made sandwich,0.6371
+low price,0.6368
+croissant breakfast,0.6364
+coffee much,0.6353
+service cozy,0.6346
+inn nearby,0.6344
+club sandwich,0.6329
+chicken salad,0.632
+sandwich shop,0.6316
+avocado dutch,0.6278
+eat peace,0.6274
+incredible breakfast,0.6262
+service amazing,0.624
+fast service,0.6185
+salad great,0.6182
+sausage hash,0.618
+salsa amazing,0.617
+day long,0.6156
+food bad,0.6148
+ordinary,0.6139
+breakfast pickup,0.6124
+love spot,0.6098
+nice sandwich,0.6096
+ham breakfast,0.6081
+tuna,0.6033
+price nice,0.6032
+cute local,0.6026
+turkey egg,0.6021
+americano food,0.5984
+cafe highly,0.5981
+sausage,0.5971
+meal though,0.5968
+place breakfast,0.5954
+cheapest,0.5954
 eats,0.5904
-best,0.5803
-deserves,0.5786
-taste,0.5771999999999999
-moved,0.5704
-cheapest,0.5583
-bush,0.5551
-holiday,0.5518
-tuna,0.5457
-cozy,0.542
-fast,0.5234
-amazing,0.5151
-quick,0.5092
-fantastic,0.5006
-soda,0.4971
-experience,0.4953
-brownies,0.48000000000000004
-restroom,0.4797
-low,0.4724
-spot,0.457
-peace,0.4532
-shop,0.4488
-salsa,0.4392
-seating,0.4389
-americano,0.438
-ordinary,0.4265
-long,0.4263
-italian,0.4225
-local,0.4207
-smoothies,0.4145
-options,0.4051
-bread,0.405
-reasonably,0.4046
-terrible,0.404
-available,0.4007
-salads,0.3995
-crowded,0.3992
-bite,0.3965
-flavorful,0.3883
-heavy,0.3793
-bomb,0.378
-didn,0.3734
-prompt,0.3686
-prices,0.3561
-comfortable,0.3548
-inn,0.3524
-customer,0.3455
-calm,0.3375
-deli,0.3346
-casual,0.3163
-size,0.3157
-affordable,0.315
-walk,0.3146
-sprouts,0.3038
-cool,0.3021
-cooked,0.2929
-neighborhood,0.2909
-vibe,0.2906
-gem,0.2802
-kid,0.2792
-week,0.2763
-perfect,0.2755
-eggs,0.2737
-excellent,0.2711
-brunch,0.2705
+hot sandwich,0.5904
+food plenty,0.5898
+pretty,0.5893
+sandwich always,0.5893
+turkey cooked,0.5892
+pretty good,0.5854
+bread waitress,0.5851
+try turkey,0.5841
+offering holiday,0.5822
+salad reasonable,0.5793
+bacon good,0.5785
+add sausage,0.5782
+coffee excellent,0.5768
+worker kept,0.5745
+quick coffee,0.5729
+burrito smoothie,0.5713
+sandwich husband,0.5713
+crunch delicious,0.5711
+burrito wish,0.5702
+great service,0.57
+service breakfast,0.5696
+kiddos liked,0.5693
+scoop salad,0.5675
+even meal,0.5672
+waitress listen,0.5661
+cheese bagel,0.5639
+sandwich vanilla,0.5631
+amazing food,0.5608
+egg bacon,0.5582
+cheese hashbrowns,0.5577
+bagel,0.5571
+price food,0.5568
+tasty,0.5545
+sandwich gourmet,0.5533
+best breakfast,0.5502
+loved eggs,0.5499
+polite,0.5492
+scone good,0.5488
+cafe great,0.5482
+hashbrowns favorite,0.5467
+meal,0.5453
+breakfast place,0.5439
+picky kiddos,0.5429
+burrito coffee,0.5427
+know menu,0.5419
+sandwich even,0.5393
+burrito,0.5385
+pastrami sandwich,0.5336
+salad croissant,0.5307
+bagels sandwich,0.5292
+good polk,0.5291
+bagel bomb,0.529
+gem neighborhood,0.5272
+breakfast menu,0.524
+ordered breakfast,0.5199
+turkey good,0.5188
+like worker,0.516
+charm sandwich,0.5156
+truely sandwich,0.515
+burrito trendy,0.5125
+good coffee,0.5118
+large salad,0.5073
+food tasted,0.5015
+coffee weak,0.5002
+waitress,0.4991
+interesting breakfast,0.4978
+walk check,0.4969
+bagel egg,0.4951
+bacon fast,0.4926
+fat breakfast,0.491
+definitely coffee,0.4894
+burrito add,0.4874
+menu sandwich,0.4851
+week nice,0.4842
+sandwich egg,0.4829
+sausage cheddar,0.4792
+breakfast coffee,0.4783
+salsa,0.476
+spinning tablet,0.4733
+sammy cafe,0.4728
+sandwich sanwiches,0.4709
+coffee mocha,0.4702
+menu,0.4701
+menu asked,0.4697
+business menu,0.4695
+gourmet cafe,0.4667
+mug coffee,0.4639
+bagel good,0.4614
+drink coffee,0.4611
+work nearby,0.4605
+burrito turkey,0.4601
+sandwich sourdough,0.4594
+decent coffee,0.4564
+delicious,0.4542
+recommend ham,0.453
+want italian,0.4529
+menu extensive,0.4484
+fantastic,0.4481
+staff welcoming,0.4458
+bagel ham,0.4448
+little shop,0.4413
+soda,0.4404
+good ruben,0.4331
+option available,0.4329
+shop cool,0.4327
+lots menu,0.4321
+tasted great,0.432
+great taste,0.4297
+super fire,0.4293
+quick bite,0.4275
+coffee order,0.424
+mocha delicious,0.4209
+day california,0.4208
+tablet tip,0.4196
+delicious burrito,0.4139
+simple coffee,0.4127
+love sammy,0.4107
+coffee tvs,0.4068
+sandwich ever,0.4058
+sandwich secure,0.4039
+worth trying,0.4016
+meal coffee,0.3968
+dollar meal,0.3901
+california scoop,0.3867
+coffee brownie,0.3834
+hand breakfast,0.3746
+lealand tea,0.3722
+super nice,0.3722
+quiet food,0.3718
+take walk,0.3672
+sprout extra,0.3644
+customer service,0.3617
+food wise,0.3483
+coffee recommendation,0.3411
+tea,0.3305
+forgettable serve,0.3221
+coffee sure,0.3209
+attitude cashier,0.3141
+polk coffee,0.3141
+brownie,0.2869
+customer,0.2825
 ruben,0.2696
-bad,0.2672
-small,0.2629
-nearby,0.2573
-smoothie,0.2565
-price,0.253
-smoked,0.25
-appear,0.249
-california,0.2448
-chicken,0.2333
-work,0.2244
-worth,0.2207
-iced,0.2056
-customers,0.2044
-welcoming,0.203
-kiddos,0.2025
-trendy,0.2007
-gourmet,0.1995
-picky,0.1993
-cashier,0.1931
-restaurants,0.1917
-ham,0.191
-classics,0.1874
-trying,0.1872
-hash,0.1869
-star,0.1859
-foods,0.1851
-awesome,0.1822
-hated,0.1771
-clean,0.1719
-check,0.1693
-browns,0.1689
-lively,0.1679
-notch,0.1675
-beaten,0.1671
-polk,0.1629
-workers,0.1625
-europe,0.1612
-easy,0.1547
-professional,0.1508
-sf,0.1489
-enjoyed,0.1453
-croissant,0.1447
-dutch,0.1404
-perfectly,0.139
-comfy,0.1345
-tvs,0.1326
-tasted,0.1286
-business,0.1266
-dreamforce,0.1248
-warm,0.1195
-tablet,0.1191
-vanilla,0.1161
-people,0.1142
-crunch,0.1128
-forgettable,0.1121
-extensive,0.1094
-scoop,0.0924
-lowbrow,0.0857
-dollars,0.0837
-decent,0.0759
-shops,0.0747
-obligatory,0.07
-chill,0.0421
-husband,0.0315
-scone,0.0271
-saturday,-0.0057
-twice,-0.0405
-ordered,-0.0456
-speed,-0.0649
-really,-0.068
-sourdough,-0.0718
-pastrami,-0.0909
-rhere,-0.1239

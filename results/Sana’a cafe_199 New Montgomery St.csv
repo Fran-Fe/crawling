@@ -1,128 +1,227 @@
 keyword,weight
-coffee,13.3666
-tea,5.8496
-cafe,4.2879000000000005
-pastries,3.5026
-delicious,3.082
-best,2.7108
-great,1.7903
-shop,1.4422
-excellent,1.406
-amazing,1.3748
-desserts,1.2842
-cake,1.2523
-taste,1.1843
-quality,1.1652
-friendly,1.1397
-love,1.1202
-pastry,1.0574999999999999
-customer,0.9107
-cozy,0.8988
-loved,0.8983
-flavorful,0.8294
-turkish,0.8207
-caffe,0.8185
-cheese,0.8078000000000001
-drinks,0.7691
-friend,0.7667999999999999
-yemeni,0.7547999999999999
-bread,0.7458
-super,0.741
-tasty,0.7389
-welcoming,0.7013
-cute,0.6737
-fantastic,0.6338
-lattes,0.6264000000000001
-original,0.6056
-recommend,0.5847
-cream,0.5473
-strong,0.5449
-food,0.5406
-strawberry,0.5294
-refreshment,0.4822
-foods,0.4752
-nice,0.4727
-excited,0.4611
-calm,0.4554
-clear,0.4531
-new,0.4434
-enjoyable,0.432
-treats,0.4032
-ambiance,0.4001
-unbeatable,0.395
-yummy,0.3901
-dessert,0.389
-environment,0.3875
-beeeeest,0.3828
-service,0.378
-adeni,0.3683
-exquisitely,0.366
-authentic,0.3299
-good,0.327
-city,0.3256
-lovely,0.3171
-spices,0.3107
-honeycomb,0.2956
-definitely,0.2925
-downtown,0.278
-blueberry,0.2775
-sweetness,0.277
-baked,0.274
-beautiful,0.2729
-unique,0.272
-worth,0.2714
-light,0.2634
-fresh,0.2631
-little,0.2581
-clean,0.2547
-awesome,0.2547
-today,0.2513
-corporate,0.2484
-busy,0.239
-neat,0.2362
-baklava,0.2235
-yummm,0.2175
-almond,0.2127
-late,0.2077
-tasted,0.2002
-creamy,0.1812
-ambience,0.1719
-café,0.1678
-powerful,0.1666
-honey,0.1606
-sweet,0.1605
-evening,0.1541
-brew,0.1536
-fun,0.1489
-highly,0.1482
-opens,0.148
-impeccable,0.141
-hotel,0.1399
-boiling,0.1306
-black,0.121
-watered,0.1082
-twice,0.1079
-yemen,0.1061
-don,0.1061
-wow,0.0963
-flavors,0.096
-pot,0.0889
-pm,0.0885
-dreamy,0.0847
-heavenly,0.0799
-spongy,0.0796
-everyday,0.072
-latte,0.0604
-area,0.0487
-open,0.0341
-cardamom,0.0322
-favorite,0.0273
-pandemic,0.0252
-finest,0.0193
-perfect,-0.0026
-francisco,-0.0035
-10,-0.006699999999999998
-walking,-0.0265
-phenemonal,-0.0619
-sf,-0.0961
-hard,-0.1024
+coffee,9.2671
+tea,4.9947
+best coffee,4.8702
+coffee tea,3.7502
+turkish coffee,2.3899999999999997
+excellent coffee,2.3546
+coffee pastry,2.0639000000000003
+coffee shop,1.9142000000000001
+coffee amazing,1.7723
+best,1.7216
+cafe,1.7187
+pastry,1.7106
+good coffee,1.4425
+great coffee,1.3498999999999999
+coffee delicious,1.2728000000000002
+pastry coffee,1.1914
+cheese honey,1.1285
+pastry good,1.0805
+yemeni coffee,1.0549
+coffee cardamom,1.0161
+super flavorful,1.0
+cake,0.9765
+tea strong,0.9454
+fantastic drink,0.9297
+best caffe,0.9106
+flavorful,0.8712
+tasty coffee,0.8654
+drink excellent,0.8649
+yemeni taste,0.8469
+adeni tea,0.8445
+beautiful cafe,0.8401
+cafe loved,0.8316
+sweetness tea,0.823
+lovely cafe,0.8157
+loved coffee,0.8089
+good pastry,0.7845
+original yemeni,0.7823
+strawberry cake,0.7802
+amazing staff,0.7798
+coffee good,0.7628
+tea friendly,0.7592
+excellent quality,0.7394
+little cafe,0.7285
+cafe beeeeest,0.7277
+light tea,0.7266
+staff welcoming,0.726
+welcoming quality,0.7242
+taste strawberry,0.7224
+food authentic,0.7186
+cafe pastry,0.7169
+environment amazing,0.7118
+amazing coffee,0.7107
+best ever,0.7091
+coffee smell,0.7016
+excellent customer,0.6966
+delicious refreshment,0.6955
+caffe tea,0.6921
+black tea,0.692
+tea good,0.6919
+caffe ever,0.6892
+coffee cake,0.6837
+food tea,0.6824
+tea pastry,0.6803
+unique love,0.679
+cafe special,0.6775
+tasty pastry,0.6766
+tea dessert,0.6759
+super,0.6739
+great customer,0.6703
+creamy cheese,0.6697
+clear tasty,0.6672
+pastry dessert,0.6663
+amazing cafe,0.6648
+tea mint,0.6627
+heard dessert,0.6627
+tea great,0.661
+service great,0.6598
+loved cream,0.6507
+great everything,0.6499
+coffee excellently,0.646
+pastry think,0.6445
+taste,0.6442
+original,0.6414
+love,0.641
+getting coffee,0.6408
+coffee excellent,0.6387
+coffee nice,0.6386
+pastry atmosphere,0.6386
+honeycomb pastry,0.6322
+cake also,0.6268
+favorite coffee,0.6259
+delicious latte,0.6259
+love cafe,0.6234
+yemeni,0.622
+baklava delicious,0.619
+beeeeest treat,0.619
+great cafe,0.6188
+chai pastry,0.6161
+tea also,0.6149
+delicious dessert,0.6117
+friend busy,0.6099
+exquisitely delicious,0.6091
+cake excellent,0.6089
+dessert love,0.6086
+spongy cake,0.6085
+better dessert,0.6076
+cream cheese,0.6076
+chai delicious,0.6071
+adani tea,0.6045
+honey pastry,0.6028
+strawberry,0.6024
+brew coffee,0.6014
+delicious ambiance,0.5982
+coffee boiling,0.598
+adjust sweetness,0.5979
+quality,0.5976
+honey bread,0.5974
+finest tea,0.5963
+taste coffee,0.5958
+tea awesome,0.5957
+authentic yummy,0.5957
+drink,0.5899
+tea heard,0.5894
+coffee joint,0.5837
+great latte,0.5829
+cafe homemade,0.5817
+pastry highly,0.5799
+tea coffee,0.5782
+pastry delicious,0.5776
+fantastic,0.5769
+cute little,0.5714
+service cozy,0.5705
+friendly staff,0.5697
+strong,0.5687
+refreshment visiting,0.5672
+new nice,0.5667
+thr best,0.5661
+turkish,0.5652
+caffe,0.5649
+pastry everyone,0.5645
+heavenly pastry,0.5573
+latte excellent,0.5553
+nice coffee,0.5537
+cake qisher,0.5522
+qisher cake,0.5516
+fresh food,0.5498
+chain coffee,0.5472
+excited find,0.5454
+everyone friendly,0.5427
+nice excellent,0.5403
+sweet almond,0.5385
+definitely recommend,0.5381
+product tea,0.5369
+dessert incredibly,0.5357
+brand coffee,0.5337
+cafe friendly,0.5336
+ever yummm,0.5331
+great catching,0.5261
+soul food,0.5217
+homemade honey,0.5205
+tea try,0.5193
+tasty,0.5169
+delicious pastry,0.5161
+delicious staff,0.5147
+adeni,0.5135
+selection coffee,0.5123
+excellently brewed,0.5093
+cafe opening,0.5084
+pastry great,0.5075
+art coffee,0.5063
+recommending coffee,0.5057
+nice,0.5047
+cozy great,0.5012
+cafe coffee,0.4985
+great,0.4905
+coffee ever,0.4877
+shop,0.4876
+coffee coffee,0.4872
+cute yemeni,0.487
+cheese,0.4847
+try pastry,0.4846
+homemade yemeni,0.4826
+coffee food,0.4768
+great flavor,0.4764
+bigger turkish,0.4763
+welcoming coffee,0.4753
+new cafe,0.4694
+shop area,0.4688
+dessert soon,0.4683
+hangout evening,0.4648
+knowing coffee,0.4645
+coffee place,0.46
+staff tasty,0.4565
+recommend,0.4565
+blueberry tart,0.4548
+flavor great,0.4546
+city,0.4513
+dreamy pastry,0.4501
+new coffee,0.4492
+baked good,0.4462
+coffee smooth,0.4456
+amazing definitely,0.4433
+latte best,0.4396
+almond spongy,0.4356
+fantastic coffee,0.4344
+adni tea,0.4304
+couple pastry,0.4264
+get blueberry,0.4232
+amazing,0.4232
+coffee friend,0.4224
+town great,0.4221
+started coffee,0.4202
+delicious food,0.4181
+coffee shown,0.4087
+tea san,0.4048
+arabic coffee,0.404
+try honeycomb,0.3984
+best delicious,0.3967
+coffee open,0.3847
+yemeni tea,0.3844
+belongs coffee,0.3723
+open late,0.3655
+time coffee,0.3513
+rwanda coffee,0.3369
+ever wow,0.3059
+making perfect,0.2516

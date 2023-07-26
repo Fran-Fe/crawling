@@ -1,185 +1,335 @@
 keyword,weight
-brazilian,8.6665
-food,5.635
-good,4.4681
-great,4.0623000000000005
-delicious,3.4855
-best,3.4168000000000003
-friendly,3.3707000000000003
-coffee,3.1015
-brazil,2.8921
-love,2.6999
-cheese,2.3523
-staff,2.259
-coxinha,1.9883
-tasty,1.9508
-amazing,1.9244
-acai,1.8485
-100,1.7289999999999999
-place,1.6615
-bread,1.6409
-yummy,1.5964
-pastries,1.4703
-bowls,1.4076
-market,1.3799
-products,1.3660999999999999
-home,1.3042
-expensive,1.2435
-snacks,1.2224
-bowl,1.2085
-little,1.1665999999999999
-recommend,1.1516000000000002
-chicken,1.1036000000000001
-drinks,1.1009
-small,1.0696
-juice,1.0417
-feijoada,1.0191
+brazilian,6.2463
+food,4.4329
+cheese bread,3.0305
+good,3.0091
+great,2.8094
+good food,2.7896
+best,2.5986000000000002
+brazilian food,2.5591
+coffee,2.4447
+delicious brazilian,2.3648000000000002
+love,2.1327
+brazil,2.083
+top,2.052
+delicious,1.8488
+cheese,1.8241
+best ai,1.6602000000000001
+tasty,1.6412
+yummy,1.6077
+brazilian cheese,1.5201
+market good,1.5099
+place,1.4459
+amazing,1.445
+good coffee,1.3502
+pastry,1.3309
+great food,1.3226
+friendly,1.3197999999999999
+brazilian pastry,1.3025
+service good,1.2785
+brazilian good,1.2341
+chicken,1.0654
+acai,1.0648
+snack,1.0343
+staff,1.0133999999999999
+good feijoada,1.0
+interesting place,1.0
+good product,1.0
+yummy affordable,1.0
+tasty miss,1.0
+good coxinha,1.0
+yummy food,1.0
 boomm,1.0
-interesting,0.9643
-foods,0.9532
-hot,0.9274
+acai smooth,0.9639
+top wonder,0.96
+interesting,0.9597
+love brazilian,0.9577
+feel home,0.9526
+affordable,0.9502
+one problem,0.9486
+favourite restaurant,0.9457
+baked good,0.9405
 smooth,0.9157
-affordable,0.9138
-cafe,0.9012
-cute,0.8807
-clean,0.8066
-awesome,0.7908999999999999
-doesn,0.7732
-problem,0.7617
+top top,0.9148
+home,0.9046
+problem cuscuz,0.8957
+love place,0.8856
+brazilian salgados,0.8823
+piece brazil,0.8796
+amazing food,0.8793
+chicken pie,0.8622
+food recommend,0.8571
+problem,0.8484
+little brazilian,0.8471
+brazilian corner,0.8467
+brazilian dessert,0.8464
+one,0.8463
+tier brazilian,0.8459
+best acai,0.8445
+expensive tasty,0.8429
+delicious coxinha,0.8295
+great brazilian,0.826
+tasted pretty,0.8202
+great staff,0.814
+feijoada,0.8114
+delicious server,0.8082
+awesome staff,0.8034
+cuscuz,0.8026
+brazil recommended,0.8015
+great acai,0.8007
+juice,0.7931
+top tier,0.7783
+brazilian product,0.7681
+food delicious,0.7593
+coxinha,0.7427
+plain friendly,0.7385
+everyone must,0.7368
+coxinha market,0.7321
+place food,0.7266
+brazilian sausage,0.7247
+amazing brazilian,0.7228
+coffee start,0.7189
+taste brazil,0.717
+find brazilian,0.7163
+highly recommend,0.715
+coffee excellent,0.7122
+groceries little,0.7112
+bowl tasted,0.7109
+cute little,0.7106
+product,0.7085
 wonder,0.7084
-just,0.6952
-groceries,0.6819
-cuscuz,0.6802
-super,0.6496999999999999
-francisco,0.6444
-nice,0.6436
-try,0.608
-tasted,0.5929
-tier,0.581
-açaí,0.5808
-plain,0.5664
-baked,0.5449
-decent,0.5407
-san,0.537
-restaurants,0.5316
-feel,0.529
-sausages,0.5188
-selection,0.5172
-pretty,0.5119
-salgados,0.5031
-huge,0.5012
-treats,0.4999
-buttery,0.4887
-service,0.4879
-tapioca,0.48760000000000003
-desserts,0.4813
-available,0.4809
-corner,0.4721
-happy,0.4697
-pie,0.4532
-people,0.441
-miss,0.4304
-favourite,0.4236
-large,0.4129
-need,0.4028
-polite,0.3946
-ti,0.3794
-highly,0.3789
-oven,0.3708
-sf,0.3677
-buffet,0.3579
-flavor,0.3538
-coxinhas,0.353
-brigadier,0.35
-brazilians,0.337
-café,0.327
-sweet,0.3258
-receptive,0.3251
-piece,0.3229
-puppies,0.3168
-city,0.3076
-caffee,0.3062
-having,0.3011
-excellent,0.2917
-prepared,0.2846
-brands,0.2789
-dough,0.2777
-stars,0.2764
-smoothie,0.2735
-tasteless,0.2727
-goods,0.2706
-usa,0.2676
-goodies,0.2601
-barista,0.2575
-cashier,0.2514
-maizena,0.2507
-passionfruit,0.2496
-owner,0.2469
-america,0.2465
-recommended,0.2301
-obrigada,0.2268
-sandwich,0.2195
-costumers,0.2177
-brazillian,0.2172
-cold,0.2168
-sweets,0.2124
-eaten,0.2099
-loved,0.2094
-passoquita,0.2065
-outside,0.2043
-authentic,0.19690000000000002
-size,0.1909
-acacia,0.1902
-energetic,0.1901
-breakfast,0.1855
-impressed,0.1852
-shop,0.18359999999999999
-beef,0.1721
-snack,0.1701
-fast,0.1696
-fun,0.1666
-loves,0.166
-gem,0.1651
-fried,0.1648
-tiny,0.164
-restroom,0.1602
-smiley,0.1542
-servers,0.1513
-beer,0.1509
-terrible,0.1493
-improving,0.1419
-prepare,0.1386
-central,0.1375
-unfortunately,0.1351
-frozen,0.1306
-day,0.1279
-hard,0.1269
-ingredients,0.1248
-cooked,0.124
-worst,0.1227
-portuguese,0.1164
-mission,0.1122
-days,0.1088
-grocery,0.1058
-watery,0.1045
-crazy,0.1037
-bought,0.0992
-pricey,0.0988
-came,0.0878
-croissants,0.0877
-cup,0.0861
-lived,0.0857
-expired,0.084
-friend,0.079
-ministore,0.0784
-taste,0.0743
-horrible,0.0713
-cake,0.0686
-mad,0.0676
-ashamed,0.0585
-die,0.0579
-lovely,0.0468
-carrot,0.0346
-sad,0.0182
-phone,0.0101
-90,-0.0021
+great service,0.704
+coxinha expensive,0.6995
+try coxinha,0.6973
+awesome cheese,0.6948
+small selection,0.6944
+great coffee,0.6937
+nice people,0.69
+friendly great,0.6885
+quick snack,0.6876
+best bowl,0.687
+server perfect,0.6851
+hot pastry,0.6842
+place staff,0.6685
+found delicious,0.6666
+pretty decent,0.6665
+food staff,0.6657
+always find,0.6657
+francisco,0.6653
+friendly acai,0.664
+need great,0.6625
+restaurant mission,0.6605
+sweet bread,0.6604
+pastry delicious,0.6573
+drink snack,0.6539
+buffet amazing,0.6498
+small,0.6494
+san francisco,0.6488
+top acai,0.6469
+love piece,0.6462
+dessert brigadier,0.6436
+little market,0.643
+pie,0.6428
+salgados,0.6394
+coffee clean,0.6388
+bowl available,0.6371
+made feel,0.6351
+acai ever,0.635
+selection awesome,0.6327
+recommend feijoada,0.6307
+must ti,0.6303
+passionfruit juice,0.628
+restaurant,0.6253
+plain,0.623
+go coffee,0.62
+improving juice,0.6167
+tasted,0.616
+coffee passoquita,0.6147
+best place,0.6136
+delicious acacia,0.613
+miss,0.6118
+brazil shop,0.6101
+leave brazil,0.6091
+brazilian ingredient,0.6082
+bread loved,0.6072
+sausage need,0.6066
+feijoada coxinha,0.6062
+city large,0.6061
+sf find,0.6054
+made,0.6053
+feel,0.6046
+ti try,0.6044
+brazilian coffee,0.6035
+market delicious,0.6021
+brazil obrigada,0.6
+always,0.5994
+everyone,0.5988
+best sweet,0.5918
+decent,0.5905
+market,0.5889
+food star,0.5885
+brazilian cafe,0.5861
+fun market,0.5841
+coffee baked,0.5821
+cold drink,0.5819
+good flavor,0.5785
+barista nice,0.5783
+authentic brazilian,0.5743
+friendly staff,0.573
+good brazilian,0.5719
+size huge,0.5717
+portion highly,0.5707
+day super,0.5696
+happy friendly,0.5673
+dessert,0.5672
+sad coffee,0.5649
+snack treat,0.5647
+outside brazil,0.5643
+love hot,0.5633
+coffee simply,0.5627
+awesome,0.5618
+delicious bowl,0.561
+beijinho tasty,0.5608
+beef favorite,0.5602
+food good,0.5598
+bowl delicious,0.5594
+hot mocha,0.5584
+sausage,0.5565
+groceries,0.5565
+cup coffee,0.5538
+meal coffee,0.5524
+food great,0.5492
+fried brazilian,0.5486
+pie die,0.5485
+hot cold,0.5446
+especially chicken,0.5443
+portuguese coffee,0.5439
+kind drink,0.5436
+delicious owner,0.5405
+clean ministore,0.54
+star happy,0.538
+brazil want,0.5377
+polite smiley,0.5376
+tier,0.5371
+ever,0.5356
+selection brazilian,0.5351
+one favourite,0.534
+perfect help,0.5328
+brazilian goody,0.5321
+lived brazil,0.5305
+start day,0.5301
+excellent service,0.5294
+antarctica beer,0.529
+delicious passionfruit,0.528
+costumer love,0.5274
+coffee pretty,0.5258
+great coxinhas,0.5228
+lacking prepared,0.5195
+ingredient frozen,0.5158
+like brazil,0.514
+beautiful market,0.5112
+cafe vibe,0.5098
+nice,0.5076
+coffee fresh,0.5053
+cafe market,0.5003
+favourite,0.5002
+great beef,0.4954
+huge,0.4945
+home realized,0.4923
+chicken empada,0.4897
+company sandwich,0.4877
+frozen food,0.4874
+authentic bowl,0.4873
+try brazilian,0.487
+morning snack,0.4862
+bread tasty,0.4861
+flavor acai,0.4858
+amazing staff,0.4844
+ham cheese,0.4836
+small fun,0.4832
+brazillian shop,0.4831
+brazil encouraged,0.4817
+bowl hot,0.4797
+love baked,0.4785
+staff friendly,0.4783
+central america,0.4767
+chicken cream,0.4744
+love fried,0.4716
+acacia bowl,0.4697
+brazilian buffet,0.4696
+fast clean,0.4691
+bowl awesome,0.4689
+service product,0.4689
+super polite,0.466
+bowl ever,0.4647
+remodeled cafe,0.4628
+brazilian missing,0.462
+coxinhas brazilian,0.4619
+good dough,0.4601
+small friendly,0.459
+orange juice,0.4584
+cream cheese,0.4553
+expensive bought,0.4524
+clean food,0.4512
+typical brazilian,0.4508
+tasty ham,0.4498
+brazil amazing,0.4483
+super friendly,0.4477
+juice terrible,0.4458
+juice mine,0.4428
+soft buttery,0.44
+owner lovely,0.4395
+buttery,0.4368
+snack coffee,0.4362
+brand pastry,0.4345
+product brazil,0.4296
+buy brazilian,0.4287
+piece,0.426
+got home,0.426
+usa super,0.4228
+food luckily,0.4222
+oven incredible,0.4151
+cafe,0.4132
+bread central,0.4123
+bought maizena,0.4093
+hard tasteless,0.4061
+fresh oven,0.404
+woman mad,0.397
+im brazillian,0.3967
+brazil despite,0.3953
+grocery savory,0.3894
+bowl eaten,0.383
+ever usa,0.383
+tapioca juice,0.3809
+juice also,0.3775
+one best,0.376
+shop doesnt,0.3754
+best coxinha,0.375
+bread,0.3698
+pastry drink,0.3688
+restroom woman,0.3554
+food crazy,0.3552
+three day,0.3549
+pretty expensive,0.3466
+pastel tasteless,0.3425
+frozen coxinha,0.3398
+town recommend,0.3394
+price tapioca,0.3312
+brazilians living,0.3177
+market caffee,0.3144
+tasteless brazilian,0.3128
+cashier grabbed,0.3097
+came three,0.3004
+horrible customer,0.2998
+better food,0.295
+brazilian brand,0.2946
+guarana antarctica,0.2888
+restroom customer,0.2816
+carrot cake,0.2787
+cake hard,0.2739
+wonderful management,0.2733
+beer,0.2709
+acai delicious,0.2701
+expired food,0.2448
+brazilian miss,0.2206
+always cooked,0.2149

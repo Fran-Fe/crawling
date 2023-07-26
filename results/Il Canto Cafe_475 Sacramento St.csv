@@ -1,319 +1,651 @@
 keyword,weight
-breakfast,44.4306
-burrito,22.666
-food,10.5631
-burritos,7.8751999999999995
-delicious,7.3649000000000004
-coffee,6.8816
-sandwich,6.7711
-tasty,5.7489
-avocado,5.0280000000000005
-great,4.6051
-service,4.3242
-amazing,4.1539
-friendly,4.1308
-bacon,2.9339
-chipotle,2.906
-excellent,2.9002
-best,2.8599
-good,2.6658
-chicken,2.416
-lunch,2.2016
-sandwiches,2.1952
-recommend,2.109
-meat,2.0586
-cafe,2.0338
-panini,2.0059
-mealpal,1.9867000000000001
-morning,1.7331999999999999
-hot,1.5498
-nice,1.5339
-cheese,1.5274
-warm,1.4955
-early,1.4848
-sausage,1.4034
-love,1.2611
-thank,1.2115
-fantastic,1.1585
-cookies,1.1123
-reasonable,1.0156
-quality,1.0041
-sf,1.0039
-eat,0.9993000000000001
-popular,0.9549
-eating,0.9320999999999999
-super,0.9286
+breakfast burrito,52.935900000000004
+breakfast,33.8714
+burrito,15.323
+best breakfast,13.1865
+delicious breakfast,6.48
+great breakfast,5.0116
+sandwich,4.2166
+meat lover,4.0831
+food,3.9493
+breakfast sandwich,3.5244999999999997
+great food,3.4264
+chipotle breakfast,3.2142
+amazing,3.0776000000000003
+food coffee,3.031
+excellent breakfast,2.9919000000000002
+avocado,2.9067
+amazing breakfast,2.8307
+coffee,2.8239
+tasty,2.7484
+great burrito,2.5571
+delicious food,2.5091
+burrito ever,2.4461
+excellent service,2.241
+delicious,2.2378
+chipotle sauce,2.1669
+lunch,2.1581
+great coffee,2.1502
+good breakfast,2.1166
+good food,2.0456000000000003
+mealpal,2.0242
+chicken burrito,2.0218
+avocado burrito,1.9994
+amazing food,1.8359
+food amazing,1.8068
+bacon,1.8053
+veggie breakfast,1.8009
+food excellent,1.7884
+chicken,1.7272
+veggie sandwich,1.7222
+good,1.6689
+best burrito,1.6616
+burrito city,1.6305
+delicious coffee,1.6235
+awesome breakfast,1.5882
+open early,1.5655000000000001
+food great,1.5467
+panini,1.5249000000000001
+get breakfast,1.5148
+service delicious,1.4996
+nice staff,1.4992
+lover burrito,1.4988
+burrito absolutely,1.4781
+coffee tasty,1.4642
+best,1.451
+excellent,1.4375
+best panini,1.4144999999999999
+burrito sausage,1.403
+bad service,1.3998
+sandwich best,1.3995000000000002
+sandwich breakfast,1.3901
+fantastic breakfast,1.3389
+meat,1.3369
+breakfast lunch,1.3247
+early morning,1.3014999999999999
+service,1.2969
+great,1.2513
+breakfast good,1.1985
+hearty breakfast,1.1733
+breakfast burritos,1.1715
+burrito delicious,1.1526999999999998
+got bacon,1.0857999999999999
+burrito best,1.0746
+food delicious,1.0735999999999999
+burrito amazing,1.0640999999999998
+place,1.0
+tasty mealpal,1.0
+panini good,1.0
+thank mike,1.0
+popular selection,1.0
+thanks bethany,1.0
+sf,0.9975
+sandwich amazing,0.9638
+coffee delicious,0.9626
+popular,0.9539
+free sanwitch,0.9367
+love coconut,0.9167
 bad,0.9125
-open,0.9027000000000001
-bethany,0.8518
-bland,0.8421000000000001
-mike,0.8135
-flavorful,0.7994
-restaurant,0.7967
-coconut,0.7872
-place,0.7551
-thanks,0.743
-awesome,0.7344
-blta,0.7259
-eggs,0.7238
-fidi,0.7167
-selection,0.7151
-starbucks,0.7078
-cappuccino,0.6858
-huge,0.6855
-latte,0.6852
-soon,0.6711
-efficiency,0.6567
-pasta,0.6433
-spot,0.6402
-shrimp,0.6194
-chocolate,0.6133
-10,0.6093
-potatoes,0.6066
-customer,0.6038
-yummy,0.5786
-outside,0.5753
-awful,0.5743
-flavor,0.5719000000000001
-horrible,0.5708
-tables,0.5572999999999999
-pesto,0.553
-wait,0.5505
-hope,0.5499
-sauce,0.5496
-appreciate,0.548
-fast,0.5477
-busy,0.5461
-taste,0.5186
-paninis,0.5183000000000001
-perfect,0.5062
-grilled,0.5037
-fresh,0.4939
-staff,0.4888
-tea,0.4804
-lovely,0.4798
-polite,0.4787
-prices,0.4779
-turkey,0.4752
-favorite,0.47390000000000004
-meatlovers,0.47350000000000003
-hotel,0.4665
-bread,0.4621
-juice,0.4576
-opens,0.4563
-long,0.4512
-salad,0.4498
-timely,0.4497
-simple,0.4485
-onions,0.4371
-tastey,0.4364
-financial,0.4244
-croissants,0.4159
-affordable,0.4115
-iced,0.4095
-private,0.4091
-hearty,0.40249999999999997
-impossible,0.4021
-mocha,0.3978
-zone,0.3966
-fair,0.3918
-coma,0.3796
-deli,0.3708
-line,0.37
-freshly,0.3699
-crispy,0.3691
-delicous,0.3659
-ladies,0.3618
-enjoyed,0.359
-welcome,0.3584
-egg,0.3559
-ice,0.3555
-bed,0.3517
-menu,0.34419999999999995
-desk,0.3412
-tasted,0.338
-steinsund,0.3346
-nap,0.332
-ahead,0.3295
-tastebuds,0.3238
-world,0.3211
-order,0.3206
-vanilla,0.3202
-ready,0.3149
-quickly,0.3124
-leave,0.3118
-going,0.3103
-sandy,0.3078
-courteous,0.3056
-crazy,0.3052
-delightful,0.3025
-date,0.2989
-salads,0.2988
-high,0.2983
-free,0.296
-meal,0.2955
-outstanding,0.2944
-neat,0.2922
-efficient,0.2898
-6am,0.2888
-dine,0.2853
-pastries,0.2846
-nutritious,0.2825
-quick,0.2779
-veggie,0.2768
-mealtimes,0.2744
-weekends,0.2734
-vegetarian,0.2686
-cooked,0.2665
-vegan,0.2656
-right,0.2632
-beans,0.2605
-smile,0.2599
-slaps,0.2563
-people,0.2538
-google,0.2514
-cookie,0.2505
-writing,0.2461
-butter,0.2399
-experienced,0.2395
-meatlover,0.2385
-big,0.2369
-prosciutto,0.2367
-banana,0.2363
-greeted,0.2357
-customers,0.2349
-cute,0.2346
-use,0.2341
-pretty,0.2332
-girlfriend,0.2327
-toasties,0.2326
-yesterday,0.2325
-work,0.2315
-waiting,0.2273
-tomorrow,0.2269
-stars,0.2256
-serves,0.2222
-spicy,0.2186
-incredible,0.2167
-potato,0.2153
-dessert,0.2132
-pleasant,0.2094
-ham,0.2088
-café,0.2032
-tofu,0.2029
-mayo,0.20079999999999998
-sanwitch,0.2001
-famous,0.1997
-prepared,0.1986
-seating,0.1982
-caffeinate,0.1958
-orders,0.1927
-addictive,0.1911
-brew,0.1899
-capital,0.1893
-pastas,0.1864
-hardest,0.1841
-small,0.1825
-alfredo,0.18
-croissant,0.1775
-bake,0.1743
-working,0.1743
-notch,0.1714
-italian,0.1694
-impressed,0.1675
-happy,0.1671
-hour,0.1636
-minutes,0.1629
-decent,0.1604
-city,0.1583
-week,0.1571
-downside,0.1564
-trash,0.15610000000000002
-review,0.1561
-sunday,0.1539
-cherrybomb,0.1521
-highly,0.1473
-lower,0.147
-hype,0.1401
-easily,0.1393
-chinese,0.1347
-deluxe,0.1319
-daily,0.128
-nicer,0.1267
-welcomed,0.1266
-deliciousness,0.1265
-online,0.1264
-helpful,0.1227
-grilling,0.1207
-convenient,0.1191
-bite,0.1117
-kick,0.1075
-luck,0.1034
-2021,0.1033
-spiffy,0.0988
-inside,0.095
-regular,0.0918
-business,0.09
-absolutely,0.0898
-price,0.0897
-wife,0.0847
-sesame,0.0826
-meals,0.0821
-lovers,0.0795
-flavors,0.079
-dishes,0.0755
-owner,0.075
-dining,0.0728
-friend,0.0725
-elm,0.0724
-buck,0.0697
-vegie,0.0672
-filling,0.0642
-day,0.061599999999999995
-shop,0.0607
-homemade,0.0553
-year,0.0545
-drivers,0.053
-customization,0.0499
-ordering,0.0489
-exceptional,0.048
-bomb,0.0475
-drop,0.0427
-cherry,0.0385
-excited,0.0356
-orange,0.0352
-coming,0.035
-share,0.0342
-feed,0.0304
-basque,0.0297
-attentive,0.0292
-sitting,0.0291
-mornings,0.0277
-ate,0.0275
-ingredients,0.023
-sweet,0.0218
-life,0.0162
-dallas,0.016
-bagel,0.0148
-bagels,0.0117
-days,0.0046
-buritto,-0.0012
-cold,-0.0028
-add,-0.005600000000000001
-texas,-0.0087
-wanted,-0.0154
-liked,-0.0213
-ve,-0.0229
-tried,-0.0243
-wish,-0.0288
-thrilled,-0.0302
-compared,-0.0361
-homeless,-0.0363
-tax,-0.0398
-gods,-0.0447
-downtown,-0.0454
-francisco,-0.047200000000000006
-hours,-0.0742
-smiled,-0.0981
-twice,-0.1265
-server,-0.1388
+lover breakfast,0.9118
+breakfast perfect,0.9067
+blta tasty,0.9067
+food huge,0.903
+another burrito,0.9027
+tasty cappuccino,0.8981
+burrito lovely,0.8916
+breakfast back,0.8905
+great spot,0.8902
+francisco food,0.8871
+bethany,0.8759
+breakfast sf,0.8612
+ham cheese,0.8577
+fast breakfast,0.8561
+coffee turkey,0.8524
+coconut mocha,0.8507
+fantastic burrito,0.8452
+mike,0.8415
+burrito leave,0.8371
+spot fidi,0.8336
+give free,0.8321
+breakfast breakfast,0.8299
+efficiency customer,0.8256
+see soon,0.8256
+quality open,0.8241
+amazing staff,0.8239
+breakfast excellent,0.8234
+chicken chipotle,0.8223
+decent breakfast,0.8212
+right food,0.8196
+tasty chipotle,0.8145
+never ready,0.8129
+bacon fire,0.8104
+best chicken,0.8097
+delicious croissant,0.8077
+cheese panini,0.8036
+pesto breakfast,0.7981
+coffee excellent,0.797
+tasty sandwich,0.796
+add bacon,0.7956
+grilled breakfast,0.79
+burrito ready,0.785
+restaurant tasty,0.7816
+reasonable price,0.7806
+chocolate yummy,0.7801
+steinsund hope,0.7796
+burrito tasted,0.7792
+avocado slaps,0.7787
+price great,0.7767
+free,0.7759
+blta,0.7726999999999999
+pesto chicken,0.7725
+cappuccino tasty,0.7705
+sandwich great,0.7693
+breakfast spot,0.7686999999999999
+coffee nice,0.7665
+fidi,0.7652
+appreciate efficiency,0.7651
+blta sandwich,0.7644
+tastey breakfast,0.7642
+burrito avocado,0.764
+enjoyed tasty,0.7629
+sandwich yummy,0.7612
+avocado breakfast,0.7589
+burrito bland,0.7541
+hot chocolate,0.7511
+thanks,0.7509
+delight sandwich,0.7508
+always appreciate,0.7489
+great quality,0.7477
+bacon sausage,0.7437
+burrito sf,0.7419
+coconut,0.7413
+awesome outside,0.7388
+go breakfast,0.7363
+bigger sandwich,0.7353
+spot,0.735
+line never,0.7342
+hope,0.7325
+avocado sandwich,0.7316
+morning,0.7309
+soon,0.7306
+burrito friendly,0.73
+incredible food,0.73
+egg burrito,0.7294
+friendly amazing,0.7284
+delicious burrito,0.7277
+hope see,0.7266
+cafe breakfast,0.7263
+chipotle avocado,0.7238
+happiness mealpal,0.7197
+recommend,0.7193
+iced latte,0.7184
+horrible coffee,0.7139
+love coffee,0.7136
+burrito tofu,0.7122
+famous breakfast,0.7122
+coffee awful,0.7098
+chipotle favorite,0.7078
+thank,0.7068
+delicious hot,0.7046
+egg sandwich,0.7038
+crispy bread,0.7032
+super friendly,0.7025
+burrito pleasant,0.7008
+fantastic food,0.7004
+never,0.6985
+sandwich sensible,0.6977
+always good,0.6975
+family restaurant,0.6963
+hot food,0.696
+good service,0.6959
+panini sandwich,0.6947
+efficiency,0.6938
+avocado creamy,0.6933
+burrito sandwich,0.692
+good chicken,0.691
+tofu egg,0.6904
+breakfast coffee,0.6898
+price lower,0.6876
+latte open,0.6876
+small cafe,0.6869
+mealpal food,0.6862
+excellent location,0.6841
+coffee vegetarian,0.6824
+cheese,0.6805
+location good,0.6801
+ice tea,0.6795
+great sandwich,0.679
+burrito outstanding,0.6762
+inside eating,0.676
+recommend blta,0.6759
+service meat,0.6748
+outside private,0.6746
+sandwich friendly,0.6725
+could eat,0.6718
+outside zone,0.6716
+luck chicken,0.6701
+crispy bacon,0.6671
+chocolate chip,0.667
+turkey panini,0.6658
+meat breakfast,0.6654
+burrito affordable,0.6645
+egg avocado,0.6613
+tasty eat,0.658
+favorite sausage,0.6577
+meatlovers avocado,0.6557
+coffee seating,0.6556
+cheese sandwich,0.655
+heated sandwich,0.6541
+good coffee,0.654
+long wait,0.6511
+outside,0.6504
+impressed breakfast,0.6473
+love breakfast,0.647
+selection,0.6456
+liked coffee,0.6446
+mayo delicious,0.6432
+row bacon,0.6432
+breakfast downside,0.6427
+burrito world,0.6419
+lunch spiffy,0.6396
+hot tasty,0.6393
+eat one,0.6393
+chipotle meat,0.6387
+great meal,0.6379
+huge,0.6359
+private outside,0.6359
+got avocado,0.6358
+bland taste,0.635
+veggie panini,0.6347
+love ham,0.6333
+somewhere else,0.6321
+excellent burrito,0.632
+food service,0.6305
+shrimp breakfast,0.6285
+use mealpal,0.628
+sandwich vanilla,0.6277
+great service,0.6249
+great grilled,0.6243
+burrito nice,0.6235
+lovely people,0.6207
+panini delicious,0.6204
+potato avocado,0.6194
+chocolate,0.6193
+good banana,0.6186
+food fresh,0.6186
+takeaway breakfast,0.6181
+else area,0.6169
+order give,0.6168
+vegetarian burrito,0.6159
+love,0.614
+add chipotle,0.6139
+food love,0.6132
+sausage,0.6127
+warm welcome,0.6101
+burrito could,0.6099
+sandwich fresh,0.6096
+burrito top,0.6092
+top breakfast,0.607
+customer service,0.606
+bread delicious,0.605
+nice latte,0.6047
+coma veggie,0.6033
+dine table,0.6031
+burrito chipotle,0.603
+efficient service,0.6027
+impossible would,0.6024
+simple fast,0.6021
+awful service,0.6021
+bagel breakfast,0.5972
+amazing chipotle,0.5971
+great staff,0.5969
+tasty wrap,0.5961
+restaurant option,0.5958
+chicken alfredo,0.5948
+latte delicious,0.5944
+lower place,0.5941
+service incredible,0.5939
+chipotle burrito,0.5937
+tiramisu chocolate,0.593
+else,0.5914
+panini happiness,0.5909
+burrito tasty,0.5902
+coffee veggie,0.5896
+delicious chipotle,0.5878
+service always,0.5876
+burrito great,0.5874
+first decent,0.587
+prepared tasty,0.5866
+burrito capital,0.5849
+lunch hour,0.584
+pannis sandwich,0.5833
+star enjoyed,0.5827
+work lunch,0.5817
+staff food,0.5815
+tastebud ready,0.581
+burrito surprisingly,0.58
+panini great,0.5798
+favorite breakfast,0.5798
+juice fresh,0.5794
+dessert coffee,0.5755
+pleasant working,0.5748
+panini iced,0.5748
+breakfast chipotle,0.5742
+person impossible,0.5738
+service dine,0.5738
+incredible service,0.5734
+pasta good,0.5728
+croissant sandwich,0.5726
+give,0.5714
+coffee fresh,0.5699
+kind breakfast,0.5696
+bacon breakfast,0.5694
+italian restaurant,0.5685
+sandwich salad,0.5674
+gem warm,0.567
+eat,0.5649
+pasta lunch,0.5643
+lunch area,0.5634
+amazing cappuccino,0.5632
+burrito crispy,0.5623
+wait please,0.5621
+breakfast every,0.5618
+breakfast option,0.5616
+readymade pasta,0.5615
+place breakfast,0.561
+added bacon,0.5599
+side breakfast,0.5597
+great salad,0.5587
+cheese hashbrowns,0.5581
+adding avocado,0.5576
+lower,0.5572
+crew star,0.5569
+recommend meat,0.5554
+got meat,0.5551
+nice people,0.5549
+sandwich wish,0.5543
+price coffee,0.554
+breakfast point,0.5535
+grilled cheese,0.5533
+meatlover burrito,0.5533
+price right,0.5529
+sausage breakfast,0.5507
+personality warm,0.5506
+burrito super,0.5502
+made sandwich,0.5502
+lunch twice,0.5498
+burrito shrimp,0.5485
+burrito eat,0.5474
+breakfast trip,0.5474
+creamy chipotle,0.5471
+salad lunch,0.5457
+food chipotle,0.5454
+food warm,0.5453
+breakfast get,0.5452
+panini salad,0.545
+food showed,0.5448
+warm friendly,0.5443
+breakfast serf,0.5433
+absolutely delicious,0.5432
+people efficient,0.5431
+yummy food,0.5431
+liking burrito,0.5426
+burrito expertly,0.5398
+banana bread,0.5381
+quick delicious,0.5366
+breakfast always,0.5357
+love burrito,0.5355
+interesting breakfast,0.535
+really delicious,0.5334
+cappuccino delicous,0.5333
+got ice,0.5326
+burrito highly,0.5321
+lovely,0.532
+service tasty,0.5314
+chipotle meatlover,0.5314
+specialty chipotle,0.5305
+hotel highly,0.5296
+get another,0.5287
+warm crispy,0.5284
+closed date,0.528
+sandwich sesame,0.5275
+egg cheese,0.5252
+grabbed lunch,0.523
+ever chipotle,0.5226
+burrito exceptional,0.5221
+burrito filling,0.5216
+bacon avo,0.5211
+cafe staff,0.52
+avocado tofu,0.5199
+cheddar cheese,0.5193
+perfect,0.5183
+sandwich egg,0.5178
+flavorful veggie,0.5174
+coffee surprisingly,0.5173
+fresh hot,0.5168
+sandwich croissant,0.5152
+leave,0.5147
+food freshly,0.5141
+latte good,0.5138
+liked breakfast,0.5124
+changing breakfast,0.5113
+amazing coffee,0.5109
+burrito latte,0.509
+enjoy burrito,0.5084
+highly recommend,0.5083
+cheese chicken,0.5083
+coffee great,0.5081
+fresh avocado,0.5071
+warm delicious,0.5053
+croissant panini,0.5047
+service timely,0.5046
+staff great,0.5044
+price friendly,0.5041
+flavorful staff,0.5039
+fresh flavorful,0.5032
+craving breakfast,0.5022
+warm toasties,0.5022
+nice breakfast,0.5013
+best vegie,0.5008
+couple starbucks,0.5007
+pesto pasta,0.5006
+bagel sandwich,0.4999
+food online,0.4988
+coffee breakfast,0.4977
+iconic breakfast,0.4976
+burrito definitely,0.4974
+sausage chipotle,0.4964
+tasty service,0.4961
+delicious nutritious,0.4956
+fresh coffee,0.4954
+sauce bacon,0.4954
+grab sandwich,0.4937
+chipotle chicken,0.493
+bed take,0.4915
+turkey,0.4915
+tastey,0.4915
+loved chipotle,0.4899
+freshly prepared,0.4898
+corner cafe,0.4896
+awful,0.4882
+latte cookie,0.4878
+horrible,0.4869
+burrito dessert,0.4862
+great family,0.4861
+regular breakfast,0.4852
+burrito place,0.4852
+restaurant,0.484
+burrito wrapped,0.483
+girlfriend yesterday,0.4821
+spot tastey,0.4816
+chicken protein,0.4815
+warm mayo,0.4814
+grilling burrito,0.4812
+crazy good,0.4806
+burrito cherrybomb,0.4803
+recommend ordering,0.4791
+cooked perfection,0.4789
+heard meatlovers,0.4782
+meatlovers burrito,0.4772
+burrito drop,0.4765
+great prosciutto,0.4763
+eating area,0.4759
+meat cheese,0.4755
+recommendation breakfast,0.4751
+delicious sauce,0.4712
+scrumptious breakfast,0.4705
+vanilla chai,0.4699
+town breakfast,0.4697
+cooky delicious,0.4647
+cafe,0.4647
+service food,0.4643
+sausage filling,0.4642
+deli spot,0.4623
+getting breakfast,0.4621
+croissant deluxe,0.4621
+bit bland,0.4614
+vegan flavor,0.4599
+salad menu,0.4583
+mocha,0.4575
+always cooked,0.4555
+toasties starting,0.455
+bean chicken,0.4543
+peanut butter,0.4543
+super nice,0.4512
+coffee courteous,0.4508
+great people,0.4493
+pastry bake,0.4477
+recommend breakfast,0.4469
+tasty always,0.4454
+away breakfast,0.4451
+price lady,0.4444
+egg fluffy,0.4439
+croissant amazing,0.4433
+starbucks rhe,0.4424
+chipotle,0.44
+sandwich glad,0.4393
+outstanding customer,0.439
+vegie breakfast,0.4387
+italian taste,0.4386
+veggie egg,0.4381
+butter cup,0.4361
+pasta,0.435
+alfredo best,0.4346
+busy mealtime,0.4327
+loved croissant,0.4307
+breakfast visit,0.43
+polite staff,0.4295
+every breakfast,0.4282
+pas starbucks,0.4278
+food exceptional,0.427
+deluxe egg,0.4262
+mealtime plan,0.4257
+dining nice,0.4253
+care food,0.4245
+hot,0.423
+coffee pretty,0.4217
+starbucks come,0.4201
+bake every,0.42
+every bite,0.4191
+green onion,0.4178
+flavor great,0.416
+love meat,0.4122
+fran cafe,0.4111
+crispy,0.4093
+choose avocado,0.4086
+try shrimp,0.4078
+iced,0.4074
+graced breakfast,0.4061
+joe delicious,0.4056
+delicious staff,0.4055
+add avocado,0.4037
+best wife,0.4025
+starbucks,0.4017
+cold brew,0.4015
+tofu delicious,0.401
+burrito bagel,0.4004
+sesame bagel,0.3984
+order food,0.3973
+shrimp ever,0.3947
+chipotle mayo,0.3937
+cafe close,0.3905
+ham,0.3902
+bread like,0.3897
+yesterday welcomed,0.3887
+nice warm,0.3863
+favorite,0.3852
+sweet always,0.3837
+best service,0.3829
+worker plenty,0.3823
+breakfast buritto,0.3799
+iced coffee,0.3791
+reasonable breakfast,0.3785
+elm service,0.3782
+good day,0.3766
+bag deliciousness,0.3756
+courteous recommend,0.3753
+burrito gladly,0.3752
+waiting prepared,0.3749
+burrito fresh,0.3733
+want burrito,0.3728
+remembered girlfriend,0.3726
+experienced bad,0.37
+capital world,0.3683
+affordable compared,0.3678
+best open,0.3668
+desk much,0.3662
+food reasonable,0.3644
+good customer,0.3605
+guy treat,0.3587
+friendly food,0.3579
+burrito ingredient,0.3572
+burrito large,0.3571
+burrito iced,0.3526
+ever flavorful,0.35
+get meat,0.3457
+coffee homeless,0.3442
+lunch meal,0.3433
+burrito really,0.3432
+pricing great,0.3417
+burritos twice,0.3405
+treat customer,0.3399
+rated coffee,0.3382
+grab breakfast,0.3379
+food delivery,0.3376
+addictive always,0.3366
+delivery driver,0.3362
+cherry bomb,0.3355
+lady super,0.3332
+gem fair,0.3323
+prosciutto panini,0.3322
+burrito try,0.3316
+meatlovers,0.3301
+included lunch,0.3275
+staff amazing,0.327
+scored bagel,0.326
+order meat,0.3224
+every morning,0.322
+deliciousness inside,0.3161
+sweetest men,0.3144
+service price,0.3142
+shrimp,0.3137
+gem croissant,0.3106
+feed family,0.3038
+panini wonderful,0.2995
+food worth,0.2905
+potato coffee,0.2877
+burrito coffee,0.2843
+order meal,0.2797
+awesome,0.2787
+menu ordered,0.2695
+meal cash,0.2667
+food really,0.2666
+coffee shop,0.2642
+working man,0.2603
+district cute,0.2504
+fantastic,0.2499
+wonderful filling,0.2258
+burrito one,0.223
+panini ever,0.2079
+daily far,0.1843
+middle financial,0.1768

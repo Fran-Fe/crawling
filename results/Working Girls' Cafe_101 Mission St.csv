@@ -1,91 +1,168 @@
 keyword,weight
-sandwiches,5.7192
-sandwich,3.9644
-salad,3.4999000000000002
-salads,3.2872000000000003
-great,3.062
-lunch,2.91
-food,2.0366
-cafe,1.9102000000000001
-awesome,1.6661000000000001
-breakfast,1.4796
-nice,1.4702000000000002
-friendly,1.4509
-coffee,1.1688
+sandwich,7.9886
+salad,4.9094
+sandwich salad,2.8515
+nice sandwich,1.8275000000000001
+great,1.6712
+cafe,1.4686
+great food,1.3875
+breakfast sandwich,1.3521
+breakfast,1.2547
+awesome sandwich,1.0
+good cafe,1.0
+beer,1.0
 gd,1.0
-excellent,0.9916
-delicious,0.7964
-california,0.7871
-tasty,0.7378
-convo,0.7158
-melt,0.6548
-favorite,0.6045
-hoagazine,0.5974
-fair,0.5502
-good,0.5451
-decades,0.5143
-beer,0.5081
-tried,0.4926
-appetite,0.4786
-chicken,0.4764
-quality,0.4758
-service,0.4723
-fast,0.4203
-greens,0.402
-quick,0.3768
-hearty,0.3635
-staff,0.3604
-downtown,0.3452
-smaller,0.3357
-couple,0.3279
-variety,0.3271
-love,0.32130000000000003
-prices,0.3188
-healthy,0.3156
-spring,0.3116
-place,0.3101
-busy,0.2783
-helpful,0.2717
-wifi,0.2701
-selection,0.2485
-pastries,0.2485
-sf,0.2463
-pretty,0.2446
-bigger,0.2443
-decent,0.2417
-fresh,0.2387
-avocado,0.21
-menu,0.20750000000000002
-donuts,0.2057
-bacon,0.1964
-generous,0.1952
-protein,0.1941
-mixed,0.1922
-solid,0.1913
-did,0.1845
-sizeable,0.1766
-tuna,0.1671
-large,0.1655
-small,0.1542
-sit,0.1519
-hand,0.1504
-bagels,0.1479
-eating,0.1427
-quinoa,0.1395
-soup,0.1391
-option,0.1372
-soups,0.1227
-customers,0.1025
-beans,0.0705
-cajun,0.0684
-bread,0.0675
-eat24,0.0649
-cheese,0.0601
-little,0.0407
-owner,0.0312
-eaten,0.0267
-bad,0.0168
-girls,-0.0136
-nicer,-0.0424
-iv,-0.0447
-tips,-0.0565
+awesome,0.9988
+lunch,0.9769000000000001
+great convo,0.969
+tasty breakfast,0.9488
+california melt,0.9297
+quality cafe,0.9283
+excellent great,0.9187
+convo well,0.8908
+excellent,0.8842
+sandwich selection,0.8799
+green salad,0.8716
+tried great,0.8699
+nice food,0.8556
+hearty sandwich,0.8438
+everything tried,0.8227
+salad sandwich,0.8208
+california,0.8125
+melt hoagazine,0.7989
+fast salad,0.7987
+fast sandwich,0.7929
+great sandwich,0.7927
+awesome service,0.7918
+good sandwich,0.7892
+sandwich small,0.7752
+everything,0.7659
+salad busy,0.7614
+quinoa salad,0.757
+lunch favorite,0.7549
+delicious salad,0.7507
+friendly staff,0.7388
+prosciutto sandwich,0.737
+favorite downtown,0.7282
+sandwich pretty,0.7273
+delicious sandwich,0.7249
+generous breakfast,0.7159
+sandwich option,0.7132
+busy lunch,0.7121
+fresh sandwich,0.7045
+salad fast,0.7037
+made sandwich,0.7002
+large salad,0.6999
+smaller appetite,0.6981
+service great,0.6954
+solid salad,0.6937
+cafe fair,0.6873
+salad like,0.686
+nice,0.6814
+sandwich bagel,0.6647
+fair price,0.6639
+sandwich get,0.6629
+quick tasty,0.6616
+aside sandwich,0.6567
+melt,0.6464
+salad protein,0.6404
+good lunch,0.6301
+sandwich iv,0.6284
+awesome place,0.6253
+food,0.6245
+spring green,0.6245
+place nice,0.6225
+sandwich sizeable,0.6198
+tried,0.6145
+good coffee,0.6055
+great lunch,0.5956
+coffee friendly,0.5945
+sandwich gentleman,0.5932
+favorite salad,0.5929
+great coffee,0.5896
+food super,0.5888
+fair,0.5843
+sandwich others,0.5772
+tasty,0.562
+hoagazine,0.5618
+good pricing,0.5609
+get smaller,0.5585
+pesto sandwich,0.5569
+good,0.5528
+sandwich turkey,0.5517
+bacon avocado,0.5515
+melt sandwich,0.5474
+turkey bacon,0.5468
+chicken salad,0.5458
+salad owner,0.5401
+fresh delicious,0.5369
+coffee fresh,0.5339
+appetite,0.5327
+sandwich shop,0.5298
+sandwich overall,0.5296
+chipotle chicken,0.5272
+wonderful cafe,0.5254
+owned sandwich,0.5205
+green,0.5186
+also salad,0.5169
+good couple,0.5154
+salad soup,0.5153
+sandwich good,0.5148
+coffee ok,0.5147
+cafe lunch,0.5138
+craving salad,0.5105
+chipotle salad,0.5088
+favorite,0.5031
+always delicious,0.5012
+food always,0.5008
+food good,0.4971
+protein salad,0.4967
+healthy hearty,0.4963
+great eating,0.4958
+coffee,0.4942
+love salad,0.492
+avocado toast,0.4855
+however sandwich,0.4835
+salad huge,0.4832
+love quinoa,0.4782
+sit work,0.4776
+sandwich plenty,0.4772
+variety love,0.4767
+cajun chicken,0.4758
+ordered chicken,0.4725
+tuna salad,0.47
+salad awesome,0.4676
+fast service,0.4671
+sandwich gave,0.4656
+food plenty,0.4651
+tasty lunch,0.4631
+chicken chipotle,0.4596
+wifi bad,0.4511
+liked food,0.4496
+nice menu,0.4414
+priced deli,0.4401
+ordering food,0.4392
+work breakfast,0.4382
+great hand,0.4377
+plenty donut,0.4302
+great variety,0.4253
+salad day,0.4244
+delicious ready,0.4222
+get quick,0.4199
+staff nicer,0.4165
+wonderful food,0.4131
+variety delicious,0.4126
+latte sweet,0.4101
+quick breakfast,0.4075
+chatting cajun,0.4062
+lunch office,0.4025
+food great,0.3911
+girls cafe,0.387
+cobb salad,0.3776
+chicken corn,0.3728
+cafe friday,0.3712
+nice helpful,0.3705
+hand made,0.3696
+large fresh,0.3651
+salad portion,0.3453
+selection,0.2467

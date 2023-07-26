@@ -1,164 +1,233 @@
 keyword,weight
-coffee,14.5518
-thank,8.4874
-great,3.8229
-beans,2.4105
-delicious,1.3444
-friendly,1.317
-overpriced,1.1455
-chocolate,1.0048
+coffee,13.4592
+thank,8.5004
+great coffee,4.4665
+delicious coffee,3.7572
+best coffee,2.4096
+coffee bean,2.0587999999999997
+great,1.9463
+coffee truck,1.6192
+hot chocolate,1.5896
+good coffee,1.5798999999999999
+coffee amazing,1.5119
+friendly,1.3775
+coffee shop,1.2732999999999999
+coffee good,1.1966
+cup coffee,1.1657
+grab coffee,1.1556000000000002
+roasted coffee,1.107
+nice coffee,1.0769000000000002
+coffee tea,1.0169000000000001
+cutest cafe,1.0
+thank stopping,1.0
+experience indescribable,1.0
+overpriced underwhelming,1.0
 excellent,1.0
-best,0.9837999999999999
-experience,0.943
+thank youuuuu,1.0
+great bean,0.9474
+coffee friendly,0.935
+overpriced,0.9095
+bean great,0.9057
+indescribable,0.8984
+adorable coffee,0.8917
+friendly people,0.8912
 youuuuu,0.8905
-cutest,0.8718
-indescribable,0.8518
-underwhelming,0.8444
-email,0.8116
-ladyfalconcoffeeclub,0.7963
-walking,0.7454
-tea,0.7178
-stopping,0.6695
-vehicles,0.6692
-truck,0.6692
-vanilla,0.6683
-gold,0.6625
-adorable,0.6463
-donuts,0.6353
-sf,0.6121
-alamo,0.5879
-beautiful,0.5764
-cafe,0.5689
-cortados,0.5666
-amazing,0.546
-perfect,0.5404
-stars,0.5347
-people,0.5257
-pathway,0.519
-hug,0.5152
-mexican,0.4892
-block,0.4865
-spot,0.4506
-hot,0.44789999999999996
-service,0.4349
-views,0.4338
-good,0.43310000000000004
-courteous,0.4262
-sunny,0.4148
-google,0.4098
-little,0.4077
-refund,0.4037
-saturdays,0.4023
-apology,0.4007
-quality,0.3987
-cortado,0.396
-sorry,0.3883
-morning,0.3849
-california,0.3827
-flavor,0.375
-upbeat,0.373
-iced,0.36829999999999996
-city,0.3397
-love,0.3337
-forgot,0.3273
-roasted,0.3254
-stand,0.325
-estimated,0.3227
-pastries,0.3199
-cup,0.31910000000000005
-priced,0.3159
-square,0.3154
-park,0.3131
-warm,0.3089
-sundays,0.3023
-nice,0.302
-milk,0.2799
-buffy,0.2768
-ladies,0.2747
-friendliest,0.2631
-cold,0.25529999999999997
-spices,0.253
-taxes,0.2525
-dessert,0.2525
-new,0.2519
-tasty,0.2438
-allergic,0.2427
-competition,0.2419
-fantastic,0.2382
-excelent,0.2299
-buying,0.2281
-8am,0.2263
-poor,0.21860000000000002
-location,0.2169
-tastes,0.2156
-fun,0.2145
-bustling,0.2083
-valuable,0.2019
-cool,0.197
-outstanding,0.1968
-taste,0.19290000000000002
-upstart,0.1907
-refused,0.1904
-hours,0.1834
-chocolates,0.179
-fransisco,0.177
-happy,0.1765
-com,0.1692
-cream,0.1659
-horrible,0.1573
-mocha,0.1568
-goal,0.1545
-espresso,0.1521
-sipped,0.1512
-super,0.15
-awesome,0.1439
-tennis,0.1417
-nicest,0.1397
-dollars,0.1386
-updated,0.1364
-sippy,0.1347
-restaurant,0.1298
-unacceptable,0.1199
-coffees,0.1181
-van,0.1172
-outrageous,0.1154
-drink,0.1109
-star,0.1024
-servers,0.0983
-brew,0.09509999999999999
-strong,0.0881
-middle,0.0869
-puppy,0.0849
-yummy,0.0833
-falcon,0.0818
-place,0.0774
-pricey,0.0732
-boost,0.0693
-menu,0.0689
-baristas,0.0663
-mask,0.0654
-prevent,0.0634
-shop,0.0573
-latte,0.055999999999999994
-trash,0.0548
-tourists,0.0539
-hard,0.0527
-teas,0.0489
-drinks,0.0304
-business,0.0301
-waiting,0.0201
-tip,0.0183
-screen,0.0111
-bad,0.01
-like,0.0041
-bob,-0.0012
-clear,-0.0028
-free,-0.0122
-friday,-0.0301
-month,-0.0351
-later,-0.039
-wait,-0.0562
-excited,-0.0816
-5lb,-0.0852
-car,-0.0895
-tools,-0.0949
+lady falcon,0.8856999999999999
+stopping,0.8855
+experience,0.8658
+pathway walking,0.8613
+underwhelming,0.849
+ladyfalconcoffeeclub com,0.8457
+great spot,0.8447
+walking,0.8363
+vehicle block,0.8107
+gold star,0.8063
+cortado sf,0.8062
+info ladyfalconcoffeeclub,0.8041
+lady coffee,0.7977
+best cortado,0.7967
+coffee thank,0.7917
+coffee right,0.7912
+people great,0.7887
+star hug,0.7751
+little coffee,0.7638
+saturdays sundays,0.761
+buying coffee,0.7522
+great cortados,0.7484
+competition california,0.7446
+coffee experience,0.7392
+give gold,0.7383
+sf,0.7316
+start saturdays,0.7191
+vehicle,0.7188
+vanilla coffee,0.7186
+bean,0.705
+love coffee,0.7018
+average coffee,0.6977
+gold,0.6876
+block pathway,0.678
+middle park,0.6722
+chocolate iced,0.6715
+chocolate coffee,0.6687
+hug,0.6678
+perfect location,0.6662
+coffee exceptional,0.6655
+awesome coffee,0.6649
+friendly service,0.6622
+iced roasted,0.6596
+tea excellent,0.6556
+fantastic coffee,0.6503
+cool coffee,0.6418
+iced coffee,0.6412
+saturdays,0.6379
+cutest,0.6377
+park coffee,0.6366
+hour google,0.6334
+coffee stand,0.6331
+best,0.6319
+coffee absolutely,0.6281
+cafe,0.6264
+mexican mocha,0.6224
+coffee soak,0.615
+lacked chocolate,0.6113
+coffee middle,0.6068
+fransisco pastry,0.6065
+cream vanilla,0.6045
+coffee also,0.6021
+updated hour,0.5991
+coffee flip,0.5941
+pastry excelent,0.5854
+want coffee,0.5849
+amazing view,0.5846
+psa coffee,0.5836
+courteous food,0.577
+stand perfect,0.5747
+please email,0.5679
+food great,0.5673
+coffee ee,0.5661
+park,0.5651
+accept apology,0.563
+iced vanilla,0.5606
+beautiful coffee,0.5551
+coffee spite,0.5545
+coffee wait,0.5537
+chocolate trash,0.5528
+vanilla latte,0.5496
+sweet coffee,0.5472
+hibiscus tea,0.5441
+iced latte,0.5412
+warm iced,0.5365
+coffee hot,0.5364
+upstart competition,0.5356
+coffee park,0.535
+taste coffee,0.5343
+cortado,0.5322
+apology experience,0.5265
+coffee sweet,0.5258
+offer refund,0.5249
+amazing,0.5243
+enjoy cup,0.5164
+refund please,0.5129
+strong yummy,0.5127
+sincerely buffy,0.5086
+mexican,0.5077
+iced hot,0.5055
+friendliest teammate,0.5029
+forgot ordered,0.5003
+coffee ordered,0.4998
+bean tea,0.4987
+truck,0.498
+email info,0.4962
+vanilla iced,0.4955
+full coffee,0.4941
+california kahve,0.492
+service mexican,0.4917
+grab delicious,0.4912
+email,0.4888
+great baristas,0.4878
+like coffee,0.4876
+new upstart,0.4865
+coffee prime,0.4831
+chocolate,0.4814
+coffee unquestionably,0.481
+tasty cup,0.4809
+coffee hand,0.4767
+tea,0.4762
+happy refund,0.4761
+beautiful truck,0.4744
+thank lady,0.4743
+reasonably priced,0.4739
+half coffee,0.4735
+middle alamo,0.4732
+great little,0.4708
+tax latte,0.4707
+email buffy,0.4701
+alamo square,0.4694
+woman coffee,0.4674
+park sunny,0.4669
+privilege coffee,0.4659
+free drink,0.4655
+chocolate flavor,0.4638
+sorry buffy,0.4638
+latte small,0.4617
+brew cream,0.4616
+overpriced poor,0.459
+coffee sufficient,0.4589
+quality coffee,0.4569
+baristas puppy,0.4563
+california,0.4552
+free coffee,0.455
+cold brew,0.4529
+super delicious,0.4522
+go coffee,0.4512
+yummy give,0.4511
+sitting lawn,0.4506
+coffee nice,0.4434
+outrageous poor,0.4377
+milk choice,0.4343
+recommended coffee,0.4306
+experience city,0.429
+great beverage,0.4279
+nicest friendliest,0.4272
+van pretty,0.4261
+puppucinno donut,0.4244
+tool coffee,0.4217
+coffee utmost,0.4165
+coffee always,0.4141
+yummy,0.4105
+real dessert,0.4086
+never buy,0.4069
+bob donut,0.4069
+forgot,0.4065
+back email,0.406
+service never,0.4053
+dessert treat,0.405
+petit latte,0.4033
+small coffee,0.4029
+coffee quality,0.3962
+small cup,0.3894
+mobile coffee,0.3891
+waiting drink,0.3875
+also cold,0.3872
+variety milk,0.3854
+coffee came,0.3851
+truck great,0.3841
+explained happy,0.382
+city,0.3684
+cream girl,0.3678
+coffee art,0.3635
+customer horrible,0.363
+forgive unacceptable,0.3617
+girl loved,0.3588
+buffy ladyfalconcoffeeclub,0.3581
+sippy cup,0.3575
+bag coffee,0.3556
+location coffee,0.3541
+tea great,0.3416
+oh coffee,0.3281
+tennis haha,0.3281
+whipped cream,0.3268
+tea good,0.3248
+first coffee,0.3175
+every month,0.2799
+drink love,0.2528

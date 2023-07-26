@@ -1,252 +1,473 @@
 keyword,weight
-clean,11.183
-coffee,10.4736
-laundry,9.1043
-cafe,8.5157
-friendly,6.3471
-nice,3.5473999999999997
-laundromat,3.3555
-great,2.9872
-good,2.7549
-pizza,2.562
-best,2.4144
-breakfast,2.348
-decent,2.2759
-wifi,2.2534
-cozy,2.2188
-safe,2.1077
-helpful,2.0003
-washing,1.6233
-wash,1.6221
-staff,1.5063
-affordable,1.5032999999999999
-maintained,1.481
-excellent,1.4621
-dryers,1.3591
-place,1.3304
-detergent,1.2864
-salmon,1.2012
-lunch,1.178
-café,1.0935000000000001
-owner,1.0565
-late,1.0519
-food,0.9821
-loved,0.9641
-approachable,0.9562
-idea,0.9539
+coffee,7.3096
+clean,5.0646
+laundry,3.8278
+cafe,3.4263
+pizza,3.0852
+great coffee,2.9342
+free wifi,2.6348
+laundry done,2.4535
+best coffee,2.2927999999999997
+friendly staff,2.2472
+well maintained,2.2014
+nice cafe,2.1149
+good coffee,2.0907
+best,2.0
+decent,1.8424
+wifi,1.7442
+decent clean,1.574
+great,1.5733000000000001
+salmon bagel,1.5607
+clean safe,1.5143
+affordable price,1.5138
+breakfast lunch,1.4738
+place,1.4447999999999999
+open late,1.4425999999999999
+never,1.4331
+excellent,1.4235
+affordable,1.4014
+coffee great,1.3853
+good pricing,1.3561
+safe,1.3405
+friendly,1.3102
+nice location,1.2951000000000001
+coffee salmon,1.2651
+pricing good,1.2246000000000001
+nice,1.2212
+friendly coffee,1.1892
+clean machine,1.1877
+lunch,1.1395
+clean place,1.1246
+cafe open,1.1028
+breakfast,1.0724
+laundromat nice,1.0611
+get laundry,1.0527
+nice laundry,1.0
+loved,1.0
+decent place,1.0
+excellent attention,1.0
+cozy,1.0
+friendly owner,1.0
+pizza good,1.0
+cool idea,1.0
+staff friendly,0.9889
+safe neighborhood,0.9667
+never come,0.9667
+would never,0.9612
+clean launderette,0.9579
+pizza friendly,0.9573
+little cafe,0.9461
+coffee pastry,0.9442999999999999
 cool,0.9418
-open,0.9372
-service,0.9172
-home,0.9133
+good pizza,0.9311
+place decent,0.9274
+lack proper,0.9231
+staff clean,0.9183
+excellent cafe,0.9177
+enough tenderloin,0.9146
+fom home,0.9017
+welcoming laundrymat,0.8725
+home,0.8667
+good cafe,0.8529
+cup coffee,0.8438
 attention,0.8425
-plenty,0.8397
-far,0.7736
-neighborhood,0.7721
-close,0.7598
-free,0.7562
-lack,0.7514
-bagel,0.7214
-tea,0.7048
-fom,0.6946
-chill,0.6829
-sf,0.6829
-caramel,0.6797
-comfortable,0.6756
-gem,0.6739
-love,0.6733
-come,0.6713
-pizzas,0.6598999999999999
-secure,0.6535
-tenderloin,0.6525
-cars,0.6499
-just,0.6369
-night,0.6326
-work,0.6321
-city,0.6317
-special,0.6018
-tourists,0.5755
-convenient,0.5739
-launderette,0.5684
-brilliant,0.5635
-soap,0.5543
-welcoming,0.5452
-cup,0.5404
-proper,0.5368
-laundrymat,0.5308
-new,0.5287
-little,0.5246999999999999
-liked,0.5198
-makes,0.5158
-absolute,0.5144
-hours,0.5076999999999999
-washroom,0.5066
-washers,0.5043
-cute,0.4951
-rude,0.4945
-accommodating,0.482
-cakes,0.4819
-girlfriend,0.4806
-condescending,0.4767
-warm,0.4752
-downtown,0.4498
-average,0.4465
-pleasant,0.4452
-pretty,0.4406
-awesome,0.4383
-amazing,0.4359
-sandwiches,0.4348
-cheap,0.4227
-got,0.4213
-sit,0.4155
-stale,0.4054
-aussie,0.4032
-available,0.4003
-thanks,0.3983
-snack,0.3962
-happy,0.3929
-store,0.39139999999999997
-enjoy,0.3912
-homework,0.3901
-expensive,0.3859
-chinese,0.3715
-vegas,0.3669
-killer,0.3652
-location,0.3586
-china,0.3563
-pastries,0.3557
-job,0.3409
-madness,0.3393
-melbourne,0.3374
-lattes,0.3343
-sandwich,0.33230000000000004
-usually,0.3312
-rudely,0.3292
-today,0.327
-phone,0.326
-washer,0.3246
-mandarin,0.324
-security,0.3212
-lemonade,0.3202
-menu,0.3184
-checkout,0.3182
-vending,0.3175
-atmosphere,0.3159
-meals,0.3087
-chaotic,0.3038
-machines,0.3005
-fantastic,0.2998
-delicious,0.29769999999999996
-nicee,0.294
-gorgeous,0.2931
-bring,0.292
-uncomfortable,0.2919
-dry,0.2911
-lovely,0.2884
-caffeine,0.2877
-dysfunctional,0.2873
-evening,0.2848
-yummy,0.2842
-disparity,0.2779
-coffees,0.2771
-touristic,0.2766
-barista,0.2752
-espresso,0.2682
-thankgod,0.2657
-bakery,0.265
-dispenser,0.2646
-cream,0.2527
-weekends,0.2525
-australia,0.252
-toilets,0.246
-avocado,0.2409
-taiwan,0.24
-waste,0.2375
-cafes,0.2331
-baked,0.2269
-peace,0.2262
-reasonably,0.2254
-small,0.2253
-francisco,0.22449999999999998
-thought,0.2101
-sunday,0.2094
-tasty,0.2074
-environment,0.2057
-croissant,0.2035
-attraction,0.2034
-quiet,0.2014
-cheese,0.2014
-finish,0.198
-drying,0.1969
-pricey,0.1944
-55pm,0.1884
-perfect,0.1874
-drink,0.1862
-bad,0.1853
-chocolate,0.1853
-woman,0.184
-games,0.1838
-ideal,0.1813
-california,0.1773
-don,0.1755
-worth,0.1754
-working,0.1709
-bicycle,0.1695
-locals,0.1695
-relax,0.1695
-10,0.1656
-charcoal,0.1634
-day,0.1631
-almond,0.16
-taste,0.1592
-americano,0.159
-las,0.1581
-mean,0.1549
-competitive,0.1487
-comforters,0.1458
-traveler,0.1451
-cleanliness,0.1449
-batteries,0.1435
-exceptional,0.1388
-welcome,0.1342
-walking,0.132
-mocha,0.1303
-constantly,0.128
-worker,0.1246
-iced,0.1213
-bagels,0.1203
-tonight,0.1202
-hospitality,0.1191
-dangerous,0.1149
-washed,0.1116
-pleasantly,0.1112
-customers,0.108
-counter,0.1024
-macchiato,0.0977
-dispensing,0.0947
-street,0.0926
-calves,0.085
-monday,0.0846
-downgrade,0.0791
-generous,0.0786
-latte,0.06970000000000001
-dryer,0.0681
-newer,0.0591
-stopped,0.0523
-pm,0.0472
-walk,0.0405
-trip,0.0389
-fresh,0.033
-disappointing,0.0322
-enjoying,0.0307
-gal,0.02
-hot,0.019399999999999997
-days,0.0079
-walked,0.0076
-dried,0.0044
-really,-0.0021
-30,-0.0032
-improved,-0.0043
-traveling,-0.0048
-pounds,-0.0208
-tested,-0.0407
-disaster,-0.0729
+sf special,0.8376
+awesome coffee,0.8251
+downtown laundry,0.825
+nice clean,0.8094
+cafe nice,0.8091
+got laundry,0.8031
+far enough,0.8021
+close fom,0.8005
+approachable secure,0.7953
+tenderloin,0.7906
+idea,0.7903
+make sf,0.785
+laundry clean,0.7809
+clean well,0.7792
+brilliant service,0.7778
+lack,0.7762
+clean convenient,0.769
+close,0.7634
+price friendly,0.7589
+coffee cake,0.7557
+secure location,0.7539
+great cafe,0.7537
+friendly approachable,0.7514
+laundry excellent,0.7499
+homework breakfast,0.7481
+clean toilet,0.7423
+enjoy cup,0.7406
+lunch laundry,0.7365
+coffee good,0.7355
+owner friendly,0.735
+sf,0.7312
+far,0.7238
+cafe environment,0.7196
+cafe cozy,0.7189
+enough,0.7188
+yummy latte,0.7187
+laundry wash,0.7158
+absolute gem,0.7156
+laundromat coffee,0.7138
+pizza made,0.7039
+cafe laundry,0.701
+hour friendly,0.6987
+staff nice,0.6978
+friendly cozy,0.6951
+gem,0.695
+convenient hour,0.6949
+rude condescending,0.6945
+fom,0.6916
+nice equipment,0.6914
+tasty breakfast,0.6905
+always clean,0.6878
+laundrymat caf,0.6857
+chill got,0.6855
+never crowded,0.6855
+late never,0.6845
+staff plenty,0.6832
+pretty chill,0.683
+coffee really,0.6811
+meanwhile pizza,0.68
+job car,0.6794
+lunch great,0.677
+priced cafe,0.6708
+condescending attitude,0.6692
+cute welcoming,0.6682
+location good,0.6675
+new owner,0.6672
+laundrymat,0.6668
+snack homework,0.6652
+cafe awesome,0.6588
+laundromat clean,0.6566
+cream latte,0.6565
+owner pleasant,0.6549
+atmosphere washroom,0.6531
+washing machine,0.6523
+wifi clean,0.6515
+owner fantastic,0.6467
+price nice,0.6466
+car,0.6455
+buy detergent,0.6442
+sit enjoy,0.6431
+dive alcohol,0.6394
+safe usually,0.6364
+new cafe,0.6357
+owner,0.6335
+wash sit,0.6316
+bagel stale,0.631
+excellent coffee,0.6283
+girlfriend really,0.6281
+washroom,0.6277
+relax pizza,0.6238
+coffee awesome,0.6237
+get breakfast,0.6229
+friendly laundromat,0.6219
+good job,0.6215
+everything available,0.6183
+bicycle coffee,0.6171
+clean laundromat,0.6162
+laundromat,0.614
+coffee excellent,0.6118
+helpful coffee,0.6059
+coffee coffee,0.6051
+condescending,0.6034
+coffee pizza,0.6012
+girlfriend,0.6012
+wait laundry,0.6002
+would,0.5986
+cafe excellent,0.5973
+city downtown,0.5961
+coffee average,0.595
+rude,0.595
+rudely might,0.595
+wash fold,0.595
+service,0.594
+washing,0.5936
+laundry finish,0.5932
+machine dryer,0.593
+love laundromat,0.5928
+chinese woman,0.5928
+pleasant helpful,0.5919
+food helpful,0.5898
+coffee super,0.5891
+food coffee,0.5884
+dryers bad,0.5866
+coffee wash,0.5866
+caramel macchiato,0.5855
+getting laundry,0.5855
+coffee melbourne,0.5835
+cafe scrumptious,0.5828
+breakfast sandwich,0.5827
+service coffee,0.5824
+wonderful service,0.5819
+breakfast salmon,0.5815
+iced caramel,0.5807
+pizza great,0.5778
+clean facility,0.5741
+launderette,0.5715
+laundry coffee,0.5706
+meal clean,0.57
+seriously coffee,0.5692
+coffee cafe,0.5679
+wash cafe,0.5659
+great food,0.5654
+laundromat good,0.5631
+neighborhood,0.5628
+really liked,0.5623
+food creative,0.5619
+salted caramel,0.5616
+warmed croissant,0.5578
+cafe totally,0.5575
+extremely rudely,0.5568
+clean highly,0.5557
+coffee laundromat,0.5556
+dah clean,0.5553
+ideal tourist,0.5545
+come,0.5532
+get coffee,0.553
+proper,0.553
+charcoal coffee,0.5519
+also cheap,0.5517
+good talking,0.5501
+rudely,0.5485
+proper service,0.5484
+liked place,0.5478
+caramel matcha,0.5473
+wifi open,0.5471
+really happy,0.5462
+friendly clean,0.5455
+cafe tea,0.545
+good,0.5446
+laundromat best,0.5442
+detergent dispensing,0.5439
+friendly service,0.5437
+done aussie,0.5434
+coffee breakfast,0.5431
+cafe delivered,0.5403
+welcoming,0.5402
+convenience store,0.5365
+washroom go,0.5364
+friendly washer,0.5355
+funny coffee,0.5343
+lemonade caffeine,0.5342
+cheap,0.533
+bite coffee,0.5301
+price average,0.53
+cafe barista,0.527
+coffee owner,0.5254
+comfortable laundromat,0.5244
+expensive laundry,0.5217
+cake,0.5217
+good working,0.5217
+pizza excellent,0.5204
+average laundromat,0.5182
+chocolate breakfast,0.5164
+phone extremely,0.5091
+city madness,0.5086
+say thanks,0.5083
+scrumptious food,0.5037
+coffee enjoy,0.5034
+breakfast waiting,0.5027
+nice helpful,0.5018
+avocado cream,0.5008
+detergent softener,0.4977
+dryer pizza,0.4968
+staff change,0.4949
+tea coffee,0.4924
+always wash,0.4917
+owner chinese,0.4915
+dryer detergent,0.4911
+nice staff,0.4906
+phone thankgod,0.4894
+irish cream,0.487
+mandarin teach,0.4855
+drying weird,0.4845
+good latte,0.4843
+real coffee,0.4815
+saved laundry,0.4787
+cafe clean,0.4786
+coffee staff,0.4761
+clean comfortable,0.4749
+alcohol afterwards,0.4743
+baked good,0.4738
+salmon,0.472
+drink coffee,0.4717
+detergent owner,0.4675
+detergent convenience,0.4668
+bagel sandwich,0.4668
+working cafe,0.4666
+pizza ate,0.465
+good food,0.4646
+machine wifi,0.4632
+well coffee,0.4631
+sf bagel,0.4616
+entered store,0.4612
+laundry ideal,0.4592
+cafe inside,0.458
+flavor sandwich,0.4567
+washing essential,0.4559
+stale good,0.4552
+bryant clean,0.4542
+activated charcoal,0.4539
+simple meal,0.4522
+inexpensive breakfast,0.452
+told phone,0.4514
+free people,0.451
+washing tea,0.4497
+pizza cake,0.4495
+coffee quite,0.4493
+tea bagel,0.4487
+cafe twice,0.4485
+softener dispenser,0.4485
+bagel killer,0.4477
+laundromat cafe,0.4476
+laundry attendant,0.4475
+cafe attached,0.4459
+ham avocado,0.4457
+stale,0.4456
+coffee bad,0.4452
+waiting free,0.4424
+cozy cafe,0.4421
+cafe pizza,0.4415
+cream cheese,0.4414
+machine good,0.4408
+almond croissant,0.4396
+taiwan china,0.4393
+chaotic city,0.4383
+bakery centralized,0.438
+wifi well,0.4379
+charged battery,0.4348
+dryer need,0.4337
+laundromat safe,0.432
+yummy americano,0.4293
+pretty clean,0.4286
+wifi area,0.4273
+quiet affordable,0.4264
+new washing,0.426
+laundromat seeing,0.4259
+trip clean,0.425
+coffee music,0.4244
+little mandarin,0.4231
+cheap breakfast,0.4217
+working store,0.4217
+best laundromat,0.421
+love,0.4176
+cash cafe,0.417
+cool dryer,0.4169
+caramel,0.4157
+neighborhood decent,0.4133
+stopped paying,0.4131
+late,0.4123
+chill cafe,0.4101
+affordable place,0.4099
+soap dispenser,0.4076
+alcohol,0.4058
+chocolate food,0.4029
+dysfunctional seems,0.4016
+softer sandwich,0.4015
+feel uncomfortable,0.4013
+place cafe,0.401
+food delicious,0.4009
+however coffee,0.3976
+game weekend,0.3949
+sandwich part,0.3945
+dysfunctional,0.3943
+pizza bagel,0.3935
+close cafe,0.3928
+good service,0.3914
+breakfast thank,0.391
+laundry pleasant,0.3902
+americano bought,0.3896
+shot espresso,0.3892
+inside owner,0.3889
+laundry good,0.3884
+dryers,0.3873
+hot chocolate,0.3824
+caf bakery,0.3818
+extra washing,0.3813
+bakery,0.381
+laundromat recent,0.3801
+pastry impressive,0.3799
+espresso stuff,0.3794
+generous hour,0.378
+san francisco,0.3774
+bottle detergent,0.3774
+best idea,0.3765
+working order,0.3755
+video game,0.3745
+service sunday,0.3736
+godsend clean,0.3724
+detergent everything,0.3723
+friendly free,0.3717
+ideal time,0.3716
+idly cafe,0.3706
+sandwich,0.3702
+coffee hidden,0.3692
+vegas far,0.3687
+notch coffee,0.3685
+go laundry,0.368
+cafe counter,0.3669
+minute wash,0.366
+gal working,0.3642
+constantly walking,0.364
+soap dryer,0.364
+dryer,0.3637
+sandwich style,0.3633
+changer vending,0.3625
+drink strong,0.358
+wash time,0.3538
+washed normal,0.3509
+security open,0.3503
+water tested,0.3488
+also wash,0.3487
+dangerous night,0.3478
+machine dried,0.3468
+washer,0.345
+shop clean,0.3449
+owner walked,0.3423
+washer hold,0.3409
+artsy cafe,0.3407
+street dangerous,0.3403
+store clean,0.3388
+lb washer,0.3388
+hot water,0.333
+space best,0.3285
+nice neighborhood,0.3263
+vending machine,0.3259
+machine warm,0.3247
+clean quiet,0.3234
+machine soap,0.3232
+used laundromat,0.3208
+laundromat san,0.3206
+washer comforter,0.3194
+bring detergent,0.316
+tv wifi,0.3126
+dirty laundry,0.3118
+wash dry,0.3085
+free,0.3028
+laundry tonight,0.3019
+meant washed,0.2993
+game wifi,0.2941
+time stopped,0.2903
+water disappointing,0.2863
+wash road,0.284
+returning home,0.2783
+detergent,0.2774
+nice chair,0.2772
+wifi enjoy,0.2769
+like laundromat,0.2763
+cafe tv,0.2678
+sensor died,0.2662
+laundry yesterday,0.2659
+clothes fresh,0.2646
+local expecting,0.2643
+dry least,0.2553
+largely generous,0.2447
+went monday,0.2312
+laundromat change,0.2216
+monday day,0.2119
+stuck washer,0.2112
+laundromat kind,0.2084
+seen laundromat,0.1876

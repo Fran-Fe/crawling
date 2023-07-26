@@ -1,190 +1,337 @@
 keyword,weight
-food,10.1243
-coffee,9.8843
-cafe,5.7896
-sandwich,5.4985
-good,5.0533
-breakfast,4.763
-great,3.5856000000000003
-love,3.1552000000000002
-tasty,2.7704
-service,2.7542
-friendly,2.7409
-delicious,2.4904
-chicken,2.4587
-local,2.0573
-neighborhood,2.05
-sandwiches,1.9086
-wonderful,1.5776000000000001
-amazing,1.5347
-bagel,1.4879
-staff,1.3984
-nice,1.312
-cheese,1.3014999999999999
-awesome,1.278
-salad,1.2639
-pastries,1.2157
-ok,1.1562000000000001
-tea,1.0203
+coffee,7.1741
+sandwich,6.5907
+food,6.171
+good food,4.137
+chicken sandwich,4.0962
+cafe,3.8727
+breakfast,3.227
+food coffee,2.9332000000000003
+tasty,2.6502
+good,2.4239
+love,2.418
+chicken,2.1384
+bagel sandwich,2.0008
+great food,1.9523000000000001
+friendly staff,1.9355
+great cafe,1.7584
+neighborhood cafe,1.5946
+neighborhood,1.4871
+food great,1.476
+delicious,1.4545
+sandwich delicious,1.3979
+buffalo chicken,1.3422
+local,1.3067000000000002
+great,1.1987
+cheese,1.1794
+egg cheese,1.1631
+coffee reasonable,1.1253
+good coffee,1.1057000000000001
+breakfast bagel,1.0546
+great coffee,1.0229
+love place,1.0
 essentially,1.0
-begrudgingly,0.9858
-place,0.9338
-quick,0.9207
-people,0.918
-chocolate,0.8992
-beans,0.8985
-hella,0.8777
-excellent,0.8671
-fresh,0.8402999999999999
-prices,0.8347
-just,0.7922
-cute,0.7647
-italian,0.7504
-hospitality,0.744
-wine,0.7003999999999999
-hangout,0.6933
-disrespectful,0.6886
-buffalo,0.6855
-syrup,0.676
-horrible,0.6708
-spot,0.6696
-loved,0.6668000000000001
-reasonable,0.6622
-dishes,0.6597
-early,0.6501
-healthy,0.6364
-laptop,0.6334
-soccer,0.6325000000000001
-spacious,0.6191
-positive,0.594
-high,0.5829
-beverages,0.5791
-atmosphere,0.5769
-home,0.5749
-menu,0.5728
-restaurant,0.571
-wifi,0.5587
-starts,0.5459
-outstanding,0.5366
-cold,0.5297
-bakery,0.5181
-energy,0.503
-grill,0.4984
-egg,0.49029999999999996
-like,0.488
-goid,0.4841
+outstanding breakfast,1.0
+amazing,1.0
+delicious love,1.0
+hella local,1.0
+begrudgingly,1.0
+neighborhood spot,1.0
+beans,1.0
+good pastry,1.0
+ok,1.0
+everything good,0.9824
+love coffee,0.9719
+excellent food,0.9595
+pastrami sandwich,0.9588
+food awesome,0.9568
+food nice,0.9407
+quick service,0.9378
+menu price,0.9354
+cute local,0.9221
+friendly quick,0.9159
+food positive,0.9017
+hot chocolate,0.8974
+hella,0.8928
+coffee cold,0.8877
+healthy food,0.8846
+sandwich wow,0.8779
+tasty dish,0.8773
+coffee stay,0.8773
+breakfast starts,0.8716
+good italian,0.8702
+horrible food,0.8686
+goid coffee,0.8643
+chai tea,0.8609
+madamas tasty,0.858
+nice people,0.8573
+good like,0.8549
+coffee acidic,0.8548
+disrespectful staff,0.851
+breakfast brunch,0.849
+italian syrup,0.8486
+grill chicken,0.8473
+friendly,0.8467
+variety breakfast,0.8453
+food disrespectful,0.8414
+coffee service,0.8347
+tasty food,0.8254
+coffee good,0.8237
+tea,0.8194
+coffee much,0.8177
+dish hospitality,0.8143
+grab coffee,0.8127
+always wonderful,0.8113
+chocolate chai,0.8083
+reflect menu,0.807
+everything,0.8039
+menu,0.8026
+awesome atmosphere,0.8022
+coffee bakery,0.7977
+service tasty,0.796
+local hangout,0.7954
+staff fresh,0.7952
+pastry,0.7909
+service amazing,0.7886
+gourmet coffee,0.7822
+spot,0.7794
+wonderful customer,0.7785
+coffee wonderful,0.7694
+hospitality service,0.7684
+food reasonable,0.7619
+sandwich yummy,0.7607
+awesome coffee,0.7591
+love foul,0.7587
+like much,0.7581
+cheese sandwich,0.758
+fresh ingredient,0.7576
+spot breakfast,0.7502
+amazing everything,0.7491
+quick,0.7477
+cold beverage,0.7451
+cheese pretty,0.7373
+foul madamas,0.7371
+city high,0.7313
+egg sandwich,0.7305
+cute,0.727
+loved staff,0.7227
+high everything,0.7199
+free wifi,0.7165
+local cafe,0.7118
+think coffee,0.7106
+price reflect,0.7095
+delicious food,0.7077
+best coffee,0.7007
+great sandwich,0.6969
+italian,0.6948
+style healthy,0.6935
+great chicken,0.6933
+bakery food,0.6929
+place,0.6928
+sandwich breakfast,0.6912
+working laptop,0.6904
+service,0.6855
+good bagel,0.6848
+awesome pastries,0.6841
+love grill,0.6817
+wonderful egg,0.6815
+spacious tasty,0.6813
+local neighborhood,0.6813
+disrespectful,0.6774
+nice,0.676
+food free,0.6731
+coffee excellent,0.6726
+starts early,0.6711
+positive energy,0.6651
+coffee fresh,0.6613
+basic coffee,0.6578
+latte loved,0.6574
+salad bagel,0.6571
+price,0.6557
+beer wine,0.6492
+flavorful coffee,0.6461
+pastries gourmet,0.6458
+awesome,0.6444
+healthy,0.6406
+menu breakfast,0.6342
+relaxing atmosphere,0.6339
+cafe basic,0.6336
+coffee breakfast,0.6323
+seem high,0.6317
+try chai,0.6315
+high,0.6302
+old chicken,0.6257
+overpriced breakfast,0.6244
+ingredient definitely,0.6243
+tried always,0.6238
+everything tried,0.6207
+sandwich place,0.6198
+brunch neighborhood,0.6196
+coo local,0.6128
+cafe great,0.6124
+chilly inside,0.6113
+laptop,0.6101
+staff relaxing,0.6098
+cream cheese,0.6089
+good service,0.6077
+perpetual soccer,0.6075
+horrible,0.6049
+early,0.6049
+boardgames perpetual,0.6047
+loved speaking,0.6009
+acidic,0.6004
+bagel cream,0.5989
+good people,0.5982
+garden burger,0.597
+great staff,0.5947
+coffee bagel,0.5934
+great neighborhood,0.5902
+syrup,0.5892
+hangout,0.587
+bagel egg,0.5866
+home made,0.586
+everything city,0.5823
+city sandwich,0.5822
+everyone comfortable,0.5816
+morning sandwich,0.5809
+salad potato,0.5802
+coffee quiet,0.5802
+brunch,0.577
+beverage,0.5759
+fresh,0.5738
+strong coffee,0.5737
+stomach ache,0.5723
+madamas,0.5647
+potato salad,0.5638
+wonderful service,0.5637
+salad chip,0.5633
+macaroni potato,0.5627
+starbucks mcdonalds,0.5626
+stay,0.5603
+visit cafe,0.5594
+coffee lemon,0.5592
+tasty good,0.5584
+chilly outside,0.5582
+awesome buffalo,0.5574
+coffee luke,0.5574
+chicken cooked,0.5548
+soccer game,0.5547
+grab sandwich,0.5535
+service loved,0.5523
+always fresh,0.5514
+stay go,0.5509
+received salad,0.5472
+excellent,0.5434
+delicious breakfast,0.5419
+breakfast food,0.5408
+coffee cable,0.5399
+bbq chicken,0.5367
+reasonable price,0.5349
+breakfast lunch,0.5321
+sandwich awesome,0.5319
+lunch dinner,0.5319
+sandwich half,0.531
+beer coffee,0.5295
+fresh bagel,0.526
+drip coffee,0.5247
+great value,0.5228
+food ordered,0.5226
+steak warm,0.5217
+sandwich morning,0.5197
+comfortable welcomed,0.5179
+star cafe,0.5157
+love guy,0.5155
+make sandwich,0.5147
+coffee wine,0.5121
+quick breakfast,0.5118
+coffee fantastic,0.5111
+dish salad,0.5085
+lot smoking,0.5056
+full lemon,0.5047
+welcomed visit,0.5041
+veggie bagel,0.4994
+american bread,0.4955
+many homeless,0.4947
+extensive menu,0.4934
+dingy,0.4932
+coffee nice,0.4923
+cafe lot,0.4908
+sandwich bread,0.4908
+get coffee,0.4903
+serf beer,0.4888
+chai,0.4854
+outstanding,0.4847
+frill delicious,0.4836
+homeless people,0.4827
+also friendly,0.4809
+breakfast sandwich,0.4799
+safeway deli,0.4796
+chicken caesar,0.4793
+great people,0.4788
+wonderful people,0.4768
 pastrami,0.4755
-brunch,0.4735
-beer,0.473
-gourmet,0.4696
-dingy,0.4662
-bagels,0.45099999999999996
-diner,0.4502
-homeless,0.4492
-relaxing,0.443
-burger,0.4421
-chai,0.4398
-ingredients,0.4396
-overpriced,0.4339
-city,0.4253
-favorite,0.4223
-filthy,0.413
-starbucks,0.4125
-madamas,0.4065
-chilly,0.4033
-style,0.4024
-working,0.394
-free,0.3872
-lemons,0.3823
-try,0.382
-coo,0.3778
-didn,0.3755
-macaroni,0.3729
-acidic,0.3724
-dinner,0.3694
-flavorful,0.3665
-definitely,0.3631
-terrible,0.3631
-kitchen,0.3615
-hour,0.3574
-boardgames,0.3543
-variety,0.3515
-ache,0.3383
-mediocre,0.3305
-comfortable,0.3287
-foul,0.3227
-reflect,0.3212
-steaks,0.3195
-bread,0.3181
-tastebuds,0.3042
-tried,0.3024
-coffees,0.3013
-stay,0.2952
-impressed,0.2865
-welcomed,0.2861
-weekday,0.2857
-pastry,0.2808
-slow,0.2774
-punch,0.274
-moldy,0.2711
-dignity,0.2677
-small,0.2666
-inside,0.2409
-little,0.2402
-mcdonalds,0.2402
-stomach,0.2359
-grab,0.2316
-patient,0.2269
-outdoor,0.2256
-cream,0.2247
-microwave,0.2238
-pleasant,0.2228
-cooked,0.2202
-latte,0.2196
-tastey,0.2121
-games,0.2102
-boyfriend,0.2095
-morning,0.1946
-breakfasts,0.1938
-pretty,0.1917
+caesar salad,0.4753
+macaroni,0.4742
+fashioned diner,0.4726
+salad,0.4725
+style breakfast,0.4679
+food drink,0.4675
+salad price,0.4641
+excellent treat,0.4618
+food terrible,0.4599
+american cafe,0.4535
+affordable cafe,0.4534
+must try,0.4515
+plce food,0.4499
+cafe latte,0.4487
+either macaroni,0.4472
+lemon squeezed,0.4451
+delicious drip,0.4448
+cheese poppy,0.4405
+overpriced mediocre,0.44
+soccer,0.4383
+delicious carefully,0.4372
+terrible bagel,0.4365
+much,0.4315
+coffe always,0.4312
+great breakfast,0.4306
+melted cheese,0.4304
+pastry moldy,0.4261
+mcdonalds instead,0.4243
+food staff,0.4198
+homeless,0.4169
+breakfast actually,0.4133
+strange boardgames,0.4107
+people wonderful,0.4096
+sitting outdoor,0.4088
+nearby starbucks,0.4085
+sandwich good,0.4081
+breakfast made,0.4051
+nyc expecting,0.3983
+cafe always,0.3979
+breakfast excellent,0.3967
+starbucks,0.3943
+restaurant menu,0.3867
+big coffee,0.3839
+favorite neighborhood,0.3811
+got cafe,0.3806
+coffee tea,0.3785
+got pastry,0.378
+fillmore breakfast,0.3775
+deli sure,0.3767
+hour waiting,0.3719
+cheese crossiant,0.37
+mocha tasted,0.3626
+service coffee,0.3625
+half hour,0.3539
+star review,0.3497
+pan microwave,0.3488
+lovely people,0.3356
+quiet library,0.3338
+food good,0.3317
+luke warm,0.3306
+coffee stayed,0.3203
+try buffalo,0.3185
+egg sandwitches,0.2724
+great service,0.242
 wow,0.1882
-decadent,0.1874
-eat,0.1744
-perpetual,0.1738
-funky,0.1683
-deli,0.1677
-sitting,0.1653
-yummy,0.1611
-tasted,0.1544
-apologetic,0.1462
-menus,0.137
-recyclable,0.1364
-warm,0.1358
-workers,0.1321
-hot,0.1234
-cashiers,0.1135
-smoking,0.1087
-nyc,0.0957
-affordable,0.0953
-espresso,0.0938
-plastic,0.0936
-meal,0.0895
-snacks,0.0853
-best,0.0715
-drinks,0.0681
-poppy,0.0622
-sandwitches,0.0582
-library,0.0407
-taste,0.038
-star,0.0325
-caesar,0.0027
-personality,0.0
-luke,-0.0057
-squeezed,-0.0121
-ordered,-0.025099999999999997
-everytime,-0.0359
-outside,-0.0383
-english,-0.0437
-spent,-0.0582
-sf,-0.0894
-think,-0.1012

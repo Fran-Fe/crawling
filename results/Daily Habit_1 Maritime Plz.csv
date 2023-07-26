@@ -1,33 +1,43 @@
 keyword,weight
-breakfast,3.0399
-good,1.4163
-burritos,1.046
-pretty,0.9334
-cheap,0.7964
-coffee,0.792
-food,0.6376
-coffeeshop,0.6312
-affordable,0.38380000000000003
-buttery,0.3832
-prices,0.3756
-burrito,0.3642
-best,0.3532
-cheese,0.3195
-pastry,0.2756
-burritto,0.2665
-fidi,0.2557
-delicious,0.2242
-cook,0.2239
-100,0.1697
-day,0.1514
-friendly,0.1289
-hell,0.1093
-owner,0.0811
-guys,0.0597
-escalators,0.0354
-businesses,0.0259
-fantastic,0.0153
-jokes,0.0092
-absolutely,-0.0026
-office,-0.065
-worth,-0.1074
+breakfast burrito,3.3868
+breakfast,2.5141
+best breakfast,1.5110000000000001
+pretty good,1.0
+good,0.9822
+pretty,0.9667
+food cheap,0.9428
+cheap price,0.8792
+good food,0.8584
+breakfast burritto,0.8146
+coffee,0.8126
+cheap,0.801
+best coffeeshop,0.7027
+fantastic breakfast,0.6945
+delicious breakfast,0.6811
+coffeeshop breakfast,0.6276
+egg buttery,0.6153
+burrito coffee,0.6073
+food,0.6021
+affordable owner,0.5669
+neighborhood coffeeshop,0.5416
+get breakfast,0.5382
+sf affordable,0.5193
+coffee breakfast,0.5111
+good breakfast,0.494
+family nice,0.4845
+operator coffee,0.4838
+coffeeshop sf,0.4785
+coffee good,0.4455
+cook egg,0.4394
+pastry inside,0.4324
+coffeeshop,0.4286
+burrito sure,0.4263
+buttery,0.4242
+breakfast option,0.42
+dos breakfast,0.4196
+owner joke,0.4133
+burritto fidi,0.4005
+every day,0.3998
+fantastic coffee,0.3477
+burrito miss,0.3434
+best,0.3365

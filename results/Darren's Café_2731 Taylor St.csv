@@ -1,492 +1,1342 @@
 keyword,weight
-breakfast,77.3482
-food,76.1523
-great,33.7628
-good,32.8266
-service,23.089
-delicious,20.8491
-friendly,20.323
-lunch,10.9395
-fast,10.8993
-coffee,9.1893
-menu,7.8617
-excellent,7.4415
-tasty,7.2969
-pancakes,6.6201
-staff,6.5475
-cafe,5.6238
-nice,5.5865
-vietnamese,5.5773
-chicken,4.3484
-quick,4.1242
-steak,4.0192
-affordable,3.95
-best,3.9013
-soup,3.8324999999999996
-fried,3.7799
-amazing,3.5641000000000003
-eggs,3.4545
-expensive,3.4083
-dishes,3.3802
-beef,3.3056
-awesome,3.2436
-place,3.1734
-potatoes,3.1655
-lovely,3.1241
-noodles,3.0324
-efficient,2.9593
-burger,2.949
-pho,2.7909
-rice,2.7699
-restaurant,2.7075
-perfect,2.7024
-prices,2.695
-reasonable,2.6386
-day,2.6008
-crab,2.5742000000000003
-bacon,2.4537
-eat,2.3688000000000002
-hot,2.3209
-love,2.3043
-fisherman,2.2936
-little,2.2108
-sandwich,2.2058
-american,2.198
-dinner,2.1874000000000002
-fantastic,2.1790000000000003
-eating,2.1421
-outstanding,2.1347
-clean,2.1187
-dirty,2.1078
-brunch,2.0895
-decent,2.0672
-quality,2.0116
-loved,1.959
-slow,1.854
-noodle,1.8266
-toast,1.8191000000000002
-francisco,1.6984
-breakfasts,1.6878
-morning,1.6658
-diner,1.6360000000000001
-seafood,1.5687000000000002
-kitchen,1.5499
-priced,1.5496
-people,1.5469
-fresh,1.5127
-flavor,1.5084
-tourist,1.5064000000000002
-cooked,1.4825
-happy,1.4771
-mornings,1.4161
-sandwiches,1.4053
-spicy,1.4021000000000001
-mediocre,1.3955
-meals,1.3924
-pork,1.3872
-fries,1.3418999999999999
-cheese,1.3374000000000001
-taste,1.328
-wife,1.308
-foods,1.2631999999999999
-fair,1.255
-highly,1.2308
-really,1.23
-surprisingly,1.2107
-tasting,1.1681
-try,1.1599
-café,1.1366
-small,1.1048
-price,1.1017000000000001
-thank,1.0863
-courteous,1.0653000000000001
-wonderful,1.0644
-stars,1.0461
-meal,1.0268
-asian,1.0248
+breakfast,55.3741
+food,42.1225
+great food,27.3744
+good food,19.5456
+good,16.5209
+good breakfast,13.8326
+food great,12.9332
+delicious,12.512
+food good,10.8602
+great,10.8547
+great service,10.107800000000001
+delicious food,9.724
+great breakfast,8.097999999999999
+breakfast lunch,7.5228
+friendly staff,7.0839
+place breakfast,6.8132
+lunch,5.9836
+fried steak,5.6327
+friendly,5.6277
+delicious breakfast,5.6056
+best breakfast,5.4158
+food friendly,5.3036
+tasty,5.2949
+fried rice,5.0452
+service,4.9368
+excellent,4.9274000000000004
+excellent breakfast,4.9189
+food service,4.8521
+amazing food,4.4064
+american breakfast,4.3824
+service good,4.323
+good service,4.2274
+service friendly,4.2099
+noodle soup,4.1758
+coffee,3.9775
+friendly service,3.7401
+breakfast fast,3.6578
+fast service,3.6208
+affordable,3.5495
+burger,3.4686
+expensive,3.3545
+steak,3.2309
+fast friendly,3.2255
+lovely food,3.1686
+breakfast place,3.1101
+awesome breakfast,3.0826000000000002
+breakfast day,3.0402
+crab benedict,3.0223999999999998
+friendly food,2.9225000000000003
+breakfast spot,2.8191
+pancake,2.8091
+breakfast good,2.7096
+tasty food,2.7011
+service great,2.6592000000000002
+great pho,2.6193
+french toast,2.5916
+food fast,2.5789999999999997
+rice noodle,2.577
+breakfast friendly,2.5491
+excellent food,2.5221999999999998
+service food,2.5158
+breakfast option,2.4955
+bbq chicken,2.4559
+breakfast delicious,2.4538
+delicious service,2.449
+fast,2.4185
+quick breakfast,2.324
+good price,2.3
+food quick,2.2934
+vietnamese,2.2602
+food delicious,2.2455
+breakfast vietnamese,2.2297000000000002
+staff friendly,2.2093
+vietnamese dish,2.1536999999999997
+nice,2.1218000000000004
+soup,2.1157
+amazing breakfast,2.112
+perfect,2.1069
+chicken fried,2.1039
+best,2.0998
+asian food,2.0327
+vietnamese food,2.0158
+little,2.0118
+cafe,1.9971999999999999
+san francisco,1.9782
+food fantastic,1.9288
+crab,1.9287999999999998
+staff great,1.9283000000000001
+steak egg,1.9158
+food nice,1.8614
+lunch dinner,1.8383
+outstanding,1.8340999999999998
+iced coffee,1.8215
+vietnamese coffee,1.8073
+menu,1.802
+tasting food,1.7955
+breakfast decent,1.7936
+food awesome,1.7858
+food breakfast,1.7530000000000001
+breakfast fisherman,1.7472
+highly recommend,1.743
+egg benedict,1.7332
+tasty breakfast,1.7309999999999999
+breakfast food,1.7287
+nice people,1.7229
+corned beef,1.7214
+delicious coffee,1.7033
+breakfast great,1.7009
+seafood scramble,1.6868
+really good,1.6844999999999999
+beef hash,1.661
+ate breakfast,1.6596
+breakfast chow,1.6566
+amazing,1.6561
+quick service,1.6555
+pho,1.6504
+friendly people,1.6503999999999999
+egg bacon,1.6502
+good quality,1.645
+slow,1.6442
+place,1.6425
+love,1.6055000000000001
+awesome,1.5543
+dirty,1.5391
+great tasting,1.5373999999999999
+food amazing,1.5301
+surprisingly good,1.528
+everything,1.5105
+food egg,1.506
+good diner,1.5034999999999998
+beef,1.5004
+coffee great,1.4941
+tourist,1.4937
+pho breakfast,1.4916
+breakfast brunch,1.4722
+restaurant,1.4722
+food staff,1.4721
+accommodating food,1.4456
+soup delicious,1.4335
+decent price,1.4304999999999999
+breakfast variety,1.3780000000000001
+nice staff,1.3700999999999999
+vietnamese american,1.3688
+breakfast service,1.3685
+reasonable price,1.3666
+diner breakfast,1.3639999999999999
+fantastic breakfast,1.3577
+love beef,1.3491
+seafood,1.339
+pancakes,1.3326
+fantastic service,1.299
+quality food,1.2962
+efficient,1.2922
+beef noodle,1.2807
+wonderful breakfast,1.2744
+quick food,1.2259
+good flavor,1.2185000000000001
+dinner,1.2142
+amazing staff,1.2066
+service delicious,1.2011
+egg delicious,1.1991999999999998
+always,1.1898
+loved,1.1859
+food quality,1.1831
+chicken,1.1792
+priced food,1.1733
+highly recommended,1.1684
+variety food,1.1676
+great staff,1.1669
+fast food,1.1613
+great price,1.1596
+happy,1.1575
+vietnamese iced,1.1529
+absolutely delicious,1.1463
+full breakfast,1.1463
+friendly helpful,1.1446
+nice food,1.1429
+coffee refill,1.1375
+good menu,1.1320000000000001
+good restaurant,1.1317
+service breakfast,1.1187
+breakfast would,1.0981999999999998
+brunch,1.0814
+breakfast menu,1.0786
+food mostly,1.0727
+star,1.0695000000000001
+really,1.0629
+beef chicken,1.0554000000000001
+try food,1.0552
+eggs benedict,1.0485
+lunch bbq,1.0467
+reasonably priced,1.0386
+soup breakfast,1.0345
+american,1.0269
+flavor,1.0267
+good chicken,1.0234
+chicken pork,1.005
+good husband,1.004
+vietnamese noodle,1.0036
+sandwich,1.0017
+chicken awful,1.0
+food expected,1.0
+poor menu,1.0
+perfect brunch,1.0
 okay,1.0
-yummy,0.9965
-absolutely,0.9956
-wharf,0.9793000000000001
-big,0.9662999999999999
-tastes,0.9544
-welcoming,0.9514
-ok,0.9453
-wait,0.9446
-variety,0.9337
-soups,0.9272
-right,0.9235
-options,0.9221
+ok,1.0
+like darren,1.0
+know,1.0
+eva,1.0
+hashbrowns perfect,1.0
+good grub,1.0
+fare food,1.0
+good affordable,1.0
+frill,1.0
+fine location,1.0
+good stuff,1.0
+yummy,1.0
+bad,1.0
+breakfast awsome,1.0
+good choice,0.9904
+food really,0.9846
+best fried,0.9781
+food affordable,0.9772
+chow mein,0.9703999999999999
+every morning,0.9692000000000001
+francisco food,0.9683
+american food,0.9661
+tasty affordable,0.9639
+great burger,0.9595
+cute little,0.958
+plentiful tasty,0.9552
+hot soup,0.9547
+darren,0.9507
+food excellent,0.9478
+breakfast ever,0.9356
+affordable plentiful,0.9349
+mediocre,0.9301
+fantastic food,0.9291
+little pricey,0.924
+service tasty,0.9232
+good tourist,0.9218
 fine,0.9213
-generous,0.9071
-including,0.9037
-super,0.8644
+quality,0.9201
+love place,0.9196
+cheese burger,0.9131
+pancake good,0.9118
+star best,0.9109
+good pancake,0.9096
+food tasty,0.9064
+menu american,0.9047
+basic breakfast,0.9043
+food cooked,0.9026000000000001
+surprisingly,0.9017
+breakfast fare,0.9013
+food pleasant,0.9006
+pleasant staff,0.8974
+serf breakfast,0.8936
+food reasonable,0.8908
+love asian,0.8904000000000001
+burger veggie,0.889
+pricey nice,0.8856
+veggie burger,0.8833
+good good,0.8832
+light lunch,0.8829
+eat,0.8827
+breakfast wharf,0.8824
+tastes good,0.8812
+easy breakfast,0.877
+vietnamese sandwich,0.8766
+efficient delicious,0.8762
+serve dinner,0.8754
+place outstanding,0.8736
+great everything,0.8735
+lunch recommended,0.8735
+absolute star,0.8729
+breakfast reasonable,0.8691
+great pancakes,0.8676
+good selection,0.8629
+choice,0.8612
+pho cafe,0.8566
+dinner serve,0.8561
 cute,0.8559
-pretty,0.8518
-prepared,0.8181999999999999
+breakfast surprisingly,0.8541
+food perfect,0.851
+staff pancake,0.8465
+food expensive,0.8438
+love pho,0.8424
+try everything,0.8411
+especially ph,0.8372
+great fish,0.8361
+pancakes fluffy,0.8357
+priced breakfast,0.8346
+average breakfast,0.8338
+including breakfast,0.8316
+delicious clean,0.8308
+style breakfast,0.8303
+breakfast town,0.8298
+food decent,0.8292
+asked leave,0.8284
+great cheese,0.8281
+cool breakfast,0.828
+coffee watery,0.8262
+break snack,0.8259
+walked pm,0.8247
+breakfast frisco,0.8233
+food fresh,0.8207
+tourist get,0.8197
 grub,0.818
-helpful,0.8165
-plentiful,0.8148
-weekend,0.8134
-pricey,0.803
+strong coffee,0.817
+food incredible,0.8117
+fast organized,0.8115
+gstt efficient,0.8111
+best cafe,0.8086
+little place,0.8059
+service lovely,0.8039
+huge breakfast,0.8031
+breakfast polite,0.803
+breakfast potatoes,0.8027
+disappointing breakfast,0.8027
+never disappoints,0.8025
 poor,0.8017
-crispy,0.7971
-local,0.7959
-bad,0.7877
-snack,0.7845
-know,0.7807
-choice,0.778
-hyatt,0.7772
+food lovely,0.7999
+excellent restaurant,0.7996
+awesome food,0.7982
+cheap fast,0.7964
+breakfast excellent,0.795
+tourist area,0.7944
+francisco,0.7939
+price food,0.7936
+selection great,0.7929
+country potato,0.7927
+breakfast dish,0.7917
+efficient service,0.791
+prepared delicious,0.7905
+soup legit,0.7888
+breakfast crab,0.7879
+staff efficient,0.7872
+everything especially,0.7871
+best brunch,0.7843
+breakfasts delicious,0.7825
+mix vietnamese,0.7822
+food priced,0.7804
+excellent service,0.7795
+plentiful,0.7793
+food fair,0.7791
+awful,0.7787
+great bfast,0.7784
+underground breakfast,0.778
+like,0.7767
 stuff,0.7763
+bathroom disgusting,0.7761
 location,0.7754
-hotel,0.744
+potato delicious,0.7748
+sfo love,0.7736
+pancake little,0.7717
+dinner plz,0.77
+awesome service,0.7696
+viet food,0.7691
+great restaurant,0.7679
+watery bitter,0.7678
+bfast family,0.7673
+tried vietnam,0.7636
+local tourist,0.7625
+egg roll,0.76
+pancakes sandwich,0.7588
+cheap,0.7579
+onion soup,0.7559
+expected,0.7548
+huge menu,0.7548
+closed holiday,0.7548
+lunch delicious,0.7537
+food pretty,0.7532
+egg seafood,0.7514
+beef pho,0.7479
+snack,0.7473
+standard meal,0.7459
+option breakfast,0.7452
+pricey,0.745
+including service,0.7444
+eating food,0.7441
+time eating,0.7427
+toast burger,0.7422
+fair price,0.7417
+everything including,0.7413
 fare,0.7412
-won,0.7397
-don,0.7307
-accommodating,0.7254
-eva,0.7248
-awful,0.7224
-busy,0.7173
-family,0.7146
-polite,0.7105
-trip,0.7021999999999999
-pleasant,0.6879
-chocolate,0.6857
-like,0.6852
-10,0.6839
-veggie,0.669
-average,0.6677
-frills,0.6671
-cheap,0.6631
-phó,0.6573
-expected,0.6546
-darren,0.6496
-bitter,0.648
-especially,0.6439
-fish,0.6389
-bfast,0.6351
-benedict,0.6287
-large,0.6265000000000001
-liked,0.6225
-incredible,0.6223
-attentive,0.619
-scramble,0.6142
-vietnam,0.6142
-luv,0.6133
-absolute,0.606
-cuisine,0.6032
-drink,0.6026
-onions,0.6023
-39,0.594
-cooking,0.5881000000000001
-recommend,0.5791
-iced,0.5777
-spoon,0.5762
-comfortable,0.5692
-pancake,0.5653
-waiter,0.5589
-organized,0.552
-experience,0.5421
-sf,0.542
-pier,0.5375
-better,0.5348
-easy,0.5343
-lot,0.5314
-huge,0.5293
-break,0.5184
-awsome,0.5136
-french,0.513
-hi,0.5127
-cook,0.5114000000000001
-warm,0.5112
-gem,0.5037
-saltier,0.4974
-ate,0.4926
-pm,0.483
-grill,0.4795
-favorite,0.4762
-google,0.4757
-salty,0.4739
-serve,0.4729
-selection,0.4688
-recommended,0.4653
-watery,0.4652
-sausage,0.46309999999999996
-basic,0.4626
-vacation,0.46020000000000005
-tier,0.4511
-disgusting,0.4382
-soon,0.4345
+food best,0.741
+hotel good,0.7408
+reasonable food,0.7397
+small food,0.7391
+tourist food,0.7391
+breakfast pretty,0.7386
+family luv,0.7381
+pm asked,0.735
+order food,0.7346
+always gem,0.7332
+breakfast three,0.7332
+food wonderful,0.733
+pancake tasty,0.7329
+pho loved,0.7326
+always friendly,0.7323
+perfect start,0.7322
+priced right,0.7313
+slice beef,0.7298
+ph delicious,0.7295
+liked food,0.729
+ph,0.7281
+slow service,0.728
+leave,0.7269
+decent food,0.7265
+best underground,0.7263
+went lunch,0.7254
+food thank,0.7245
+sandwich tasty,0.7219
+scramble tier,0.7204
+walked,0.7174
+breakfast surely,0.7173
+flavor star,0.7171
+breakfast san,0.7161
+recommending fried,0.7159
+good lunch,0.7152
+dinner menu,0.7134
+eating,0.7131
+organized lot,0.7123
+go local,0.7112
+chicken soup,0.7111
+vietnam,0.7097
+noodle,0.7076
+loved great,0.7059
+food mediocre,0.7058
+delicious pancake,0.7055
+food always,0.7053
+food worth,0.7045
+staff good,0.7022
+food little,0.7017
+classic breakfast,0.7015
+nd trip,0.7012
+bagel breakfast,0.6996
+add beef,0.6984
+first american,0.6982
+lovely staff,0.697
+courteous staff,0.697
+good viet,0.6965
+lovely family,0.6959
+service nice,0.6956
+delicious pho,0.6955
+cheese,0.6948
+sandwich amazing,0.6944
+hi five,0.6931
+diner food,0.6926
+went breakfast,0.6917
+staff tasty,0.6916
+wonderful food,0.6904
+generous coffee,0.6896
+great coffee,0.6893
+bacon sandwich,0.6885
+steak gravy,0.6878
+food every,0.6878
+eat breakfast,0.6875
+country fried,0.6874
+dish menu,0.6869
+menu affordable,0.6849
+try breakfast,0.6846
+nd visit,0.6844
+food comfortable,0.684
+gluten free,0.6836
+shrimp good,0.6829
+clean great,0.6821
+service spicy,0.6802
+need spicy,0.6795
+delicious staff,0.6792
+people,0.6791
+small break,0.6789
+sausage flavor,0.6786
+fluffy sausage,0.6785
+fast clean,0.678
+stopped quick,0.6776
+back breakfast,0.6776
+coffee expensive,0.6772
+awesome fried,0.6766
+little saltier,0.6759
+extra beef,0.6756
+soup great,0.6748
+nice veggie,0.6744
+wait slow,0.6736
+service stopped,0.6736
+pancake muffin,0.6734
+food coffee,0.6723
+service tastes,0.6719
+friendly clean,0.6712
+since opened,0.6695
+excellent attentive,0.6693
+expensive quantity,0.6685
+quick drink,0.6673
+prepared table,0.6672
+potatoes great,0.667
+refill breakfast,0.6657
+pleasant,0.6653
+breakfast pancake,0.6653
+potato tuna,0.6643
+see food,0.664
+okay food,0.6636
+lunch menu,0.6634
+great customer,0.6625
+sidewalk cafe,0.6624
+tasting,0.6621
+great cook,0.662
+absolute,0.6617
+enough breakfast,0.6616
+staff excellent,0.6615
+added tomato,0.6614
+local,0.6608
+breakfast caf,0.6598
+restaurant day,0.6588
+fast efficient,0.6582
+food prepared,0.6576
+breakfast indeed,0.6575
+breakfast quick,0.657
+lot option,0.6569
+good variety,0.6566
+brown bacon,0.6554
+helpful coffee,0.6549
+friendly excellent,0.6549
+everyday chef,0.6525
+menu tasty,0.6517
+comfortable walk,0.6516
+may small,0.6509
+caf meal,0.6499
+price great,0.6494
+breakfast perfect,0.6479
+courteous,0.6472
+da breakfast,0.6466
+meal good,0.6454
+fair,0.6453
+tomato mushroom,0.6447
+pancake bacon,0.6445
+asian flair,0.6443
+food well,0.6438
+coffee loved,0.6438
+good mix,0.6437
+prompt coffee,0.6434
+soup rice,0.6424
+service reasonable,0.6424
+burger even,0.6422
+family,0.6395
+brunch disappointing,0.6394
+hot coffee,0.6389
+delicious vietnamese,0.6387
+soggy bacon,0.6383
+pancake big,0.6375
+wonderful vietnamese,0.6374
+cafe service,0.6367
+cafe nice,0.6362
+coffee accommodating,0.636
+food liked,0.6354
+veggie choice,0.6353
+staff kitchen,0.6353
+scramble,0.6351
+good ate,0.6343
+always delicious,0.6321
+cooked perfectly,0.6312
+bitter,0.6309
+sometimes expensive,0.6305
+bacon pancake,0.6304
+food also,0.6304
+diverse lunch,0.6304
+many onion,0.6304
+breakfast staple,0.6302
+egg,0.6296
+biscoff coffee,0.6291
+clean place,0.6287
+cafe breakfast,0.6284
+horrible price,0.6282
+absolute best,0.6269
+fish fry,0.6265
+coming restaurant,0.6261
+also food,0.6246
+lovely,0.6242
+breakfast loved,0.6234
+efficient staff,0.6232
+best omelet,0.6228
+egg omelette,0.6228
+water coffee,0.6227
+spicy ph,0.6226
+crab menu,0.6225
+good option,0.6222
+lunch little,0.622
+pork sandwich,0.6217
+sandwich burger,0.6208
+sandwich bagel,0.6199
+chicken vermicelli,0.6198
+hashbrowns,0.6197
+scenic burger,0.6195
+steak ever,0.6193
+hot chocolate,0.6188
+delicious wait,0.6182
+best place,0.6178
+lunch choice,0.6172
+cooked fresh,0.6171
+fast tasty,0.6169
+breakfast last,0.6161
+delicious waiter,0.6156
+nice service,0.6156
+cheese sandwich,0.6151
+place never,0.6147
+busy weekend,0.6147
+quick tasty,0.6143
+loved place,0.614
+positive experience,0.6137
+quick delicious,0.6125
+coffee husband,0.6112
+bfast,0.6108
+delicious dirty,0.6107
+breakfast large,0.6103
+pancake hot,0.6096
+close hotel,0.609
+crab omelet,0.608
+food would,0.6073
+dirty floor,0.607
+price reasonable,0.6069
+breakfast chicken,0.6059
+greasy spoon,0.6056
+polite efficient,0.605
+diner,0.6047
+service slow,0.6044
+starting bus,0.6038
+left happy,0.6034
+burger fat,0.6033
+breakfast amazing,0.6032
+price expensive,0.6032
+great experience,0.6024
+service coffee,0.6024
+price friendly,0.6015
+portion breakfast,0.6007
+prices reasonable,0.6005
+francisco lunch,0.6004
+menu available,0.5983
+loved really,0.598
+crispy corned,0.5977
+lunch noodle,0.5976
+variety breakfast,0.5975
+thank food,0.5972
+tried breakfast,0.5969
+good pricing,0.5958
+fed delicious,0.5951
+loved vietnamese,0.5951
+saltier,0.5948
+delicious meat,0.5947
+quality breakfast,0.5945
+scrambled egg,0.5938
+amount food,0.5936
+boiled potato,0.5932
+food hot,0.5924
+star taste,0.5922
+great location,0.5922
+hotel breakfast,0.5918
+steak good,0.5913
+reasonable priced,0.5911
+something breakfast,0.5909
+kitchen right,0.5908
+saltier would,0.5905
+delicious veggie,0.59
+cafe area,0.5896
+dish breakfast,0.5895
+wonderful staff,0.5894
+breakfast alternative,0.5891
+food terrific,0.589
+breakfast group,0.589
+perfect pancake,0.5886
+staff reasonably,0.5882
+breakfast tried,0.5882
+service better,0.5876
+good staff,0.5867
+small cafe,0.5863
+restaurant really,0.585
+clean,0.5849
+food finally,0.5848
+matching taste,0.5846
+never,0.5839
+staff thoroughly,0.5839
+great phos,0.5835
+tasty large,0.5833
+rice great,0.5829
+breakfast waffle,0.5825
+better sandwich,0.5819
+good place,0.5819
+low price,0.5814
+holiday go,0.5807
+soup morning,0.5804
+lunch around,0.5804
+hot,0.5803
+service wonderful,0.58
+place lunch,0.5791
+back closed,0.5789
+bus tour,0.5784
+sandwich coffee,0.5784
+taking small,0.578
+loved pancake,0.5778
+mediocre texture,0.5773
+morning food,0.5771
+breakfast convenient,0.5769
+straight morning,0.5756
+delicious far,0.5756
+food star,0.5753
+brown delicious,0.5753
+pancake delicious,0.5751
+breakfast freshly,0.5747
+good coffee,0.574
+hotel food,0.574
+food san,0.5738
+serve breakfast,0.5731
+try vietnamese,0.5728
+awesome egg,0.5726
+food presentation,0.5725
+simple breakfast,0.5725
+muffin breakfasts,0.5723
+generous plate,0.572
+cooking american,0.5712
+sandwich recommended,0.5705
+best hostess,0.57
+nice place,0.5692
+breakfast flavor,0.569
+bus office,0.569
+good star,0.5687
+eat highly,0.5684
+dirty entrance,0.5683
+good boston,0.5679
+onion,0.5672
+decent,0.5671
+fries excellent,0.5654
+selection coffee,0.5652
+amazing meal,0.5651
+classic sandwich,0.5633
+little cafe,0.5632
+spicy food,0.5632
+twice breakfast,0.563
+dish need,0.563
+best english,0.5629
+bacon egg,0.5627
+hipster breakfast,0.5627
+awesome diner,0.5622
+enjoyed breakfast,0.5619
+dungeness crab,0.5618
+worth tried,0.5616
+ordered chicken,0.5615
+food choice,0.5609
+portion good,0.5602
+prices google,0.5598
+outside eat,0.559
+awsome,0.5586
+everyone service,0.5584
+cafe pier,0.5576
+google menu,0.5566
+spoon pricey,0.5555
+best food,0.5548
+big tasty,0.554
+bland crab,0.554
+go back,0.5536
+brown coffee,0.5532
+delicious pricey,0.5531
+got coffee,0.5529
+serves breakfast,0.5529
+fast good,0.5526
+came brunch,0.5525
+terrible service,0.5524
+holiday,0.5524
+egg cooked,0.5521
+salty french,0.552
+wish breakfast,0.5516
+crab pricey,0.5516
+variety crab,0.5514
+service quick,0.5514
+menu food,0.5506
+improve dish,0.5501
+grill pork,0.5495
+crime park,0.5481
+food convenient,0.5478
+menu well,0.5477
+clean grill,0.5477
+disgusting stick,0.5475
+spicy noodle,0.5474
+asian noodle,0.5468
+ordered breakfast,0.5467
+weekdays best,0.5465
+grab breakfast,0.546
+shrimp,0.5456
+place great,0.5453
+muffin sandwich,0.5451
+make delicious,0.5443
+benedict breakfast,0.5442
+food big,0.5442
+chip pancake,0.544
+bland noodle,0.5433
+country cooking,0.5426
+francisco wharf,0.5425
+weekend morning,0.5424
+service pancake,0.5423
+great place,0.5419
+served delicious,0.5404
+lovely service,0.5398
+instead brunch,0.5383
+fried,0.5378
+lunch always,0.5378
+fantastic,0.5378
+get coffee,0.5375
+cafe absolutely,0.5373
+coffee amazing,0.5361
+excellent staff,0.5361
+toast bacon,0.5359
+rice salty,0.5357
+breakfast potato,0.5356
+lunch diner,0.5354
+potato amazing,0.5344
+breakfast big,0.5338
+got good,0.5335
+american heart,0.5326
+recommend everyone,0.5325
+quick coffee,0.532
+recommended breakfast,0.532
+breakfast also,0.5314
+work near,0.5314
+served hot,0.5305
+good eat,0.5297
+noodle pork,0.529
+wharf breakfast,0.5288
+favorite place,0.5286
+mediocre best,0.5285
+basic,0.5284
+nice dinner,0.5284
+rice,0.5284
+went crab,0.5281
+dinner three,0.5278
+free coffee,0.5273
+omelette menu,0.5268
+food everyone,0.5263
+potato bread,0.5262
+conventional breakfast,0.5262
+rice dish,0.5253
+recommend eating,0.5251
+delicious served,0.5251
+food generous,0.5246
+fried chicken,0.5246
+egg raw,0.5245
+staff absolutely,0.5245
+area food,0.524
+stopped,0.5237
+vietnamese pork,0.5236
+restaurant clean,0.5227
+juicy pork,0.5227
+pancake sausage,0.5217
+ordered pancake,0.5216
+nice easy,0.5215
+drink,0.5215
+vermicelli noodle,0.521
+friendly folk,0.521
+pho close,0.5209
+rice noodles,0.519
+chicken steak,0.5189
+coffee nice,0.5189
+food definite,0.5188
+job breakfast,0.5186
+iced latte,0.5182
+chicken seafood,0.5182
+good eats,0.5181
+affordable coffee,0.5178
+bacon sausage,0.5176
+tier,0.5175
+great menu,0.5174
+staff nice,0.5174
+coffee much,0.5171
+morning good,0.5167
+service topnotch,0.5167
+cheaper hotel,0.5167
+lunch based,0.5165
+full menu,0.5161
+location great,0.5159
+option including,0.5156
+shrimp spinach,0.5153
+cafe people,0.5147
+try noodle,0.5145
+hotel,0.5144
+breakfast french,0.514
+expensive given,0.5136
+cafe quick,0.5129
+english muffin,0.5128
+brunch ever,0.5126
+better price,0.5122
+cafe walking,0.5119
+chicken sandwich,0.5119
+cuisine cafe,0.5117
+came lunch,0.5115
+favorite dish,0.5114
+perfectly cooked,0.5114
+pork soup,0.5112
+restroom ordering,0.511
+selection breakfast,0.5109
+food wife,0.5108
+became breakfast,0.5107
+fish,0.5097
+breakfast time,0.5092
+always full,0.5091
+try lunch,0.5086
+money perfect,0.5084
+efficient would,0.5073
+waiter friendly,0.5072
+price pancake,0.507
+hash breakfast,0.5066
+burger big,0.506
+staff chicken,0.5057
+open early,0.5052
+spicy,0.505
+food hours,0.505
+warm welcoming,0.5049
+loved dine,0.5047
+food ordered,0.5042
+ordered yummy,0.5042
+tired hotel,0.5041
+little wait,0.5039
+special menu,0.5038
+awesome great,0.5028
+berry pancake,0.5023
+tomato,0.502
+waiter polite,0.502
+area police,0.5019
+eating breakfast,0.5019
+busy breakfast,0.5016
+crab something,0.5014
+order beef,0.5011
+food average,0.501
+without crowd,0.5006
+fisherman wharf,0.5005
+fisherman,0.5003
+recommend breakfast,0.4998
+omelet breakfast,0.4983
+typical greasy,0.4979
+pancake reduced,0.4979
+rice plate,0.4978
+floor bathroom,0.4971
+eating american,0.4971
+coffee pier,0.4968
+visiting food,0.4967
+quick,0.4963
+tasty eggs,0.4962
+sandwich finished,0.4961
+flavor french,0.4954
+lunch american,0.4953
+police,0.4952
+food plenty,0.4952
+eating sourdough,0.4951
+coffee good,0.4932
+hotel cheaper,0.4932
+restaurant fancy,0.493
+food outstanding,0.4928
+food prices,0.4924
+meal everything,0.4923
+best ever,0.4922
+tried fried,0.4919
+trying beef,0.4913
+noodle stuck,0.4909
+vietnamese cuisine,0.4909
+best pancake,0.4902
+going delicious,0.4901
+fast courteous,0.4893
+breakfast best,0.4888
+want light,0.4887
+great people,0.4884
+eating good,0.4883
+chef definitely,0.4876
+choice menu,0.4872
+pretty quickly,0.4871
+hop bus,0.4866
+service disappointed,0.4865
+toast best,0.486
+popular breakfast,0.4856
+coffee well,0.4855
+classic omelette,0.4852
+lot food,0.484
+got fried,0.4839
+eggs fluffy,0.4836
+breakfast sandwich,0.4834
+food courteous,0.4825
+coffee got,0.4824
+great server,0.4817
+eat visiting,0.4817
+soup lemon,0.4816
+easy bacon,0.4815
+breakfast still,0.4806
+rice mediocre,0.4804
+favorite,0.4801
+super friendly,0.4801
+regular breakfast,0.4787
+delicious brunch,0.4787
+breakfast early,0.4782
+loved noodle,0.4782
+coffee cup,0.4778
+quickly good,0.4774
+visit sf,0.4774
+staff food,0.4773
+stop crime,0.4768
+fancy restaurant,0.4765
+tasty omelet,0.4765
+vacation awesome,0.4762
+excellent pork,0.4758
+swiss cheese,0.4756
+breakfast possibly,0.4737
+beef teriyaki,0.4735
+pork vermicelli,0.4728
+soup super,0.4727
+bright modern,0.4717
+tasty medium,0.4715
+coffee potato,0.4712
+beef potato,0.4709
+love jake,0.4701
+omelet crispy,0.47
+price excellent,0.47
+location open,0.4696
+generous service,0.4688
+beef feel,0.4687
+highly recommending,0.4685
+business good,0.4682
+coffee always,0.4682
+wharf best,0.4681
+perfect couple,0.4674
+breakfast exploring,0.4673
+grill good,0.4671
+corn beef,0.467
+lunch pay,0.4667
+benedict delicious,0.4662
+breakfast hotel,0.466
+coffee morning,0.4659
+service definitely,0.4656
+steak die,0.4648
+food money,0.4648
+chicken rice,0.464
+lunch brunch,0.4629
+anymore crab,0.4625
+day vacation,0.4619
+spanish highly,0.4619
+omelette authentic,0.4617
+menu served,0.4607
+smell coming,0.4607
+flavor egg,0.4597
+pork rice,0.4593
+bacon kind,0.4591
+great would,0.4588
+lunch including,0.4587
+really fresh,0.4587
+wharf nice,0.4586
+texture scrambled,0.4575
+salad always,0.457
+darren cafe,0.4569
+morning flight,0.4558
+menu fried,0.4551
+coffee pancake,0.455
+touristy vietnamese,0.4548
+accommodating staff,0.4544
+non touristy,0.4542
+amazing brunch,0.4531
+diner coffee,0.4526
+generous serving,0.4519
+standard breakfast,0.4518
+fantastic wife,0.4516
+breakfast darren,0.4516
+noodle regret,0.4507
+waitress food,0.4505
+date sometimes,0.4493
+dish thai,0.4491
+world food,0.4485
+coffee horrible,0.4484
+homemade noodle,0.4479
+excellent pricing,0.4479
+iced vietnamese,0.4474
+wonderful enough,0.4474
+amazing service,0.4465
+slow due,0.4458
+omelette reasonable,0.4455
+passable food,0.4446
+got lemonade,0.4437
+food tastey,0.4436
+lunch working,0.4436
+menu huge,0.4434
+fresh delicious,0.443
+sourdough toast,0.4426
+chicken vietnamese,0.4425
+clean weird,0.4423
+service mediocre,0.4421
+little dry,0.4417
+potato may,0.4406
+taste good,0.4402
+coffee super,0.4397
+tasting meal,0.4394
+cooking walking,0.4391
+dirty spoon,0.4386
+breakfast tremendous,0.4385
+wonderful service,0.4384
+vietnamese soup,0.4377
+asian waitress,0.4373
+best vietnamese,0.4373
+sandwich daughter,0.4371
+beef egg,0.436
+breakfasts vietnamese,0.4357
+everything delicious,0.4352
+pleasant food,0.4349
+decent option,0.4348
+coffee authentic,0.4347
+police nothing,0.4328
+meal beautiful,0.4324
+fry really,0.4322
+visit restroom,0.4318
+kitchen food,0.4313
+service weekdays,0.4311
 underground,0.431
-tables,0.4291
-greasy,0.4262
+chicken breast,0.4308
+plate reasonable,0.4308
+meal presentation,0.4301
+iced coffees,0.4295
+super nice,0.4295
+love american,0.4294
+basically food,0.4281
+lots food,0.428
+ate delicious,0.428
+server friendly,0.4279
+busy kitchen,0.4277
+omelet pancake,0.4276
+patio great,0.4274
+cuisine definitely,0.4269
+helpful definitely,0.4262
+lunch friend,0.426
+style potato,0.4255
+like serve,0.425
 viet,0.4246
-walk,0.4224
-dry,0.4191
-police,0.4185
-area,0.4164
-touristy,0.4115
-choices,0.4102
-hotels,0.4088
-shrimps,0.4078
-modern,0.406
-business,0.4041
-crimes,0.3969
-topnotch,0.3966
-worth,0.3936
-positive,0.3929
-ghetto,0.3908
-coming,0.3891
-holiday,0.387
-long,0.3864
-tuna,0.3852
-uncomfortable,0.3848
-start,0.382
-order,0.3804
-hashbrowns,0.3787
-popular,0.3777
-burgers,0.3776
-bright,0.3763
-chef,0.3721
-mix,0.371
-glad,0.3704
-2nd,0.3693
-bus,0.3655
-frisco,0.365
-gstt,0.3618
-12,0.3569
-restaurants,0.3557
-tomato,0.3537
-muffins,0.3439
-thoroughly,0.3423
-dish,0.3418
-2007,0.3406
-standard,0.3405
-everybody,0.3352
-strong,0.3308
-feed,0.3295
-1st,0.3292
-explosive,0.3273
-fluffy,0.3257
-chefs,0.3235
-improve,0.3232
-close,0.3228
-low,0.3206
-horrible,0.316
-nearby,0.3156
-waitresses,0.3151
-lemonade,0.3131
-light,0.3087
-mushrooms,0.3078
-disappoints,0.3074
-exceptional,0.2982
-walked,0.2964
-chinese,0.296
-broth,0.2948
-bite,0.2946
-days,0.2942
-salad,0.294
-opened,0.2925
-egg,0.2915
-tuesday,0.2899
-quickly,0.2872
-bread,0.2872
-chill,0.2868
-spot,0.2858
-husband,0.2858
-solid,0.2849
-far,0.2849
-open,0.2814
-instantly,0.2803
-shrimp,0.2801
-recommending,0.2798
-mimosas,0.278
-return,0.2779
-bathroom,0.2769
-dine,0.2758
-ambiance,0.2721
-authentic,0.2654
-smell,0.2646
-vegetables,0.263
-tired,0.2624
-legit,0.2613
-spanish,0.2599
-cars,0.2588
-weekdays,0.2584
-leave,0.2515
-shops,0.2499
-ramen,0.2498
-restrooms,0.2474
-disappointing,0.2374
-boston,0.2374
-english,0.237
-sanitary,0.2358
-sfo,0.2343
-party,0.2323
-early,0.2309
-sidewalk,0.2306
-summer,0.2301
-interesting,0.2261
-chow,0.2257
-05,0.2256
-omelet,0.2254
-a1,0.2227
-omelettes,0.2227
-30,0.2204
-crowded,0.2194
-town,0.2191
-definitely,0.2184
-kids,0.2174
-tried,0.2161
-classic,0.2134
-quaint,0.213
-scrambled,0.2128
-portions,0.2106
-refills,0.2105
-perfectly,0.2104
-non,0.2094
-broken,0.2091
-patio,0.2079
-corned,0.2079
-got,0.2049
-popeye,0.2047
-san,0.20179999999999998
-weird,0.1996
-cheaper,0.1991
-loves,0.1986
-entrance,0.1984
-time,0.1977
-friendliest,0.1975
-waffle,0.197
-makes,0.1954
-soda,0.1952
-plz,0.193
-omelette,0.1913
-homeless,0.1907
-eateries,0.1905
-boiled,0.1883
-work,0.1876
-eaten,0.1873
-freindly,0.1868
-make,0.1823
-bowel,0.1816
-phenomenal,0.1816
-coffees,0.1768
-gravy,0.1765
-fishermans,0.1761
-pleasantries,0.1751
-want,0.1712
-severe,0.1703
-straight,0.1702
-tour,0.1693
-burnt,0.1692
-diners,0.1667
-tea,0.1661
-rolls,0.1658
-banh,0.1641
-valley,0.163
-beach,0.1617
-fishermen,0.1606
-need,0.1583
-windy,0.1565
-lackluster,0.1562
-broncos,0.1551
-jake,0.1548
-salt,0.1545
-spring,0.1535
-eats,0.1524
-gourmet,0.1508
-stop,0.1503
-group,0.1496
-mush,0.1491
-everyday,0.1487
-bigger,0.1484
-saucy,0.1479
-washrooms,0.1455
-minutes,0.1454
-napkins,0.1427
-travel,0.1427
-100,0.139
-hollywood,0.1386
-longer,0.1371
-vinegary,0.137
-bland,0.1343
-mi,0.1327
-just,0.1297
-caring,0.1206
-customers,0.1203
-hostess,0.1202
-cooks,0.1188
-michigan,0.1174
-knife,0.1155
-asked,0.1148
-tourists,0.1141
-nicer,0.1139
-corn,0.1123
-cool,0.1119
-parking,0.1114
-lunches,0.1105
-fat,0.1104
-hour,0.1079
-pleople,0.1058
-closed,0.1046
-mask,0.102
-serving,0.0992
-hurry,0.0982
-vermicelli,0.0975
-hours,0.0973
-ethnic,0.0959
-birthday,0.0932
-reviews,0.0916
-hunger,0.0909
-sitting,0.0891
-sauce,0.089
-flavorful,0.0867
-bored,0.0849
-10am,0.0848
-went,0.0844
-fork,0.0836
-cup,0.0793
-hop,0.0781
-bathrooms,0.0776
-regulars,0.0687
-juicy,0.0673
-volunteering,0.0628
-star,0.0625
-oatmeal,0.0547
-prawn,0.0541
-daughter,0.0524
-panhandles,0.0506
-fortune,0.049
-freshly,0.0484
-server,0.0471
-live,0.0456
-plate,0.0427
-wasted,0.0424
-free,0.0403
-handy,0.0395
-juice,0.0285
-discount,0.0279
-heaters,0.0279
-mein,0.0235
-outrageously,0.0214
-table,0.020500000000000004
-hipster,0.0178
-grandmother,0.0099
-instead,0.0089
-breast,0.0071
-teenagers,0.0032
-drinks,-0.0045
-came,-0.0148
-commercially,-0.0185
-date,-0.0312
-extremely,-0.0473
-16,-0.0523
-guests,-0.0557
-slices,-0.0586
-tons,-0.0659
-craving,-0.0665
-old,-0.0784
-surprise,-0.0789
-impressed,-0.0998
-rip,-0.1713
+combo coffee,0.4239
+steak french,0.4235
+breakfast item,0.4229
+breakfast plate,0.4225
+big delicious,0.4225
+area price,0.4222
+normal cafe,0.422
+great meal,0.4204
+vietnamis food,0.4194
+day lunch,0.4184
+beef sate,0.4182
+bacon,0.418
+amazing banh,0.4179
+big group,0.4177
+found food,0.4159
+loved french,0.4155
+burger serious,0.4146
+food show,0.4143
+dinner always,0.4142
+chef,0.4139
+liked prime,0.4125
+nicer service,0.4124
+comfortable food,0.4118
+waffle egg,0.4113
+chef nice,0.4111
+francisco eat,0.4109
+kitchen restaurant,0.4101
+caf delicious,0.4101
+bacon son,0.4099
+breakfast combo,0.4096
+ever super,0.4089
+noodle said,0.4072
+traditional breakfast,0.4072
+fair marina,0.4069
+coffee sitting,0.4066
+breakfast coffee,0.4052
+dog heater,0.4051
+fork knife,0.4037
+always crowded,0.4027
+soup broth,0.402
+really tasty,0.4019
+thai chilly,0.4013
+option eating,0.401
+mein rice,0.4003
+eat worked,0.3996
+knife food,0.3988
+grilled chicken,0.3988
+wharf,0.3981
+people soup,0.3978
+free dish,0.3974
+tuna,0.3973
+owner welcoming,0.3969
+taylor fisherman,0.3958
+steak combination,0.3956
+frisco,0.3942
+pork awasome,0.3937
+lackluster broth,0.3936
+party instantly,0.3927
+warf lunch,0.3925
+taste rice,0.3892
+sauce napkin,0.3864
+served vegetable,0.3862
+got seafood,0.3859
+packed breakfast,0.3856
+french,0.3854
+eating lunch,0.3852
+chinese taste,0.3851
+rest menu,0.3843
+dry,0.3841
+delicious thank,0.3834
+check hyatt,0.383
+good french,0.3824
+noodle also,0.3824
+google review,0.3811
+pork,0.3806
+eating looking,0.3805
+toast wife,0.3803
+filled breakfast,0.3795
+fried country,0.3784
+good would,0.3777
+food even,0.3769
+change chicken,0.3762
+amazing wife,0.376
+great nothing,0.376
+egg perfectly,0.3758
+service chill,0.3745
+amazing french,0.3743
+bored eating,0.3736
+food darren,0.3732
+best country,0.3727
+fat juicy,0.3722
+food option,0.3712
+loved pho,0.3706
+hours always,0.3704
+block fisherman,0.3699
+freshly prepared,0.3696
+good job,0.3692
+looking breakfast,0.3688
+try mimosa,0.3678
+alternative breakfast,0.3666
+staff,0.3658
+menu everything,0.3656
+crispy hashbrowns,0.3654
+go broncos,0.3653
+ice tea,0.3652
+pancake french,0.3651
+hollywood caf,0.365
+francisco surprisingly,0.364
+pho chicken,0.3638
+regularly lunch,0.3631
+good dish,0.3611
+safe eat,0.361
+chinese vietnamese,0.3603
+wish restaurant,0.3602
+restaurant find,0.3597
+american chinese,0.3589
+daughter raving,0.3582
+eat excellent,0.3578
+vietnamese rice,0.3566
+wife ate,0.3565
+staff passable,0.3563
+hot fresh,0.3551
+breakfast honest,0.3546
+fancy food,0.3529
+worker menu,0.3512
+chicken pho,0.3511
+omg grill,0.3491
+pancake served,0.3489
+cafe everything,0.3484
+everyone loved,0.3477
+huge party,0.3476
+person cooking,0.3474
+everyone friendly,0.3467
+best pho,0.3457
+summer back,0.3449
+pancake ever,0.3443
+town,0.3437
+explosive bowel,0.3423
+soup eating,0.3416
+eating inside,0.34
+instantly explosive,0.3394
+food outrageously,0.3392
+impressed food,0.3371
+pho noodle,0.3358
+last morning,0.3343
+lunch place,0.3343
+cooking,0.3325
+food timely,0.332
+fish sauce,0.3318
+duper tasty,0.3315
+american vietnamese,0.3304
+every time,0.3293
+food edit,0.3288
+unavailability menu,0.3286
+food warf,0.328
+amazing birthday,0.3248
+food american,0.3241
+fan guy,0.3225
+friendly efficient,0.3214
+hour food,0.3198
+food whole,0.3192
+breakfast dining,0.3173
+flavor broth,0.3171
+fast filling,0.3168
+morning,0.3159
+neat american,0.3147
+juice wife,0.3129
+vietnamese menu,0.3128
+summer,0.3122
+waiter,0.3117
+cook goggled,0.3109
+legit,0.3102
+mimosa,0.31
+morning get,0.3087
+time summer,0.307
+priced well,0.3039
+everyone vietnamese,0.3018
+food menu,0.3007
+poor sanitary,0.2972
+free egg,0.2958
+expensive tourist,0.2942
+grandfather everyone,0.2941
+better basil,0.2924
+maximum guest,0.2922
+cafe packed,0.2917
+hyatt,0.2898
+different lunch,0.2888
+teenager grandmother,0.2863
+hyatt right,0.284
+must eat,0.2832
+veggie,0.2756
+party taking,0.2699
+breakfast decided,0.2676
+party wait,0.2639
+compliment food,0.2569
+plan wait,0.2553
+service small,0.2549
+every weekend,0.2532
+much breakfast,0.2454
+menu got,0.2407
+food craving,0.2365
+canceled die,0.2289
+staff never,0.2264
+meal,0.2209
+hostess conversation,0.2144
+owner compliment,0.2109
+make,0.2043
+back michigan,0.1964
+michigan definetly,0.1677
+fell love,0.1629
+michigan,0.1581
