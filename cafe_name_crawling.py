@@ -1,44 +1,118 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.chrome.options import Options
-from webdriver_manager.chrome import ChromeDriverManager
 import pandas as pd
 import time
+import json
+
 
 def chromeWebdriver():
     options = Options()
-    options.add_argument("lang=ko_KR")
+    options.add_argument("headless")
+    options.add_argument("--no-sandbox")
+    options.add_argument("disable-gpu")
+    options.add_argument('window-size=1280x1696')
     options.add_argument("disable-infobars")
-    options.add_argument("--disable-extensions")
+    options.add_argument("disable-extensions")
     options.add_experimental_option('detach', True)
     options.add_experimental_option('excludeSwitches', ['enable-logging'])
-    driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
+    service = Service(executable_path="/opt/python/bin/chromedriver")
+    driver = webdriver.Chrome(service=service, options=options)
     return driver
+
+
+def start_search(driver, query):
+    url = "https://www.google.com/maps?hl=en"
+    driver.get(url)
+    driver.implicitly_wait(3)
+
+    search = driver.find_element(By.CSS_SELECTOR, "#searchboxinput")
+    search.clear()
+    search.send_keys(query.get("search"))
+    search.send_keys(Keys.ENTER)
+
+
+def find_list(driver):
+    max = 0
+    while True:
+        time.sleep(1)
+        last_cafe = driver.find_elements(By.CSS_SELECTOR, '.UaQhfb')
+        driver.execute_script(
+            'arguments[0].scrollIntoView(true);', last_cafe[len(last_cafe)-1])
+        if max == len(last_cafe):
+            print("Error : INF loading.")
+            return last_cafe
+        try:
+            # 중단점 찾기
+            stop = driver.find_element(By.CSS_SELECTOR, '.HlvSq')
+            if stop:
+                print("found stop position.")
+                return last_cafe
+        except:
+            max = len(last_cafe)
+            continue
+
+
+def save_data(filename, data):
+    csv_filename = f"s3://franfe-cafe-reviews/cafe_name/{filename}.csv"
+    for item in data:
+        df = pd.DataFrame(
+            item, columns=['name', 'rating', 'address', 'description', 'openclose'])
+        df.to_csv(csv_filename, mode='a', index=False, encoding='utf-8-sig')
+
+
+def remove_duplicate(file):
+    df = pd.read_csv(file)
+    df = df.drop_duplicates()
+    df = df.sort_values(by='name', ascending=True)
+    df.to_csv("cafe_list.csv", index=False, encoding='utf-8-sig')
+
 
 def main():
     driver = chromeWebdriver()
-    url = 'https://www.google.co.kr/maps/search/san+francisco,+cafe/@37.7209573,-122.4855949,12z/data=!4m2!2m1!6e5?hl=en&entry=ttu'
-    driver.get(url)
-    
-    cafe_list = []
-    while True:
-        last_cafe = driver.find_elements(By.CSS_SELECTOR, '.UaQhfb')
-        driver.execute_script('arguments[0].scrollIntoView(true);', last_cafe[len(last_cafe)-1])
-        time.sleep(5)
-        print(len(last_cafe))
-        if len(last_cafe) == 122:
-            cafe_list = last_cafe
-            break
-        
-    cafes = []
-    for i in range(len(cafe_list)):
-        cafes.append(cafe_list[i].text.split("\n"))
-    
-    csv_filename = f"cafe_cafes.csv"
-    df = pd.DataFrame(cafes, columns=['name', 'rating', 'address', 'description', 'openclose'])
-    print(cafes)
-    df.to_csv(csv_filename, index=False, encoding='utf-8-sig')
-    
-if __name__ == "__main__":
+    search_list = [{"search": "San Francisco, cafe"}, {
+        "search": "San Francisco, coffee"}, {"search": "San Francisco, coffee shop"}]
+
+    result = []
+    for i in range(3):
+        start_search(driver, search_list[i])
+        # 카페 리스트 찾기
+        cafe_list = find_list(driver)
+        cafes = []
+        for i in range(len(cafe_list)):
+            cafes.append(cafe_list[i].text.split("\n"))
+
+            # 백슬래시, 콜론 제거
+            cafes[i][0].replace("\\", " ")
+            cafes[i][0].replace(":", " ")
+
+            # 주소만 추출
+            index = cafes[i][2].find("·")
+            cafes[i][2] = cafes[i][2][index+2:]
+
+        result.append(cafes)
+    driver.quit()
+    save_data("raw_cafe_list", result)
+    remove_duplicate("raw_cafe_list.csv")
+
+
+def lambda_handler(event, context):
+    # TODO implement
+    start = time.time()
     main()
+    end = time.time()
+    print(f'{end-start} 초 걸림')
+
+    return {
+        "statusCode": 200,
+        "body": json.dumps("test")
+    }
+
+
+if __name__ == "__main__":
+    start = time.time()
+    main()
+    end = time.time()
+    print(f'{end-start} 초 걸림')
