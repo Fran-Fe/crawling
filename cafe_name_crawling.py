@@ -1,40 +1,49 @@
+from tempfile import mkdtemp
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.keys import Keys
-from selenium.webdriver.chrome.options import Options
 import pandas as pd
 import time
 import json
 
 
 def chromeWebdriver():
-    options = Options()
-    options.add_argument("headless")
-    options.add_argument("--no-sandbox")
-    options.add_argument("disable-gpu")
-    options.add_argument('window-size=1280x1696')
-    options.add_argument("disable-infobars")
-    options.add_argument("disable-extensions")
-    options.add_experimental_option('detach', True)
-    options.add_experimental_option('excludeSwitches', ['enable-logging'])
-    service = Service(executable_path="/opt/python/bin/chromedriver")
-    driver = webdriver.Chrome(service=service, options=options)
-    return driver
+    options = webdriver.ChromeOptions()
+    options.binary_location = '/opt/chrome/chrome'
+    options.add_argument('--headless')
+    options.add_argument('--no-sandbox')
+    options.add_argument("--disable-gpu")
+    options.add_argument("--window-size=1280x1696")
+    options.add_argument("--single-process")
+    options.add_argument("--disable-dev-shm-usage")
+    options.add_argument("--disable-dev-tools")
+    options.add_argument("--no-zygote")
+    options.add_argument(f"--user-data-dir={mkdtemp()}")
+    options.add_argument(f"--data-path={mkdtemp()}")
+    options.add_argument(f"--disk-cache-dir={mkdtemp()}")
+    options.add_argument("--remote-debugging-port=9222")
+    service = Service(executable_path="/opt/chromedriver")
+    chrome = webdriver.Chrome(service=service,
+                              options=options)
+    return chrome
 
 
 def start_search(driver, query):
+    print("start search")
     url = "https://www.google.com/maps?hl=en"
     driver.get(url)
     driver.implicitly_wait(3)
-
+    time.sleep(1)
     search = driver.find_element(By.CSS_SELECTOR, "#searchboxinput")
     search.clear()
     search.send_keys(query.get("search"))
     search.send_keys(Keys.ENTER)
+    print("End start search")
 
 
 def find_list(driver):
+    print("find_list")
     max = 0
     while True:
         time.sleep(1)
@@ -56,11 +65,13 @@ def find_list(driver):
 
 
 def save_data(filename, data):
+    print("save_data")
     csv_filename = f"s3://franfe-cafe-reviews/cafe_name/{filename}.csv"
     for item in data:
         df = pd.DataFrame(
             item, columns=['name', 'rating', 'address', 'description', 'openclose'])
         df.to_csv(csv_filename, mode='a', index=False, encoding='utf-8-sig')
+    print("end save_data")
 
 
 def remove_duplicate(file):
@@ -71,6 +82,7 @@ def remove_duplicate(file):
 
 
 def main():
+    print("main")
     driver = chromeWebdriver()
     search_list = [{"search": "San Francisco, cafe"}, {
         "search": "San Francisco, coffee"}, {"search": "San Francisco, coffee shop"}]
@@ -95,10 +107,11 @@ def main():
         result.append(cafes)
     driver.quit()
     save_data("raw_cafe_list", result)
-    remove_duplicate("raw_cafe_list.csv")
+    print("end main")
+    # remove_duplicate("raw_cafe_list.csv")
 
 
-def lambda_handler(event, context):
+def handler(event=None, context=None):
     # TODO implement
     start = time.time()
     main()
@@ -112,7 +125,4 @@ def lambda_handler(event, context):
 
 
 if __name__ == "__main__":
-    start = time.time()
-    main()
-    end = time.time()
-    print(f'{end-start} 초 걸림')
+    handler()
