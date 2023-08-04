@@ -11,14 +11,16 @@ import pandas as pd
 import keyboard
 
 def chromeWebdriver():
-    options = Options()
-    options.add_argument("lang=ko_KR")
-    options.add_argument("disable-infobars")
-    options.add_argument("--disable-extensions")
-    options.add_experimental_option('detach', True)
-    options.add_experimental_option('excludeSwitches', ['enable-logging'])
-    driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
-    return driver
+    options = webdriver.ChromeOptions()
+    options.binary_location = '/opt/google/chrome/chrome'
+    options.add_argument('--headless')
+    options.add_argument('--no-sandbox')
+    options.add_argument("--disable-gpu")
+    options.add_argument("--window-size=1280x1696")
+    service = Service(executable_path="/home/jerry/Desktop/photo/chromedriver")
+    chrome = webdriver.Chrome(service=service,
+                              options=options)
+    return chrome
 
 def start_search(driver, cafe_info):
     url = "https://www.google.com/maps?hl=en"
