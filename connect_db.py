@@ -196,6 +196,23 @@ def update_cafes_loc(connection, location, address):
             )
             cursor.execute(query)
             query = ("SET sql_safe_updates=1;")
+            cursor.execute(query)
+            connection.commit()
+
+    except Exception as e:
+        print("데이터 조회 에러:", e)
+
+
+def insert_cafe_photo_urls(connection, link, info):
+    try:
+        if connection.is_connected():
+            cursor = connection.cursor()
+            query = (
+                "INSERT INTO cafe_photo_urls (cafe_uuid, url) "
+                f'SELECT uuid, "{link}" FROM cafes '
+                f'WHERE place_name = "{info["name"]}" and address = "{info["addr"]}";'
+            )
+            cursor.execute(query)
             connection.commit()
 
     except Exception as e:
@@ -220,6 +237,6 @@ if __name__ == "__main__":
         # cafe_table_insert(connection)
         # 데이터 조회
         # cafe_hashtags_insert(connection=connection)
-        cafe_reviews_insert(connection)
+        # cafe_reviews_insert(connection)
         # MySQL 연결 해제
         disconnect_from_mysql(connection)

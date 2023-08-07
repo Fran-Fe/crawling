@@ -9,25 +9,25 @@ import json
 import re
 import os
 import boto3
+import stat
 
 
 def chromeWebdriver():
     options = webdriver.ChromeOptions()
-    # options.binary_location = '/opt/chrome/chrome'
+    options.binary_location = '/opt/chrome/chrome'
     options.add_argument('--headless')
     options.add_argument('--no-sandbox')
     options.add_argument("--disable-gpu")
     options.add_argument("--window-size=1280x1696")
-    # options.add_argument("--single-process")
-    # options.add_argument("--disable-dev-shm-usage")
-    # options.add_argument("--disable-dev-tools")
-    # options.add_argument("--no-zygote")
-    # options.add_argument(f"--user-data-dir={mkdtemp()}")
-    # options.add_argument(f"--data-path={mkdtemp()}")
-    # options.add_argument(f"--disk-cache-dir={mkdtemp()}")
-    # options.add_argument("--remote-debugging-port=9222")
-    service = Service(
-        executable_path="/home/jerry/Desktop/crawling/photo/chromedriver")
+    options.add_argument("--single-process")
+    options.add_argument("--disable-dev-shm-usage")
+    options.add_argument("--disable-dev-tools")
+    options.add_argument("--no-zygote")
+    options.add_argument(f"--user-data-dir={mkdtemp()}")
+    options.add_argument(f"--data-path={mkdtemp()}")
+    options.add_argument(f"--disk-cache-dir={mkdtemp()}")
+    options.add_argument("--remote-debugging-port=9222")
+    service = Service(executable_path="/opt/chromedriver")
     driver = webdriver.Chrome(service=service,
                               options=options)
 
@@ -80,19 +80,21 @@ def save_data(filename, data):
         df = pd.DataFrame(
             item, columns=['name', 'rating', 'address', 'description', 'openclose'])
         df.to_csv(csv_filename, mode='a', index=False, encoding='utf-8-sig')
-        os.chmod(csv_filename, 0o777)
+        os.chmod(csv_filename, stat.S_IWRITE)
     remove_duplicate(csv_filename)
 
 
 def remove_duplicate(file):
+    os.chmod(file, 0o777)
     df = pd.read_csv(file, header=0)
     df = df.drop_duplicates(subset=["name", "address"])
     df = df.sort_values(by='name', ascending=True)
-    df.to_csv("cafe_list.csv", index=False, encoding='utf-8-sig')
+    df.to_csv("/tmp/cafe_list.csv", index=False, encoding='utf-8-sig')
+    os.chmod('/tmp/cafe_list.csv', 0o777)
     s3 = s3_connection()
     try:
         s3.upload_file(
-            f'cafe_list.csv', "franfe-cafe-reviews", f'cafe_list.csv')
+            '/tmp/cafe_list.csv', "franfe-cafe-reviews", 'cafe_list.csv')
     except Exception as e:
         print(e)
 
@@ -147,8 +149,7 @@ def main():
 def handler(event=None, context=None):
     # TODO implement
     start = time.time()
-    # main()
-    remove_duplicate('/tmp/raw_cafe_list.csv')
+    main()
     end = time.time()
     print(f'{end-start} 초 걸림')
 
