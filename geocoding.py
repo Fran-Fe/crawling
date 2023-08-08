@@ -1,5 +1,4 @@
 import pandas as pd
-import re
 import key
 from urllib import parse
 import urllib.request
