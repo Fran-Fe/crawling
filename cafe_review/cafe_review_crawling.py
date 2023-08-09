@@ -11,7 +11,7 @@ import pandas as pd
 
 def chromeWebdriver():
     options = webdriver.ChromeOptions()
-    options.binary_location = '/opt/chrome/chrome'
+    # options.binary_location = '/opt/chrome/chrome'
     options.add_argument('--headless')
     options.add_argument('--no-sandbox')
     options.add_argument("--disable-gpu")
@@ -24,7 +24,7 @@ def chromeWebdriver():
     options.add_argument(f"--data-path={mkdtemp()}")
     options.add_argument(f"--disk-cache-dir={mkdtemp()}")
     options.add_argument("--remote-debugging-port=9222")
-    service = Service(executable_path="/opt/chromedriver")
+    service = Service(executable_path="/usr/src/chrome/chromedriver")
     driver = webdriver.Chrome(service=service,
                               options=options)
 
@@ -126,11 +126,12 @@ def make_query():
 def main():
     driver = chromeWebdriver()
     search_name = make_query()
-    DIR_PATH = "."
+    DIR_PATH = "./review"
     for i in range(len(search_name)):
         print(f"{i} 번째 시작")
         result, result_cafe_name, result_cafe_addr = start_search(
             driver, search_name[i])
+        print("파일 저장")
         data = pd.DataFrame(result)
 
         if not os.path.exists(f'{DIR_PATH}/{result_cafe_name}_{result_cafe_addr}_reviews.csv'):
