@@ -217,16 +217,36 @@ def insert_cafe_photo_urls(connection, link, info):
         print("데이터 조회 에러:", e)
 
 
-def insert_cafe_options(connection, data, name, addr):
+def insert_cafe_options(connection, option, name, addr):
     try:
         if connection.is_connected():
             cursor = connection.cursor()
             query = (
-                "INSERT INTO cafe_photo_urls (cafe_uuid, option, option_on) "
-                f'SELECT uuid, "{data["options"]}, 0" FROM cafes '
-                f'WHERE place_name = "{name}" and address = "{addr}";'
+                "INSERT INTO cafe_options (cafe_uuid, option_name) "
+                f'SELECT uuid, "{option}" FROM cafes '
+                f'WHERE place_name = "{name}" and '
+                f'address = "{addr}";'
             )
             cursor.execute(query)
+            connection.commit()
+    except Exception as e:
+        print("데이터 조회 에러:", e)
+
+
+def select_cafe_options(connection, name, addr):
+    try:
+        if connection.is_connected():
+            cursor = connection.cursor()
+            query = (
+                "SELECT * FROM cafe_options "
+                "WHERE cafe_uuid = (SELECT uuid FROM cafes "
+                f'WHERE place_name = "{name}"; '
+                # f'and address = "{addr}");'
+            )
+            cursor.execute(query)
+            for row in cursor.fetchall():
+                print(row)
+
             connection.commit()
     except Exception as e:
         print("데이터 조회 에러:", e)
