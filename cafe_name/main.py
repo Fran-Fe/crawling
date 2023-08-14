@@ -87,6 +87,7 @@ def remove_duplicate(file):
     df = pd.read_csv(file, header=0)
     df = df.drop_duplicates(subset=["name", "address"])
     df = df.sort_values(by='name', ascending=True)
+    df = df.drop(df.index[-1])
     df.to_csv("/tmp/cafe_list.csv", index=False, encoding='utf-8-sig')
     os.chmod('/tmp/cafe_list.csv', 0o777)
     s3 = s3_connection()
