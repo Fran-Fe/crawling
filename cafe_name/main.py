@@ -38,12 +38,11 @@ def start_search(driver, query):
     print("start search")
     url = "https://www.google.com/maps?hl=en"
     driver.get(url)
-    time.sleep(5)
+    time.sleep(1)
     search = driver.find_element(By.ID, "searchboxinput")
     search.clear()
     search.send_keys(query.get("search"))
     search.send_keys(Keys.ENTER)
-    time.sleep(5)
     print("End start search")
 
 
@@ -53,7 +52,6 @@ def find_list(driver):
     while True:
         time.sleep(5)
         last_cafe = driver.find_elements(By.CSS_SELECTOR, '.UaQhfb')
-        print(len(last_cafe))
         try:
             driver.execute_script(
                 'arguments[0].scrollIntoView(true);', last_cafe[len(last_cafe)-1])
@@ -120,13 +118,15 @@ def main():
     driver = chromeWebdriver()
     search_list = [{"search": "San Francisco, cafe"},
                    {"search": "San Francisco, coffee shop"},
-                   {"search": "San Francisco, coffee"}]
+                   {"search": "San Francisco, coffee"},
+                   {"search": "cafe in San Francisco"},
+                   {"search": "coffee shop in San Francisco"}]
 
     result = []
     for i in range(len(search_list)):
         start_search(driver, search_list[i])
         # 카페 리스트 찾기
-        time.sleep(10)
+        time.sleep(5)
         cafe_list = find_list(driver)
         print("end")
         cafes = []
