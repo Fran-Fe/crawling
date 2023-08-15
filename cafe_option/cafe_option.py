@@ -1,4 +1,3 @@
-import os
 import re
 import time
 from tempfile import mkdtemp
@@ -11,7 +10,6 @@ import pandas as pd
 
 def chromeWebdriver():
     options = webdriver.ChromeOptions()
-    # options.binary_location = '/opt/chrome/chrome'
     # options.add_argument('--headless')
     # options.add_argument('--no-sandbox')
     # options.add_argument("--disable-gpu")
@@ -40,6 +38,14 @@ def start_search(driver, cafe_info):
     search.clear()
     search.send_keys(cafe_info.get("search"))
     search.send_keys(Keys.ENTER)
+    '//*[@id="QA0Szd"]/div/div/div[1]/div[2]/div/div[1]/div/div/div[2]/div[1]/div[1]/div/a'
+    try:
+        cafe_name = driver.find_elements(
+            By.CSS_SELECTOR, '.hfpxzc',)
+        print(cafe_name)
+        cafe_name[0].click()
+    except:
+        return get_store_review_data(driver, cafe_info)
     return get_store_review_data(driver, cafe_info)
 
 
@@ -72,7 +78,6 @@ def get_store_review_data(driver, cafe_info):
 def make_query():
     df = pd.read_csv(
         "./cafe_list.csv", encoding='utf-8-sig', sep=',')
-    cafe_id = df['id']
     cafe_name = df['name']
     cafe_addr = df['address']
     cafe_len = len(cafe_name)
@@ -84,7 +89,6 @@ def make_query():
             "search": search,
             "cafe_name": cafe_name[i],
             "cafe_address": cafe_addr[i],
-            "cafe_id": cafe_id[i],
         })
 
     return search_name
@@ -95,14 +99,12 @@ def main():
     connection = connect_db.connect_to_mysql()
     driver = chromeWebdriver()
     search_name = make_query()
-    for i in range(1):
+    for i in range(249, len(search_name)):
         print(f"{i} 번째 시작")
-        print(search_name[178])
+        print(search_name[i])
         result, result_cafe_name, result_cafe_addr = start_search(
-            driver, search_name[178])
+            driver, search_name[i])
         print("데이터 저장")
-        # connect_db.select_cafe_options(
-        #     connection, result_cafe_name, result_cafe_addr)
         for option_list in result:
             for option in option_list:
                 connect_db.insert_cafe_options(

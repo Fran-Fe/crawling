@@ -1,215 +1,310 @@
-﻿id,name,rating,address,description,openclose
-1,901 Columbus,4.3(277) · $,901 Columbus Ave,Casual cafe with a daily happy hour,Open ⋅ Closes 8 PM
-2,Abanico Coffee Roasters,4.8(140) · $,2121 Mission St,Easygoing cafe for Latin American drinks,Open ⋅ Closes 4 PM
-3,Alamo Square Cafe,4.5(219) · $$,711 Fillmore St,Small coffeehouse with free WiFi,Open ⋅ Closes 4 PM
-4,All Star Cafe,4.1(260) · $,1500 Market St,Compact cafe for Asian fare & donuts,Open 24 hours
-5,All Star Cafe,4.3(115),1306 Mission St,Open ⋅ Closes 5:45 PM,
-6,Andytown Coffee Roasters,4.6(971)$,3655 Lawton St,Snug coffee shop for espresso & pastries,Open ⋅ Closes 5 PM
-7,Andytown Coffee Roasters,4.6(189) · $$,181 Fremont Street Park Level Fremont St,Open ⋅ Closes 4 PM,
-8,Angel Cafe & Deli,4.6(231) · $,700 Geary St,Simple locale for breakfast & lunch fare,Closed ⋅ Opens 6 AM Fri
-9,Another Cafe,4.4(455) · $,1191 Pine St,Airy spot for coffee & panini sandwiches,Open ⋅ Closes 8 PM
-10,Atlas Cafe,4.4(761) · $,3049 20th St,Coffee shop with unique sandwiches,Open ⋅ Closes 6 PM
-11,Bazaar Café,4.6(263) · $,5927 California St,"Drinks, live music & global chow",Closes soon ⋅ 2:30 PM ⋅ Reopens 6:30 PM
-12,Beacon Coffee & Pantry,4.3(402) · $$,805 Columbus Ave,Artisanal coffee shop & specialty market,Closes soon ⋅ 2 PM ⋅ Opens 7:30 AM Fri
-13,Bean Bag Cafe,4.5(815) · $,601 Divisadero St,"Coffee & light eats, sidewalk seating",Open ⋅ Closes 9 PM
-14,BeanStalk Cafe,4.4(584) · $,724 Bush St,Intimate spot for coffee & global bites,Closes soon ⋅ 2:30 PM ⋅ Opens 8 AM Fri
-15,Bernie's,4.5(188) · $,3966 24th St,Coffee & pastries in Victorian building,Closes soon ⋅ 2 PM ⋅ Opens 5:30 AM Fri
-16,Biscoff Coffee Corner,4.3(721) · $$,213 Pier 39,Snug cafe with pastries & smoothies,Open ⋅ Closes 10 PM
-17,Blue Bottle Coffee,4.5(692) · $$,2 S Park St,Hip cafe for gourmet coffee & pastries,Open ⋅ Closes 5 PM
-18,Blue Bottle Coffee,"4.4(1,169) · $$",115 Sansome St,Hip cafe for gourmet pastries & coffee,Open ⋅ Closes 5 PM
-19,Blue Bottle Coffee,4.6(802) · $$,315 Linden St,Hip cafe for gourmet coffee & pastries,Open ⋅ Closes 6:30 PM
-20,Blue Bottle Coffee,4.3(692) · $$,1 Ferry Building 7,Hip cafe for gourmet coffee & pastries,Open ⋅ Closes 6:30 PM
-21,Blue Bottle Coffee,4.5(257) · $$,168 2nd St,Hip cafe chain for coffee & pastries,Open ⋅ Closes 5 PM
-22,Blue Bottle Coffee,4.3(193) · $$,705 Market St,Hip cafe for gourmet coffee & pastries,Open ⋅ Closes 5 PM
-23,Blue Bottle Coffee,4.5(86) · $$,1385 4th St,Hip cafe for gourmet coffee & pastries,Open ⋅ Closes 5 PM
-24,Blue Bottle Coffee,4.2(34) · $$,55 S Van Ness Ave,Hip cafe for gourmet coffee & pastries,Open ⋅ Closes 5 PM
-25,Blue Bottle Coffee,4.1(120) · $$,909 Montgomery St # 105,Hip cafe for gourmet coffee & pastries,Open ⋅ Closes 5 PM
-26,Blue Bottle Coffee,4.7(10) · $$,250 Howard St Suite 3A,Hip cafe for gourmet coffee & pastries,Closes soon ⋅ 2:30 PM ⋅ Opens 7 AM Fri
-27,Blue Danube Coffee House,4.2(336) · $$,306 Clement St,Artsy neighborhood cafe,Open ⋅ Closes 7 PM
-28,Bluestone Lane Front Street Coffee Shop,4.3(134) · $$,227 Front St,Open ⋅ Closes 4 PM,
-29,Bluestone Lane SOMA Coffee Shop,4.3(74) · $$,55 2nd St,Open ⋅ Closes 4 PM,
-30,Bluestone Lane Theatre District Coffee Shop,4.1(107) · $$,562 Sutter St,Closes soon ⋅ 2 PM ⋅ Opens 6 AM Fri,
-31,Bluestone Lane Union Square Coffee Shop,4.2(347) · $$,685 Market St,Airy spot for coffee & all-day eats,Closes soon ⋅ 2 PM ⋅ Opens 7 AM Fri
-32,Cafe 22,5.0(1),325 Mason St,Open ⋅ Closes 6 PM,
-33,Cafe 450,3.4(5),450 Golden Gate Ave,,
-34,Cafe 5,3.9(46),151 3rd St,Closed ⋅ Opens 11 AM Fri,
-35,Cafe Bean,4.2(100) · $,800 Sutter St,Cozy spot for espresso & light fare,Open ⋅ Closes 5 PM
-36,Cafe de Casa,4.7(900) · $,2701 Leavenworth St,"Brazilian coffee, pastry & lunch shop",Closed ⋅ Opens 8 AM Fri
-37,Cafe de Casa,4.6(391),3985 17th St,Brazilian bites & coffee in a cozy space,Open ⋅ Closes 7 PM
-38,Cafe Destijl,4.3(52) · $$,1 Union St,Temporarily closed,
-39,Cafe Du Soleil,4.7(164),345 3rd St,Quaint French cafe & brunch spot,Closes soon ⋅ 3 PM ⋅ Opens 9 AM Fri
-40,Cafe Encore,4.2(141) · $$,488 Post St,Open ⋅ Closes 7 PM,
-41,Cafe Francisco,4.4(440) · $,2161 Powell St,Mediterranean & American eats plus art,Open ⋅ Closes 3 PM
-42,Cafe Franco,4.8(43),240 Funston Rd,Closes soon ⋅ 3 PM ⋅ Opens 8 AM Fri,
-43,Cafe International,4.5(401) · $,508 Haight St,Hybrid coffeehouse & live music hangout,Open ⋅ Closes 4:30 PM
-44,Cafe La Tazita,4.3(431),470 Post St,No-frills breakfast & lunch venue,Closes soon ⋅ 2:30 PM ⋅ Opens 7:30 AM Fri
-45,Cafe Le,4.7(69),2895 Van Ness Ave,Closes soon ⋅ 2:30 PM ⋅ Opens 7:30 AM Fri,
-46,Cafe Me,4.6(134) · $,500 Washington St,Daytime stop for coffee & sandwiches,Closed ⋅ Opens 5:30 AM Fri
-47,Cafe Murano,4.3(92) · $,1777 Steiner St,Cozy coffee bar with outdoor seating,Closed ⋅ Opens 7 AM Fri
-48,Cafe New Honolulu,3.8(186) · $,888 Stockton St,Cash-only Chinese restaurant & bakery,Open ⋅ Closes 7:30 PM
-49,Cafe Pacific Plaza,4.8(100) · $,1338 Franklin St,Open ⋅ Closes 3:30 PM,
-50,Cafe Réveille,4.4(725) · $$,610 Long Bridge Street,Coffee & brunch in stylish surrounds,Open ⋅ Closes 5 PM
-51,Cafe Réveille,4.1(156),1998 Polk St,Open ⋅ Closes 7:30 PM,
-52,Cafe Suspiro,4.8(166) · $,1246 Folsom St,"Hip, scooter-themed espresso bar",Open ⋅ Closes 4 PM
-53,Cafe Valencia,4.5(159),Brazilian · 1252 Valencia St,Local market for Brazilian groceries,Open ⋅ Closes 6 PM
-54,Cafecito,4.7(112) · $,406 Ellis St,Colorful cafe for sandwiches & coffee,Open ⋅ Closes 6 PM
-55,Caffe Bianco,4.6(164) · $,39 Sutter St,Classic coffee shop with sandwiches,Closes soon ⋅ 3 PM ⋅ Opens 8:30 AM Fri
-56,Caffe Capriccio,4.6(233) · $,2200 Mason St,Relaxed spot for sandwiches & salads,Open ⋅ Closes 4 PM
-57,Caffe Central,4.3(634) · $$,133 O'Farrell St,Gourmet roasts in a cool coffee shop,Open ⋅ Closes 6 PM
-58,Caffe Greco,"4.5(1,185) · $$",423 Columbus Ave,Espresso drinks & Italian sweets,Open ⋅ Closes 10 PM
-59,Caffe Moda,4.2(104) · $,160 7th St,Casual spot for breakfast & lunch,Closed ⋅ Opens 7 AM Fri
-60,Caffe Trieste,"4.5(1,318) · $",601 Vallejo St.,Historic spot for coffee & live music,Open ⋅ Closes 10 PM
-61,Capital One Café,4.3(191) · $,101 Post St,Modern coffeehouse with free WiFi,Open ⋅ Closes 6 PM
-62,Cavalli Cafe,4.5(263) · $,1441 Stockton St,Espresso bar with Italian treats & music,Open ⋅ Closes 11 PM
-63,Chuck Williams Cafe,5.0(1),1101 Van Ness Ave,Open ⋅ Closes 6 PM,
-64,Church Street Cafe,4.3(220) · $,260 Church St,Coffee & WiFi in an exposed-brick space,Open ⋅ Closes 5 PM
-65,Coffee Bar Montgomery,4.5(113) · $,101 Montgomery St,Locally roasted coffee & cafe fare,Closes soon ⋅ 2:30 PM ⋅ Opens 7 AM Fri
-66,Coffee Bar-Kearny,5.0(19),433 Kearny St,Casual cafe with carefully sourced beans,Closes soon ⋅ 2:30 PM ⋅ Opens 7 AM Fri
-67,Coffee Bodega Farm-to-Table,4.7(212),1 California St,Open ⋅ Closes 5 PM,
-68,Coffee Cultures,5.0(12),655 Montgomery St,Closed ⋅ Opens 7 AM Fri,
-69,Coffee To The People,4.3(516) · $,1206 Masonic Ave,Indie coffee shop,Open ⋅ Closes 6 PM
-70,CoffeeShop,4.8(139),2761 21st St,"Espresso, tea, pastries & sidewalk seats",Open ⋅ Closes 5 PM
-71,CoffeeShop,4.7(232) · $,3139 Mission St,Locally roasted beans & sweet treats,Open ⋅ Closes 4 PM
-72,CoffeeSmith,4.8(39),401 Golden Gate Ave,Closes soon ⋅ 2:30 PM ⋅ Opens 7:30 AM Fri,
-73,Coit Tower Cafe,3.7(9),Coit Tower,Open ⋅ Closes 6 PM,
-74,Compton’s Coffee House,4.8(163),1910 Fillmore St,Open ⋅ Closes 5 PM,
-75,Cozy Cafe,4.7(126) · $,965 Sutter St C,Closed ⋅ Opens 7 AM Fri,
-76,Cumaica: Artesanos del Cafe,4.4(278) · $,1398 Mission St,Caffeine cafe with creative drinks,Closes soon ⋅ 2 PM ⋅ Opens 5:30 AM Fri
-77,Cup A Joe Coffeehouse,4.3(349) · $,896 Sutter St,Laid-back neighborhood coffee shop,Open ⋅ Closes 7 PM
-78,Daily Habit,4.9(13),1 Maritime Plz,Closed ⋅ Opens 6 AM Fri,
-79,Darren's Café,4.5(687) · $$,2731 Taylor St,Asian/American breakfast & lunch eats,Closed ⋅ Opens 8 AM Fri
-80,Dolores Park Cafe,4.2(746) · $$,501 Dolores St,Organic eats & sunny parkside hangout,Open ⋅ Closes 5 PM
-81,Duboce Park Cafe,4.3(869) · $$,2 Sanchez St,Coffee shop with organic eats,Open ⋅ Closes 5 PM
-82,El Cafetazo,4.0(121) · $,3087 16th St,Coffee shop & juice bar,Open ⋅ Closes 3 PM
-83,Enter The Cafe,4.4(104) · $,1401 Powell St,Bright corner coffee shop with ice cream,Open ⋅ Closes 7 PM
-84,Equator Coffees,3.8(308),Golden Gate Brg,"Hip spot for coffee, tea & light eats",Open ⋅ Closes 6 PM
-85,Farley's Coffeehouse,4.6(564) · $,1315 18th St,Contemporary cafe for baked fare & lunch,Open ⋅ Closes 6 PM
-86,Fillmore Street Cafe,4.2(151) · $,1301 Fillmore St,Casual cafe for deli sandwiches & salads,Open ⋅ Closes 9 PM
-87,First Cup Café,4.4(51),2911 Van Ness Ave,Open ⋅ Closes 4 PM,
-88,Flywheel Coffee Roasters,4.5(956),672 Stanyan St,Minimalist spot for hand-roasted java,Open ⋅ Closes 6 PM
-89,Foghorn Coffee,3.8(30),900 North Point St Suite E204B,Open ⋅ Closes 7 PM,
-90,Four Barrel Coffee,"4.5(2,384) · $$",375 Valencia St,Sophisticated drip coffee drinks & more,Open ⋅ Closes 5 PM
-91,Fresh Brew Coffee,4.8(494) · $,882 Bush St,"Cozy, American-Vietnamese sandwich spot",Closes soon ⋅ 3 PM ⋅ Opens 7 AM Fri
-92,FRONT EXHIBITS & CAFE,4.7(30),498 Alabama St,Closes soon ⋅ 3 PM ⋅ Opens 8 AM Fri,
-93,Fueling Station Cafe,4.6(213) · $,2436 Polk St,"Cafe for banh mi, waffles & coffee",Open ⋅ Closes 5 PM
-94,Goody Cafe,4.4(76),Landmark Building C 2 Marina Blvd,Open ⋅ Closes 5 PM,
-95,Graffeo Coffee Roasting Co.,4.7(69),735 Columbus Ave,Coffeehouse with signature roasts,Open ⋅ Closes 5 PM
-96,Grand Coffee,4.7(157) · $,2663 Mission St,"Locally sourced coffee, tea & pastries",Open ⋅ Closes 5 PM
-97,Hedge Coffee,4.8(76),434 Shotwell St,,
-98,Henry's House of Coffee,4.6(406) · $,1618 Noriega St,Area stalwart with hand-roasted beans,Open ⋅ Closes 5 PM
-99,Hermanos Coffee + Juice,4.7(26),650 California St,Temporarily closed,
-100,Hideaway Cafe,4.7(182),Laundry · 850 Jones St,Closed ⋅ Opens 8 AM Fri,
-101,Higher Grounds Coffee House,4.6(273) · $$,691 Chenery St,Chill cafe with a neighborhood vibe,Open ⋅ Closes 3 PM
-102,HITW Coffee,4.7(196) · $,524 Union St,Closed ⋅ Opens 9 AM Sat,
-103,Hollywood Cafe,"4.5(2,139) · $$",530 North Point St,Cinema-themed cafe,Closed ⋅ Opens 8 AM Fri
-104,Home Coffee Roasters,4.7(338) · $,455 Grant Ave,Open ⋅ Closes 4 PM,
-105,Honey Honey Cafe & Crepery,"4.3(3,370) · $$",599 Post St,Sweet & savory crêpe specialist,Closes soon ⋅ 3 PM ⋅ Opens 7 AM Fri
-106,Hyatt Coffee Bar,3.7(32),345 Stockton St,Modern hotel lobby cafe with free Wi-Fi,Closed ⋅ Opens 6:30 AM Fri
-107,Hyatt Regency Cafe,5.0(4),Hyatt Regency San Francisco 5 Embarcadero Ctr,,
-108,Il Canto Cafe,4.7(280) · $,475 Sacramento St,Mellow option with coffee & light fare,Open ⋅ Closes 4 PM
-109,Iron Horse Coffee Shop,4.4(107) · $,25 Maiden Ln,"Snug, modern coffee shop",Closes soon ⋅ 2:30 PM ⋅ Opens 7:30 AM Fri
-110,Jackson Place Café,4.6(73) · $,633 Battery St,Breakfast & lunch kiosk with a courtyard,Closes soon ⋅ 2:30 PM ⋅ Opens 8:30 AM Tue
-111,Jane on Larkin,4.4(632) · $$,925 Larkin St,"Hip cafe with sandwiches, coffee & more",Open ⋅ Closes 4 PM
-112,Javalencia,4.3(73),1594 Market St,Closes soon ⋅ 3 PM ⋅ Opens 8 AM Fri,
-113,Joy's Place,4.3(388) · $,611 Post St,Cozy coffee shop with Asian desserts,
-114,La Promenade Café,4.5(427) · $,3643 Balboa St,"Airy space for coffee, bagels & lunch",Open ⋅ Closes 8 PM
-115,Lady Falcon Coffee Club,4.3(87),Park,Vintage coffee truck for espresso drinks,Open ⋅ Closes 5 PM
-116,Lafayette Coffee Shop,4.2(206) · $,611 Larkin St,Open ⋅ Closes 9 PM,Open ⋅ Closes 3 PM
-117,Le Cafe du Soleil,4.5(539) · $,400 Waller St,French bistro with sidewalk seating,
-118,Le Petit Cafe,4.3(8) · $,1 Maritime Plz # Grnd,Counter serve for breakfast & lunch fare,Open ⋅ Closes 5 PM
-119,Linea Caffe,4.5(334) · $$,3417 18th St,Snug cafe offering organic coffees,Closed ⋅ Opens 8 AM Fri
-120,Maggie's Cafe,3.1(104),848 Grant Ave,Open ⋅ Closes 4 PM,Closes soon ⋅ 2 PM ⋅ Opens 7 AM Fri
-121,Martha & Brothers Coffee Company,4.5(294) · $,3868 24th St,Low-key stop for coffee & baked goods,
-122,Matching Half,4.5(376) · $$,1799 McAllister St,Arty coffee shop with light fare,Open ⋅ Closes 7:30 PM
-123,Mazarine Coffee,"4.5(1,511) · $$",720 Market St,Stylish cafe for espresso & light bites,Open ⋅ Closes 3 PM
-124,Mercury Cafe,4.3(309) · $$,201 Octavia St,Light-filled space with an organic menu,Closes soon ⋅ 3 PM ⋅ Opens 7 AM Fri
-125,Milk-SF,4.7(76),302 Valencia St,Open ⋅ Closes 4 PM,Open ⋅ Closes 3 PM
-126,Mission Blue,5.0(145),144 Leland Ave,Modern retail shop for coffee & pastries,
-127,Morning Brew Coffee & Tea,3.6(20) · $$,401 Sansome St,Unassuming stop for banh mi & espresso,Open ⋅ Closes 3 PM
-128,Mo'z Cafe,"4.2(1,162) · $$",36 5th St,Neighborhood cafe known for breakfast,Closes soon ⋅ 3 PM ⋅ Opens 7 AM Fri
-129,Muddy Waters Coffee House,4.1(292) · $,521 Valencia St,No-frills coffee shop,Closed ⋅ Opens 6 AM Fri
-130,Müesi Cafe,4.5(119),2055 Union St Suite B,Open ⋅ Closes 5:30 PM,Open ⋅ Closes 3 PM
-131,Mymy,"4.5(1,610) · $$",1500 California St,Bright corner spot for big breakfasts,Closes soon ⋅ 2 PM ⋅ Opens 9 AM Fri
-132,Nina's Cafe,4.3(18),201 Fell St,Corner deli & coffee shop,Closed ⋅ Opens 9 AM Fri
-133,Noe Cafe,4.7(277),1299 Sanchez St,Intimate spot for coffee & snacks,Closes soon ⋅ 3 PM ⋅ Opens 7 AM Fri
-134,Pat's Cafe,"4.5(1,308) · $$",2330 Taylor St,American eatery with a laid-back brunch,Open ⋅ Closes 7 PM
-135,Peet's Coffee,4.2(709) · $,773 Market St,Coffeehouse chain also known for its tea,Closed ⋅ Opens 7:30 AM Fri
-136,Peet's Coffee,4.3(462) · $,1400 Mission St Suite 130,Coffeehouse chain also known for its tea,Open ⋅ Closes 7 PM
-137,Peet's Coffee,4.2(223) · $,160 Jefferson St,Coffeehouse chain also known for its tea,Open ⋅ Closes 4 PM
-138,Peet's Coffee,4.2(352) · $,601 Van Ness Ave,Coffeehouse chain also known for its tea,Open ⋅ Closes 9 PM
-139,Peet's Coffee,4.4(179) · $,625 8th St,Coffeehouse chain also known for its tea,Open ⋅ Closes 6 PM
-140,Peet's Coffee,3.8(24) · $,155 Montgomery St #161,Coffeehouse chain also known for its tea,Open ⋅ Closes 6 PM
-141,Peet's Coffee,4.3(145) · $,Two Embarcadero Center,Coffeehouse chain also known for its tea,Open ⋅ Closes 5 PM
-142,Peet's Coffee,4.2(152) · $,595 Market St Suite 143,Coffeehouse chain also known for its tea,Open ⋅ Closes 5 PM
-143,Philz Coffee,"4.5(1,134) · $$",5 Embarcadero Ctr,Custom-blended java in a casual setting,Open ⋅ Closes 4 PM
-144,Philz Coffee,"4.6(1,358) · $$",3101 24th St,Custom-blended java in a casual setting,Open ⋅ Closes 6 PM
-145,Philz Coffee,"4.5(1,222) · $$",1 Front St #100,Custom-blended java in a casual setting,Open ⋅ Closes 5 PM
-146,Philz Coffee,4.4(612) · $$,399 Golden Gate Ave,Custom-blended java in a casual setting,Open ⋅ Closes 5 PM
-147,Philz Coffee,4.5(917) · $$,201 Berry St,Custom-blended java in a casual setting,Open ⋅ Closes 5:30 PM
-148,Philz Coffee,4.6(518) · $$,1775 17th St,Custom-blended java in a casual setting,Open ⋅ Closes 5 PM
-149,Philz Coffee,4.5(919) · $$,549 Castro St,Custom-blended java in a casual setting,Open ⋅ Closes 5 PM
-150,Piccino Coffee Bar & Bakery,4.4(138),845 22nd St,Open ⋅ Closes 5:30 PM,
-151,Pinhole Coffee,4.7(480) · $$,231 Cortland Ave,Storefront coffeehouse with pastry,
-152,Planet Cafe,4.7(44) · $,244 Gough St,Revamped American cafe for casual bites,
-153,Progressive Grounds,4.5(383) · $,400 Cortland Ave,Coffeehouse with ice cream & patio,Open ⋅ Closes 5:30 PM
-154,Radiator coffee salon,3.7(18),299 2nd St,Closed ⋅ Opens 6 AM Fri,Closes soon ⋅ 2 PM ⋅ Opens 7:30 AM Fri
-155,Red Bay Coffee Ferry Building,4.0(172),"1, Ferry Building, Shop 43",Open ⋅ Closes 6 PM,Open ⋅ Closes 6 PM
-156,Réveille Coffee Co.,4.3(738) · $$,200 Columbus Ave,Modern cafe with New American fare,
-157,Réveille Coffee Co.,3.8(4),768 Sansome St,Temporarily closed,
-158,Rise & Grind Coffee and Tea,4.5(370) · $,785 8th Ave,"Modern cafe for coffee, tea & pastries",Open ⋅ Closes 4 PM
-159,Ritual Coffee Roasters,4.5(455) · $$,432b Octavia St,Coffeehouse using small-farm beans,
-160,Ritual Coffee Roasters,"4.3(1,512) · $$",1026 Valencia St,Coffeehouse using small-farm beans,Open ⋅ Closes 5 PM
-161,Ritual Coffee Roasters,4.4(440) · $$,1300 Haight St,Coffeehouse using small-farm beans,Open ⋅ Closes 6 PM
-162,Rose's Cafe,4.4(826) · $$,2298 Union St,Relaxed Italian cafe with a terrace,Open ⋅ Closes 7 PM
-163,Saint Frank Coffee,"4.5(1,056) · $$",2340 Polk St,Bright & spacious local coffeehouse,Open ⋅ Closes 6 PM
-164,Sammie Cafe,5.0(4),Coffee shop 881 Post Street,Closed ⋅ Opens 8 AM Fri,Open ⋅ Closes 9 PM
-165,Sammy's Cafe,4.6(128) · $,1416 Bush St,Homey breakfast & sandwich establishment,Open ⋅ Closes 6 PM
-166,San Francisco Coffee Company,4.7(12),70 13th St,Open ⋅ Closes 5 PM,
-167,Sana’a cafe,4.9(87),199 New Montgomery St,Open ⋅ Closes 10 PM,Closes soon ⋅ 3 PM ⋅ Opens 8:30 AM Fri
-168,Schilling & Co Cafe,4.6(48) · $$,667 Commercial St,Closed ⋅ Opens 8 AM Fri,
-169,Scullery,4.7(345) · $,Coffee shop · 687 Geary St,"Tiny, artsy cafe for coffee & pastries",
-170,Seismic Joint,2.8(22),"Pier 15, 698 The Embarcadero",Museum cafe with coffee & sweet treats,
-171,Sextant Coffee Roasters,4.5(595) · $$,1415 Folsom St,Coffeehouse with exposed brick & beams,Closes soon ⋅ 2 PM ⋅ Opens 7 AM Fri
-172,Sightglass Coffee,"4.5(2,835) · $$",270 7th St,Espresso drinks & coffee roasted on-site,Open ⋅ Closes 5 PM
-173,Sightglass Coffee,4.4(473) · $$,301 Divisadero St,Espresso drinks & coffee roasted on-site,Open ⋅ Closes 4 PM
-174,Sightglass Coffee,4.5(607) · $$,3014 20th St,Espresso drinks & coffee roasted on-site,Open ⋅ Closes 5 PM
-175,Sisters Coffee Shop,4.2(91),920 Valencia St,Open ⋅ Closes 5 PM,Open ⋅ Closes 5 PM
-176,Snowbird Coffee,4.5(461) · $$,1352 9th Ave A,Closed ⋅ Opens 8 AM Fri,Open ⋅ Closes 5 PM
-177,South Beach Cafe,4.2(342) · $,800 The Embarcadero,Coffee shop & pizzeria,
-178,Souvenir Coffee,4.7(69),262 Divisadero St,Open ⋅ Closes 5 PM,
-179,SPRO - Mission Bay/SOMA,4.7(260) · $$,601 Mission Bay Boulevard North,Outdoor stop for coffee drinks & eats,Open ⋅ Closes 8:30 PM
-180,SPRO - Mission Dolores/Castro,4.7(247),500 Church St,Minimalist cafe brewing craft coffee,Open ⋅ Closes 4 PM
-181,Stable Cafe,4.6(834) · $$,2128 Folsom St,Coffeehouse in former carriage house,Open ⋅ Closes 5 PM
-182,Stanza Coffee Bar,4.2(204) · $,1673 Haight St,Upbeat nook serving espresso & pastries,Open ⋅ Closes 5 PM
-183,Starbucks,4.2(493) · $$,865 Market Street San Francisco Centre,Iconic Seattle-based coffeehouse chain,Open ⋅ Closes 3 PM
-184,Starbucks,3.7(760) · $$,499 Bay St,Iconic Seattle-based coffeehouse chain,Open ⋅ Closes 3 PM
-185,Starbucks,4.1(456) · $$,565 Clay St,Iconic Seattle-based coffeehouse chain,Open ⋅ Closes 7:30 PM
-186,Starbucks,4.1(435) · $$,49 Jefferson St P,Iconic Seattle-based coffeehouse chain,Open ⋅ Closes 6 PM
-187,Starbucks,3.8(272) · $$,789 Mission St,Iconic Seattle-based coffeehouse chain,Open ⋅ Closes 5:30 PM
-188,Starbucks,4.2(163) · $$,100 1st St,Iconic Seattle-based coffeehouse chain,Open ⋅ Closes 6 PM
-189,Starbucks,3.9(365) · $$,"Levi's Plaza, 1255 Battery St",Iconic Seattle-based coffeehouse chain,Open ⋅ Closes 7 PM
-190,Starbucks,4.5(502) · $$,201 Mission St,Iconic Seattle-based coffeehouse chain,Open ⋅ Closes 6 PM
-191,Starbucks,4.2(205) · $$,580 California St #150,Iconic Seattle-based coffeehouse chain,Open ⋅ Closes 6 PM
-192,Starbucks,4.2(187) · $$,425 Battery St,Iconic Seattle-based coffeehouse chain,Open ⋅ Closes 6 PM
-193,Starbucks,3.8(255) · $$,780 Market St,Iconic Seattle-based coffeehouse chain,Open ⋅ Closes 5:30 PM
-194,Starbucks,3.8(193) · $$,99 Jackson St,Iconic Seattle-based coffeehouse chain,Open ⋅ Closes 5 PM
-195,Sutter Street Cafe,4.7(107),450 Sutter St #7,Small sandwich shop with coffee & sweets,Open ⋅ Closes 7 PM
-196,Sweetheart Cafe,4.2(210) · $,909 Grant Ave,Light Asian bites & sweet treats,Open ⋅ Closes 6 PM
-197,Tallio's Coffee & Tea,4.7(41) · $,4732 3rd St,Open ⋅ Closes 4 PM,Open ⋅ Closes 4 PM
-198,Tarragon Cafe,4.6(112),200 Fillmore St,Open ⋅ Closes 5 PM,Open ⋅ Closes 7 PM
-199,Telescope Coffee,4.8(132),345 6th St,Temporarily closed,
-200,The Coffee Movement,4.8(724) · $,1030 Washington St,"Snug, minimalist cafe for artisan brews",
-201,The Crêpe Café,4.2(545) · $$,333 Jefferson St UNIT 5A,Chill spot for sweet & savory crepes,
-202,The Fresh Cup,4.6(40),798 S Van Ness Ave,Closes soon ⋅ 3 PM ⋅ Opens 7 AM Fri,Open ⋅ Closes 4 PM
-203,The Law Café,4.7(7),200 McAllister St,Closes soon ⋅ 3 PM ⋅ Opens 7:30 AM Fri,Open ⋅ Closes 9 PM
-204,The Little Spot Cafe,4.7(114) · $,1199 S Van Ness Ave,Eclectic coffee shop with light bites,
-205,The Market Cafe,4.2(40),1355 Market St,Open ⋅ Closes 5 PM,
-206,The Mill,"4.5(1,765) · $$",736 Divisadero St,Airy coffee shop with breads & pastries,Open ⋅ Closes 7 PM
-207,The Morning Fix,4.6(68) · $,1008 Bush St,"Pit stop for coffee, bagels & sandwiches",
-208,Tu Kim Coffee Shop,3.8(30),609 Ellis St,Open ⋅ Closes 5 PM,Open ⋅ Closes 5 PM
-209,Unexpected Era Café,4.8(42),614 Polk St,Closes soon ⋅ 2:30 PM ⋅ Opens 7 AM Fri,Closed ⋅ Opens 7 AM Fri
-210,Verve Coffee Roasters,4.4(670) · $$,2101 Market St,Modern coffeehouse with artisanal blends,
-211,Viva Cafe,4.9(80),601 Montgomery St,Open ⋅ Closes 5 PM,
-212,Working Girls' Cafe,4.4(76) · $$,101 Mission St,Outpost for breakfast & lunch staples,Open ⋅ Closes 6 PM
-213,Wrecking Ball Coffee Roasters,4.4(510) · $$,2271 Union St,House-roasted coffee blends & pastries,
-214,Yu’s Cafe,4.4(32) · $,57 Walter U Lum Pl,Open ⋅ Closes 10 PM,Closes soon ⋅ 3 PM ⋅ Opens 9 AM Fri
+name,rating,address,description,openclose
+901 Columbus,4.3(278) · $,901 Columbus Ave,Casual cafe with a daily happy hour,Open ⋅ Closes 8 PM
+Abanico Coffee Roasters,4.8(141) · $,2121 Mission St,Easygoing cafe for Latin American drinks,Open ⋅ Closes 4 PM
+Alamo Square Cafe,4.5(227) · $$,711 Fillmore St,Small coffeehouse with free WiFi,Open ⋅ Closes 4 PM
+Alfred at the LINE SF,4.2(17),33 Turk St,Open ⋅ Closes 1:30 PM,
+All Star Cafe,4.3(116),1306 Mission St,Open ⋅ Closes 5:45 PM,
+All Star Cafe,4.1(261) · $,1500 Market St,Compact cafe for Asian fare & donuts,Open 24 hours
+Andytown Coffee Roasters,4.6(189) · $$,181 Fremont Street Park Level Fremont St,Open ⋅ Closes 4 PM,
+Andytown Coffee Roasters,4.5(376) · $,3629 Taraval St,Snug coffee shop for espresso & pastries,Open ⋅ Closes 3 PM · (415) 571-8052
+Andytown Coffee Roasters,4.6(978) · $,3655 Lawton St,Snug coffee shop for espresso & pastries,Open ⋅ Closes 5 PM
+Angel Cafe & Deli,4.6(234) · $,700 Geary St,Simple locale for breakfast & lunch fare,Open ⋅ Closes 2 PM
+Another Cafe,4.4(458) · $,1191 Pine St,Airy spot for coffee & panini sandwiches,Open ⋅ Closes 8 PM
+Atlas Cafe,4.4(762) · $,3049 20th St,Coffee shop with unique sandwiches,Open ⋅ Closes 6 PM
+Avenues San Francisco,4.6(59) · $,3606 Taraval St,Surf-themed coffee stop with small bites,Open ⋅ Closes 3 PM · (415) 702-9198
+Ballast Coffee,4.6(224) · $$,329 W Portal Ave,Bright coffeehouse with patio seats,Open ⋅ Closes 5 PM
+Barbary Coast Pastry and Coffee,4.1(121) · $,55 Cyril Magnin St,"Snug cafe for java, pastries & donuts",Open ⋅ Closes 5 PM
+Bazaar Café,4.6(265) · $,5927 California St,"Drinks, live music & global chow",Open ⋅ Closes 2:30 PM · (415) 831-5620
+Beacon Coffee & Pantry,4.3(404) · $$,805 Columbus Ave,Artisanal coffee shop & specialty market,Open ⋅ Closes 2 PM
+Bean Bag Cafe,4.5(831) · $,601 Divisadero St,"Coffee & light eats, sidewalk seating",Open ⋅ Closes 9 PM
+Beanery,4.5(195) · $,1307 9th Ave,Open ⋅ Closes 6 PM · (415) 661-1255,
+Beanstalk Cafe,4.6(139) · $$,4555 California St,Light bites in a mellow environment,
+BeanStalk Cafe,4.5(602) · $,724 Bush St,Intimate spot for coffee & global bites,Open ⋅ Closes 2:30 PM
+Bernie's,4.6(190) · $,3966 24th St,Coffee & pastries in Victorian building,Open ⋅ Closes 2 PM
+Biscoff Coffee Corner,4.3(731) · $$,213 Pier 39,Snug cafe with pastries & smoothies,Open ⋅ Closes 10 PM
+Blue Bottle Coffee,4.3(696) · $$,"1 Ferry Building, 7",Hip cafe for gourmet coffee & pastries,Open ⋅ Closes 6:30 PM
+Blue Bottle Coffee,"4.5(1,171) · $$",115 Sansome St,Hip cafe for gourmet pastries & coffee,Open ⋅ Closes 5 PM
+Blue Bottle Coffee,4.5(87) · $$,1385 4th St,Hip cafe for gourmet coffee & pastries,Open ⋅ Closes 5 PM
+Blue Bottle Coffee,4.5(264) · $$,168 2nd St,Hip cafe chain for coffee & pastries,Open ⋅ Closes 5 PM
+Blue Bottle Coffee,4.3(202) · $$,199 Sutter St,Hip cafe for gourmet coffee & pastries,Open ⋅ Closes 5:30 PM
+Blue Bottle Coffee,4.5(695) · $$,2 S Park St,Hip cafe for gourmet coffee & pastries,Open ⋅ Closes 5 PM
+Blue Bottle Coffee,4.4(554) · $$,2453 Fillmore St,Hip cafe for gourmet coffee & pastries,Open ⋅ Closes 7 PM
+Blue Bottle Coffee,4.7(10) · $$,250 Howard St Suite 3A,Hip cafe for gourmet coffee & pastries,Closes soon ⋅ 2:30 PM ⋅ Opens 7 AM Fri
+Blue Bottle Coffee,4.6(804) · $$,315 Linden St,Hip cafe for gourmet coffee & pastries,Open ⋅ Closes 6:30 PM
+Blue Bottle Coffee,4.2(34) · $$,55 S Van Ness Ave,Hip cafe for gourmet coffee & pastries,Open ⋅ Closes 5 PM · (510) 653-3394
+Blue Bottle Coffee,4.3(203) · $$,705 Market St,Hip cafe for gourmet coffee & pastries,Open ⋅ Closes 5 PM · (510) 653-3394
+Blue Bottle Coffee,4.1(120) · $$,909 Montgomery St # 105,Hip cafe for gourmet coffee & pastries,Open ⋅ Closes 5 PM
+Blue Danube Coffee House,4.2(338) · $$,306 Clement St,Artsy neighborhood cafe,Open ⋅ Closes 7 PM
+Bluestone Lane Front Street Coffee Shop,4.3(134) · $$,227 Front St,Open ⋅ Closes 4 PM,
+Bluestone Lane SOMA Coffee Shop,4.3(79) · $$,55 2nd St,Open ⋅ Closes 3 PM,
+Bluestone Lane Theatre District Coffee Shop,4.1(108) · $$,562 Sutter St,Open ⋅ Closes 2 PM,
+Bluestone Lane Union Square Coffee Shop,4.2(348) · $$,685 Market St,Airy spot for coffee & all-day eats,Open ⋅ Closes 2 PM
+Cafe 22,5.0(1),325 Mason St,Open ⋅ Closes 6 PM,
+Cafe 450,3.4(5),450 Golden Gate Ave,,
+Cafe 5,3.9(46),151 3rd St,Open ⋅ Closes 4:30 PM,
+Cafe Bean,4.3(103) · $,800 Sutter St,Cozy spot for espresso & light fare,Open ⋅ Closes 5 PM
+Cafe Cafe San Francisco Coffee Company,0.0(0),388 9th St,Open ⋅ Closes 2 PM,
+Cafe de Casa,4.7(919) · $,2701 Leavenworth St,"Brazilian coffee, pastry & lunch shop",Open ⋅ Closes 2 PM
+Cafe de Casa,4.6(396),3985 17th St,Brazilian bites & coffee in a cozy space,Open ⋅ Closes 7 PM
+Cafe Destijl,4.3(52) · $$,1 Union St,Temporarily closed,
+Cafe Du Soleil,4.7(164),345 3rd St,Quaint French cafe & brunch spot,Open ⋅ Closes 3 PM
+Cafe Encore,4.2(142) · $$,488 Post St,Open ⋅ Closes 7 PM,
+Cafe Francisco,4.4(445) · $,2161 Powell St,Mediterranean & American eats plus art,Closed ⋅ Opens 9 AM Wed
+Cafe Franco,4.8(45),240 Funston Rd,Open ⋅ Closes 3 PM,
+Cafe International,4.5(406) · $,508 Haight St,Hybrid coffeehouse & live music hangout,Open ⋅ Closes 4:30 PM
+Cafe Isabella,4.6(190) · $,1414 Taylor St,Cozy coffee shop & breakfast spot,Closed ⋅ Opens 8:30 AM Wed
+Cafe La Flore Irving,4.6(305) · $,1340 Irving St,Light cafe fare & coffee in chill digs,Open ⋅ Closes 6 PM · (415) 524-5203
+Cafe La Taza,4.4(763) · $$,2475 Mission St,Laid-back hangout for cafe fare,Open ⋅ Closes 2:30 PM
+Cafe La Tazita,4.3(435),470 Post St,No-frills breakfast & lunch venue,Open ⋅ Closes 2:30 PM
+Cafe Le,4.7(73),2895 Van Ness Ave,Open ⋅ Closes 2:30 PM,
+Cafe Me,4.6(134) · $,500 Washington St,Daytime stop for coffee & sandwiches,Closed ⋅ Opens 5:30 AM Fri
+Cafe Murano,4.3(93) · $,1777 Steiner St,Cozy coffee bar with outdoor seating,Open ⋅ Closes 1:30 PM
+Cafe New Honolulu,3.8(186) · $,888 Stockton St,Cash-only Chinese restaurant & bakery,Open ⋅ Closes 7:30 PM
+Cafe Pacific Plaza,4.8(101) · $,1338 Franklin St,Open ⋅ Closes 3:30 PM,
+Cafe Réveille,4.1(163),1998 Polk St,Open ⋅ Closes 7:30 PM,
+Cafe Réveille,4.5(515) · $$,201 Steiner St,Modern cafe with New American fare,Open ⋅ Closes 7:30 PM
+Cafe Réveille,4.4(730) · $$,610 Long Bridge Street,Coffee & brunch in stylish surrounds,Open ⋅ Closes 5 PM
+Cafe Reverie,4.4(408) · $$,848 Cole St,Cozy coffeehouse with a garden patio,Open ⋅ Closes 8 PM
+Cafe Suspiro,4.8(169) · $,1246 Folsom St,"Hip, scooter-themed espresso bar",Open ⋅ Closes 4 PM
+Cafe Valencia,4.5(159),1252 Valencia St,Local market for Brazilian groceries,Open ⋅ Closes 6 PM
+Cafecito,4.7(112) · $,406 Ellis St,Colorful cafe for sandwiches & coffee,Open ⋅ Closes 6 PM
+Caffe Bianco,4.6(165) · $,39 Sutter St,Classic coffee shop with sandwiches,Open ⋅ Closes 2:30 PM
+Caffe Capriccio,4.6(233) · $,2200 Mason St,Relaxed spot for sandwiches & salads,Open ⋅ Closes 4 PM
+Caffe Central,4.3(657) · $$,133 O'Farrell St,Gourmet roasts in a cool coffee shop,Open ⋅ Closes 6 PM
+Caffe Greco,"4.5(1,196) · $$",423 Columbus Ave,Espresso drinks & Italian sweets,Open ⋅ Closes 10 PM
+Caffe Moda,4.2(107) · $,160 7th St,Casual spot for breakfast & lunch,Open ⋅ Closes 2 PM
+Caffe Trieste,"4.5(1,334) · $",601 Vallejo St.,Historic spot for coffee & live music,Open ⋅ Closes 10 PM
+Capital One Café,4.3(194) · $,101 Post St,Modern coffeehouse with free WiFi,Open ⋅ Closes 6 PM
+Castro Coffee Company,4.6(234) · $,427 Castro St,Shop with wide selection of beans & teas,Open ⋅ Closes 8 PM
+Cavalli Cafe,4.5(263) · $,1441 Stockton St,Espresso bar with Italian treats & music,Open ⋅ Closes 11 PM
+Central Coffee Tea & Spice,4.6(154) · $,1696 Hayes St,Neighborhood coffee shop with cafe fare,Open ⋅ Closes 2 PM
+Chuck Williams Cafe,5.0(1),1101 Van Ness Ave,Open ⋅ Closes 6 PM,
+Church Street Cafe,4.2(222) · $,260 Church St,Coffee & WiFi in an exposed-brick space,Open ⋅ Closes 5 PM
+Coffee Bar Montgomery,4.5(115) · $,101 Montgomery St,Locally roasted coffee & cafe fare,Closes soon ⋅ 12 PM ⋅ Opens 7 AM Tue
+Coffee Bar-Kearny,5.0(19),433 Kearny St,Casual cafe with carefully sourced beans,Closes soon ⋅ 12 PM ⋅ Opens 7 AM Tue
+Coffee Bodega Farm-to-Table,4.7(212),1 California St,Open ⋅ Closes 5 PM,
+Coffee Cultures,5.0(12),655 Montgomery St,Closed ⋅ Opens 7 AM Fri,
+Coffee Outthere,4.9(7),1644 Haight St,Closed ⋅ Opens 1 PM,
+Coffee Roastery,4.4(358) · $,2331 Chestnut St,Old-school hangout with baked goods,Open ⋅ Closes 2 PM · (415) 931-5282
+Coffee To The People,4.3(518) · $,1206 Masonic Ave,Indie coffee shop,Open ⋅ Closes 6 PM
+CoffeeShop,4.8(144),2761 21st St,"Espresso, tea, pastries & sidewalk seats",Open ⋅ Closes 5 PM
+CoffeeShop,4.7(233) · $,3139 Mission St,Locally roasted beans & sweet treats,Open ⋅ Closes 4 PM
+CoffeeSmith,4.7(40),401 Golden Gate Ave,Open ⋅ Closes 2:30 PM,
+Coit Tower Cafe,3.7(9),Coit Tower,Open ⋅ Closes 6 PM,
+Compton’s Coffee House,4.8(172),1910 Fillmore St,Open ⋅ Closes 5 PM,
+Cozy Cafe,4.7(127) · $,965 Sutter St C,Open ⋅ Closes 2 PM,
+Cumaica  Artesanos del Cafe,4.4(277) · $,1398 Mission St,Caffeine cafe with creative drinks,Open ⋅ Closes 2 PM
+Cup A Joe Coffeehouse,4.3(354) · $,896 Sutter St,Laid-back neighborhood coffee shop,Open ⋅ Closes 7 PM
+Daily Habit,4.9(13),1 Maritime Plz,Closed ⋅ Opens 6 AM Fri,
+Darren's Café,4.5(703) · $$,2731 Taylor St,Asian/American breakfast & lunch eats,Open ⋅ Closes 1:30 PM
+de Young Café,3.9(122),50 Hagiwara Tea Garden Dr,Art-inspired items in a historic center,Closed ⋅ Opens 9:30 AM Tue
+Delah Coffee,4.8(487) · $,370 4th St,Open ⋅ Closes 11 PM · (415) 377-2444,
+Dolores Park Cafe,4.2(752) · $$,501 Dolores St,Organic eats & sunny parkside hangout,Open ⋅ Closes 5 PM
+Duboce Park Cafe,4.3(871) · $$,2 Sanchez St,Coffee shop with organic eats,Open ⋅ Closes 5 PM
+Dynamo Donut + Coffee,4.3(123) · $,110 Yacht Rd,Walk-up spot for inventive baked treats,Closed ⋅ Opens 8 AM Wed · (415) 920-1978
+EA Cafe,4.8(66) · $$,735 3rd St,To-go spot for poke bowls & ice cream,Open ⋅ Closes 8 PM
+Earth's Coffee,4.7(91) · $,3400 Geary Blvd,Coffee/tea cafe with sandwiches & snacks,Open ⋅ Closes 3 PM · (415) 933-8628
+El Cafetazo,4.0(121) · $,3087 16th St,Coffee shop & juice bar,Open ⋅ Closes 3 PM
+Enter The Cafe,4.4(106) · $,1401 Powell St,Bright corner coffee shop with ice cream,Open ⋅ Closes 7 PM
+Equator Coffees,3.8(311) · $,Golden Gate Brg,"Hip spot for coffee, tea & light eats",Open ⋅ Closes 6 PM
+Excelsior Coffee,4.7(189),4495 Mission St,Pint-sized coffee shop with pastries,Open ⋅ Closes 4 PM · (415) 347-7333
+Farley's Coffeehouse,4.6(571) · $,1315 18th St,Contemporary cafe for baked fare & lunch,Open ⋅ Closes 6 PM
+Fayes,4.5(109) · $,3614 18th St,Open ⋅ Closes 3 PM,
+fifty fifty,4.5(278) · $,3157 Geary Blvd,Simple cafe with local coffee & pastries,Open ⋅ Closes 4 PM · (415) 684-8886
+Fillmore Street Cafe,4.2(151) · $,1301 Fillmore St,Casual cafe for deli sandwiches & salads,Open ⋅ Closes 9 PM
+First Cup Café,4.4(52),2911 Van Ness Ave,Open ⋅ Closes 4 PM,
+Flywheel Coffee Roasters,4.5(963),672 Stanyan St,Minimalist spot for hand-roasted java,Open ⋅ Closes 6 PM
+Foghorn Coffee,3.8(30),900 North Point St Suite E204B,Open ⋅ Closes 7 PM,
+Foundation Cafe,4.5(160) · $$,335 Kearny St,Quick stop for sustainable American eats,Open ⋅ Closes 3 PM
+Four Barrel Coffee,"4.5(2,400) · $$",375 Valencia St,Sophisticated drip coffee drinks & more,Open ⋅ Closes 5 PM
+Fresh Brew Coffee,4.8(494) · $,882 Bush St,"Cozy, American-Vietnamese sandwich spot",Closes soon ⋅ 3 PM ⋅ Opens 7 AM Fri
+FRONT EXHIBITS & CAFE,4.7(30),498 Alabama St,Open ⋅ Closes 3 PM,
+Fueling Station Cafe,4.6(215) · $,2436 Polk St,"Cafe for banh mi, waffles & coffee",Open ⋅ Closes 5 PM
+Garage Cafe,4.4(18) · $,320 11th St,Open ⋅ Closes 10 PM,
+Goody Cafe,4.4(76),Landmark Building C 2 Marina Blvd,Open ⋅ Closes 5 PM,
+Graffeo Coffee Roasting Co.,4.7(70),735 Columbus Ave,Coffeehouse with signature roasts,Open ⋅ Closes 5 PM · (800) 222-6250
+Grand Coffee,4.7(159) · $,2663 Mission St,"Locally sourced coffee, tea & pastries",Open ⋅ Closes 5 PM
+Grand Coffee Too,4.8(56),2544 Mission St,Open ⋅ Closes 5 PM,
+Grand Parade Coffee,4.7(12),1390 Market St #200,Open ⋅ Closes 5 PM · (510) 730-0447,
+Haus Coffee,4.4(484) · $$,3086 24th St,Coffee & light bites in a simple setting,Open ⋅ Closes 3 PM
+Hazie's,4.3(99),501 Hayes St,Closed ⋅ Opens 11:30 AM Tue,
+Hedge Coffee,4.8(82),434 Shotwell St,,
+Henry's House of Coffee,4.6(406) · $,1618 Noriega St,Area stalwart with hand-roasted beans,Open ⋅ Closes 5 PM
+Hermanos Coffee + Juice,4.7(26),650 California St,Temporarily closed,
+Hideaway Cafe,4.7(182),Laundry · 850 Jones St,Closed ⋅ Opens 8 AM Fri,
+Higher Grounds Coffee House,4.6(275) · $$,691 Chenery St,Chill cafe with a neighborhood vibe,Closed ⋅ Opens 8 AM Tue
+HITW Coffee,4.7(198) · $,524 Union St,Open ⋅ Closes 4 PM,
+Hollywood Cafe,"4.5(2,160) · $$",530 North Point St,Cinema-themed cafe,Open ⋅ Closes 2 PM
+Home Coffee Roasters,4.6(554) · $$,1222 Noriega St,Modern space for creative lattes & toast,Open ⋅ Closes 4 PM · (415) 683-5943
+Home Coffee Roasters,4.6(440) · $$,2018 Clement St,Modern hangout for coffee & lights bites,Open ⋅ Closes 4 PM · (415) 702-9244
+Home Coffee Roasters,4.7(350) · $,455 Grant Ave,Open ⋅ Closes 4 PM,
+Honey Honey Cafe & Crepery,"4.3(3,423) · $$",599 Post St,Sweet & savory crêpe specialist,Open ⋅ Closes 3 PM
+Hyatt Coffee Bar,3.7(32),345 Stockton St,Modern hotel lobby cafe with free Wi-Fi,Closes soon ⋅ 1 PM ⋅ Opens 6:30 AM Tue · (415) 398-1234
+Hyatt Regency Cafe,5.0(4),Hyatt Regency San Francisco 5 Embarcadero Ctr,,
+Il Canto Cafe,4.7(290) · $,475 Sacramento St,Mellow option with coffee & light fare,Open ⋅ Closes 4 PM
+Ilana Coffee,4.6(160) · $,2314 Clement St,"Vietnamese fare, espresso & bubble tea",Open ⋅ Closes 5 PM · (415) 387-2313
+Iron Horse Coffee Shop,4.5(108) · $,25 Maiden Ln,"Snug, modern coffee shop",Open ⋅ Closes 2:30 PM
+Jackson Place Café,4.6(76) · $,633 Battery St,Breakfast & lunch kiosk with a courtyard,Open ⋅ Closes 2:30 PM
+Jane on Fillmore,4.2(823) · $$,2123 Fillmore St,Modern coffee shop with in-house bakery,Open ⋅ Closes 4 PM
+Jane on Larkin,4.4(635) · $$,925 Larkin St,"Hip cafe with sandwiches, coffee & more",Open ⋅ Closes 4 PM
+Java Beach At The Zoo,4.4(607) · $,2650 Sloat Blvd,Independent cafe with outdoor seating,Open ⋅ Closes 5 PM · (415) 731-2965
+Java Beach Cafe,"4.4(1,424) · $$",1396 La Playa St,Coffeehouse a few steps from the beach,Open ⋅ Closes 5 PM · (415) 665-5282
+Java Supreme,4.5(108) · $,703 Guerrero St,"Low-key, daytime cafe & sandwich shop",Open ⋅ Closes 2 PM
+Javalencia,4.3(73),1594 Market St,Closes soon ⋅ 3 PM ⋅ Opens 8 AM Fri,
+Joe's Coffee Shop,4.4(147) · $,6134 Geary Blvd,Cash-only mainstay for daytime dishes,Open ⋅ Closes 3 PM
+Joy's Place,4.3(395) · $,611 Post St,Cozy coffee shop with Asian desserts,Open ⋅ Closes 8 PM
+Karma Cafe,4.5(117) · $$,1901 Hayes St,Open ⋅ Closes 3 PM,
+La Boulangerie de San Francisco,4.2(809) · $$,500 Hayes St,Cafe chain with American & French fare,Open ⋅ Closes 5 PM
+La Promenade Café,4.5(431) · $,3643 Balboa St,"Airy space for coffee, bagels & lunch",Open ⋅ Closes 5 PM
+Lady Falcon Coffee Club,4.3(89),Park,Vintage coffee truck for espresso drinks,Closed ⋅ Opens 9 AM Thu
+Lafayette Coffee Shop,4.2(206) · $,611 Larkin St,Open ⋅ Closes 9 PM,
+Le Cafe du Soleil,4.5(544) · $,400 Waller St,French bistro with sidewalk seating,Open ⋅ Closes 5 PM
+Le Petit Cafe,4.3(8) · $,1 Maritime Plz # Grnd,Counter serve for breakfast & lunch fare,Open ⋅ Closes 5 PM
+Linea Caffe,4.5(334) · $$,3417 18th St,Snug cafe offering organic coffees,Open ⋅ Closes 2 PM
+Linea Coffee Roasting + Caffe,4.6(161),1125 Mariposa St,Open ⋅ Closes 4 PM,
+Maggie's Cafe,3.1(104),848 Grant Ave,Open ⋅ Closes 4 PM,Closes soon ⋅ 2 PM ⋅ Opens 7 AM Fri
+Martha & Brothers Coffee Company,4.5(297) · $,3868 24th St,Low-key stop for coffee & baked goods,Open ⋅ Closes 7:30 PM
+Matching Half,4.5(383) · $$,1799 McAllister St,Arty coffee shop with light fare,Open ⋅ Closes 3 PM
+Maxfield's House of Caffeine,4.2(274) · $,398 Dolores St,Neighborhood joint for coffee & pastries,Open ⋅ Closes 2 PM
+Mazarine Coffee,"4.5(1,520) · $$",720 Market St,Stylish cafe for espresso & light bites,Open ⋅ Closes 3 PM
+Mercury Cafe,4.4(314) · $$,201 Octavia St,Light-filled space with an organic menu,Open ⋅ Closes 3 PM
+Milk-SF,4.7(76),302 Valencia St,Closed ⋅ Opens 9 AM Tue,
+Mission Blue,5.0(149),144 Leland Ave,Modern retail shop for coffee & pastries,Open ⋅ Closes 3 PM
+Mo'z Cafe,"4.2(1,173) · $$",36 5th St,Neighborhood cafe known for breakfast,Open ⋅ Closes 2 PM
+Moka Coffee,4.0(141) · $,1605 Polk St,Local coffeehouse with pastries & WiFi,Open ⋅ Closes 3 PM
+Morning Brew Coffee & Tea,3.6(20) · $$,401 Sansome St,Unassuming stop for banh mi & espresso,Open ⋅ Closes 3 PM
+Muddy Waters Coffee House,4.1(292) · $,521 Valencia St,No-frills coffee shop,Open ⋅ Closes 3 PM
+Müesi Cafe,4.5(124),2055 Union St Suite B,Open ⋅ Closes 5:30 PM,
+Mymy,"4.5(1,620) · $$",1500 California St,Bright corner spot for big breakfasts,Open ⋅ Closes 2 PM
+Neighbor's Corner,4.7(300) · $,499 Douglass St,Modern corner coffee shop with pastries,Open ⋅ Closes 3 PM
+Nina's Cafe,4.3(18),201 Fell St,Corner deli & coffee shop,Open ⋅ Closes 3 PM
+Noe Cafe,4.7(281),1299 Sanchez St,Intimate spot for coffee & snacks,Open ⋅ Closes 6 PM
+Not Latte,4.6(44),2142 Irving St,Open ⋅ Closes 5 PM · (415) 702-6326,
+Pat's Cafe,"4.5(1,334) · $$",2330 Taylor St,American eatery with a laid-back brunch,Open ⋅ Closes 2 PM
+Peet's Coffee,4.3(466) · $,1400 Mission St Suite 130,Coffeehouse chain also known for its tea,Open ⋅ Closes 4 PM
+Peet's Coffee,3.8(24) · $,155 Montgomery St #161,Coffeehouse chain also known for its tea,Open ⋅ Closes 6 PM
+Peet's Coffee,4.2(228) · $,160 Jefferson St,Coffeehouse chain also known for its tea,Open ⋅ Closes 9 PM
+Peet's Coffee,4.3(364) · $,2257 Market St,Coffeehouse chain also known for its tea,Open ⋅ Closes 7 PM
+Peet's Coffee,4.3(433) · $,2300 16th St #240,Coffeehouse chain also known for its tea,Open ⋅ Closes 7 PM
+Peet's Coffee,4.4(142) · $,310 Broderick St,Coffeehouse chain also known for its tea,Open ⋅ Closes 6 PM
+Peet's Coffee,4.4(245) · $,3419 California St,Coffeehouse chain also known for its tea,Open ⋅ Closes 7 PM
+Peet's Coffee,4.3(215) · $,54 W Portal Ave,Coffeehouse chain also known for its tea,Open ⋅ Closes 7 PM · (415) 731-0375
+Peet's Coffee,4.2(153) · $,595 Market St Suite 143,Coffeehouse chain also known for its tea,Open ⋅ Closes 4 PM
+Peet's Coffee,4.2(352) · $,601 Van Ness Ave,Coffeehouse chain also known for its tea,Open ⋅ Closes 6 PM
+Peet's Coffee,4.4(182) · $,625 8th St,Coffeehouse chain also known for its tea,Open ⋅ Closes 6 PM
+Peet's Coffee,4.2(713) · $,773 Market St,Coffeehouse chain also known for its tea,Open ⋅ Closes 7 PM
+Peet's Coffee,4.3(145) · $,Two Embarcadero Center,Coffeehouse chain also known for its tea,Open ⋅ Closes 5 PM
+Philz Coffee,"4.5(1,227) · $$",1 Front St #100,Custom-blended java in a casual setting,Open ⋅ Closes 5 PM
+Philz Coffee,4.4(524) · $$,1110 Ocean Ave,Custom-blended java in a casual setting,Open ⋅ Closes 5 PM · (415) 841-1178
+Philz Coffee,4.6(521) · $$,1775 17th St,Custom-blended java in a casual setting,Open ⋅ Closes 4:30 PM
+Philz Coffee,4.5(919) · $$,201 Berry St,Custom-blended java in a casual setting,Open ⋅ Closes 5 PM
+Philz Coffee,4.6(877) · $$,300 Folsom St,Custom-blended java in a casual setting,Open ⋅ Closes 5 PM · (415) 230-6359
+Philz Coffee,"4.6(1,365) · $$",3101 24th St,Custom-blended java in a casual setting,Open ⋅ Closes 5 PM
+Philz Coffee,4.4(616) · $$,399 Golden Gate Ave,Custom-blended java in a casual setting,Open ⋅ Closes 5 PM
+Philz Coffee,4.0(42) · $$,425 Mission St Suite 100,Funky venue for Oakland-roasted coffee,Open ⋅ Closes 4 PM
+Philz Coffee,4.5(433) · $$,4298 24th St,Custom-blended java in a casual setting,Open ⋅ Closes 5 PM
+Philz Coffee,"4.5(1,137) · $$",5 Embarcadero Ctr,Custom-blended java in a casual setting,Open ⋅ Closes 6 PM
+Philz Coffee,4.5(921) · $$,549 Castro St,Custom-blended java in a casual setting,Open ⋅ Closes 6 PM
+Piccino Coffee Bar & Bakery,4.4(139),845 22nd St,Open ⋅ Closes 5:30 PM,
+Pinhole Coffee,4.7(486) · $$,231 Cortland Ave,Storefront coffeehouse with pastry,Open ⋅ Closes 5:30 PM
+Planet Cafe,4.7(45) · $,244 Gough St,Revamped American cafe for casual bites,Open ⋅ Closes 2 PM
+Precita Park Cafe & Grill,4.3(626) · $$,500 Precita Ave,"Fresh, local ingredients & a varied menu",Open ⋅ Closes 5 PM
+Progressive Grounds,4.5(385) · $,400 Cortland Ave,Coffeehouse with ice cream & patio,Open ⋅ Closes 6 PM
+Radiator coffee salon,3.7(18),299 2nd St,Closed ⋅ Opens 6 AM Fri,Closes soon ⋅ 2 PM ⋅ Opens 7:30 AM Fri
+Red Bay Coffee,0.0(0),650 California St,Temporarily closed,
+Red Bay Coffee Ferry Building,4.1(175),"1, Ferry Building, Shop 43",Open ⋅ Closes 6 PM,
+Red Door Coffee,4.3(185) · $$,111 Minna St,Temporarily closed · (415) 974-1719,
+Réveille Coffee Co.,4.3(743) · $$,200 Columbus Ave,Modern cafe with New American fare,Open ⋅ Closes 4 PM
+Réveille Coffee Co.,3.8(4),768 Sansome St,Temporarily closed,
+Rise & Grind Coffee and Tea,4.5(376) · $,785 8th Ave,"Modern cafe for coffee, tea & pastries",Open ⋅ Closes 5 PM
+Ritual Coffee Roasters,"4.3(1,520) · $$",1026 Valencia St,Coffeehouse using small-farm beans,Open ⋅ Closes 7 PM
+Ritual Coffee Roasters,4.4(443) · $$,1300 Haight St,Coffeehouse using small-farm beans,Open ⋅ Closes 6 PM
+Ritual Coffee Roasters,4.5(457) · $$,432b Octavia St,Coffeehouse using small-farm beans,Open ⋅ Closes 6 PM
+Robin's Café,4.6(176) · $$,3153 17th St #1332,Bright coffee shop with light fare,Open ⋅ Closes 4 PM
+Rose's Cafe,4.4(834) · $$,2298 Union St,Relaxed Italian cafe with a terrace,Open ⋅ Closes 9 PM
+Royal Ground Coffee,4.5(225) · $,2216 Polk St,Coffee shop with beer & snacks,Open ⋅ Closes 6 PM
+Royal Ground Coffee,4.7(183) · $,2342 Clement St,Coffee shop with beer & snacks,Open ⋅ Closes 5 PM · (415) 387-5282
+Royal Ground Coffee,4.2(115) · $,5301 Geary Blvd,Corner coffee shop with beer & snacks,Open ⋅ Closes 5 PM · (415) 635-0620
+Saint Frank Coffee,"4.5(1,062) · $$",2340 Polk St,Bright & spacious local coffeehouse,Open ⋅ Closes 6 PM
+Sammie Cafe,5.0(4),881 Post Street,Closed ⋅ Opens 8 AM Fri,Open ⋅ Closes 9 PM
+Sammy's Cafe,4.6(128) · $,1416 Bush St,Homey breakfast & sandwich establishment,Open ⋅ Closes 6 PM
+San Francisco Coffee Company,4.7(12),70 13th St,Open ⋅ Closes 5 PM,
+San Francisco Coffee Roasting Company,4.5(388) · $,1192 North Highland Avenue Northeast,House-roasted coffee & fresh pastries,Open ⋅ Closes 5 PM · (404) 876-8816
+San Francisco Coffee Roasting Company,4.4(274) · $,1660 DeKalb Ave NE # 100,High-quality coffees & light fare,Closed ⋅ Opens 7 AM Tue · (404) 377-2588
+Sana’a cafe,4.9(99),199 New Montgomery St,Open ⋅ Closes 10 PM · (415) 932-6935,
+Schilling & Co Cafe,4.6(48) · $$,667 Commercial St,Closed ⋅ Opens 8 AM Fri,
+Scullery,4.7(350) · $,687 Geary St,"Tiny, artsy cafe for coffee & pastries",Open ⋅ Closes 2 PM
+Scullery,4.7(345) · $,687 Geary St,"Tiny, artsy cafe for coffee & pastries",
+Seismic Joint,2.8(22),"Pier 15, 698 The Embarcadero",Museum cafe with coffee & sweet treats,
+Sextant Coffee Roasters,4.5(604) · $$,1415 Folsom St,Coffeehouse with exposed brick & beams,Open ⋅ Closes 4 PM
+Sightglass Coffee,"4.5(2,850) · $$",270 7th St,Espresso drinks & coffee roasted on-site,Open ⋅ Closes 5 PM
+Sightglass Coffee,4.4(476) · $$,301 Divisadero St,Espresso drinks & coffee roasted on-site,Open ⋅ Closes 5 PM
+Sightglass Coffee,4.5(608) · $$,3014 20th St,Espresso drinks & coffee roasted on-site,Open ⋅ Closes 5 PM
+Silverstone Cafe,4.4(90) · $,3278 24th St #3926,Open ⋅ Closes 6 PM,
+Simple Pleasures Cafe,4.6(439) · $,3434 Balboa St,Neighborhood coffee fixture since 1974,Open ⋅ Closes 9 PM · (415) 387-4022
+Sisters Coffee Shop,4.1(98),920 Valencia St,Open ⋅ Closes 5 PM,
+Snowbird Coffee,4.5(463) · $$,1352 9th Ave A,Open ⋅ Closes 1 PM,
+South Beach Cafe,4.2(345) · $,800 The Embarcadero,Coffee shop & pizzeria,Open ⋅ Closes 8:30 PM
+Souvenir Coffee,4.7(68),1415 Larkin St,Open ⋅ Closes 4 PM,
+Souvenir Coffee,4.7(71),262 Divisadero St,Open ⋅ Closes 5 PM,
+Spike's Coffees and Teas,4.6(269) · $,4117 19th St,Eco-friendly cafe,Open ⋅ Closes 5 PM
+SPRO - Golden Gate   Polk,4.5(25),525 Golden Gate Ave,Open ⋅ Closes 5 PM,
+SPRO - Mission Bay SOMA,4.7(267) · $$,601 Mission Bay Boulevard North,Outdoor stop for coffee drinks & eats,Open ⋅ Closes 4 PM
+SPRO - Mission Dolores Castro,4.7(253),500 Church St,Minimalist cafe brewing craft coffee,Open ⋅ Closes 5 PM
+Stable Cafe,4.6(844) · $$,2128 Folsom St,Coffeehouse in former carriage house,Closed ⋅ Opens 8 AM Tue
+Stanza Coffee Bar,4.2(204) · $,1673 Haight St,Upbeat nook serving espresso & pastries,Open ⋅ Closes 3 PM
+Starbucks,4.2(393) · $$,1 Letterman Dr Building C,Iconic Seattle-based coffeehouse chain,Open ⋅ Closes 6 PM
+Starbucks,4.2(163) · $$,100 1st St,Iconic Seattle-based coffeehouse chain,Open ⋅ Closes 6 PM · (415) 896-5044
+Starbucks,4.0(438) · $$,1560 Van Ness Ave,Iconic Seattle-based coffeehouse chain,Open ⋅ Closes 5:30 PM
+Starbucks,4.2(173) · $$,1700 Owens St,Iconic Seattle-based coffeehouse chain,Open ⋅ Closes 6 PM · (415) 252-7423
+Starbucks,4.5(502) · $$,201 Mission St,Iconic Seattle-based coffeehouse chain,Open ⋅ Closes 6 PM
+Starbucks,4.1(329) · $$,350 Rhode Island St,Iconic Seattle-based coffeehouse chain,Open ⋅ Closes 7 PM · (415) 864-6383
+Starbucks,3.8(243) · $$,359 Grant Ave,Iconic Seattle-based coffeehouse chain,Open ⋅ Closes 6:30 PM · (415) 392-2365
+Starbucks,4.1(881) · $$,3595 California St,Iconic Seattle-based coffeehouse chain,Open ⋅ Closes 10 PM · (415) 387-2249
+Starbucks,4.2(190) · $$,425 Battery St,Iconic Seattle-based coffeehouse chain,Open ⋅ Closes 5 PM
+Starbucks,4.1(446) · $$,49 Jefferson St P,Iconic Seattle-based coffeehouse chain,Open ⋅ Closes 6 PM · (415) 788-0173
+Starbucks,3.7(770) · $$,499 Bay St,Iconic Seattle-based coffeehouse chain,Open ⋅ Closes 6 PM
+Starbucks,3.8(30) · $$,555 California Street B of A,Iconic Seattle-based coffeehouse chain,Open ⋅ Closes 4 PM · (415) 788-8670
+Starbucks,4.1(457) · $$,565 Clay St,Iconic Seattle-based coffeehouse chain,Open ⋅ Closes 5:30 PM
+Starbucks,4.2(205) · $$,580 California St #150,Iconic Seattle-based coffeehouse chain,Open ⋅ Closes 6 PM
+Starbucks,3.8(255) · $$,780 Market St,Iconic Seattle-based coffeehouse chain,Open ⋅ Closes 5:30 PM
+Starbucks,3.8(272) · $$,789 Mission St,Iconic Seattle-based coffeehouse chain,Open ⋅ Closes 5:30 PM
+Starbucks,4.1(495) · $$,865 Market Street San Francisco Centre,Iconic Seattle-based coffeehouse chain,Open ⋅ Closes 7:30 PM
+Starbucks,3.8(193) · $$,99 Jackson St,Iconic Seattle-based coffeehouse chain,Open ⋅ Closes 5 PM
+Starbucks,3.9(481) · $$,"Fox Plaza, 1390 Market St",Iconic Seattle-based coffeehouse chain,Open ⋅ Closes 7 PM
+Starbucks,3.9(365) · $$,"Levi's Plaza, 1255 Battery St",Iconic Seattle-based coffeehouse chain,Open ⋅ Closes 7 PM
+Sutter Street Cafe,4.7(112),450 Sutter St #7,Small sandwich shop with coffee & sweets,Open ⋅ Closes 4 PM
+Sweetheart Cafe,4.2(210) · $,909 Grant Ave,Light Asian bites & sweet treats,Open ⋅ Closes 6 PM
+Tallio's Coffee & Tea,4.7(42) · $,4732 3rd St,Open ⋅ Closes 4 PM,
+Tarragon Cafe,4.6(112),200 Fillmore St,Open ⋅ Closes 5 PM,Open ⋅ Closes 7 PM
+Taylor Street Coffee Shop,"4.6(1,509) · $$",375 Taylor St,Cozy option for breakfast & lunch,Open ⋅ Closes 1 PM
+Telescope Coffee,4.8(135),345 6th St,Casual hub for treats & creative coffees,Open ⋅ Closes 4 PM
+The Brazilian Spot (formerly Cafe Valencia),4.5(162),1252 Valencia St,Local market for Brazilian groceries,Open ⋅ Closes 6 PM
+The Coffee Movement,4.8(738) · $,1030 Washington St,"Snug, minimalist cafe for artisan brews",Open ⋅ Closes 4 PM
+The Crêpe Café,4.2(545) · $$,333 Jefferson St UNIT 5A,Chill spot for sweet & savory crepes,
+The Fresh Cup,4.6(40),798 S Van Ness Ave,Closes soon ⋅ 3 PM ⋅ Opens 7 AM Fri,Open ⋅ Closes 4 PM
+The Grind,4.3(540) · $$,783 Haight St,American breakfasts & burgers,Open ⋅ Closes 4 PM
+The Grove - Yerba Buena,"4.4(3,663) · $$",690 Mission St,Comfort food served in rustic surrounds,Open ⋅ Closes 8:30 PM · (415) 655-9194
+The Law Café,4.7(7),200 McAllister St,Open ⋅ Closes 3 PM,
+The Little Spot Cafe,4.7(113) · $,1199 S Van Ness Ave,Eclectic coffee shop with light bites,Open ⋅ Closes 7 PM
+The Market Cafe,4.2(40),1355 Market St,Open ⋅ Closes 5 PM,
+The Mill,"4.5(1,778) · $$",736 Divisadero St,Airy coffee shop with breads & pastries,Open ⋅ Closes 5 PM
+The Morning Fix,4.6(68) · $,1008 Bush St,"Pit stop for coffee, bagels & sandwiches",Open ⋅ Closes 2 PM · (415) 875-9598
+The Richfield,4.6(179) · $,195 5th Ave,Hip nook for coffee & cafe fare,Closed ⋅ Opens 8 AM Tue
+Tu Kim Coffee Shop,3.8(30),609 Ellis St,Open ⋅ Closes 5 PM,Open ⋅ Closes 5 PM
+Turn Cafe,3.9(86) · $$,7 Powell St,American fare in modern quarters,Open ⋅ Closes 9 PM
+Twisted St. Cafe,4.7(204) · $$,2320 Lombard St,Low-key cafe serving classic fare,Open ⋅ Closes 4 PM
+Unexpected Era Café,4.8(43),614 Polk St,Open ⋅ Closes 2:30 PM,
+Union Square Coffee,3.5(31),350 Powell St,Standard cafe with light fare & wine,Open ⋅ Closes 3 PM
+Urban Ritual Cafe,4.4(359) · $,488 Fell St,Craft tea & coffee shop with snacks,Closed ⋅ Opens 12 PM
+Verve Coffee Roasters,4.4(679) · $$,2101 Market St,Modern coffeehouse with artisanal blends,Open ⋅ Closes 6 PM
+Viva Cafe,4.9(80),601 Montgomery St,Open ⋅ Closes 5 PM,
+Wake Cup,4.5(68) · $$,1476 Haight St,Open ⋅ Closes 4 PM,
+WFM Coffee Bar,3.8(6) · $$,690 Stanyan St,Open ⋅ Closes 8 PM,
+Wooden Coffeehouse,4.6(192),862 Cole St,Open ⋅ Closes 5 PM · (415) 742-4887,
+Wooly Pig,4.7(277) · $,2295 3rd St,Open ⋅ Closes 9 PM · (415) 592-8015,
+Working Girls' Cafe,4.4(76) · $$,101 Mission St,Outpost for breakfast & lunch staples,Open ⋅ Closes 6 PM
+Wrecking Ball Coffee Roasters,4.4(511) · $$,2271 Union St,House-roasted coffee blends & pastries,Open ⋅ Closes 2 PM
+YakiniQ CAFE,4.7(19) · $$,1640 Post St 1st floor,Closed ⋅ Opens 11 AM Tue,
+Yu’s Cafe,4.4(32) · $,57 Walter U Lum Pl,Open ⋅ Closes 10 PM,Closes soon ⋅ 3 PM ⋅ Opens 9 AM Fri
+Z & Y Restaurant,"4.0(2,410) · $$",655 Jackson St,Spicy takes on Chinese favorites,Opens soon ⋅ 11:30 AM

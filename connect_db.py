@@ -52,34 +52,31 @@ def get_data(dir_path):
 
 
 def cafe_table_insert(connection):
-    import uuid
     try:
         if connection.is_connected():
             cursor = connection.cursor()
-            file_path = r"C:\Users\wsx21\Desktop\crawling\data\cafe_list.csv"
+            file_path = "/home/jerry/Desktop/crawling/data/cafe_list.csv"
             df = pd.read_csv(file_path)
-            df_id = df['id']
             df_address = df['address']
             df_place_name = df['name']
             df_rating = df['rating']
             df_overview = df['description']
+            id = 1
             for i in range(len(df_address)):
-                uuid_ = uuid.uuid1()
-                id = df_id[i]
-                address = df_address[i]
                 place_name = df_place_name[i]
+                address = df_address[i]
 
                 index = df_rating[i].find("(")
                 rating = df_rating[i][:index]
 
-                overview = df_overview[i]
-
-                query = ("INSERT INTO cafes "
-                         "(id, uuid, address, place_name, overview,rating) "
-                         f'VALUES ({id}, "{uuid_.hex}","{address}","{place_name}","{overview}",{float(rating)})'
-                         )
-
-                cursor.execute(query)
+                overview = str(df_overview[i])
+                print(id, place_name, address, overview, rating)
+                query = "INSERT INTO cafes (id, place_name, address,overview, rating) " \
+                    "VALUES (%s, %s, %s, %s, %s) "
+                values = (id, place_name, address, overview,
+                          float(rating))
+                id += 1
+                cursor.execute(query, values)
                 connection.commit()
     except Exception as e:
         print("데이터 조회 에러:", e)
@@ -247,9 +244,8 @@ if __name__ == "__main__":
 
     if connection:
         # 데이터 삽입
-        # cafe_table_insert(connection)
+        cafe_table_insert(connection)
         # 데이터 조회
-        # cafe_hashtags_insert(connection=connection)
-        # cafe_reviews_insert(connection)
+        # select_data(connection, "cafes")
         # MySQL 연결 해제
         disconnect_from_mysql(connection)
