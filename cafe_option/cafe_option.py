@@ -10,20 +10,20 @@ import pandas as pd
 
 def chromeWebdriver():
     options = webdriver.ChromeOptions()
-    # options.add_argument('--headless')
-    # options.add_argument('--no-sandbox')
-    # options.add_argument("--disable-gpu")
-    # options.add_argument("--window-size=1280x1696")
-    # options.add_argument("--single-process")
-    # options.add_argument("--disable-dev-shm-usage")
-    # options.add_argument("--disable-dev-tools")
-    # options.add_argument("--no-zygote")
-    # options.add_argument(f"--user-data-dir={mkdtemp()}")
-    # options.add_argument(f"--data-path={mkdtemp()}")
-    # options.add_argument(f"--disk-cache-dir={mkdtemp()}")
-    # options.add_argument("--remote-debugging-port=9222")
+    options.add_argument('--headless')
+    options.add_argument('--no-sandbox')
+    options.add_argument("--disable-gpu")
+    options.add_argument("--window-size=1280x1696")
+    options.add_argument("--single-process")
+    options.add_argument("--disable-dev-shm-usage")
+    options.add_argument("--disable-dev-tools")
+    options.add_argument("--no-zygote")
+    options.add_argument(f"--user-data-dir={mkdtemp()}")
+    options.add_argument(f"--data-path={mkdtemp()}")
+    options.add_argument(f"--disk-cache-dir={mkdtemp()}")
+    options.add_argument("--remote-debugging-port=9222")
     service = Service(
-        executable_path="/home/jerry/Desktop/crawling/chromedriver")
+        executable_path="/usr/src/chrome/chromedriver")
     driver = webdriver.Chrome(service=service,
                               options=options)
 
@@ -33,7 +33,7 @@ def chromeWebdriver():
 def start_search(driver, cafe_info):
     url = "https://www.google.com/maps?hl=en"
     driver.get(url)
-    driver.implicitly_wait(5)
+    time.sleep(2)
     search = driver.find_element(By.CSS_SELECTOR, "#searchboxinput")
     search.clear()
     search.send_keys(cafe_info.get("search"))
@@ -42,7 +42,6 @@ def start_search(driver, cafe_info):
     try:
         cafe_name = driver.find_elements(
             By.CSS_SELECTOR, '.hfpxzc',)
-        print(cafe_name)
         cafe_name[0].click()
     except:
         return get_store_review_data(driver, cafe_info)
@@ -99,7 +98,7 @@ def main():
     connection = connect_db.connect_to_mysql()
     driver = chromeWebdriver()
     search_name = make_query()
-    for i in range(249, len(search_name)):
+    for i in range(len(search_name)):
         print(f"{i} 번째 시작")
         print(search_name[i])
         result, result_cafe_name, result_cafe_addr = start_search(
