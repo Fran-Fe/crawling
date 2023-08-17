@@ -1,23 +1,21 @@
-from tempfile import mkdtemp
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.keys import Keys
 import time
 import pandas as pd
-import boto3
 import connect_db
 
 
 def chromeWebdriver():
     options = webdriver.ChromeOptions()
-    options.binary_location = '/opt/google/chrome/chrome'
+    # options.binary_location = '/opt/google/chrome/chrome'
     options.add_argument('--headless')
     options.add_argument('--no-sandbox')
     options.add_argument("--disable-gpu")
     options.add_argument("--window-size=1280x1696")
     service = Service(
-        executable_path="/home/jerry/Desktop/crawling/photo/chromedriver")
+        executable_path="/usr/src/chrome/chromedriver")
     chrome = webdriver.Chrome(service=service,
                               options=options)
     return chrome
@@ -80,23 +78,6 @@ def start_search(driver, query):
     search.send_keys(Keys.ENTER)
     driver.implicitly_wait(5)
     time.sleep(1)
-
-
-def s3_connection():
-    import key
-    try:
-        # s3 클라이언트 생성
-        s3 = boto3.client(
-            service_name="s3",
-            region_name="us-west-1",
-            aws_access_key_id=key.access_id,
-            aws_secret_access_key=key.secret_key,
-        )
-        print("s3 bucket connected!")
-        return s3
-
-    except Exception as e:
-        print(e)
 
 
 def main():
